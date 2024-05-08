@@ -2,27 +2,43 @@
 
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png", Azteca 1
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/1_.ts
+#EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png", Azteca 1
 http://45.189.148.24:8000/play/a026/index.m3u8
+#EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/2_.ts
 #EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
 http://45.189.148.24:8000/play/a01x/index.m3u8
 #EXTINF:0 type="stream" channelId="3720" , A+
 http://45.189.148.24:8000/play/a01w/index.m3u8
+#EXTINF:0 type="stream" channelId="1954" , Las estrellas
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/5_.ts
 #EXTINF:0 type="stream" channelId="1954" , Las estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" , Las estrellas -1 Hora
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist_1024x576.m3u8
 #EXTINF:0 type="stream" channelId="1954" , Las estrellas -2 Horas
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", Cnco
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/8_.ts
 #EXTINF:0 type="stream" channelId="1955" , Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" ,canal 6
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/3_.ts
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 #EXTINF:0 type="stream" channelId="-1"  logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado_400x400.jpg", TELEFORMULA HD
 http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775856
 #EXTINF:0 type="stream" channelId="3127", Imagen tv
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/151_.ts
+#EXTINF:0 type="stream" channelId="3127", Imagen tv
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/1695
 #EXTINF:0 type="stream" channelId="255", Azteca 7
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/4_.ts
+#EXTINF:0 type="stream" channelId="255", Azteca 7
 http://45.189.148.24:8000/play/a029/index.m3u8
+#EXTINF:0 type="stream" channelId="4651", NU9VE
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/191_.ts
 #EXTINF:0 type="stream" channelId="4651", NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Milenio Televisión
@@ -42,8 +58,14 @@ https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 type="stream" channelId="3209" , Univisión
 http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1164_2_77191.png.a7bf0653083720991223589926890be4.png", Unimas
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/29_.ts
+#EXTINF:0 type="stream" channelId="-1"logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1164_2_77191.png.a7bf0653083720991223589926890be4.png", Unimas
 http://tvstar.icu:8080/Bde9xmsp/3702190582/57969
 
+#EXTINF:0 type="stream" channelId="1967" ,TELEMUNDO
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/7_.ts
+#EXTINF:0 type="stream" channelId="1967" ,TELEMUNDO
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/121_.ts
 #EXTINF:0 type="stream" channelId="1967" ,TELEMUNDO
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
@@ -52,7 +74,11 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_1
 #EXTINF:0 type="stream" channelId="3791", Telemundo puerto rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:0 type="stream" channelId="3779" , Universo
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/31_.ts
+#EXTINF:0 type="stream" channelId="3779" , Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1970" , Galavision
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/33_.ts
 #EXTINF:0 type="stream" channelId="1970" , Galavision
 http://200.115.120.1:8000/play/ca018/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",CNN
@@ -148,16 +174,22 @@ http://45.189.148.24:8000/play/a00q/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://television-libre.online/img/dream.png", DreamWorks HD
 http://200.115.120.1:8000/play/ca005/index.m3u8
 
-
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/138_.ts
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
 http://181.115.69.117:8000/play/a09t/index.m3u8
 #EXTINF:0 type="stream" channelId="1303" , FX
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/144_.ts
+#EXTINF:0 type="stream" channelId="1303" , FX
 http://45.189.148.24:8000/play/a00i/index.m3u8
-
+#EXTINF:0 type="stream" channelId="1052" , TNT
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/163_.ts
 #EXTINF:0 type="stream" channelId="1052" , TNT
 http://45.189.148.24:8000/play/a00g/index.m3u8
 #EXTINF:0 type="stream" channelId="2686" , TNT Series HD
 http://45.189.148.24:8000/play/a00h/index.m3u8
+#EXTINF:0 type="stream" channelId="187" , UNIVERSAL
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/196_.ts
 #EXTINF:0 type="stream" channelId="187" , UNIVERSAL
 http://45.189.148.24:8000/play/a010/index.m3u8
 
@@ -167,13 +199,23 @@ http://181.115.69.117:8000/play/a06k/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://e7.pngegg.com/pngimages/348/152/png-clipart-panico-television-channel-mexico-panic-starry-internet-television-text-thumbnail.png", PANICO HD
 http://200.116.199.180:8000/play/a06z
 #EXTINF:0 type="stream" channelId="2625" , STUDIO UNIVERSAL
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/160_.ts
+#EXTINF:0 type="stream" channelId="2625" , STUDIO UNIVERSAL
 http://45.189.148.24:8000/play/a011/index.m3u8
+#EXTINF:0 type="stream" channelId="383" , SPACE
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/159_.ts
 #EXTINF:0 type="stream" channelId="383" , SPACE
 http://45.189.148.24:8000/play/a00f/index.m3u8
 #EXTINF:0 type="stream" channelId="530" , Sony chanel
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/194_.ts
+#EXTINF:0 type="stream" channelId="530" , Sony chanel
 http://45.189.148.24:8000/play/a00y/index.m3u8
 #EXTINF:0 type="stream" channelId="1214" , Sony movies
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/192_.ts
+#EXTINF:0 type="stream" channelId="1214" , Sony movies
 http://45.189.148.24:8000/play/a00z/index.m3u8
+#EXTINF:0 type="stream" channelId="2557" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_03/large.748362376_WarnerChannel.png.307ec01c3532d8ca6858fb7d2bdd923d.png", WARNER
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/165_.ts
 #EXTINF:0 type="stream" channelId="2557" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_03/large.748362376_WarnerChannel.png.307ec01c3532d8ca6858fb7d2bdd923d.png", WARNER
 http://45.189.148.24:8000/play/a012/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" , AMC
