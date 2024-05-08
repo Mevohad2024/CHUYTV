@@ -1,0 +1,642 @@
+#EXTM3U
+
+
+#EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png", Azteca 1
+http://45.189.148.24:8000/play/a026/index.m3u8
+#EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
+http://45.189.148.24:8000/play/a01x/index.m3u8
+#EXTINF:0 type="stream" channelId="3720" , A+
+http://45.189.148.24:8000/play/a01w/index.m3u8
+#EXTINF:0 type="stream" channelId="1954" , Las estrellas
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0 type="stream" channelId="1954" , Las estrellas -1 Hora
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="1954" , Las estrellas -2 Horas
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="1955" , Canal 5
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:0 type="stream" channelId="328" , Foro Tv
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+#EXTINF:0 type="stream" channelId="-1"  logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado_400x400.jpg", TELEFORMULA HD
+http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775856
+#EXTINF:0 type="stream" channelId="3127", Imagen tv
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/1695
+#EXTINF:0 type="stream" channelId="255", Azteca 7
+http://45.189.148.24:8000/play/a029/index.m3u8
+#EXTINF:0 type="stream" channelId="4651", NU9VE
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Milenio Televisión
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159084
+#EXTINF:0 type="stream" channelId="-1", Excélsior Televisión
+http://45.189.148.24:8000/play/a02b/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MVSTV
+http://alfatv.lat:2082/MStreaming0620/QEy3aGPmQuKq/266205
+#EXTINF:0 type="stream" channelId="-1", Canal22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal Once
+http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775849
+#EXTINF:0 type="stream" channelId="340", TV Mexiquense
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQknkl97yAWmQZUiV9Y355MaPIVgi5LQCupsw&usqp=CAU", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0 type="stream" channelId="3209" , Univisión
+http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1"logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1164_2_77191.png.a7bf0653083720991223589926890be4.png", Unimas
+http://tvstar.icu:8080/Bde9xmsp/3702190582/57969
+
+#EXTINF:0 type="stream" channelId="1967" ,TELEMUNDO
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="1967" , Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_1080.m3u8
+#EXTINF:0 type="stream" channelId="3791", Telemundo puerto rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:0 type="stream" channelId="3779" , Universo
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1970" , Galavision
+http://200.115.120.1:8000/play/ca018/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",CNN
+http://200.115.120.1:8000/play/ca059/index.m3u8
+#EXTINF:0 type="stream" channelId="134", DPELICULA
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="134",De Película Plus
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="895", TCM
+http://200.115.120.1:8000/play/ca047/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",COMEDY CENTRAL
+http://45.189.148.24:8000/play/a009/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",Distrito Comedia
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1", TLNovelas
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1",Unicable
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1",RCN NOVELAS
+http://200.115.120.1:8000/play/ca023/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",AZ CORAZÓN
+http://161.132.108.74:50001/play/a04e/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1",Azmundo
+http://tv.soccerplus.link:8000/0fSP1U7Vrn/y6U6IOaagA/6726
+#EXTINF:0 type="stream" channelId="-1", Az Clic!
+http://168.232.168.242:4000/play/a00i/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/large.TNTNovelas-2023.png.3c8f3ba8041ddfd11298304e93478394.png", TNT Novelas
+http://45.177.53.7:8000/play/a0je/index.m3u8
+#EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJIJiXiOLU5sZKUTSgYxn58tkM0aKyCr1v8M6_jsnW-QUIH_YcUPlSX4&s=10" , Sony Novelas
+http://200.59.188.3:8000/play/a0aa
+#EXTINF:0 type="stream" channelId="-1",PASIONES
+http://168.232.168.242:4000/play/a02n/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kanal D HD
+http://181.78.10.121:27000/play/a02a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", KBS World 
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:0 type="stream" channelId="-1", ANTENA 3
+http://200.115.120.1:8000/play/ca061/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", A3 SERIES
+http://38.41.8.1:8000/play/a00x
+#EXTINF:0 type="stream" channelId="-1", Caracol 
+http://181.78.11.12:1010/play/a083/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal claro
+http://45.170.225.212:48001/play/a023/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" , Más Chic 
+http://200.115.120.1:8000/play/ca029/index.m3u8
+#EXTINF:0 type="stream" channelId="310" , EL GOURMET HD
+http://181.78.64.71:16123/play/ch27
+#EXTINF:0 type="stream" channelId="1244" , Food network
+http://181.78.64.71:16123/play/ch28
+#EXTINF:0 type="stream" channelId="-1", Sun Channel HD
+http://179.189.222.226:16123/play/ch48
+#EXTINF:0 type="stream" channelId="1200" , LIFTIME
+http://200.115.120.1:8000/play/ca051/index.m3u8
+#EXTINF:0 type="stream" channelId="1208" , A&E HD
+http://45.189.148.24:8000/play/a014/index.m3u8
+#EXTINF:0 type="stream" channelId="1573" , AXN
+http://45.177.53.7:8000/play/a0hs/index.m3u8
+#EXTINF:0 type="stream" channelId="1188" , E!
+http://181.115.69.117:8000/play/a05m/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Malcom
+http://51.159.104.29:8080/malcom/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bob esponja
+http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ben 10
+http://51.159.104.29:8080/ben10/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://tvctepa.com/img/svg%20canales/BITME.svg", BITME HD
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD
+http://45.189.148.24:8000/play/a002/index.m3u8
+#EXTINF:0 type="stream" channelId="41",Nickelodeon HD
+http://45.189.148.24:8000/play/a00n/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TeenNick
+http://161.132.108.74:50001/play/a047/index.m3u8
+#EXTINF:0 type="stream" channelId="322" , NICK JR.
+http://45.189.148.24:8000/play/a00o/index.m3u8
+#EXTINF:0 type="stream" channelId="322" , NICK JR.
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1392.m3u8
+#EXTINF:0 type="stream" channelId="1305" , CARTOONITO
+http://45.189.148.24:8000/play/a00p/index.m3u8
+#EXTINF:0 type="stream" channelId="40" , CARTOON NETWORK HD
+http://181.115.69.117:8000/play/a00y/index.m3u8
+#EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
+http://masterprotv1.com:8080/play/reZT9EK_lU7f1rap6P0txHA8FbsDGrD43Vil3EfMHWQ/ts
+#EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
+http://38.41.8.1:8000/play/a00q
+#EXTINF:0 type="stream" channelId="-1" , Boing
+http://181.78.208.237:8000/play/a00075/index.m3u8
+#EXTINF:0 type="stream" channelId="2639" , Tooncast
+http://45.189.148.24:8000/play/a00q/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://television-libre.online/img/dream.png", DreamWorks HD
+http://200.115.120.1:8000/play/ca005/index.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
+http://181.115.69.117:8000/play/a09t/index.m3u8
+#EXTINF:0 type="stream" channelId="1303" , FX
+http://45.189.148.24:8000/play/a00i/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1052" , TNT
+http://45.189.148.24:8000/play/a00g/index.m3u8
+#EXTINF:0 type="stream" channelId="2686" , TNT Series HD
+http://45.189.148.24:8000/play/a00h/index.m3u8
+#EXTINF:0 type="stream" channelId="187" , UNIVERSAL
+http://45.189.148.24:8000/play/a010/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1719" , PARAMOUNT
+http://181.115.69.117:8000/play/a06k/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://e7.pngegg.com/pngimages/348/152/png-clipart-panico-television-channel-mexico-panic-starry-internet-television-text-thumbnail.png", PANICO HD
+http://200.116.199.180:8000/play/a06z
+#EXTINF:0 type="stream" channelId="2625" , STUDIO UNIVERSAL
+http://45.189.148.24:8000/play/a011/index.m3u8
+#EXTINF:0 type="stream" channelId="383" , SPACE
+http://45.189.148.24:8000/play/a00f/index.m3u8
+#EXTINF:0 type="stream" channelId="530" , Sony chanel
+http://45.189.148.24:8000/play/a00y/index.m3u8
+#EXTINF:0 type="stream" channelId="1214" , Sony movies
+http://45.189.148.24:8000/play/a00z/index.m3u8
+#EXTINF:0 type="stream" channelId="2557" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_03/large.748362376_WarnerChannel.png.307ec01c3532d8ca6858fb7d2bdd923d.png", WARNER
+http://45.189.148.24:8000/play/a012/index.m3u8
+#EXTINF:0 type="stream" channelId="2501" , AMC
+http://45.177.53.7:8000/play/a0lq/index.m3u8
+#EXTINF:0 type="stream" channelId="2501" , AMC
+http://181.115.69.117:8000/play/a0ch/index.m3u8
+#EXTINF:0 type="stream" channelId="1326" , Cinemax
+http://45.189.148.24:8000/play/a016/index.m3u8
+#EXTINF:0 type="stream" channelId="64" , CINECANAL
+http://161.132.108.74:50001/play/a012/index.m3u8
+#EXTINF:0 type="stream" channelId="292" , MULTIPREMIER  HD
+http://160.20.165.246:8000/play/a00b/index.m3u8
+#EXTINF:0 type="stream" channelId="1694" , MC
+http://160.20.165.246:8000/play/a00a/index.m3u8
+#EXTINF:0 type="stream" channelId="1330" , HBO
+http://45.189.148.24:8000/play/a023/index.m3u8
+#EXTINF:0 type="stream" channelId="935" , HBO2
+http://181.115.69.117:8000/play/a011/index.m3u8
+#EXTINF:0 type="stream" channelId="2584" , HBO FAMILY
+http://181.115.69.117:8000/play/a013/index.m3u8
+#EXTINF:0 type="stream" channelId="2585" , HBO+
+http://181.115.69.117:8000/play/a012/index.m3u8
+#EXTINF:0 type="stream" channelId="2583" , HBO SIGNATURE
+http://143.255.35.223:8000/play/a01r 
+#EXTINF:0 type="stream" channelId="361" , HBO POP
+http://143.255.35.223:8000/play/a02b
+#EXTINF:0 type="stream" channelId="2587" , HBO XTREME
+http://181.115.69.117:8000/play/a014/index.m3u8
+#EXTINF:0 type="stream" channelId="2725" , HBO MUNDI HD
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/1628
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.34bdc6633205429349f7a9bb8c9f0a51.png", Universal Cinema HD
+http://181.115.69.117:8000/play/a06s/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png", Universal Premier HD
+http://181.115.69.117:8000/play/a06a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.4b8fc78cff89969ea5a888a779654e44.png", Universal Reality HD
+http://181.115.69.117:8000/play/a06b/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png", Universal Crime HD
+http://181.115.69.117:8000/play/a06c/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.61669777e8ebe4f90876b91db5ef8466.png", Universal Comedy HD
+http://181.115.69.117:8000/play/a06d/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLopm-6pUub9GBorT6swxZLPsdvctogtVUg&usqp=CAU", CINE FAMILIAR HD
+http://181.78.64.71:16123/play/ch52
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D44X7voyBBl1lDSYkhQeToeN2Clhdz0Cjl89h-OwLoz2j84KQZ3GGoEO&s=10", CINE PREMIUM HD
+http://181.78.64.71:16123/play/ch49
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.fmh.la/images/team/logo_family.png", FMHFAMILY
+http://45.189.148.24:8000/play/a00c/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://fmh.la/images/team/logo_kids.png", FMHKIDS
+http://45.189.148.24:8000/play/a00e/index.m3u8
+#EXTINF:0 type="stream" channelId="333", GOLDEN
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="2502", GOLDEN EDGE
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="333", GOLDEN
+#EXTVLCOPT--http-reconnect=true
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1962" , GOLDEN
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="3765" , GOLDENPLUS
+https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="1963" ,GOLDEN PREMIER
+#EXTVLCOPT--http-reconnect=true
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+
+
+
+#EXTINF:0 type="stream" channelId="-1", DHE
+http://45.167.3.81:45000/play/a024/index.m3u8
+#EXTINF:0 type="stream" channelId="1418" , HGTV
+http://200.115.98.26:9000/play/a00m/index.m3u8
+#EXTINF:0 type="stream" channelId="57" , DISCOVERY CHANNEL
+http://45.177.53.7:8000/play/a0jj/index.m3u8
+#EXTINF:0 type="stream" channelId="59" , Discovery ID
+http://45.5.117.182:8000/play/a0jy/index.m3u8
+#EXTINF:0 type="stream" channelId="2724", Discovery H&H
+http://143.255.35.223:8000/play/a01j
+#EXTINF:0 type="stream" channelId="2839" , Discovery world
+http://45.189.148.24:8000/play/a005/index.m3u8
+#EXTINF:0 type="stream" channelId="2558" , Discovery theater
+http://45.189.148.24:8000/play/a004/index.m3u8
+#EXTINF:0 type="stream" channelId="58" , Discovery science
+http://200.115.120.1:8000/play/ca087/index.m3u8
+#EXTINF:0 type="stream" channelId="1040" , DISCOVERY TLC HD
+http://161.132.108.74:50001/play/a033/index.m3u8
+#EXTINF:0 type="stream" channelId="2840" , DISCOVERY TURBO HD
+http://161.132.108.74:50001/play/a038/index.m3u8
+#EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
+http://45.189.148.24:8000/play/a001/index.m3u8
+#EXTINF:0 type="stream" channelId="56",NATIONAL GEOGRAPHIC
+http://45.189.148.24:8000/play/a007/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",Love Nature HD
+http://177.93.60.210:8000/play/a02u/index.m3u8
+#EXTINF:0 type="stream" channelId="1455", HISTORY
+http://45.189.148.24:8000/play/a00w/index.m3u8
+#EXTINF:0 type="stream" channelId="1201", HISTORY 2
+http://45.189.148.24:8000/play/a00x/index.m3u8
+
+
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS15jvaF3HPb60vGPdZL-D-hsbSWcooyGHNuuiCd0PU6qLZidRX", MM HIT
+http://177.93.44.174:8900/play/a020
+#EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb0hm9BF3GOc0z4VbHvPE0-YrtdEAzK44PNw&usqp=CAU" , MM KPOP
+http://177.93.44.174:8900/play/a01z
+#EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb0hm9BF3GOc0z4VbHvPE0-YrtdEAzK44PNw&usqp=CAU" , MM KPOP
+https://marine2.miplay.cl/kpop/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1959" , BANDAMAX HD
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="1966" , TELEHIT PLUS
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="1964" , TELEHIT
+https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="2146" , TELERITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 type="stream" channelId="-1", MTV HD
+http://181.78.22.251:8090/play/a01t/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MTV Hits
+http://181.78.22.251:8090/play/a00u/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",MTV 90s
+http://45.5.117.182:8000/play/a0if/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",MTV 80s
+http://45.5.117.182:8000/play/a0f2/index.m3u8
+#EXTINF:0 type="stream" channelId="3750" , EXA TV
+http://131.161.53.2:8000/play/a05a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",HTV
+#EXTVLCOPT--http-reconnect=true
+http://200.116.199.180:8000/play/a05z
+**** http://181.78.64.71:16123/play/a08x
+
+#EXTINF:0 type="stream" channelId="-1", Video Rola
+http://181.78.105.146:2000/play/a04c/index.m3u8
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_03/large.large.5ab19e07d5e47_DirecTVSports.png.dc3ff6a8fc043a490082409ea08b4a86.png.29b699ede4e5c3286cf64ce2ca926de5.png", Directv sport
+http://tv.soccerplus.link:8000/0fSP1U7Vrn/y6U6IOaagA/10005
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_03/large.DirecTVSports2.png.da4b1bf51a984a2821ba02e966b7d48e.png", Directv sport2
+http://186.151.95.62:9000/play/ca026/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_03/large.5ab19e07d5e47_DirecTVSports.png.6c5c0712b7316da9b8babb44c5fadf69.png", Directv sport +
+http://tv.soccerplus.link:8000/0fSP1U7Vrn/y6U6IOaagA/22103
+#EXTINF:0 type="stream" channelId="4668" , TNT Sports HD
+http://alfatv.lat:2082/me5rzJETj4Sh/RZVPdMKD9dRn/269450
+#EXTINF:0 type="stream" channelId="4668", TNT Sports HD 
+http://190.119.127.236:8000/play/a02y/index.m3u8
+#EXTINF:0 type="stream" channelId="4668", TNT Sports HD 
+http://45.238.21.131:6570/play/a020/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iw3Lzx5CrDXWiBQEFdcEDJl92QYuitb7uy5j_sWMuQ&s", DAZN
+http://186.151.95.62:9000/play/ca027/index.m3u8
+#EXTINF:0 type="stream" channelId="1638" logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_7829.png.ea447ce623b543ca4a86817c34c6a1ab.png", SKY BUNDESLIGA
+http://168.232.168.242:4000/play/a04o/index.m3u8
+#EXTINF:0 type="stream" channelId="1638" logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_7829.png.ea447ce623b543ca4a86817c34c6a1ab.png", SKY PREMIER
+http://186.151.95.62:9000/play/ca029/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1638"  logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_7829.png.ea447ce623b543ca4a86817c34c6a1ab.png", SKY LA LIGA
+http://186.151.95.62:9000/play/ca030/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SM1IAOiAR5u3dZDJ-HKMAAltmxJJ0vN4Mm492o0CjjlB8rw13fkiNC8W&s=10", Azteca Deportes HD
+http://tv.soccerplus.link:8000/0fSP1U7Vrn/y6U6IOaagA/92694
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", Foxdeportes
+http://tv.soccerplus.link:8000/0fSP1U7Vrn/y6U6IOaagA/22119
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", Foxdeportes
+http://streamsy.online:2999/korrigan17/25AUFBdqOi/266
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", Foxdeportes
+http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775904
+#EXTINF:0 type="stream" channelId="2891",FOX SPORT
+http://168.232.168.242:4000/play/a04g/index.m3u8
+#EXTINF:0 type="stream" channelId="2891",FOX SPORT
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/92
+#EXTINF:0 type="stream" channelId="2891",FOX SPORT
+http://alfatv.lat:2082/me5rzJETj4Sh/RZVPdMKD9dRn/304155
+#EXTINF:0 type="stream" channelId="2891",FOX SPORT
+http://masterprotv1.com:8080/play/KX1AuduME3FqPaIVaB2TgVAU4zUkkhYkyPuLv6Dqa2I0DJX39FkjeB8Cga299pdQ
+#EXTINF:0 type="stream" channelId="2891",FOX SPORT
+http://gustvplay.com:8080/e7XfunEfVJWj/Uu7CfRFRbCzS/376
+
+
+#EXTINF:0 type="stream" channelId="179",FOX SPORT 2
+http://200.115.98.26:9000/play/a00x/index.m3u8
+#EXTINF:0 type="stream" channelId="179",FOX SPORT 2
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/93
+#EXTINF:0 type="stream" channelId="179",FOX SPORT 2
+http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775818
+#EXTINF:0 type="stream" channelId="179",FOX SPORT 2
+http://alfatv.lat:2082/me5rzJETj4Sh/RZVPdMKD9dRn/304157
+
+#EXTINF:0 type="stream" channelId="180",FOX SPORT 3
+http://200.115.120.1:8000/play/ca077/index.m3u8
+#EXTINF:0 type="stream" channelId="180",FOX SPORT 3
+http://masterprotv1.com:8080/play/KX1AuduME3FqPaIVaB2TgVAU4zUkkhYkyPuLv6Dqa2J4RmNuOvppKQTXqjAlDVuE
+#EXTINF:0 type="stream" channelId="180",FOX SPORT 3
+http://gustvplay.com:8080/e7XfunEfVJWj/Uu7CfRFRbCzS/27859
+#EXTINF:0 type="stream" channelId="180",FOX SPORT 3
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/100
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/foxsportsmx/logos/3p-logo._CB636858411_.png", FS PREMIUM
+http://45.189.148.24:8000/play/a027/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/foxsportsmx/logos/3p-logo._CB636858411_.png", FS PREMIUM
+http://200.115.98.26:9000/play/a00w/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/foxsportsmx/logos/3p-logo._CB636858411_.png", FS PREMIUM
+http://45.5.117.182:8000/play/j0b9/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/foxsportsmx/logos/3p-logo._CB636858411_.png", FS PREMIUM
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/992
+#EXTINF:0 type="stream" channelId="-1"  logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/foxsportsmx/logos/3p-logo._CB636858411_.png", FS PREMIUM
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/160094
+#EXTINF:0 type="stream" channelId="-1"  logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/foxsportsmx/logos/3p-logo._CB636858411_.png", FS PREMIUM
+http://alfatv.lat:2082/me5rzJETj4Sh/RZVPdMKD9dRn/304156
+
+#EXTINF:0 type="stream" channelId="-1" , FOX Soccer Plus
+http://143.255.35.223:8000/play/a00g
+#EXTINF:0 type="stream" channelId="3748" , Espndeportes
+http://likea8bitboss.xyz:80/Colleenjosh/5869470231/5935
+#EXTINF:0 type="stream" channelId="3748" , Espndeportes
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/528
+#EXTINF:0 type="stream" channelId="2540",ESPN MX
+http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775803
+#EXTINF:0 type="stream" channelId="2540",ESPN
+http://181.115.69.117:8000/play/a005/index.m3u8
+#EXTINF:0 type="stream" channelId="344",ESPN 2 MX
+http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775800
+#EXTINF:0 type="stream" channelId="344",ESPN 2
+http://181.115.69.117:8000/play/a006/index.m3u8
+#EXTINF:0 type="stream" channelId="355",ESPN 3 MX
+http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775801
+#EXTINF:0 type="stream" channelId="355",ESPN 3 
+http://181.115.69.117:8000/play/a008/index.m3u8
+#EXTINF:0 type="stream" channelId="1432" ,ESPN 4 MX
+http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775802
+#EXTINF:0 type="stream" channelId="1432" ,ESPN 4 
+http://181.115.69.117:8000/play/a002/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5.png", ESPN 5
+http://181.115.69.117:8000/play/a004/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" , ESPN HD sur 
+http://181.78.11.12:1010/play/a08f/index.m3u8
+#EXTINF:0 type="stream" channelId="344" , ESPN 2 HD sur 
+http://181.78.11.12:1010/play/a04a/index.m3u8
+#EXTINF:0 type="stream" channelId="355" , ESPN 3 HD sur 
+http://181.78.11.12:1010/play/a00g/index.m3u8
+#EXTINF:0 type="stream" channelId="1432" ,ESPN 4 HD sur
+http://181.78.208.237:8000/play/a03a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5.png", ESPN 5
+http://181.78.208.237:8000/play/a055/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ESPN_6.webp.5a00ef854275786ade99bbd5a826743a.webp" , ESPN 6
+http://181.78.208.237:8000/play/a05l/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.ESPN_7_logo.png.346013410f5a12fe2b8f9147dfbdd0ce.png" , ESPN 7
+http://181.78.208.237:8000/play/a056/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.espnpremium.png.8498f795338c9167a556bd035cb560b0.png", ESPN PREMIUM
+http://177.93.41.134:4000/play/a08t/index.m3u8
+#EXTINF:0 type="stream" channelId="287" , Claro Sports HD
+http://45.167.3.81:45000/play/a00h/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_10/large.ClaroSports2.png.490443aa1c30cfed30a782a9c13450dd.png", Claro Sports 2 HD
+http://45.167.3.81:45000/play/a00i/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports HD
+http://45.167.3.81:45000/play/a04a/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1591", BEIN SPORTS Ñ
+http://186.151.95.62:9000/play/ca039/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", WWE Network
+http://xyz.lattv.com.co:8080/iptv-iks-com/webpremiun/477525.ts
+#EXTINF:0 type="stream" channelId="-1", WWE Network
+http://186.151.95.62:9000/play/ca040/index.m3u8
+#EXTINF:0 type="stream" channelId="1686", GOLTV
+http://143.255.35.223:8000/play/a01g
+#EXTINF:0 type="stream" channelId="1686" , Gol Peru HD
+http://181.78.22.251:8090/play/a01m/index.m3u8
+#EXTINF:0 type="stream" channelId="3802", TYC SPORT
+http://138.59.227.148:5151/play/a04t
+#EXTINF:0 type="stream" channelId="1367" , MOVISTAR LIGA
+http://181.78.105.146:8800/play/a07h
+#EXTINF:0 type="stream" channelId="1367" , Movistar Deportes HD
+http://181.78.22.251:8090/play/a01a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",Win Sports 
+http://138.121.15.228:8000/play/a00a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",Win Sports+ 
+http://138.121.15.228:8000/play/a01l/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9V8Hc6ZO1A6gweWLrsJ1FqbmwfCgrqj_VK2Rmhci2OIwN9gnUZlVO-Q&s=10" , Latin America Sport
+http://168.232.168.242:4000/play/a03w/index.m3u8
+#EXTINF:0 type="stream" channelId="227" , AYM SPORTS
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/2873
+#EXTINF:0 type="stream" channelId="227" , AYM SPORTS
+http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775881
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES HD
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158850
+#EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES HD
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
+#EXTINF:0 type="stream" channelId="4665" , PX SPORTS
+http://131.161.53.2:8000/play/a048/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://recursosepg.tcc.com.uy/senales/COLOR/352-color.png", ADRENALINA
+https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist_1024x576.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN (MX)
+http://45.189.148.24:8000/play/a00k/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN (MX)
+http://186.151.95.62:9000/play/ca025/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN (MX)
+http://alfatv.lat:2082/me5rzJETj4Sh/RZVPdMKD9dRn/268850
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN (MX)
+http://alfatv.lat:2082/me5rzJETj4Sh/RZVPdMKD9dRn/244264
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN HD (US)
+http://tvstar.icu:8080/Bde9xmsp/3702190582/82241
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN HD (US)
+http://tvstar.icu:8080/Bde9xmsp/3702190582/21644
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN HD (US)
+http://tvstar.icu:8080/Bde9xmsp/3702190582/11885
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN HD (US)
+http://gustvplay.com:8080/e7XfunEfVJWj/Uu7CfRFRbCzS/395
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN HD (US)
+http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/21644
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN HD (US)
+http://45.5.117.182:8000/play/a0km/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXmG3xczr9TEdwsgaAeLY9ChPy_qsobBIEaCBL7Bby39C8zDN", ZONA TUDN MX
+http://dmtn.tv:8080/fDjaQ9PX/d5PAAuW/340582
+#EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXmG3xczr9TEdwsgaAeLY9ChPy_qsobBIEaCBL7Bby39C8zDN", ZONA TUDN MX
+http://gustvplay.com:8080/e7XfunEfVJWj/Uu7CfRFRbCzS/182743
+#EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXmG3xczr9TEdwsgaAeLY9ChPy_qsobBIEaCBL7Bby39C8zDN", ZONA TUDN MX
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXmG3xczr9TEdwsgaAeLY9ChPy_qsobBIEaCBL7Bby39C8zDN", ZONA TUDN USA
+https://linear-357.frequency.stream/dist/univision/357/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 1
+https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 2
+https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1"  logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 3
+https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1"  logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 4
+https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 4
+https://linear-384.frequency.stream/dist/studio/384/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 5
+https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 6
+https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 7
+https://linear-438.frequency.stream/mt/studio/438/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 8
+https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 9
+https://linear-439.frequency.stream/439/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 10
+https://linear-440.frequency.stream/mt/studio/440/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 11
+https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 12 USA
+https://linear-442.frequency.stream/mt/studio/442/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 13 USA
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 14 USA
+https://linear-361.frequency.stream/mt/studio/361/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 15 USA
+https://linear-362.frequency.stream/mt/studio/362/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 15 USA
+https://linear-362.frequency.stream/dist/univision/362/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 16 USA
+https://linear-363.frequency.stream/mt/studio/363/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 17 USA
+https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 18 USA
+https://linear-365.frequency.stream/mt/studio/365/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 19 USA
+https://linear-366.frequency.stream/mt/studio/366/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 20 USA
+https://linear-367.frequency.stream/mt/studio/367/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 21 USA
+https://linear-368.frequency.stream/mt/studio/368/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 22 USA
+https://linear-369.frequency.stream/mt/studio/369/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 23 USA
+https://linear-370.frequency.stream/mt/studio/370/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 24 USA
+https://linear-371.frequency.stream/mt/studio/371/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 25 USA
+https://linear-372.frequency.stream/mt/studio/372/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 26 USA
+https://linear-373.frequency.stream/mt/studio/373/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 27 USA
+https://linear-374.frequency.stream/mt/studio/374/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 28 USA
+https://linear-375.frequency.stream/mt/studio/375/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 29 USA
+https://linear-376.frequency.stream/mt/studio/376/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 30 USA
+https://linear-377.frequency.stream/mt/studio/377/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 31 USA
+https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 32 USA
+https://linear-379.frequency.stream/mt/studio/379/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 33 USA
+https://linear-668.frequency.stream/mt/studio/668/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 34 USA
+https://linear-669.frequency.stream/mt/studio/669/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 35 USA
+https://linear-670.frequency.stream/mt/studio/670/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 36 USA
+https://linear-671.frequency.stream/mt/studio/671/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cKSskMR5Ek-sjrQ-n3d7_dZu1kNCwbjKFfrclrRQ6tjRqBhYJLUUGX-S&s=10", LA LIGA CONTIGO
+https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cKSskMR5Ek-sjrQ-n3d7_dZu1kNCwbjKFfrclrRQ6tjRqBhYJLUUGX-S&s=10", LA LIGA CONTIGO 2
+https://linear-490.frequency.stream/mt/studio/490/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cKSskMR5Ek-sjrQ-n3d7_dZu1kNCwbjKFfrclrRQ6tjRqBhYJLUUGX-S&s=10" , LA LIGA CONTIGO 3
+https://linear-506.frequency.stream/mt/studio/506/hls/master/playlis_1024x576t.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cKSskMR5Ek-sjrQ-n3d7_dZu1kNCwbjKFfrclrRQ6tjRqBhYJLUUGX-S&s=10" , LA LIGA CONTIGO 4
+https://linear-507.frequency.stream/mt/studio/507/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/large_tux1.png.a7ff051fd00b6f7bf945f164ccf1b2f7.png", TUDNxtra
+http://pro.boxdigital.org:8080/rolak283852/YYKwbcPcnjSS/245234
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/large_tux1.png.a7ff051fd00b6f7bf945f164ccf1b2f7.png", TUDNxtra
+http://cheaptv.online:8080/F16406/60a43828/298903
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux2.png.06b73f9842ce65b4ce4a054d8fde72e5.png", TUDNxtra2
+http://pro.boxdigital.org:8080/rolak283852/YYKwbcPcnjSS/245235
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux2.png.06b73f9842ce65b4ce4a054d8fde72e5.png", TUDNxtra2
+http://cheaptv.online:8080/F16406/60a43828/298904
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux3.png.c842e2d474e4e69b2899a83c572a9084.png", TUDNxtra3
+http://cheaptv.online:8080/F16406/60a43828/298905
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux4.png.db46e78692e91c2c27e6b504cc1a558b.png", TUDNxtra4
+http://pro.boxdigital.org:8080/rolak283852/YYKwbcPcnjSS/245237
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux4.png.db46e78692e91c2c27e6b504cc1a558b.png", TUDNxtra4
+http://cheaptv.online:8080/F16406/60a43828/298906
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux5.png.7ea733a701dddaf0c4c6db6077239183.png", TUDNxtra5
+http://pro.boxdigital.org:8080/rolak283852/YYKwbcPcnjSS/245238
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux5.png.7ea733a701dddaf0c4c6db6077239183.png", TUDNxtra5
+http://cheaptv.online:8080/F16406/60a43828/298907
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux6.png.2c0452fbe096463dde6d5957143887b8.png", TUDNxtra6
+http://pro.boxdigital.org:8080/rolak283852/YYKwbcPcnjSS/245239
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux6.png.2c0452fbe096463dde6d5957143887b8.png", TUDNxtra6
+http://cheaptv.online:8080/F16406/60a43828/298908
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux7.png.1063140f4f2050ece4db312d544995c2.png", TUDNxtra7
+http://pro.boxdigital.org:8080/rolak283852/YYKwbcPcnjSS/245240
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux7.png.1063140f4f2050ece4db312d544995c2.png", TUDNxtra7
+http://cheaptv.online:8080/F16406/60a43828/298909
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux8.png.eb8d93906c76fb855242cdf541515a5b.png", TUDNxtra8
+http://pro.boxdigital.org:8080/rolak283852/YYKwbcPcnjSS/245241
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux8.png.eb8d93906c76fb855242cdf541515a5b.png", TUDNxtra8
+http://cheaptv.online:8080/F16406/60a43828/298910
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux9.png.c8e520b38662aee2c29dd5b1befc8216.png", TUDNxtra9
+http://pro.boxdigital.org:8080/rolak283852/YYKwbcPcnjSS/245242
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux9.png.c8e520b38662aee2c29dd5b1befc8216.png", TUDNxtra9
+http://cheaptv.online:8080/F16406/60a43828/298911
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux10.png.77f7723b22134c66c9d039e96ddf1e74.png", TUDNxtra10
+http://pro.boxdigital.org:8080/rolak283852/YYKwbcPcnjSS/245243
+#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux10.png.77f7723b22134c66c9d039e96ddf1e74.png", TUDNxtra10
+http://cheaptv.online:8080/F16406/60a43828/298912
+#EXTINF:0 type="stream" channelId="-1" logo="https://tr.rbxcdn.com/41fb9ee9bb88df1f50095f2009d3e7ae/420/420/Image/Png", Cam 1 La casa de los Famosos US (Telemundo)
+http://alfatv.lat:2082/me5rzJETj4Sh/RZVPdMKD9dRn/265454
+#EXTINF:0 type="stream" channelId="-1" logo="https://tr.rbxcdn.com/41fb9ee9bb88df1f50095f2009d3e7ae/420/420/Image/Png", Cam 2 La casa de los Famosos US (Telemundo)
+http://alfatv.lat:2082/me5rzJETj4Sh/RZVPdMKD9dRn/265455
+#EXTINF:0 type="stream" channelId="-1" logo="https://tr.rbxcdn.com/41fb9ee9bb88df1f50095f2009d3e7ae/420/420/Image/Png", Cam 1 La casa de los Famosos US (Telemundo)
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/244039
+#EXTINF:0 type="stream" channelId="-1" logo="https://tr.rbxcdn.com/41fb9ee9bb88df1f50095f2009d3e7ae/420/420/Image/Png", Cam 1 La casa de los Famosos US (Telemundo)
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/244040
+#EXTINF:0 type="stream" channelId="-1" logo="https://tr.rbxcdn.com/41fb9ee9bb88df1f50095f2009d3e7ae/420/420/Image/Png", Cam 1 La casa de los Famosos US (Telemundo)
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/244041
+#EXTINF:0 type="stream" channelId="-1" logo="https://tr.rbxcdn.com/41fb9ee9bb88df1f50095f2009d3e7ae/420/420/Image/Png", Cam 1 La casa de los Famosos US (Telemundo)
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/244042
+#EXTINF:0 type="stream" channelId="-1" logo="https://tr.rbxcdn.com/41fb9ee9bb88df1f50095f2009d3e7ae/420/420/Image/Png", Cam 1 La casa de los Famosos US (Telemundo)
+http://emuligl.info:8080/x7WMBqSJtyBP/Bf95dGa4NsJq/244043
+#EXTINF:0 type="stream" channelId="-1" , spyderman
+http://ultrapremium.cloud:8080/movie/936664531tv/47hj3e/2993.mkv
+#EXTINF:-1,Cinema 12 Ant-Man and the Wasp: Quantumania (2023)
+http://ultrapremium.cloud:8080/movie/936664531tv/47hj3e/820.mp4
+#EXTINF:-1,Avengers: Endgame (2019)(4K HDR)
+http://alfatv.lat:2082/movie/MStreaming0620/QEy3aGPmQuKq/276835.mp4
+#EXTINF:-1, Avengers: 
+http://alfatv.lat:2082/movie/MStreaming0620/QEy3aGPmQuKq/276836.mp4
