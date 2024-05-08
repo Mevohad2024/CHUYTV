@@ -326,9 +326,12 @@ http://186.151.95.62:9000/play/ca027/index.m3u8
 http://168.232.168.242:4000/play/a04o/index.m3u8
 #EXTINF:0 type="stream" channelId="1638" logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_7829.png.ea447ce623b543ca4a86817c34c6a1ab.png", SKY PREMIER
 http://186.151.95.62:9000/play/ca029/index.m3u8
-
+#EXTINF:0 type="stream" channelId="1638"  logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_7829.png.ea447ce623b543ca4a86817c34c6a1ab.png", SKY LA LIGA
+http://45.5.117.182:8000/play/jnl0/index.m3u8
 #EXTINF:0 type="stream" channelId="1638"  logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_7829.png.ea447ce623b543ca4a86817c34c6a1ab.png", SKY LA LIGA
 http://186.151.95.62:9000/play/ca030/index.m3u8
+
+
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SM1IAOiAR5u3dZDJ-HKMAAltmxJJ0vN4Mm492o0CjjlB8rw13fkiNC8W&s=10", Azteca Deportes HD
 http://tv.soccerplus.link:8000/0fSP1U7Vrn/y6U6IOaagA/92694
@@ -471,10 +474,14 @@ http://45.189.148.24:8000/play/a00k/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN (MX)
 http://186.151.95.62:9000/play/ca025/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN (MX)
+http://45.5.117.182:8000/play/lh0jp/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN (MX)
 http://alfatv.lat:2082/me5rzJETj4Sh/RZVPdMKD9dRn/268850
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN (MX)
 http://alfatv.lat:2082/me5rzJETj4Sh/RZVPdMKD9dRn/244264
 
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN HD (US)
+http://45.5.117.182:8000/play/a0km/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN HD (US)
 http://tvstar.icu:8080/Bde9xmsp/3702190582/82241
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN HD (US)
@@ -485,8 +492,8 @@ http://tvstar.icu:8080/Bde9xmsp/3702190582/11885
 http://gustvplay.com:8080/e7XfunEfVJWj/Uu7CfRFRbCzS/395
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN HD (US)
 http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/21644
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN HD (US)
-http://45.5.117.182:8000/play/a0km/index.m3u8
+
+
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXmG3xczr9TEdwsgaAeLY9ChPy_qsobBIEaCBL7Bby39C8zDN", ZONA TUDN MX
 http://dmtn.tv:8080/fDjaQ9PX/d5PAAuW/340582
