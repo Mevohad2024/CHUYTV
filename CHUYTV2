@@ -88,7 +88,8 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist_1024x576.m
 #EXTINF:0 type="stream" channelId="134",De Película Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist_1024x576.m3u8
 #EXTINF:0 type="stream" channelId="895", TCM
-http://200.115.120.1:8000/play/ca047/index.m3u8
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/157_.ts
+*http://200.115.120.1:8000/play/ca047/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",COMEDY CENTRAL
 http://45.189.148.24:8000/play/a009/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",Distrito Comedia
@@ -126,18 +127,32 @@ http://181.78.11.12:1010/play/a083/index.m3u8
 http://45.170.225.212:48001/play/a023/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" , Más Chic 
 http://200.115.120.1:8000/play/ca029/index.m3u8
+#EXTINF:0 type="stream" channelId="2686" , TNT Series HD
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/164_.ts
+#EXTINF:0 type="stream" channelId="2686" , TNT Series HD
+http://45.189.148.24:8000/play/a00h/index.m3u8
+#EXTINF:0 type="stream" channelId="310" , EL GOURMET HD
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/148_.ts
 #EXTINF:0 type="stream" channelId="310" , EL GOURMET HD
 http://181.78.64.71:16123/play/ch27
+#EXTINF:0 type="stream" channelId="1244" , Food network
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/137_.ts
 #EXTINF:0 type="stream" channelId="1244" , Food network
 http://181.78.64.71:16123/play/ch28
 #EXTINF:0 type="stream" channelId="-1", Sun Channel HD
 http://179.189.222.226:16123/play/ch48
 #EXTINF:0 type="stream" channelId="1200" , LIFTIME
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/152_.ts
+#EXTINF:0 type="stream" channelId="1200" , LIFTIME
 http://200.115.120.1:8000/play/ca051/index.m3u8
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/168_.ts
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/168_.ts
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 http://45.189.148.24:8000/play/a014/index.m3u8
 #EXTINF:0 type="stream" channelId="1573" , AXN
 http://45.177.53.7:8000/play/a0hs/index.m3u8
+#EXTINF:0 type="stream" channelId="1188" , E!1
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/132_.ts
 #EXTINF:0 type="stream" channelId="1188" , E!
 http://181.115.69.117:8000/play/a05m/index.m3u8
 
@@ -162,13 +177,19 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1392.m3u8
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
 http://45.189.148.24:8000/play/a00p/index.m3u8
 #EXTINF:0 type="stream" channelId="40" , CARTOON NETWORK HD
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/9_.ts
+#EXTINF:0 type="stream" channelId="40" , CARTOON NETWORK HD
 http://181.115.69.117:8000/play/a00y/index.m3u8
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 http://masterprotv1.com:8080/play/reZT9EK_lU7f1rap6P0txHA8FbsDGrD43Vil3EfMHWQ/ts
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/129_.ts
+#EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
 http://38.41.8.1:8000/play/a00q
 #EXTINF:0 type="stream" channelId="-1" , Boing
 http://181.78.208.237:8000/play/a00075/index.m3u8
+#EXTINF:0 type="stream" channelId="2639" , Tooncast
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/195_.ts
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
 http://45.189.148.24:8000/play/a00q/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://television-libre.online/img/dream.png", DreamWorks HD
@@ -186,8 +207,7 @@ http://45.189.148.24:8000/play/a00i/index.m3u8
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/163_.ts
 #EXTINF:0 type="stream" channelId="1052" , TNT
 http://45.189.148.24:8000/play/a00g/index.m3u8
-#EXTINF:0 type="stream" channelId="2686" , TNT Series HD
-http://45.189.148.24:8000/play/a00h/index.m3u8
+
 #EXTINF:0 type="stream" channelId="187" , UNIVERSAL
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/196_.ts
 #EXTINF:0 type="stream" channelId="187" , UNIVERSAL
@@ -219,11 +239,16 @@ http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/165_.ts
 #EXTINF:0 type="stream" channelId="2557" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_03/large.748362376_WarnerChannel.png.307ec01c3532d8ca6858fb7d2bdd923d.png", WARNER
 http://45.189.148.24:8000/play/a012/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" , AMC
-http://45.177.53.7:8000/play/a0lq/index.m3u8
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/216_.ts
 #EXTINF:0 type="stream" channelId="2501" , AMC
-http://181.115.69.117:8000/play/a0ch/index.m3u8
+http://45.177.53.7:8000/play/a0lq/index.m3u8
+*http://181.115.69.117:8000/play/a0ch/index.m3u8
+#EXTINF:0 type="stream" channelId="1326" , Cinemax
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/197_.ts
 #EXTINF:0 type="stream" channelId="1326" , Cinemax
 http://45.189.148.24:8000/play/a016/index.m3u8
+#EXTINF:0 type="stream" channelId="64" , CINECANAL
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/171_.ts
 #EXTINF:0 type="stream" channelId="64" , CINECANAL
 http://161.132.108.74:50001/play/a012/index.m3u8
 #EXTINF:0 type="stream" channelId="292" , MULTIPREMIER  HD
@@ -231,17 +256,29 @@ http://160.20.165.246:8000/play/a00b/index.m3u8
 #EXTINF:0 type="stream" channelId="1694" , MC
 http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:0 type="stream" channelId="1330" , HBO
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/182_.ts
+#EXTINF:0 type="stream" channelId="1330" , HBO
 http://45.189.148.24:8000/play/a023/index.m3u8
+#EXTINF:0 type="stream" channelId="935" , HBO2
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/183_.ts
 #EXTINF:0 type="stream" channelId="935" , HBO2
 http://181.115.69.117:8000/play/a011/index.m3u8
 #EXTINF:0 type="stream" channelId="2584" , HBO FAMILY
 http://181.115.69.117:8000/play/a013/index.m3u8
 #EXTINF:0 type="stream" channelId="2585" , HBO+
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/185_.ts
+#EXTINF:0 type="stream" channelId="2585" , HBO+
 http://181.115.69.117:8000/play/a012/index.m3u8
+#EXTINF:0 type="stream" channelId="2583" , HBO SIGNATURE
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/186_.ts
 #EXTINF:0 type="stream" channelId="2583" , HBO SIGNATURE
 http://143.255.35.223:8000/play/a01r 
 #EXTINF:0 type="stream" channelId="361" , HBO POP
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/188_.ts
+#EXTINF:0 type="stream" channelId="361" , HBO POP
 http://143.255.35.223:8000/play/a02b
+#EXTINF:0 type="stream" channelId="2587" , HBO XTREME
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/189_.ts
 #EXTINF:0 type="stream" channelId="2587" , HBO XTREME
 http://181.115.69.117:8000/play/a014/index.m3u8
 #EXTINF:0 type="stream" channelId="2725" , HBO MUNDI HD
@@ -285,17 +322,29 @@ https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", DHE
 http://45.167.3.81:45000/play/a024/index.m3u8
 #EXTINF:0 type="stream" channelId="1418" , HGTV
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/149_.ts
+#EXTINF:0 type="stream" channelId="1418" , HGTV
 http://200.115.98.26:9000/play/a00m/index.m3u8
 #EXTINF:0 type="stream" channelId="57" , DISCOVERY CHANNEL
 http://45.177.53.7:8000/play/a0jj/index.m3u8
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/187_.ts
+#EXTINF:0 type="stream" channelId="59" , Discovery ID
 http://45.5.117.182:8000/play/a0jy/index.m3u8
+#EXTINF:0 type="stream" channelId="2724", Discovery H&H
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/172_.ts
 #EXTINF:0 type="stream" channelId="2724", Discovery H&H
 http://143.255.35.223:8000/play/a01j
 #EXTINF:0 type="stream" channelId="2839" , Discovery world
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/175_.ts
+#EXTINF:0 type="stream" channelId="2839" , Discovery world
 http://45.189.148.24:8000/play/a005/index.m3u8
 #EXTINF:0 type="stream" channelId="2558" , Discovery theater
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/126_.ts
+#EXTINF:0 type="stream" channelId="2558" , Discovery theater
 http://45.189.148.24:8000/play/a004/index.m3u8
+#EXTINF:0 type="stream" channelId="58" , Discovery science
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/128_.ts
 #EXTINF:0 type="stream" channelId="58" , Discovery science
 http://200.115.120.1:8000/play/ca087/index.m3u8
 #EXTINF:0 type="stream" channelId="1040" , DISCOVERY TLC HD
@@ -305,11 +354,17 @@ http://161.132.108.74:50001/play/a038/index.m3u8
 #EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
 http://45.189.148.24:8000/play/a001/index.m3u8
 #EXTINF:0 type="stream" channelId="56",NATIONAL GEOGRAPHIC
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/154_.ts
+#EXTINF:0 type="stream" channelId="56",NATIONAL GEOGRAPHIC
 http://45.189.148.24:8000/play/a007/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",Love Nature HD
 http://177.93.60.210:8000/play/a02u/index.m3u8
 #EXTINF:0 type="stream" channelId="1455", HISTORY
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/150_.ts
+#EXTINF:0 type="stream" channelId="1455", HISTORY
 http://45.189.148.24:8000/play/a00w/index.m3u8
+#EXTINF:0 type="stream" channelId="1201", HISTORY 2
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/217_.ts
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
 http://45.189.148.24:8000/play/a00x/index.m3u8
 
@@ -377,12 +432,17 @@ http://186.151.95.62:9000/play/ca030/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SM1IAOiAR5u3dZDJ-HKMAAltmxJJ0vN4Mm492o0CjjlB8rw13fkiNC8W&s=10", Azteca Deportes HD
 http://tv.soccerplus.link:8000/0fSP1U7Vrn/y6U6IOaagA/92694
+#EXTINF:0 type="stream" channelId="3751"logo="https://www.fcjuarez.com/assets/images/patrocinadores/white/15.png", Foxdeportes
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/80_.ts
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", Foxdeportes
 http://tv.soccerplus.link:8000/0fSP1U7Vrn/y6U6IOaagA/22119
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", Foxdeportes
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/266
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", Foxdeportes
 http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775904
+
+#EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg", FSMX
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/141_.ts
 #EXTINF:0 type="stream" channelId="2891",FOX SPORT
 http://168.232.168.242:4000/play/a04g/index.m3u8
 #EXTINF:0 type="stream" channelId="2891",FOX SPORT
@@ -429,19 +489,24 @@ http://alfatv.lat:2082/me5rzJETj4Sh/RZVPdMKD9dRn/304156
 #EXTINF:0 type="stream" channelId="-1" , FOX Soccer Plus
 http://143.255.35.223:8000/play/a00g
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/77_.ts
+#EXTINF:0 type="stream" channelId="3748" , Espndeportes
 http://likea8bitboss.xyz:80/Colleenjosh/5869470231/5935
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/528
 #EXTINF:0 type="stream" channelId="2540",ESPN MX
-http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775803
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/134_.ts
+*http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775803
 #EXTINF:0 type="stream" channelId="2540",ESPN
 http://181.115.69.117:8000/play/a005/index.m3u8
 #EXTINF:0 type="stream" channelId="344",ESPN 2 MX
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/135_.ts
 http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775800
 #EXTINF:0 type="stream" channelId="344",ESPN 2
 http://181.115.69.117:8000/play/a006/index.m3u8
 #EXTINF:0 type="stream" channelId="355",ESPN 3 MX
-http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775801
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/136_.ts
+*http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775801
 #EXTINF:0 type="stream" channelId="355",ESPN 3 
 http://181.115.69.117:8000/play/a008/index.m3u8
 #EXTINF:0 type="stream" channelId="1432" ,ESPN 4 MX
@@ -511,6 +576,8 @@ http://131.161.53.2:8000/play/a048/index.m3u8
 https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist_1024x576.m3u8
 
 
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN (MX)
+http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/161_.ts
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN (MX)
 http://45.189.148.24:8000/play/a00k/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU", TUDN (MX)
