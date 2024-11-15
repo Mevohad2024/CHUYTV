@@ -5,11 +5,12 @@ http://179.1.78.254:9001/play/a08d
 http://45.175.139.194:8000/play/27
 http://45.175.139.194:8000/play/27
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414632
-
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/BITME/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://200.59.188.3:8000/play/a01d
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/382418
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISCOVERYKIDS/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
 http://45.175.139.194:8000/play/26
@@ -18,6 +19,7 @@ http://190.102.246.93:9005/play/a03c
 #EXTINF:0 type="stream" channelId="41",Nickelodeon HD
 http://200.115.120.1:8000/play/ca008/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/391815
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/NICK/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TeenNick
 http://170.82.37.21:8000/play/a00w/index.m3u8
@@ -32,6 +34,8 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/382422
 #EXTVLCOPT--http-reconnect=true
 http://200.59.188.3:8000/play/a044
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/391814
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/NICKJR/20-hls/live-media.m3u8
+
 
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
 ##EXTVLCOPT:network-caching=1000
@@ -39,6 +43,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/391814
 http://45.175.139.194:8000/play/24
 http://200.115.120.1:8000/play/ca006/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/382431
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CARTOONITO/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="40" , CARTOON NETWORK HD
 ##EXTVLCOPT:network-caching=1000
@@ -50,6 +55,7 @@ http://45.228.234.167:8000/play/a00t/index.m3u8
 http://200.115.120.1:8000/play/ca002/index.m3u8
 http://45.181.123.233:8000/play/a0iz
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/382415
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CARTOONNETWORK/20-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
@@ -57,7 +63,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/382415
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/130_.ts
 http://200.115.120.1:8000/play/ca009/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/382421
-
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISNEYJR/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
 ##EXTVLCOPT:network-caching=1000
@@ -66,7 +72,7 @@ http://38.41.8.1:8000/play/a00q
 http://200.115.120.1:8000/play/ca012/index.m3u8
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/129_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/391805
-
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISNEYCHANNEL/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
 ##EXTVLCOPT:network-caching=1000
@@ -91,6 +97,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/382428
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/168_.ts
 http://45.175.139.194:8000/play/a00q
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251111
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AYE/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
@@ -98,6 +105,8 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251111
 http://45.175.139.194:8000/play/a00r
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=174792&extension=ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396685
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AXN/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1188" , E!1
 ##EXTVLCOPT:network-caching=1000
@@ -105,27 +114,32 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396685
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/132_.ts
 http://200.115.120.1:8000/play/ca031/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/96202
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ENTERTAINMENT/20-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1200" , LIFETIME
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/152_.ts
 http://200.115.120.1:8000/play/ca051/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251100
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/LIFETIME/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/138_.ts 
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396754
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/STAR/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1303" , FX
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/144_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396713
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/FX/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1052" , TNT
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/163_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251096
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNT/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="187" , UNIVERSAL
 ##EXTVLCOPT:network-caching=1000
@@ -133,6 +147,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251096
 http://170.83.242.9:4000/play/a10b
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/196_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251095
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/UNIVERSAL/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1719" , PARAMOUNT
 ##EXTVLCOPT:network-caching=1000
@@ -140,6 +155,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251095
 http://45.167.3.81:45000/play/a05v/index.m3u8
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/193_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251078
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/PARAMOUNT/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_GaU52nUoGZAFyd9susUdm7PZNpc9meSRJqBscvKJ0sWn5a6J", PANICO HD
 ##EXTVLCOPT:network-caching=1000
@@ -159,6 +175,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251098
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/159_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396749
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/SPACE/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="530" , Sony chanel
 ##EXTVLCOPT:network-caching=1000
@@ -177,6 +194,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396746
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/165_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396782
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/WARNERCHANNEL/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="2501" , AMC
 ##EXTVLCOPT:network-caching=1000
@@ -184,12 +202,14 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396782
 http://168.90.15.141:12345/play/a03u
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/216_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396683
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AMC/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1326" , Cinemax
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/197_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251112
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CINEMAX/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="64" , CINECANAL
 ##EXTVLCOPT:network-caching=1000
@@ -197,6 +217,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251112
 http://45.175.139.194:8000/play/36
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/171_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396698
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CINECANAL/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="292" , MULTIPREMIER  HD
 ##EXTVLCOPT:network-caching=1000
@@ -335,10 +356,12 @@ http://190.102.246.93:9005/play/a03t
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/146_.
 http://45.167.3.81:45000/play/a038/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251105
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/GOLDEN/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="2502", GOLDEN EDGE
 http://masterprotv1.com:8080/56961561564faceztv/191022ztv/368
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251104
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/EDGE/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="3765" , GOLDENPLUS
 ##EXTVLCOPT:network-caching=1000
@@ -346,6 +369,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251104
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/147_.ts
 http://masterprotv1.com:8080/56961561564faceztv/191022ztv/370
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251103
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/GOLDENPLUS/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1963" ,GOLDEN PREMIER
 ##EXTVLCOPT:network-caching=1000
@@ -363,6 +387,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/96207
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/137_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251093
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/FOODNETWORK/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Sun Channel HD
 http://179.189.222.226:16123/play/ch48
@@ -375,7 +400,7 @@ http://45.167.3.81:45000/play/a02z/index.m3u8
 http://45.167.3.81:45000/play/a024/index.m3u8
 http://45.186.105.215:9999/play/a02v/index.m3u8
 http://179.49.163.34:45000/play/a00o/index.m3u8
-
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DHE/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1418" , HGTV
 ##EXTVLCOPT:network-caching=1000
@@ -383,12 +408,14 @@ http://179.49.163.34:45000/play/a00o/index.m3u8
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/149_.ts
 http://premierchile.shop:8080/982230692tv/623rpu/409
 http://200.115.98.26:9000/play/a00m/index.m3u8
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/HGTV/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="57" , DISCOVERY CHANNEL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/127_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251089
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISCOVERYCHANNEL/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
 ##EXTVLCOPT:network-caching=1000
@@ -396,24 +423,28 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251089
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/187_.ts
 http://45.5.117.182:8000/play/a0jy/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/327993
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISCOVERYID/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="2724", Discovery H&H
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/172_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251088
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/HYH/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="2839" , Discovery world
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/175_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251090
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISCOVERYWORLD/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="2558" , Discovery theater
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/126_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/327997
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/THEATER/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="58" , Discovery science
 ##EXTVLCOPT:network-caching=1000
@@ -421,12 +452,14 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/327997
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/128_.ts
 http://200.115.120.1:8000/play/ca087/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/327996
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/SCIENCE/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1040" , DISCOVERY TLC HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/220_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/96227
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TLC/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="2840" , DISCOVERY TURBO HD
 ##EXTVLCOPT:network-caching=1000
@@ -434,6 +467,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/96227
 http://45.181.122.13:8000/play/022
 http://stkip.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/2690
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/327998
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TURBO/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
 ##EXTVLCOPT:network-caching=1000
@@ -441,6 +475,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/327998
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/167_.ts
 http://45.186.105.215:9999/play/a02m/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251091
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ANIMALPLANET/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="56",NATIONAL GEOGRAPHIC
 ##EXTVLCOPT:network-caching=1000
@@ -454,6 +489,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251087
 #EXTVLCOPT--http-reconnect=true
 http://premierchile.shop:8080/982230692tv/623rpu/442
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251022
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/NATGEO/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Love Nature HD
 http://160.20.165.246:8000/play/a00d/index.m3u8
@@ -466,17 +502,20 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/328011
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/150_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251092
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/HISTORY/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/217_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/328007
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/HISTORY2/20-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MTV HD
 http://premierchile.shop:8080/982230692tv/623rpu/24929
 http://45.186.105.215:9999/play/a05p/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251082
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/MTV/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS15jvaF3HPb60vGPdZL-D-hsbSWcooyGHNuuiCd0PU6qLZidRX", MM HIT
 http://204.199.89.187:14002/play/a00u/index.m3u8
@@ -515,6 +554,7 @@ http://204.199.89.187:14002/play/a00q/index.m3u8
 http://179.1.78.254:9001/play/a08o
 http://45.175.139.194:8000/play/62
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/405797
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TELEHIT/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="2146" , TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -572,6 +612,7 @@ http://200.115.120.1:8000/play/ca014/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/5_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/96218
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1954" ,3 Las estrellas
 http://45.232.176.17:8000/play/a021
@@ -584,6 +625,7 @@ http://179.189.222.226:8000/play/ch44
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/8_.ts
 http://200.115.120.1:8000/play/ca0105/index.m3u8
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 2 Cnco
 http://45.186.105.215:9999/play/a06n/index.m3u8
@@ -596,9 +638,10 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414585
 
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414595
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado_400x400.jpg", TELEFORMULA HD
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/260642.ts
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/Teleformula/20-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="3127", Imagen tv
 ##EXTVLCOPT:network-caching=1000
@@ -607,6 +650,7 @@ http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/151_.ts
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/1695
 http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/39401
 http://189.154.58.15:9981/stream/channelid/1146467779
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="255",1 Azteca 7
 ##EXTVLCOPT:network-caching=1000
@@ -617,15 +661,13 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:0 type="stream" channelId="255",3 Azteca 7
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/4_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414568
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/20-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="255",4 Azteca 7
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://premierchile.shop:8080/982230692tv/623rpu/24894
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251114
 
 #EXTINF:0 type="stream" channelId="255",5 Azteca 7
@@ -699,7 +741,9 @@ http://cord-cutter.net:8080/489888/232212/15336
 #EXTINF:0 type="stream" channelId="3209" , 2 Univisión
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/UNIVISION/40-hls/live-media.m3u8
 http://206.212.244.71:8080/4wVQA7/625159/108248
+
 
 #EXTINF:0 type="stream" channelId="3209" , 3 Univisión
 ##EXTVLCOPT:network-caching=1000
@@ -744,6 +788,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/96213
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/33_.ts
 http://200.115.120.1:8000/play/ca018/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/344637
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",CNN
 http://200.115.120.1:8000/play/ca059/index.m3u8
@@ -753,11 +798,13 @@ http://200.115.120.1:8000/play/ca059/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/198_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251086
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DEPELICULA/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="895", TCM
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/157_.ts
 http://45.167.3.81:45000/play/a039/index.m3u8
 http://45.181.123.233:8000/play/a0q4
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TCM/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",COMEDY CENTRAL
 #EXTVLCOPT--http-reconnect=true
@@ -768,6 +815,7 @@ http://45.228.234.167:8000/play/a03e/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:2000/play/a08t/index.m3u8
 http://tvmate.icu:8080/triniyoung891@yahoo.com/p4hgv3f3tn/57639
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISTRITOCOMEDIA/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Unicable
 ##EXTVLCOPT:network-caching=1000
@@ -778,6 +826,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414629
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/96217
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TLNOVELAS/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RCN NOVELAS
 ##EXTVLCOPT:network-caching=1000
@@ -815,6 +864,7 @@ http://181.78.12.164:9000/play/a03t
 http://45.167.3.81:45000/play/a05z/index.m3u8
 http://45.228.234.210:8000/play/a095/index.m3u8
 http://bazarpremium.digital:80/alex824qui/lo581dran4/96216
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/PASIONES/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Kanal D HD
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
@@ -831,11 +881,13 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 http://38.41.8.1:8000/play/a0a4
 http://45.186.105.215:9999/play/a00h/index.m3u8
 
+
 #EXTINF:0 type="stream" channelId="-1", A3 SERIES
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.41.8.1:8000/play/a00x
 http://45.186.105.215:9999/play/a00n/index.m3u8
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ATRESERIES/20-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Caracol 
 http://181.78.11.12:1010/play/a083/index.m3u8
@@ -849,6 +901,7 @@ http://200.115.120.1:8000/play/ca029/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://premierchile.shop:8080/982230692tv/623rpu/24946
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396773
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNTSERIES/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_tD10hs0YBc6MdYmpiIoDdK1HG8C9fhO0w&usqp=CAU",1 Directv sport
 ##EXTVLCOPT:network-caching=1000
@@ -1020,6 +1073,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/528
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/134_.ts
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ESPN2/20-hls/live-media.m3u8
 http://bazarpremium.digital:80/alex824qui/lo581dran4/250972
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411935
 
@@ -1091,6 +1145,7 @@ http://45.167.3.81:45000/play/a06b/index.m3u8
 http://45.186.105.215:9999/play/a067/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2540" , ESPN HD sur 
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ESPN/20-hls/live-media.m3u8
 http://181.78.11.12:1010/play/a08f/index.m3u8
 #EXTINF:0 type="stream" channelId="344" , ESPN 2 HD sur 
 http://181.78.11.12:1010/play/a04a/index.m3u8
@@ -1139,6 +1194,7 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/382361
 #EXTVLCOPT--http-reconnect=true
 http://190.185.121.102:58092/play/a00p
 http://181.78.27.128:8000/play/a063/index.m3u8
+https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TYC/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1367" , MOVISTAR LIGA
 http://181.78.105.146:8800/play/a07h
