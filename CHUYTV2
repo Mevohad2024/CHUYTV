@@ -883,6 +883,7 @@ http://200.115.96.66:4000/play/a02a/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://nxt.plus:8443/jesus01/jesus01/59250
+http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/9600
 
 #EXTINF:0 type="stream" channelId="0"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRarnK-_V5bcT-hU86OaDrXwfKKZer6Is_w&usqp=CAU", SKY LA LIGA
 ##EXTVLCOPT:network-caching=1000
@@ -1159,6 +1160,7 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/414560
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", ITV Deportes
 https://ovo.eelov.com/live/n-1/chunks.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/87717
 
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES HD
 ##EXTVLCOPT:network-caching=1000
@@ -1167,6 +1169,7 @@ http://200.115.120.1:8000/play/ca069/index.m3u8
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158850
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
 http://bazarpremium.digital:80/alex824qui/lo581dran4/382347
+http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/9607
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=175013&extension=ts
 
 #EXTINF:0 type="stream" channelId="4665" , PX SPORTS
