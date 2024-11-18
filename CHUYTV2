@@ -174,6 +174,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396746
 #EXTINF:0 type="stream" channelId="2557" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySya_l85w-lsa3DABk4A6723lA1E88XNylC7Qx2_CvFUZpvDshuouYp_d&s=10", WARNER
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://45.5.117.113:8000/play/a0nc/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396782
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/WARNERCHANNEL/40-hls/live-media.m3u8
 
@@ -557,7 +558,9 @@ http://home-playtv.com:8080/PieroRavaglia/RMBRX/52967
 #EXTINF:0 type="stream" channelId="3720" , A+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/24327.ts
+http://fastream.xyz:8080/novacon79/5544545/59466
+http://fastream.xyz:8080/novacon79/5544545/59469
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:0 type="stream" channelId="1954" ,1 Las estrellas
 ##EXTVLCOPT:network-caching=1000
@@ -978,6 +981,7 @@ https://nxt.plus:8443/jesus01/jesus01/29785
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",3 FS PREMIUM
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/992
+http://streamsy.online:2999/happy2024/newyear/992
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",4 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
