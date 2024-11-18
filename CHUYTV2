@@ -36,7 +36,6 @@ http://200.59.188.3:8000/play/a044
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/391814
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/NICKJR/20-hls/live-media.m3u8
 
-
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -85,7 +84,6 @@ http://190.242.41.219:8000/play/a02w/index.m3u8
 http://200.115.120.1:8000/play/ca005/index.m3u8
 http://179.49.163.34:45000/play/a011/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/382428
-
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
@@ -210,7 +208,6 @@ http://170.82.37.21:8000/play/a02u/index.m3u8
 http://45.186.105.215:9999/play/a05s/index.m3u8
 http://179.49.163.34:45000/play/a016/index.m3u8
 
-
 #EXTINF:0 type="stream" channelId="1694" , MC
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -240,7 +237,6 @@ http://168.181.122.234:8000/play/a02r/index.m3u8
 http://45.186.105.215:9999/play/a01e/index.m3u8
 http://200.115.96.66:4000/play/a02m/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396730
-
 
 #EXTINF:0 type="stream" channelId="2585" , HBO+
 ##EXTVLCOPT:network-caching=1000
@@ -494,7 +490,6 @@ https://marine2.miplay.cl/kpop/playlist.m3u8
 http://181.78.201.70:8000/play/a08w/index.m3u8
 http://home-playtv.com:8080/miralatin2243/JJKTU/53770
 
-
 #EXTINF:0 type="stream" channelId="1959" , BANDAMAX HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -573,7 +568,6 @@ http://200.115.120.1:8000/play/ca014/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" ,2 Las estrellas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/5_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/96218
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
 
@@ -609,7 +603,6 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/Teleformula/20-hls/live-media.m
 #EXTINF:0 type="stream" channelId="3127", Imagen tv
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/151_.ts
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/1695
 http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/39401
 http://189.154.58.15:9981/stream/channelid/1146467779
@@ -650,7 +643,6 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414615
 #EXTINF:0 type="stream" channelId="4651", 2 NU9VE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/191_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414616
 
 #EXTINF:0 type="stream" channelId="4651", 3 NU9VE
@@ -661,13 +653,11 @@ http://pro.boxdigital.org:8080/rolak283852/YYKwbcPcnjSS/182185
 #EXTINF:0 type="stream" channelId="-1", Milenio Televisión
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://premierchile.shop:8080/982230692tv/623rpu/59641
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414602
 
 
 #EXTINF:0 type="stream" channelId="-1", Excélsior Televisión
 #EXTVLCOPT--http-reconnect=true
-http://premierchile.shop:8080/982230692tv/623rpu/59625
 http://190.83.2.172:6001/stream/channelid/1412614893
 
 
@@ -707,7 +697,6 @@ http://cord-cutter.net:8080/489888/232212/15336
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/UNIVISION/40-hls/live-media.m3u8
 http://206.212.244.71:8080/4wVQA7/625159/108248
 
-
 #EXTINF:0 type="stream" channelId="3209" , 3 Univisión
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -735,7 +724,6 @@ http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410
 
 #EXTINF:0 type="stream" channelId="3779" , Universo
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/31_.ts
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 http://bazarpremium.digital:80/alex824qui/lo581dran4/96213
 
@@ -1020,7 +1008,6 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/528
 #EXTINF:0 type="stream" channelId="2540",1 ESPN MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/134_.ts
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ESPN2/20-hls/live-media.m3u8
 http://bazarpremium.digital:80/alex824qui/lo581dran4/250972
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411935
@@ -1028,7 +1015,6 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/411935
 #EXTINF:0 type="stream" channelId="2540",2 ESPN MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://premierchile.shop:8080/982230692tv/623rpu/519
 http://masterprotv1.com:8080/56961561564faceztv/191022ztv/409
 http://masterprotv1.com:8080/56961561564faceztv/191022ztv/191533
 
@@ -1039,13 +1025,11 @@ http://45.186.105.215:9999/play/a064/index.m3u8
 #EXTINF:0 type="stream" channelId="344",1 ESPN 2 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/135_.ts
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411941
 
 #EXTINF:0 type="stream" channelId="344",2 ESPN 2 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://premierchile.shop:8080/982230692tv/623rpu/24915
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411940
 
 #EXTINF:0 type="stream" channelId="344",3 ESPN 2
@@ -1055,13 +1039,11 @@ http://45.186.105.215:9999/play/a065/index.m3u8
 #EXTINF:0 type="stream" channelId="355",1 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/136_.ts
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411945
 
 #EXTINF:0 type="stream" channelId="355",2 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://premierchile.shop:8080/982230692tv/623rpu/59515
 http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775801
 http://fastream.xyz:8080/964888770tv/988n21/511
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411944
