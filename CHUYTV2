@@ -1002,7 +1002,7 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/419571
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://likea8bitboss.xyz:80/Colleenjosh/5869470231/5935
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:EA:3C:FA&stream=1497106&extension=m3u8
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/528
 
 
@@ -1045,7 +1045,6 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/411945
 #EXTINF:0 type="stream" channelId="355",2 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775801
 http://fastream.xyz:8080/964888770tv/988n21/511
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411944
 
@@ -1061,7 +1060,6 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/411948
 #EXTINF:0 type="stream" channelId="1432" ,2 ESPN 4 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://likea8bitboss.xyz:80/Colleenjosh/5869470231/775802
 #EXTINF:0 type="stream" channelId="1432" ,3 ESPN 4 MX
 http://45.167.3.81:45000/play/a064/index.m3u8
 http://45.186.105.215:9999/play/a02i/index.m3u8
