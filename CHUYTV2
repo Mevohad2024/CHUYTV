@@ -203,20 +203,21 @@ http://168.90.15.141:12345/play/a03u
 http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/216_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396683
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AMC/40-hls/live-media.m3u8
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174789&extension=ts
 
 #EXTINF:0 type="stream" channelId="1326" , Cinemax
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/197_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251112
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174834&extension=ts
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CINEMAX/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="64" , CINECANAL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.175.139.194:8000/play/36
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/171_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396698
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174833&extension=ts
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/CINECANAL/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="292" , MULTIPREMIER  HD
@@ -583,11 +584,13 @@ http://home-playtv.com:8080/miralatin2243/JJKTU/217140
 http://181.78.105.146:2000/play/a04c/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",1 Azteca 1
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/1_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251115
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",2 Azteca 1
 http://masterprotv1.com:8080/56961561564faceztv/191022ztv/32964
+
+#EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",2 Azteca 1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174806&extension=ts
 
 #EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
 ##EXTVLCOPT:network-caching=1000
@@ -619,11 +622,9 @@ http://45.232.176.17:8000/play/a021
 http://45.232.176.17:8000/play/a02d
 http://179.189.222.226:8000/play/ch44
 
-
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 1 Cnco
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/8_.ts
 http://200.115.120.1:8000/play/ca0105/index.m3u8
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
 
@@ -633,8 +634,10 @@ http://45.186.105.215:9999/play/a06n/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://premierchile.shop:8080/982230692tv/623rpu/24902
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414585
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174821&extension=ts
 
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414595
@@ -656,12 +659,13 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
 #EXTINF:0 type="stream" channelId="255",2 Azteca 7
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
 #EXTINF:0 type="stream" channelId="255",3 Azteca 7
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/4_.ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414568
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/20-hls/live-media.m3u8
 
@@ -676,6 +680,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251114
 http://170.82.37.21:8000/play/a02n/index.m3u8
 http://190.92.10.66:4000/play/a007/index.m3u8
 http://45.186.105.215:9999/play/a06k/index.m3u8
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174801&extension=ts
 
 #EXTINF:0 type="stream" channelId="4651", 1 NU9VE
 ##EXTVLCOPT:network-caching=1000
@@ -903,14 +908,14 @@ http://premierchile.shop:8080/982230692tv/623rpu/24946
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396773
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNTSERIES/40-hls/live-media.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_tD10hs0YBc6MdYmpiIoDdK1HG8C9fhO0w&usqp=CAU",1 Directv sport
+#EXTINF:0 type="stream" channelId="-1" logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Directv%20Sport.png",1 Directv sport
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://177.53.155.236:8000/play/a0co/index.m3u8
 http://stkip.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/33608
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/337752
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://pelotalibre.com/img/logo-canal/dsports_2.webp",1 Directv sport2
+#EXTINF:0 type="stream" channelId="-1" logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Direct%20Tv%20Sports%202%20HD.png",1 Directv sport2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://stkip.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/37484
@@ -960,7 +965,6 @@ http://45.175.139.194:8000/play/a00a
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 1 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/80_.ts
 http://bazarpremium.digital:80/alex824qui/lo581dran4/428433
 
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 2 Foxdeportes
@@ -973,7 +977,6 @@ http://feextesca.fyi:2082/alemer1804old2/rcCrGm2SgZ5Y/389722
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",1 FSMX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/141_.ts
 http://bazarpremium.digital:80/alex824qui/lo581dran4/250971
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",2 FSMX
@@ -991,6 +994,9 @@ http://200.115.96.66:4000/play/a0jx/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",4 FSMX
 http://stkip.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/5616
+
+#EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",5 FSMX
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174896&extension=ts
 
 #EXTINF:0 type="stream" channelId="179",1 FSM 2
 ##EXTVLCOPT:network-caching=1000
@@ -1236,11 +1242,11 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://premierchile.shop:8080/982230692tv/623rpu/24950
 http://200.115.120.1:8000/play/ca069/index.m3u8
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158850
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
 http://bazarpremium.digital:80/alex824qui/lo581dran4/382347
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=175013&extension=ts
 
 #EXTINF:0 type="stream" channelId="4665" , PX SPORTS
 ##EXTVLCOPT:network-caching=1000
@@ -1254,10 +1260,10 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/414559
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411971
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (MX)
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/161_.ts
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411973
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (MX)
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174978&extension=ts
 http://45.186.105.215:9999/play/a06q/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",3 TUDN HD (MX)
@@ -1270,7 +1276,6 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 http://190.185.121.102:58092/play/a00m
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (MX)
-http://fastream.xyz:8080/waldoravanaltv/4f8g2k2g/247845
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411972
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (MX)
