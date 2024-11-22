@@ -1,5 +1,15 @@
 #EXTM3U
 
+
+#EXTINF:0, CHIVAS VS ATLAS
+http://masterprotv1.com:8080/56961561564faceztv/191022ztv/247167
+
+#EXTINF:0, AMERICA VS XOLOS
+http://masterprotv1.com:8080/56961561564faceztv/191022ztv/247178
+#EXTINF:0, AMERICA VS XOLOS
+http://masterprotv1.com:8080/56961561564faceztv/191022ztv/247179
+
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://179.1.78.254:9001/play/a08d
 http://45.175.139.194:8000/play/27
