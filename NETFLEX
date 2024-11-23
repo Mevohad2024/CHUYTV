@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAC2yDjppJqHQthG0bIkMga3a6iu7h_mb1RR3Ujvk_GhyUDvH1ILL_wpKX&s=10" , Tornados
+http://fastream.xyz:8080/movie/38feva75zu57ku98/47wuma84duwe57/251128.mp4
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvbBOONSvr6izZBbaR1IHaml2Wz41jbzrYantWVnMJkZsvvPM8Rx_Izdeu&s=10" , My hero academy
 http://masterplaycol.club:8080/movie/Martv1971/G5cSzPMeRUuH/648559.mkv
 
