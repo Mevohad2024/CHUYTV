@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAnsBeaM0M6gUxWRyB5zWymAWFbbcESt_lFkaypgyJNuxJwuapbi0Pipk&s=10" ,Atlantis
+http://ultrapremium.cloud:8080/movie/renemellado549023/549023renemellado/249557.mkv
+
+#EXTINF:-1 logo= "https://es.web.img2.acsta.net/pictures/210/200/21020028_20130716171727099.jpg" , Atlanteis 2
+http://ultrapremium.cloud:8080/movie/renemellado549023/549023renemellado/249556.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbNNsmWSLZYqRmwxD2YPRkHKihCBP6HbJcA&s" ,wiked
 http://home-playtv.com:8080/movie/miralatin2243/JJKTU/568489.mkv
 
