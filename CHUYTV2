@@ -96,6 +96,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251111
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AYE/40-hls/live-media.m3u8
 http://feextesca.fyi:2082/alemer1804old2/rcCrGm2SgZ5Y/372607
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/LIFETIME/40-hls/live-media.m3u8
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263279.m3u
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
@@ -103,6 +104,7 @@ https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/LIFETIME/40-hls/live-m
 http://45.175.139.194:8000/play/a00r
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=174792&extension=ts
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396685
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263277.m3u
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AXN/40-hls/live-media.m3u8
 
@@ -111,26 +113,30 @@ https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AXN/40-hls/live-media.
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca031/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/96202
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263298.m3u
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ENTERTAINMENT/20-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1200" , LIFETIME
 http://200.115.120.1:8000/play/ca051/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251100
-
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263440.m3u
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/301432.m3u
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396754
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/STAR/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1303" , FX
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263442.m3u
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396713
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/FX/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="1052" , TNT
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263280.m3u
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251096
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNT/40-hls/live-media.m3u8
 
@@ -141,6 +147,7 @@ http://170.83.242.9:4000/play/a10b
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251095
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/UNIVERSAL/40-hls/live-media.m3u8
 http://feextesca.fyi:2082/alemer1804old2/rcCrGm2SgZ5Y/372716
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263283.m3u
 
 #EXTINF:0 type="stream" channelId="1719" , PARAMOUNT
 ##EXTVLCOPT:network-caching=1000
@@ -170,6 +177,7 @@ https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/SPACE/40-hls/live-medi
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251079
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263347.m3u
 
 #EXTINF:0 type="stream" channelId="1214" , Sony movies
 ##EXTVLCOPT:network-caching=1000
@@ -179,6 +187,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396746
 #EXTINF:0 type="stream" channelId="2557" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySya_l85w-lsa3DABk4A6723lA1E88XNylC7Qx2_CvFUZpvDshuouYp_d&s=10", WARNER
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263282.m3u
 http://45.5.117.113:8000/play/a0nc/index.m3u8
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396782
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/WARNERCHANNEL/40-hls/live-media.m3u8
@@ -990,6 +999,7 @@ https://nxt.plus:8443/jesus01/jesus01/29785
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",3 FS PREMIUM
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/992
 http://streamsy.online:2999/happy2024/newyear/992
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/301428.m3u
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",4 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
