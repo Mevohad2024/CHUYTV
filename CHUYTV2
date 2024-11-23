@@ -923,6 +923,7 @@ http://feextesca.fyi:2082/alemer1804old2/rcCrGm2SgZ5Y/389722
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://bazarpremium.digital:80/alex824qui/lo581dran4/250971
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27981.m3u
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",2 FSMX
 ##EXTVLCOPT:network-caching=1000
@@ -947,6 +948,7 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174896&exte
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://bazarpremium.digital:80/alex824qui/lo581dran4/250970
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27982.m3u
 
 #EXTINF:0 type="stream" channelId="179",2 FSM 2
 ##EXTVLCOPT:network-caching=1000
@@ -964,6 +966,7 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/411963
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://bazarpremium.digital:80/alex824qui/lo581dran4/250969
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27983.m3u
 
 #EXTINF:0 type="stream" channelId="180",2 FSM 3
 ##EXTVLCOPT:network-caching=1000
