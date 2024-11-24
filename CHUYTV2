@@ -77,18 +77,13 @@ http://feextesca.fyi:2082/alemer1804old2/rcCrGm2SgZ5Y/389744
 http://190.242.41.219:8000/play/a02w/index.m3u8
 http://200.115.120.1:8000/play/ca005/index.m3u8
 http://179.49.163.34:45000/play/a011/index.m3u8
-http://feextesca.fyi:2082/alemer1804old2/rcCrGm2SgZ5Y/178178
+
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://futuretvplus.com:25461/live/RauRiv4844/EfJL239kezcd/168_.ts
-http://45.175.139.194:8000/play/a00q
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251111
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/AYE/40-hls/live-media.m3u8
-http://feextesca.fyi:2082/alemer1804old2/rcCrGm2SgZ5Y/372607
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/LIFETIME/40-hls/live-media.m3u8
-http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263279.m3u
+http://45.175.139.194:8000/play/a00q
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
