@@ -63,9 +63,6 @@ https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISNEYJR/40-hls/live-m
 #EXTVLCOPT--http-reconnect=true
 http://38.41.8.1:8000/play/a00q
 http://200.115.120.1:8000/play/ca012/index.m3u8
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/391805
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/DISNEYCHANNEL/40-hls/live-media.m3u8
-http://feextesca.fyi:2082/alemer1804old2/rcCrGm2SgZ5Y/389778
 
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
 ##EXTVLCOPT:network-caching=1000
