@@ -6,6 +6,7 @@ http://45.175.139.194:8000/play/27
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/382418
+http://168.181.122.234:8000/play/a012/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
 http://45.175.139.194:8000/play/26
