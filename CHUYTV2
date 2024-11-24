@@ -111,9 +111,8 @@ http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263440.m3u
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/301432.m3u
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396754
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/STAR/40-hls/live-media.m3u8
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/301432.m3u
 
 #EXTINF:0 type="stream" channelId="1303" , FX
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263442.m3u
