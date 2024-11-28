@@ -6,6 +6,9 @@ http://tvlatino.club:2082/devil40/VkCBMYP78uZn/510350
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC9D66SKu0LmYQytzS0BHU_dOyNKo9BZvTO-y8KkAgeYThEMOSsr05-n7J&s=10" , Xolos Vs Cruz azul
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/510351
 
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC9D66SKu0LmYQytzS0BHU_dOyNKo9BZvTO-y8KkAgeYThEMOSsr05-n7J&s=10" , Xolos Vs Cruz azul
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/416820.m3u
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",3 TUDN HD (US)
 http://45.5.117.182:8000/play/a0km/index.m3u8
 
