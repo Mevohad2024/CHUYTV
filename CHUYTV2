@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="-1" logo=" " , America Vs Toluca
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTlcmZPMc0-ZlOeLSwfIEyf1PP-4FprHDmU1jEZ0F-5fKCFLXLm25E5lON&s=10" , America Vs Toluca
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/510350
 
-#EXTINF:0 type="stream" channelId="-1" logo=" " , Xolos Vs Cruz azul
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC9D66SKu0LmYQytzS0BHU_dOyNKo9BZvTO-y8KkAgeYThEMOSsr05-n7J&s=10" , Xolos Vs Cruz azul
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/510351
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
