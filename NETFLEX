@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe9rm7XlM5RjwV3r5BBWaAFyC7bv0U6WWvQw&s ", moana
+http://teerom.site:8080/movie/USERMTV06/%40%40%40111aaa0%40z/678686.mp4
+
 
 #EXTINF:-1 logo= "https://resizing.flixster.com/X_ySy6FjnVfBkXDM-lxqjoVUdug=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJlZjMyNDkwLTUxZjEtNDYxZi05MDgwLWU3Y2Q1ZmJmZDY3ZS5qcGc=" , Bonhoeffer
 http://bazarpremium.digital:80/movie/Bzpvaldes070623/nTGpjUG5fNRt/435107.mkv
