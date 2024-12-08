@@ -1,11 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDueW2jPDE3_EU0Kbq0oAVP-ODZI4czqZ4bnccT6Q2L1wipwU9HOb2mCc&s=10" , wish
+http://weib-tv.com:80/movie/Bzpvaldes070623/nTGpjUG5fNRt/488513.mkv
 
 #EXTINF:-1 logo= "https://resizing.flixster.com/X_ySy6FjnVfBkXDM-lxqjoVUdug=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJlZjMyNDkwLTUxZjEtNDYxZi05MDgwLWU3Y2Q1ZmJmZDY3ZS5qcGc=" , Bonhoeffer
 http://bazarpremium.digital:80/movie/Bzpvaldes070623/nTGpjUG5fNRt/435107.mkv
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAnsBeaM0M6gUxWRyB5zWymAWFbbcESt_lFkaypgyJNuxJwuapbi0Pipk&s=10" ,Atlantis
-http://ultrapremium.cloud:8080/movie/renemellado549023/549023renemellado/249557.mkv
 
 #EXTINF:-1 logo= "https://es.web.img2.acsta.net/pictures/210/200/21020028_20130716171727099.jpg" , Atlanteis 2
 http://ultrapremium.cloud:8080/movie/renemellado549023/549023renemellado/249556.mkv
