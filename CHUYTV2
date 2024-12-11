@@ -3,6 +3,7 @@
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://45.175.139.194:8000/play/27
 http://45.175.139.194:8000/play/27
+http://148.113.190.252:8000/play/bitmehd
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/382418
@@ -126,6 +127,7 @@ https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/FX/40-hls/live-media.m
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263280.m3u
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251096
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TNT/40-hls/live-media.m3u8
+http://148.113.190.252:8000/play/a00t
 
 #EXTINF:0 type="stream" channelId="187" , UNIVERSAL
 ##EXTVLCOPT:network-caching=1000
@@ -148,6 +150,7 @@ https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/PARAMOUNT/40-hls/live-
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.83.2.172:6001/stream/channelid/1018552244
+http://148.113.190.252:8000/play/a025
 
 #EXTINF:0 type="stream" channelId="2625" , STUDIO UNIVERSAL
 ##EXTVLCOPT:network-caching=1000
@@ -253,11 +256,13 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396734
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396737
+http://148.113.190.252:8000/play/a011
 
 #EXTINF:0 type="stream" channelId="361" , HBO POP
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396792
+http://148.113.190.252:8000/play/a00z
 
 #EXTINF:0 type="stream" channelId="2587" , HBO XTREME
 ##EXTVLCOPT:network-caching=1000
@@ -920,6 +925,7 @@ http://feextesca.fyi:2082/alemer1804old2/rcCrGm2SgZ5Y/389722
 #EXTVLCOPT--http-reconnect=true
 http://bazarpremium.digital:80/alex824qui/lo581dran4/250971
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27981.m3u
+http://148.113.190.252:8000/play/a01n
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",2 FSMX
 ##EXTVLCOPT:network-caching=1000
@@ -945,6 +951,7 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174896&exte
 #EXTVLCOPT--http-reconnect=true
 http://bazarpremium.digital:80/alex824qui/lo581dran4/250970
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27982.m3u
+http://148.113.190.252:8000/play/a01p
 
 #EXTINF:0 type="stream" channelId="179",2 FSM 2
 ##EXTVLCOPT:network-caching=1000
@@ -963,6 +970,7 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/411963
 #EXTVLCOPT--http-reconnect=true
 http://bazarpremium.digital:80/alex824qui/lo581dran4/250969
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27983.m3u
+http://148.113.190.252:8000/play/a01r
 
 #EXTINF:0 type="stream" channelId="180",2 FSM 3
 ##EXTVLCOPT:network-caching=1000
@@ -993,6 +1001,7 @@ http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/301428.m3u
 #EXTVLCOPT--http-reconnect=true
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411968
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/285169.m3u
+http://148.113.190.252:8000/play/fspre
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",5 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
@@ -1028,6 +1037,7 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/411935
 #EXTVLCOPT--http-reconnect=true
 http://masterprotv1.com:8080/56961561564faceztv/191022ztv/409
 http://masterprotv1.com:8080/56961561564faceztv/191022ztv/191533
+http://148.113.190.252:8000/play/espn1hd
 
 #EXTINF:0 type="stream" channelId="2540",3 ESPN MX
 http://168.181.122.234:8000/play/a042/index.m3u8
@@ -1042,6 +1052,7 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/411941
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411940
+http://148.113.190.252:8000/play/a00d
 
 #EXTINF:0 type="stream" channelId="344",3 ESPN 2
 http://45.167.3.81:45000/play/a069/index.m3u8
@@ -1057,6 +1068,7 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/411945
 #EXTVLCOPT--http-reconnect=true
 http://fastream.xyz:8080/964888770tv/988n21/511
 http://bazarpremium.digital:80/alex824qui/lo581dran4/411944
+http://148.113.190.252:8000/play/a00f
 
 #EXTINF:0 type="stream" channelId="355",3 ESPN 3 
 http://45.167.3.81:45000/play/a06a/index.m3u8
@@ -1132,6 +1144,7 @@ http://bazarpremium.digital:80/alex824qui/lo581dran4/382361
 http://190.185.121.102:58092/play/a00p
 http://181.78.27.128:8000/play/a063/index.m3u8
 https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TYC/40-hls/live-media.m3u8
+http://148.113.190.252:8000/play/a022
 
 #EXTINF:0 type="stream" channelId="1367" , MOVISTAR LIGA
 http://181.78.105.146:8800/play/a07h
@@ -1223,6 +1236,9 @@ http://cord-cutter.net:8080/zcJ8BG/214917/21644
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",10 TUDN HD (MX)
 http://167.250.223.27:8085/play/a00d/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",11 TUDN HD (MX)
+http://148.113.190.252:8000/play/tudnhd
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (US)
 http://tvmate.icu:8080/Alan/Alan1234/82241
