@@ -849,14 +849,12 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396773
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://177.53.155.236:8000/play/a0co/index.m3u8
-http://stkip.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/33608
 http://weib-tv.com:80/Bzpvaldes070623/nTGpjUG5fNRt/69547.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Direct%20Tv%20Sports%202%20HD.png",1 Directv sport2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://stkip.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/37484
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/337753
+http://weib-tv.com:80/Bzpvaldes070623/nTGpjUG5fNRt/69549.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebWz0gUaBzK7N-JdqHh6LW66zII4C0y3ZSA&usqp=CAU",1 Directv sport +
 ##EXTVLCOPT:network-caching=1000
