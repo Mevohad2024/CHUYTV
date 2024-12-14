@@ -895,6 +895,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/92
 http://tv.soccerplus.link:8000/0fSP1U7Vrn/y6U6IOaagA/92694
 http://190.60.33.245:4002/play/a0hw/index.m3u8
 http://45.175.139.194:8000/play/a00a
+http://148.113.190.252:8000/play/a01j
 
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 1 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
