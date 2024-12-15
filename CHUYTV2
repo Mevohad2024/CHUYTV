@@ -1058,11 +1058,11 @@ http://45.167.3.81:45000/play/a04a/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="1686", GOLTV
-
+http://167.250.135.246:81/play/a0a2/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="1686" , Gol Peru HD
-
+http://167.250.135.246:81/play/a0a8/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3802", TYC SPORT
 #EXTVLCOPT--http-reconnect=true
