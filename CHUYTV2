@@ -201,14 +201,14 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396698
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.211.244:8000/play/a01h/index.m3u8
-http://170.82.37.21:8000/play/a02u/index.m3u8
+http://45.167.3.81:45000/play/a05e/index.m3u8
 http://45.186.105.215:9999/play/a05s/index.m3u8
 http://179.49.163.34:45000/play/a016/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1694" , MC
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://170.82.37.21:8000/play/a02s/index.m3u8
+http://45.167.3.81:45000/play/a03a/index.m3u8
 http://45.186.105.215:9999/play/a042/index.m3u8
 http://179.49.163.34:45000/play/a01w/index.m3u8
 
@@ -1187,6 +1187,7 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=175013&exte
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a0e0/index.m3u8
 http://45.186.105.215:9999/play/a03w/index.m3u8
+http://45.167.3.81:45000/play/a033/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLDlluHOF6kUAw8AR-fbW7oRFSx3_MYZnReXWrkEjkuw-WrsvXoJr7ko&s=10", ADRENALINA
 http://bazarpremium.digital:80/alex824qui/lo581dran4/414559
