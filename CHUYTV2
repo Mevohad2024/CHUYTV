@@ -1154,7 +1154,6 @@ http://45.186.105.215:9999/play/a06q/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (MX)
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174978&extension=ts
 
-
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",3 TUDN HD (MX)
 http://45.5.117.182:8000/play/lh0jp/index.m3u8
 
@@ -1165,7 +1164,7 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 http://190.185.121.102:58092/play/a00m
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (MX)
-
+http://186.113.25.223:62837/play/a003
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (MX)
 http://206.212.244.71:8080/4wVQA7/625159/11885
