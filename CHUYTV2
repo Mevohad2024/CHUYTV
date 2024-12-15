@@ -1116,12 +1116,14 @@ http://192.141.99.3:8000/play/a036
 #EXTVLCOPT--http-reconnect=true
 http://45.172.223.42:8000/play/a022/index.m3u8
 http://190.60.33.245:4002/play/a0t0/index.m3u8
+http://190.60.38.45:8000/play/a0dp/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Win Sports+
 ##EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT--http-reconnect=true
 http://45.172.223.42:8000/play/a02n/index.m3u8
 http://190.60.33.245:4002/play/a0to/index.m3u8
+http://190.60.49.243:4000/play/a050
 http://186.167.80.82:8126/play/a0gn/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9V8Hc6ZO1A6gweWLrsJ1FqbmwfCgrqj_VK2Rmhci2OIwN9gnUZlVO-Q&s=10" , Latin America Sport
