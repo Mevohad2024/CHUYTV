@@ -175,7 +175,7 @@ http://148.113.190.252:8000/play/a03d
 #EXTINF:0 type="stream" channelId="64" , CINECANAL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://186.159.15.101:8004/play/a0c7/index.m3u8
 
 
 
@@ -364,12 +364,13 @@ http://200.115.98.26:9000/play/a00m/index.m3u8
 #EXTINF:0 type="stream" channelId="57" , DISCOVERY CHANNEL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=
-
+http://186.159.15.101:8004/play/a0e1/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://186.159.15.101:8004/play/a0e6/index.m3u8
 http://45.5.117.182:8000/play/a0jy/index.m3u8
 
 
@@ -397,7 +398,7 @@ http://148.113.190.252:8000/play/a02t
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca087/index.m3u8
-
+http://186.159.15.101:8004/play/a0e7/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="1040" , DISCOVERY TLC HD
@@ -415,6 +416,7 @@ http://186.159.15.101:8004/play/a0e9/index.m3u8
 #EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://186.159.15.101:8004/play/a0e2/index.m3u8
 http://45.186.105.215:9999/play/a02m/index.m3u8
 
 
