@@ -6,6 +6,7 @@ http://186.159.15.101:8004/play/a0da/index.m3u8
 http://148.113.190.252:8000/play/bitmehd
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
+http://186.159.15.101:8004/play/a0cf/index.m3u8
 http://148.113.190.252:8000/play/a02r
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
@@ -14,6 +15,7 @@ http://190.102.246.93:9005/play/a03c
 
 #EXTINF:0 type="stream" channelId="41",Nickelodeon HD
 http://200.115.120.1:8000/play/ca008/index.m3u8
+http://186.159.15.101:8004/play/a0ce/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TeenNick
 http://45.186.105.215:9999/play/a02l/index.m3u8
