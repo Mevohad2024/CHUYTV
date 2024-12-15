@@ -121,7 +121,6 @@ http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263442.m3u
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263280.m3u
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251096
 http://148.113.190.252:8000/play/a00t
 
 #EXTINF:0 type="stream" channelId="187" , UNIVERSAL
@@ -241,19 +240,17 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396730
 http://168.181.122.234:8000/play/a02x/index.m3u8
 http://45.186.105.215:9999/play/a01d/index.m3u8
 http://200.115.96.66:4000/play/a02n/index.m3u8
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396732
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396734
+
+
 
 #EXTINF:0 type="stream" channelId="2583" , HBO SIGNATURE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396737
 http://148.113.190.252:8000/play/a011
 
 #EXTINF:0 type="stream" channelId="361" , HBO POP
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/396792
 http://148.113.190.252:8000/play/a00z
 
 #EXTINF:0 type="stream" channelId="2587" , HBO XTREME
@@ -509,8 +506,7 @@ http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/405798
 http://204.199.89.187:14002/play/a00q/index.m3u8
 http://179.1.78.254:9001/play/a08o
 http://45.175.139.194:8000/play/62
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/405797
-
+http://148.113.190.252:8000/play/telehithd
 
 #EXTINF:0 type="stream" channelId="2146" , TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -589,13 +585,13 @@ http://45.186.105.215:9999/play/a06n/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414585
+
 
 
 
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414595
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
+http://148.113.190.252:8000/play/a00r
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado_400x400.jpg", TELEFORMULA HD
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/Teleformula/20-hls/live-media.m3u8
@@ -760,12 +756,12 @@ http://45.228.234.167:8000/play/a03e/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.105.146:2000/play/a08t/index.m3u8
 http://tvmate.icu:8080/triniyoung891@yahoo.com/p4hgv3f3tn/57639
-
+http://148.113.190.252:8000/play/a00j
 
 #EXTINF:0 type="stream" channelId="-1", Unicable
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414629
+http://148.113.190.252:8000/play/a00v
 
 #EXTINF:0 type="stream" channelId="-1", TLNovelas
 ##EXTVLCOPT:network-caching=1000
@@ -1178,7 +1174,6 @@ http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/87717
 http://200.115.120.1:8000/play/ca069/index.m3u8
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158850
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
-http://bazarpremium.digital:80/alex824qui/lo581dran4/382347
 http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/9607
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=175013&extension=ts
 
@@ -1190,18 +1185,17 @@ http://45.186.105.215:9999/play/a03w/index.m3u8
 http://45.167.3.81:45000/play/a033/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLDlluHOF6kUAw8AR-fbW7oRFSx3_MYZnReXWrkEjkuw-WrsvXoJr7ko&s=10", ADRENALINA
-http://bazarpremium.digital:80/alex824qui/lo581dran4/414559
+http://148.113.190.252:8000/play/a013
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWcwYX2OO5812XT9efEZyh-VHB2LdxY6ZmxGsZex3mORRDhCyKVRmRH00&s=10", CalienteTV
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411971
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/416820.m3u
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (MX)
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411973
+http://45.186.105.215:9999/play/a06q/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (MX)
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174978&extension=ts
-http://45.186.105.215:9999/play/a06q/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",3 TUDN HD (MX)
 http://45.5.117.182:8000/play/lh0jp/index.m3u8
@@ -1213,7 +1207,7 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 http://190.185.121.102:58092/play/a00m
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (MX)
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411972
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (MX)
 http://206.212.244.71:8080/4wVQA7/625159/11885
