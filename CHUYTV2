@@ -51,11 +51,13 @@ http://148.113.190.252:8000/play/a02x
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca009/index.m3u8
 http://tv.proyectox.vip:8080/live/Blackiekoko1/J2N4tmBxpL/9868_.ts
+http://179.189.222.226:16123/play/ch05
 
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.41.8.1:8000/play/a00q
+http://179.189.222.226:16123/play/ch03
 http://200.115.120.1:8000/play/ca012/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
