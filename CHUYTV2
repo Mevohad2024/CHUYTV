@@ -329,19 +329,17 @@ http://190.102.246.93:9005/play/a03t
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.167.3.81:45000/play/a038/index.m3u8
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251105
+http://148.113.190.252:8000/play/a017
 
 
 #EXTINF:0 type="stream" channelId="2502", GOLDEN EDGE
-http://masterprotv1.com:8080/56961561564faceztv/191022ztv/368
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251104
+http://148.113.190.252:8000/play/a019
 
 
 #EXTINF:0 type="stream" channelId="3765" , GOLDENPLUS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://masterprotv1.com:8080/56961561564faceztv/191022ztv/370
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251103
+http://148.113.190.252:8000/play/a01b
 
 
 #EXTINF:0 type="stream" channelId="1963" ,GOLDEN PREMIER
@@ -490,8 +488,11 @@ http://home-playtv.com:8080/miralatin2243/JJKTU/53770
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.60.33.245:4002/play/a0l2/index.m3u8
-http://45.175.139.194:8000/play/64
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414579
+
+
+
+#EXTINF:0 type="stream" channelId="1966" , TELEHIT MUSICA
+http://148.113.190.252:8000/play/a01f
 
 #EXTINF:0 type="stream" channelId="1966" , TELEHIT PLUS
 ##EXTVLCOPT:network-caching=1000
@@ -600,9 +601,8 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/Teleformula/20-hls/live-media.m
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/1695
-http://mstrtv.com:25461/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/39401
-http://189.154.58.15:9981/stream/channelid/1146467779
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
+http://148.113.190.252:8000/play/a01l
 
 #EXTINF:0 type="stream" channelId="255",1 Azteca 7
 ##EXTVLCOPT:network-caching=1000
@@ -634,7 +634,7 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174801&exte
 #EXTINF:0 type="stream" channelId="4651", 1 NU9VE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/414615
+http://148.113.190.252:8000/play/a01d
 
 #EXTINF:0 type="stream" channelId="4651", 2 NU9VE
 ##EXTVLCOPT:network-caching=1000
@@ -739,7 +739,7 @@ http://200.115.120.1:8000/play/ca059/index.m3u8
 #EXTINF:0 type="stream" channelId="134", DPELICULA PLUS
 ##EXTVLCOPT:network-caching, =1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/251086
+http://148.113.190.252:8000/play/a015
 
 
 #EXTINF:0 type="stream" channelId="895", TCM
@@ -766,7 +766,7 @@ http://148.113.190.252:8000/play/a00v
 #EXTINF:0 type="stream" channelId="-1", TLNovelas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/Bzpvaldes070623/nTGpjUG5fNRt/96217
+http://148.113.190.252:8000/play/a01h
 
 
 #EXTINF:0 type="stream" channelId="-1",RCN NOVELAS
@@ -890,7 +890,6 @@ http://200.115.96.66:4000/play/a029/index.m3u8
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/92
 http://tv.soccerplus.link:8000/0fSP1U7Vrn/y6U6IOaagA/92694
 http://190.60.33.245:4002/play/a0hw/index.m3u8
-http://45.175.139.194:8000/play/a00a
 http://148.113.190.252:8000/play/a01j
 
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 1 Foxdeportes
@@ -908,100 +907,81 @@ http://streamsy.online:2999/korrigan17/25AUFBdqOi/266
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",1 FSMX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/alex824qui/lo581dran4/250971
-http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27981.m3u
 http://148.113.190.252:8000/play/a01n
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",2 FSMX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://toh-pan.xyz:8080/tanesharjohnson@yahoo.com/dePfa9mKejUP/854670
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411959
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27981.m3u
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",3 FSMX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://200.52.148.194:8000/play/a0e1/index.m3u8
 http://200.115.120.1:8000/play/ca041/index.m3u8
-http://200.115.96.66:4000/play/a0jx/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",4 FSMX
-http://stkip.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/5616
-
-#EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",5 FSMX
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=174896&extension=ts
 
 #EXTINF:0 type="stream" channelId="179",1 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/alex824qui/lo581dran4/250970
-http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27982.m3u
 http://148.113.190.252:8000/play/a01p
 
 #EXTINF:0 type="stream" channelId="179",2 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://toh-pan.xyz:8080/tanesharjohnson@yahoo.com/dePfa9mKejUP/854672
 http://200.115.96.66:4000/play/a0h1/index.m3u8
 
 #EXTINF:0 type="stream" channelId="179",3 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://stkip.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/3090
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411963
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27982.m3u
 
 #EXTINF:0 type="stream" channelId="180",1 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/alex824qui/lo581dran4/250969
-http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27983.m3u
 http://148.113.190.252:8000/play/a01r
 
 #EXTINF:0 type="stream" channelId="180",2 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/100
-http://toh-pan.xyz:8080/tanesharjohnson@yahoo.com/dePfa9mKejUP/854674
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411967
+http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27983.m3u
 
 #EXTINF:0 type="stream" channelId="180",3 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca126/index.m3u8
-http://stkip.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/3092
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",1 FS PREMIUM
-http://bazarpremium.digital:80/alex824qui/lo581dran4/250968
+http://streamsy.online:2999/happy2024/newyear/992
+http://148.113.190.252:8000/play/fspre
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",2 FS PREMIUM
-https://nxt.plus:8443/jesus01/jesus01/29785
+http://45.5.117.182:8000/play/j0b9/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",3 FS PREMIUM
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/992
-http://streamsy.online:2999/happy2024/newyear/992
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/301428.m3u
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",4 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411968
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/285169.m3u
-http://148.113.190.252:8000/play/fspre
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",5 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://stkip.ddns.me:2082/restreamtvplux/Mhsi3wMSJSEjska343255/5616
+https://nxt.plus:8443/jesus01/jesus01/29785
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",6 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.5.117.182:8000/play/j0b9/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/alex824qui/lo581dran4/419571
+
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
