@@ -79,7 +79,7 @@ http://45.175.139.194:8000/play/a00q
 #EXTVLCOPT--http-reconnect=true
 http://45.175.139.194:8000/play/a00r
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263277.m3u
-
+http://148.113.190.252:8000/play/a03f
 
 
 #EXTINF:0 type="stream" channelId="1188" , E!1
@@ -956,15 +956,13 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/528
 #EXTINF:0 type="stream" channelId="2540",1 ESPN MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/ESPN2/20-hls/live-media.m3u8
-http://bazarpremium.digital:80/alex824qui/lo581dran4/250972
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411935
+
+
+
 
 #EXTINF:0 type="stream" channelId="2540",2 ESPN MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://masterprotv1.com:8080/56961561564faceztv/191022ztv/409
-http://masterprotv1.com:8080/56961561564faceztv/191022ztv/191533
 http://148.113.190.252:8000/play/espn1hd
 
 #EXTINF:0 type="stream" channelId="2540",3 ESPN MX
@@ -974,12 +972,11 @@ http://45.186.105.215:9999/play/a064/index.m3u8
 #EXTINF:0 type="stream" channelId="344",1 ESPN 2 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411941
+
 
 #EXTINF:0 type="stream" channelId="344",2 ESPN 2 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411940
 http://148.113.190.252:8000/play/a00d
 
 #EXTINF:0 type="stream" channelId="344",3 ESPN 2
@@ -989,7 +986,7 @@ http://45.186.105.215:9999/play/a065/index.m3u8
 #EXTINF:0 type="stream" channelId="355",1 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411945
+
 
 #EXTINF:0 type="stream" channelId="355",2 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
@@ -1005,7 +1002,7 @@ http://45.186.105.215:9999/play/a066/index.m3u8
 #EXTINF:0 type="stream" channelId="1432" ,1 ESPN 4 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411948
+
 
 #EXTINF:0 type="stream" channelId="1432" ,2 ESPN 4 MX
 ##EXTVLCOPT:network-caching=1000
@@ -1058,20 +1055,18 @@ http://45.186.105.215:9999/play/a018/index.m3u8
 http://45.167.3.81:45000/play/a04a/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1591", BEIN SPORTS Ñ
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411969
+
 
 #EXTINF:0 type="stream" channelId="1686", GOLTV
-http://45.166.92.22:58001/play/a04k/index.m3u8
-http://bazarpremium.digital:80/alex824qui/lo581dran4/411999
+
+
 
 #EXTINF:0 type="stream" channelId="1686" , Gol Peru HD
-http://bazarpremium.digital:80/alex824qui/lo581dran4/382361
+
 
 #EXTINF:0 type="stream" channelId="3802", TYC SPORT
 #EXTVLCOPT--http-reconnect=true
-http://190.185.121.102:58092/play/a00p
 http://181.78.27.128:8000/play/a063/index.m3u8
-https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/TYC/40-hls/live-media.m3u8
 http://148.113.190.252:8000/play/a022
 
 #EXTINF:0 type="stream" channelId="1367" , MOVISTAR LIGA
