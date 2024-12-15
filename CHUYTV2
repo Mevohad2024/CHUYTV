@@ -78,6 +78,7 @@ http://179.49.163.34:45000/play/a011/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.175.139.194:8000/play/a00q
+http://186.113.25.223:62837/play/a04q
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
