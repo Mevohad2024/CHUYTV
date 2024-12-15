@@ -338,7 +338,7 @@ http://148.113.190.252:8000/play/a01b
 #EXTINF:0 type="stream" channelId="310" , EL GOURMET HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://179.189.222.226:16123/play/ch27
 
 #EXTINF:0 type="stream" channelId="1244" , Food network
 ##EXTVLCOPT:network-caching=1000
