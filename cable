@@ -254,8 +254,7 @@ https://cdn1.cablemundo.cdn.moderntv.eu/cablemundo/stream/LASESTRELLAS/20-hls/li
 181.114.57.246:4000/play/3xraqjwdjUNTNVu9/index.m3u8
 #EXTINF:-1,58130 | Univision HD
 181.114.57.246:4000/play/TR65WqDLpEby8nmy/index.m3u8
-#EXTINF:-1,58131 | VENUS
-181.114.57.246:4000/play/MqTcpRNJ7wB3kbjC/index.m3u8
+
 #EXTINF:-1,58132 | VTV
 181.114.57.246:4000/play/99AG3HLAKBRseUqt/index.m3u8
 #EXTINF:-1,58133 | TUDN
@@ -405,16 +404,12 @@ http://187.249.112.44:9981/stream/channelid/1379653680?profile=pass
 http://187.249.112.44:9981/stream/channelid/362584920?profile=pass
 #EXTINF:-1 tvg-id=\"b1d47d20becd99baa0f7ea06f129644d\" tvg-chno=\"117\",TVC HD
 http://187.249.112.44:9981/stream/channelid/545117361?profile=pass
-#EXTINF:-1 tvg-id=\"4772461fbd155bd67a11d2deb3f0cf1d\" tvg-chno=\"120\",TV UNAM
-http://187.249.112.44:9981/stream/channelid/524710471?profile=pass
+
 #EXTINF:-1 tvg-id=\"213eaefddadfcacd4b9d4b95ac538800\" tvg-chno=\"121\",Multimedios TV
 http://187.249.112.44:9981/stream/channelid/2108571169?profile=pass
 #EXTINF:-1 tvg-id=\"c7093b2c72b77e653f568d064f88c12b\" tvg-chno=\"122\",Canal 22
 http://187.249.112.44:9981/stream/channelid/742066631?profile=pass
-#EXTINF:-1 tvg-id=\"6939bbdd386d3cfe23ec44437e2555bc\" tvg-chno=\"147\",Canal del Congreso
-http://187.249.112.44:9981/stream/channelid/1572551017?profile=pass
-#EXTINF:-1 tvg-id=\"ba7c8e1806b67ddb8836c4fab628d42f\" tvg-chno=\"148\",Canal Judicial
-http://187.249.112.44:9981/stream/channelid/411991226?profile=pass
+
 #EXTINF:-1 tvg-id=\"32d7b9d0287a7bdb5938cd20d2b9dcea\" tvg-chno=\"162\",Las Estrellas -2
 http://187.249.112.44:9981/stream/channelid/1354356530?profile=pass
 #EXTINF:-1 tvg-id=\"b27b17ec4399103bf518fa0e23f9716e\" tvg-chno=\"204\",UNICABLE HD
@@ -529,8 +524,7 @@ http://187.249.112.44:9981/stream/channelid/1631509901?profile=pass
 http://187.249.112.44:9981/stream/channelid/2122659265?profile=pass
 #EXTINF:-1 tvg-id=\"b90543979c9f4d65ad3601e56317eff7\" tvg-chno=\"523\",ESPN3
 http://187.249.112.44:9981/stream/channelid/390268345?profile=pass
-#EXTINF:-1 tvg-id=\"ef568fb9e1de4c8affaf9ad3f4a6e996\" tvg-chno=\"551\",Mariavision-TV
-http://187.249.112.44:9981/stream/channelid/965695215?profile=pass
+
 #EXTINF:-1 tvg-id=\"a858b1ab842ffe6235155e0438b6a89c\" tvg-chno=\"552\",EWTN
 http://187.249.112.44:9981/stream/channelid/733042856?profile=pass
 #EXTINF:-1 tvg-id=\"5b03022edb1eda508b283859e544342f\" tvg-chno=\"553\",ENLACE
