@@ -166,6 +166,7 @@ http://181.176.153.106:8090/play/a0q9/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263347.m3u
 http://186.167.80.82:8126/play/a0jd/index.m3u8
+http://181.114.57.246:4000/play/wQWF578wnjn2Lnrz/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1214" , Sony movies
 ##EXTVLCOPT:network-caching=1000
