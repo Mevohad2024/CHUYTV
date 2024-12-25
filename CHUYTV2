@@ -59,15 +59,13 @@ http://179.189.222.226:16123/play/ch05
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.41.8.1:8000/play/a00q
-http://179.189.222.226:16123/play/ch03
 http://200.115.120.1:8000/play/ca012/index.m3u8
+http://179.189.222.226:16123/play/ch03
 
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.117.182:8000/play/a0hm/index.m3u8
-
-
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
@@ -76,13 +74,12 @@ http://186.113.25.223:62837/play/a00z
 http://200.115.120.1:8000/play/ca005/index.m3u8
 http://179.49.163.34:45000/play/a011/index.m3u8
 
-
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://186.167.80.82:8126/play/a0iv/index.m3u8
-http://45.175.139.194:8000/play/a00q
 http://186.113.25.223:62837/play/a04q
+http://45.175.139.194:8000/play/a00q
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
@@ -102,9 +99,8 @@ http://200.115.120.1:8000/play/ca031/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="1200" , LIFETIME
-http://200.115.120.1:8000/play/ca051/index.m3u8
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263440.m3u
-http://186.167.80.82:8126/play/a0jm/index.m3u8
+http://200.115.120.1:8000/play/ca051/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
 ##EXTVLCOPT:network-caching=1000
