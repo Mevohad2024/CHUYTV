@@ -124,7 +124,7 @@ http://179.1.139.84:8000/play/a0ar/index.m3u8
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263280.m3u
 http://181.176.153.106:8090/play/a0ig/index.m3u8
 http://148.113.190.252:8000/play/a00t
-
+http://190.90.252.200:16001/play/a09y/index.m3u8
 
 #EXTINF:0 type="stream" channelId="187" , UNIVERSAL
 ##EXTVLCOPT:network-caching=1000
@@ -750,7 +750,7 @@ http://186.159.15.101:8004/play/a0d9/index.m3u8
 
 #EXTINF:0 type="stream" channelId="895", TCM
 http://45.167.3.81:45000/play/a039/index.m3u8
-
+http://190.90.252.200:16001/play/a09z/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1",COMEDY CENTRAL
@@ -855,7 +855,7 @@ http://190.13.81.218:18000/play/a08e
 #EXTINF:0 type="stream" channelId="2686" , TNT Series HD
 #EXTVLCOPT--http-reconnect=true
 http://190.13.81.218:18000/play/a09w
-
+http://190.90.252.200:16001/play/a0aw/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Directv%20Sport.png",1 Directv sport
 ##EXTVLCOPT:network-caching=1000
