@@ -73,12 +73,15 @@ http://179.49.163.34:45000/play/a011/index.m3u8
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.13.81.218:18000/play/a08x0/play/a00q
 http://186.113.25.223:62837/play/a04q
-http://45.175.139.194:8000/play/a00q
+http://45.175.139.194:800
+
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.13.81.218:18000/play/a08z
 https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
 http://45.175.139.194:8000/play/a00r
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263277.m3u
@@ -173,6 +176,7 @@ http://45.5.117.113:8000/play/a0nc/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" , AMC
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.13.81.218:18000/play/a064
 http://179.189.222.226:16123/play/ch13
 
 
@@ -432,6 +436,7 @@ http://186.159.15.101:8004/play/a0e9/index.m3u8
 #EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.13.81.218:18000/play/a06f
 http://179.1.139.84:8000/play/a0bc/index.m3u8
 http://186.159.15.101:8004/play/a0e2/index.m3u8
 http://45.186.105.215:9999/play/a02m/index.m3u8
@@ -801,6 +806,7 @@ http://45.186.105.215:9999/play/a00h/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", A3 SERIES
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.13.81.218:18000/play/a068
 http://45.186.105.215:9999/play/a00n/index.m3u8
 
 
