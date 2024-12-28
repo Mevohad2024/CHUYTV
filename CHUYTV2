@@ -109,6 +109,7 @@ http://179.189.222.226:16123/play/ch07
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263442.m3u
 http://186.159.15.101:8004/play/a0ep/index.m3u8
 http://179.189.222.226:16123/play/ch08
+http://179.1.139.84:8000/play/a0ar/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1052" , TNT
 ##EXTVLCOPT:network-caching=1000
@@ -456,14 +457,15 @@ http://190.0.241.181:8000/play/LOVENATURENUEVO/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 http://186.159.15.101:8004/play/a0c4/index.m3u8
-http://148.113.190.252:8000/play/a02v
+http://148.113.190.25
+http://179.1.139.84:8000/play/a09t/index.m3u82:8000/play/a02v
 
 
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
-
+http://179.1.139.84:8000/play/a09z/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1", MTV HD
@@ -753,7 +755,7 @@ http://148.113.190.252:8000/play/a01h
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.186.105.215:9999/play/a03n/index.m3u8
-
+http://179.1.139.84:8000/play/a02y/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",AZ CORAZÓN
 ##EXTVLCOPT:network-caching=1000
@@ -785,7 +787,7 @@ http://181.78.12.164:9000/play/a03t
 
 
 #EXTINF:0 type="stream" channelId="-1", Kanal D HD
-
+http://179.1.139.84:8000/play/a0b7/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", KBS World 
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
@@ -1089,6 +1091,7 @@ http://190.60.38.45:8000/play/a0dp/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",Win Sports+
 ##EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT--http-reconnect=true
+http://179.1.139.84:8000/play/a0b1/index.m3u8
 http://190.60.33.245:4002/play/a0to/index.m3u8
 http://190.60.49.243:4000/play/a050
 
