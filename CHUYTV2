@@ -599,7 +599,7 @@ http://179.189.222.226:8000/play/ch44
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 1 Cnco
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://200.115.120.1:8000/play/ca0105/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 2 Cnco
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
@@ -837,6 +837,7 @@ http://45.186.105.215:9999/play/a00h/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", A3 SERIES
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://200.115.120.1:8000/play/ca0101/index.m3u8
 http://190.13.81.218:18000/play/a068
 http://45.186.105.215:9999/play/a00n/index.m3u8
 
