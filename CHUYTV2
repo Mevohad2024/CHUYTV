@@ -346,7 +346,7 @@ http://148.113.190.252:8000/play/a017
 #EXTINF:0 type="stream" channelId="2502", GOLDEN EDGE
 http://190.13.81.218:18000/play/a08g
 http://148.113.190.252:8000/play/a019
-
+http://200.115.120.1:8000/play/ca037/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3765" , GOLDENPLUS
 ##EXTVLCOPT:network-caching=1000
@@ -630,6 +630,7 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+http://190.92.10.66:4000/play/a007/index.m3u8
 
 #EXTINF:0 type="stream" channelId="255",3 Azteca 7
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/20-hls/live-media.m3u8
@@ -850,7 +851,7 @@ http://45.186.105.215:9999/play/a01h/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" , Más Chic 
 http://190.13.81.218:18000/play/a08e
-
+http://200.115.120.1:8000/play/ca021/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2686" , TNT Series HD
 #EXTVLCOPT--http-reconnect=true
@@ -935,7 +936,7 @@ http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27981.m3u
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",3 FSMX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://200.115.120.1:8000/play/ca041/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="179",1 FSM 2
@@ -1190,7 +1191,7 @@ http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/416820.m3u
 http://45.186.105.215:9999/play/a06q/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (MX)
-
+http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",3 TUDN HD (MX)
 http://45.5.117.182:8000/play/lh0jp/index.m3u8
