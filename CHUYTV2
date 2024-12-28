@@ -296,6 +296,7 @@ http://45.167.3.81:45000/play/a04n/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLopm-6pUub9GBorT6swxZLPsdvctogtVUg&usqp=CAU", CINE FAMILIAR HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.13.81.218:18000/play/a007
 http://179.189.222.226:16123/play/ch52
 http://181.78.12.164:9000/play/ch52
 http://45.175.139.194:8000/play/33
@@ -303,6 +304,7 @@ http://45.175.139.194:8000/play/33
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D44X7voyBBl1lDSYkhQeToeN2Clhdz0Cjl89h-OwLoz2j84KQZ3GGoEO&s=10", CINE PREMIUM HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.13.81.218:18000/play/a005
 http://179.189.222.226:16123/play/ch49
 http://181.78.12.164:9000/play/ch49
 http://45.175.139.194:8000/play/34
@@ -328,11 +330,13 @@ http://190.102.246.93:9005/play/a03t
 #EXTINF:0 type="stream" channelId="333", GOLDEN
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.13.81.218:18000/play/a02f
 http://45.167.3.81:45000/play/a038/index.m3u8
 http://148.113.190.252:8000/play/a017
 
 
 #EXTINF:0 type="stream" channelId="2502", GOLDEN EDGE
+http://190.13.81.218:18000/play/a08g
 http://148.113.190.252:8000/play/a019
 
 
@@ -383,6 +387,7 @@ http://186.159.15.101:8004/play/a0f8/index.m3u8
 #EXTINF:0 type="stream" channelId="57" , DISCOVERY CHANNEL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=
+http://190.13.81.218:18000/play/a08v
 https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 http://186.159.15.101:8004/play/a0e1/index.m3u8
 
@@ -398,6 +403,7 @@ http://45.5.117.182:8000/play/a0jy/index.m3u8
 #EXTINF:0 type="stream" channelId="2724", Discovery H&H
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.13.81.218:18000/play/a08l
 http://186.159.15.101:8004/play/a0f7/index.m3u8
 http://148.113.190.252:8000/play/a02t
 
@@ -405,13 +411,14 @@ http://148.113.190.252:8000/play/a02t
 #EXTINF:0 type="stream" channelId="2839" , Discovery world
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.13.81.218:18000/play/a08s
 http://179.1.139.84:8000/play/a09m/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="2558" , Discovery theater
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://190.13.81.218:18000/play/a09u
 
 
 #EXTINF:0 type="stream" channelId="58" , Discovery science
@@ -735,7 +742,7 @@ http://45.167.3.81:45000/play/a039/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",COMEDY CENTRAL
 #EXTVLCOPT--http-reconnect=true
-
+http://190.13.81.218:18000/play/a096
 
 #EXTINF:0 type="stream" channelId="-1",Distrito Comedia
 ##EXTVLCOPT:network-caching=1000
@@ -811,6 +818,7 @@ http://45.186.105.215:9999/play/a00n/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1", Caracol 
+http://190.13.81.218:18000/play/a09y
 http://179.1.139.84:8000/play/a03r/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Caracol 2
@@ -1034,21 +1042,26 @@ http://45.167.3.81:45000/play/a06b/index.m3u8
 http://45.186.105.215:9999/play/a067/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2540" , ESPN HD sur 
+http://190.13.81.218:18000/play/a02j
 http://181.78.11.12:1010/play/a08f/index.m3u8
 #EXTINF:0 type="stream" channelId="344" , ESPN 2 HD sur 
+http://190.13.81.218:18000/play/a02k
 http://181.78.11.12:1010/play/a04a/index.m3u8
 #EXTINF:0 type="stream" channelId="355" , ESPN 3 HD sur 
+http://190.13.81.218:18000/play/a074
 http://181.78.11.12:1010/play/a00g/index.m3u8
 #EXTINF:0 type="stream" channelId="1432" ,ESPN 4 HD sur
-
+http://190.13.81.218:18000/play/a08m
 #EXTINF:0 type="stream" channelId="-1" logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5.png", ESPN 5 sur
+http://190.13.81.218:18000/play/a0a4
 http://190.60.33.245:4002/play/a0m3/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ESPN_6.webp.5a00ef854275786ade99bbd5a826743a.webp" , ESPN 6 sur
+http://190.13.81.218:18000/play/a075
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.ESPN_7_logo.png.346013410f5a12fe2b8f9147dfbdd0ce.png" , ESPN 7 sur
 http://190.60.33.245:4002/play/a0dh/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.espnpremium.png.8498f795338c9167a556bd035cb560b0.png", ESPN PREMIUM
-
+http://190.13.81.218:18000/play/a0a2
 
 #EXTINF:0 type="stream" channelId="287"  , Claro Sports HD
 #EXTVLCOPT--http-reconnect=true
@@ -1069,12 +1082,21 @@ http://45.167.3.81:45000/play/a04a/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1591", BEIN SPORTS Ñ
 
+#EXTINF:0 type="stream" channelId="-1",CDO BASICO
+http://190.13.81.218:18000/play/a05o
+
+#EXTINF:0 type="stream" channelId="-1",CDO PREMIUM
+http://190.13.81.218:18000/play/a05p
+
+#EXTINF:0 type="stream" channelId="-1",ECFB
+http://190.13.81.218:18000/play/a02v
 
 #EXTINF:0 type="stream" channelId="1686", GOLTV
+http://190.13.81.218:18000/play/a02n
 http://167.250.135.246:81/play/a0a2/index.m3u8
 
-
 #EXTINF:0 type="stream" channelId="1686" , Gol Peru HD
+http://190.13.81.218:18000/play/a02u
 http://167.250.135.246:81/play/a0a8/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3802", TYC SPORT
