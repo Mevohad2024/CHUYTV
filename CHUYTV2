@@ -890,6 +890,7 @@ http://weib-tv.com:80/Bzpvaldes070623/nTGpjUG5fNRt/69559.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.27.128:8000/play/a064/index.m3u8
+http://45.169.163.83:8000/play/a1a4
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports premium
 http://190.13.81.218:18000/play/a08k
