@@ -400,7 +400,7 @@ http://148.113.190.252:8000/play/a02t
 #EXTINF:0 type="stream" channelId="2839" , Discovery world
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://179.1.139.84:8000/play/a09m/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="2558" , Discovery theater
@@ -431,6 +431,7 @@ http://186.159.15.101:8004/play/a0e9/index.m3u8
 #EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://179.1.139.84:8000/play/a0bc/index.m3u8
 http://186.159.15.101:8004/play/a0e2/index.m3u8
 http://45.186.105.215:9999/play/a02m/index.m3u8
 
@@ -802,7 +803,10 @@ http://45.186.105.215:9999/play/a00n/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1", Caracol 
+http://179.1.139.84:8000/play/a03r/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1", Caracol 2
+http://179.1.139.84:8000/play/a03s/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Canal claro
 http://45.186.105.215:9999/play/a01h/index.m3u8
@@ -1091,7 +1095,7 @@ http://190.60.49.243:4000/play/a050
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9V8Hc6ZO1A6gweWLrsJ1FqbmwfCgrqj_VK2Rmhci2OIwN9gnUZlVO-Q&s=10" , Latin America Sport
 http://45.167.3.81:45000/play/a034/index.m3u8
-
+http://179.1.139.84:8000/play/a08b/index.m3u8
 
 #EXTINF:0 type="stream" channelId="227" , AYM SPORTS
 ##EXTVLCOPT:network-caching=1000
