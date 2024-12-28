@@ -137,7 +137,7 @@ http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263283.m3u
 http://186.159.15.101:8004/play/a0dt/index.m3u8
 http://45.167.3.81:45000/play/a05v/index.m3u8
 http://200.115.96.66:4000/play/a0dq/index.m3u8
-
+http://190.90.252.200:16001/play/a0ab/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_GaU52nUoGZAFyd9susUdm7PZNpc9meSRJqBscvKJ0sWn5a6J", PANICO HD
 ##EXTVLCOPT:network-caching=1000
@@ -482,6 +482,7 @@ http://186.159.15.101:8004/play/a0c4/index.m3u8
 http://148.113.190.25
 http://179.1.139.84:8000/play/a09t/index.m3u82:8000/play/a02v
 http://190.90.252.200:16001/play/a090/index.m3u8
+http://190.90.252.200:16001/play/a0an/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
 ##EXTVLCOPT:network-caching=1000
@@ -489,6 +490,7 @@ http://190.90.252.200:16001/play/a090/index.m3u8
 https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
 http://179.1.139.84:8000/play/a09z/index.m3u8
 http://190.90.252.200:16001/play/a08z/index.m3u8
+http://190.90.252.200:16001/play/a0ax/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MTV HD
 http://45.186.105.215:9999/play/a05p/index.m3u8
@@ -813,7 +815,7 @@ http://200.59.188.3:8000/play/a0aa
 #EXTINF:0 type="stream" channelId="-1",PASIONES
 http://45.167.3.81:45000/play/a05z/index.m3u8
 http://181.78.12.164:9000/play/a03t
-
+http://190.90.252.200:16001/play/a0aj/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1", Kanal D HD
