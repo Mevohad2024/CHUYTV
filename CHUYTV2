@@ -348,6 +348,7 @@ http://190.13.81.218:18000/play/a08g
 http://148.113.190.252:8000/play/a019
 http://200.115.120.1:8000/play/ca037/index.m3u8
 
+
 #EXTINF:0 type="stream" channelId="3765" , GOLDENPLUS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -556,6 +557,7 @@ http://home-playtv.com:8080/miralatin2243/JJKTU/217140
 
 #EXTINF:0 type="stream" channelId="-1", Video Rola
 http://181.78.105.146:2000/play/a04c/index.m3u8
+http://200.115.120.1:8000/play/ca050/index.m3u8
 http://186.159.15.101:8004/play/a0di/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",1 Azteca 1
@@ -1009,6 +1011,7 @@ http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/285169.m3u
 #EXTINF:0 type="stream" channelId="2540",1 ESPN MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://200.115.120.1:8000/play/ca040/index.m3u8
 http://186.159.15.101:8004/play/a0ca/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2540",2 ESPN MX
@@ -1022,6 +1025,7 @@ http://45.186.105.215:9999/play/a064/index.m3u8
 #EXTINF:0 type="stream" channelId="344",1 ESPN 2 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://200.115.120.1:8000/play/ca042/index.m3u8
 http://186.159.15.101:8004/play/a0cb/index.m3u8
 
 #EXTINF:0 type="stream" channelId="344",2 ESPN 2 MX
@@ -1029,7 +1033,7 @@ http://186.159.15.101:8004/play/a0cb/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://148.113.190.252:8000/play/a00d
 
-#EXTINF:0 type="stream" channelId="344",3 ESPN 2
+#EXTINF:0 type="stream" channelId="344",3 ESPN 2 MX
 http://45.167.3.81:45000/play/a069/index.m3u8
 http://45.186.105.215:9999/play/a065/index.m3u8
 
@@ -1107,6 +1111,7 @@ http://45.186.105.215:9999/play/a019/index.m3u8
 http://45.167.3.81:45000/play/a04a/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1591", BEIN SPORTS Ñ
+
 
 #EXTINF:0 type="stream" channelId="-1",CDO BASICO
 http://190.13.81.218:18000/play/a05o
