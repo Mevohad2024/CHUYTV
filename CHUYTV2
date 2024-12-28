@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
+http://38.224.221.1:8000/play/a00l
 http://45.175.139.194:8000/play/27
 http://186.159.15.101:8004/play/a0da/index.m3u8
 http://148.113.190.252:8000/play/bitmehd
@@ -517,6 +518,7 @@ http://190.13.81.218:18000/play/a0ap
 #EXTINF:0 type="stream" channelId="1959" , BANDAMAX HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://38.224.221.1:8000/play/a021
 http://190.60.33.245:4002/play/a0l2/index.m3u8
 http://148.113.190.252:8000/play/a02a
 
@@ -566,14 +568,15 @@ http://186.159.15.101:8004/play/a0di/index.m3u8
 http://148.113.190.252:8000/play/a01v
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",2 Azteca 1
+http://38.224.221.1:8000/play/a02x
 
-
-#EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",2 Azteca 1
+#EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",3 Azteca 1
 
 
 #EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://38.224.221.1:8000/play/a02z
 http://148.113.190.252:8000/play/a02n
 
 
@@ -629,6 +632,7 @@ http://148.113.190.252:8000/play/a01l
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+http://38.224.221.1:8000/play/a030
 
 #EXTINF:0 type="stream" channelId="255",2 Azteca 7
 ##EXTVLCOPT:network-caching=1000
@@ -666,6 +670,7 @@ http://148.113.190.252:8000/play/a01d
 
 #EXTINF:0 type="stream" channelId="-1", Excélsior Televisión
 #EXTVLCOPT--http-reconnect=true
+http://38.224.221.1:8000/play/a037
 http://190.83.2.172:6001/stream/channelid/1412614893
 
 
@@ -888,6 +893,7 @@ http://181.78.27.128:8000/play/a064/index.m3u8
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports premium
 http://190.13.81.218:18000/play/a08k
+http://207.248.2.105:3200/play/a08i/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iw3Lzx5CrDXWiBQEFdcEDJl92QYuitb7uy5j_sWMuQ&s", DAZN
 
@@ -946,6 +952,8 @@ http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/27981.m3u
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca041/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",4 FSMX
+http://38.224.221.1:8000/play/a03q
 
 #EXTINF:0 type="stream" channelId="179",1 FSM 2
 ##EXTVLCOPT:network-caching=1000
@@ -1117,7 +1125,7 @@ http://45.186.105.215:9999/play/a019/index.m3u8
 http://45.167.3.81:45000/play/a04a/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1591", BEIN SPORTS Ñ
-
+http://207.248.2.105:3200/play/a0gt/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",CDO BASICO
 http://190.13.81.218:18000/play/a05o
@@ -1126,6 +1134,7 @@ http://190.13.81.218:18000/play/a05o
 http://190.13.81.218:18000/play/a05p
 
 #EXTINF:0 type="stream" channelId="-1",ECFB
+http://207.248.2.105:3200/play/a06b/index.m3u8
 http://190.13.81.218:18000/play/a02v
 
 #EXTINF:0 type="stream" channelId="1686", GOLTV
@@ -1152,6 +1161,7 @@ http://190.13.81.218:18000/play/a02c
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.59.188.3:8000/play/a0jo
+http://207.248.2.105:3200/play/a0c4/index.m3u8
 http://190.13.81.218:18000/play/a02g
 http://190.60.38.45:8000/play/a0dp/index.m3u8
 
@@ -1159,6 +1169,7 @@ http://190.60.38.45:8000/play/a0dp/index.m3u8
 ##EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT--http-reconnect=true
 http://200.59.188.3:8000/play/a0jj
+http://207.248.2.105:3200/play/a05f/index.m3u8
 http://190.13.81.218:18000/play/a06d
 http://179.1.139.84:8000/play/a0b1/index.m3u8
 http://190.60.33.245:4002/play/a0to/index.m3u8
