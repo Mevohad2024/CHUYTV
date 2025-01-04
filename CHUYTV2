@@ -604,10 +604,13 @@ http://200.115.120.1:8000/play/ca0105/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 2 Cnco
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
-##EXTVLCOPT:network-caching=1000
+#EXTINF:0 type="stream" channelId="-1ñ#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://148.113.190.252:8000/play/a02l
+
+#EXTINF:0 type="stream" channelId="-1ñ#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/158620
 
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
@@ -637,6 +640,7 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 http://190.92.10.66:4000/play/a007/index.m3u8
 
 #EXTINF:0 type="stream" channelId="255",3 Azteca 7
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/158617
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/20-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="255",4 Azteca 7
