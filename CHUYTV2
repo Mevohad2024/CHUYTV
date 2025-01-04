@@ -95,6 +95,7 @@ http://190.90.252.200:16001/play/a0aq/index.m3u8
 #EXTINF:0 type="stream" channelId="1188" , E!1
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/158678
 http://190.90.252.200:16001/play/a04F/index.m3u8
 http://186.113.25.223:62837/play/a02x
 http://186.159.15.101:8004/play/a0dh/index.m3u8
@@ -200,6 +201,7 @@ http://148.113.190.252:8000/play/a03d
 #EXTINF:0 type="stream" channelId="64" , CINECANAL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/158778
 https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 http://186.159.15.101:8004/play/a0c7/index.m3u8
 http://179.189.222.226:16123/play/ch10
@@ -698,6 +700,7 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQknkl97yAWmQZUiV9Y355MaPIVgi5LQCupsw&usqp=CAU",2 ESTRELLA TV
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/158680
 http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/59612
 
 #EXTINF:0 type="stream" channelId="3209" , 1 Univisión
@@ -753,6 +756,7 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3
 #EXTINF:0 type="stream" channelId="134", DPELICULA PLUS
 ##EXTVLCOPT:network-caching, =1000
 #EXTVLCOPT--http-reconnect=true
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/158781
 http://148.113.190.252:8000/play/a015
 
 #EXTINF:0 type="stream" channelId="134", DPELICULA
@@ -765,6 +769,7 @@ http://190.90.252.200:16001/play/a09z/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",COMEDY CENTRAL
 #EXTVLCOPT--http-reconnect=true
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/158673
 http://200.115.120.1:8000/play/ca108/index.m3u8
 http://190.13.81.218:18000/play/a096
 
