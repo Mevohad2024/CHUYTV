@@ -110,6 +110,7 @@ http://190.90.252.200:16001/play/a091/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/158692
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/301432.m3u
 http://186.159.15.101:8004/play/a0c5/index.m3u8
 http://179.189.222.226:16123/play/ch07
@@ -159,12 +160,14 @@ http://181.176.153.106:8090/play/a0ez/index.m3u8
 #EXTINF:0 type="stream" channelId="383" , SPACE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/158793
 http://181.176.153.106:8090/play/a0q9/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="530" , Sony chanel
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/159201
 http://vende.offshore.lat:8080/live/PlayUser052/TnhQwRDGjWJ5/263347.m3u
 http://181.114.57.246:4000/play/wQWF578wnjn2Lnrz/index.m3u8
 http://190.13.81.218:18000/play/a092
@@ -173,6 +176,7 @@ http://190.90.252.200:16001/play/a092/index.m3u8
 #EXTINF:0 type="stream" channelId="1214" , Sony movies
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/158792
 http://190.13.81.218:18000/play/a08i
 http://200.115.96.66:4000/play/a02w/index.m3u8
 
