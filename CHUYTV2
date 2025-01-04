@@ -233,7 +233,7 @@ http://179.49.163.34:45000/play/a01w/index.m3u8
 #EXTINF:0 type="stream" channelId="1330" , HBO
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/165467
+
 http://45.186.105.215:9999/play/a01b/index.m3u8
 http://200.115.96.66:4000/play/a01z/index.m3u8
 http://200.59.188.3:8000/play/a0ku
@@ -265,6 +265,7 @@ http://200.115.96.66:4000/play/a02n/index.m3u8
 #EXTINF:0 type="stream" channelId="2583" , HBO SIGNATURE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://live.budtvlight.com:25461/bud-1114762/ab7a40e6ba/165467
 http://200.59.188.3:8000/play/a0l0
 http://148.113.190.252:8000/play/a011
 
