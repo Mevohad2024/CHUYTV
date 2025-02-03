@@ -103,6 +103,7 @@ http://179.49.163.34:45000/play/a011/index.m3u8
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
 http://148.113.190.252:8000/play/a03f
 http://190.90.252.200:16001/play/a0ce/index.m3u8
 
@@ -119,7 +120,7 @@ http://190.90.252.200:16001/play/a0c9/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://187.249.112.44:9981/stream/channelid/1416842020?profile=pass
 
 
 
@@ -544,6 +545,7 @@ http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/24787
 #EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ADN40/20-hls/live-media.m3u8
 http://148.113.190.252:8000/play/a02n
 
 
