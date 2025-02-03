@@ -13,6 +13,16 @@ http://cord-cutter.net:8080/kirk@shields/225@522/56410
 http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410
 
 #EXTINF:0 type="stream" channelId="1967" ,4 TELEMUNDO
+http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1080/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1967" ,5 TELEMUNDO
+http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/1080/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1967" ,5 TELEMUNDO
+http://40948c10.edemist.com/iptv/NC34M5CND4MS7M/1080/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1967" ,6 TELEMUNDO
+http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/23424
 
 
 
@@ -673,6 +683,9 @@ http://206.212.244.71:8080/4wVQA7/625159/108248
 #EXTVLCOPT--http-reconnect=true
 http://45.186.105.215:9999/play/a06d/index.m3u8
 
+#EXTINF:0 type="stream" channelId="3209" , 4 Univisión
+http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1099/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1"logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1164_2_77191.png.a7bf0653083720991223589926890be4.png",1 Unimas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -683,6 +696,9 @@ http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/22997
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/57969
+
+#EXTINF:0 type="stream" channelId="-1"logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1164_2_77191.png.a7bf0653083720991223589926890be4.png",3 Unimas
+http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1100/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 ##EXTVLCOPT:network-caching=1000
