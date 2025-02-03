@@ -6,6 +6,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:0 type="stream" channelId="1967" , TELEMUNDO 51 MIAMI
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
+#EXTINF:0 type="stream" channelId="1967" , TELEMUNDO 52 CHICAGO
+https://nxt.plus:8443/olmos/1234guz/189349
+
 #EXTINF:0 type="stream" channelId="1967" ,2 TELEMUNDO
 http://cord-cutter.net:8080/kirk@shields/225@522/56410
 
@@ -18,10 +21,10 @@ http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1080/index.m3u8
 #EXTINF:0 type="stream" channelId="1967" ,5 TELEMUNDO
 http://8dc3df04.edemist.com/iptv/GMECRKZCPY6PZY/1080/index.m3u8
 
-#EXTINF:0 type="stream" channelId="1967" ,5 TELEMUNDO
+#EXTINF:0 type="stream" channelId="1967" ,6 TELEMUNDO
 http://40948c10.edemist.com/iptv/NC34M5CND4MS7M/1080/index.m3u8
 
-#EXTINF:0 type="stream" channelId="1967" ,6 TELEMUNDO
+#EXTINF:0 type="stream" channelId="1967" ,7 TELEMUNDO
 http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/23424
 
 
