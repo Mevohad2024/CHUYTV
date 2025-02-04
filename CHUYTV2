@@ -108,6 +108,7 @@ http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/5697
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.176.153.106:8090/play/a10i/index.m3u8
+http://tvpremiund.ddns.me:2082/alexalexx/alex207/2667
 http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/2432
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
