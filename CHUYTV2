@@ -107,6 +107,7 @@ http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/5697
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://181.78.21.46:8009/play/a03c
 http://181.176.153.106:8090/play/a10i/index.m3u8
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/2667
 http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/2432
@@ -817,16 +818,16 @@ http://179.1.139.84:8000/play/a02y/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.60.33.245:4002/play/a0vf/index.m3u8
-
+http://181.78.21.46:8009/play/a039
 
 #EXTINF:0 type="stream" channelId="-1",Azmundo
 #EXTVLCOPT--http-reconnect=true
-
+http://181.78.21.46:8009/play/a03f
 
 #EXTINF:0 type="stream" channelId="-1", Az Clic!
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://181.78.21.46:8009/play/a038
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/large.TNTNovelas-2023.png.3c8f3ba8041ddfd11298304e93478394.png", TNT Novelas
 http://45.167.3.81:45000/play/a01b/index.m3u8
@@ -940,6 +941,7 @@ http://200.115.120.1:8000/play/ca124/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a00h/index.m3u8
 http://190.60.33.245:4002/play/a0hw/index.m3u8
+http://181.78.21.46:8009/play/a02y
 http://148.113.190.252:8000/play/a01j/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 1 Foxdeportes
