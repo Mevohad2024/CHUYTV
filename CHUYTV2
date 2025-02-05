@@ -937,6 +937,7 @@ http://zuiowy.net:8080/Latin.Media461837/Euqin47183eiqhdu@@/1299
 http://45.186.105.215:9999/play/a06h/index.m3u8
 http://200.115.96.66:4000/play/a029/index.m3u8
 http://200.115.120.1:8000/play/ca124/index.m3u8
+http://181.78.105.146:8800/play/a04w
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SM1IAOiAR5u3dZDJ-HKMAAltmxJJ0vN4Mm492o0CjjlB8rw13fkiNC8W&s=10", Azteca Deportes HD
 ##EXTVLCOPT:network-caching=1000
@@ -1253,7 +1254,7 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 http://181.78.105.146:8800/play/a07e
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (MX)
-
+http://181.78.105.146:8800/play/a07e
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (MX)
 http://206.212.244.71:8080/4wVQA7/625159/11885
