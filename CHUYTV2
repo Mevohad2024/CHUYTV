@@ -460,7 +460,7 @@ http://201.174.162.89:9981/stream/channelid/1912603215?profile=pass
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/2690
-
+http://181.78.105.146:8800/play/a06n
 
 #EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
 ##EXTVLCOPT:network-caching=1000
