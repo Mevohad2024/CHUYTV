@@ -731,6 +731,9 @@ http://206.212.244.71:8080/4wVQA7/625159/108248
 http://45.186.105.215:9999/play/a06d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3209" , 4 Univisión
+http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="3209" , 4 Univisión
 http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1099/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1164_2_77191.png.a7bf0653083720991223589926890be4.png",1 Unimas
@@ -1292,6 +1295,9 @@ http://cord-cutter.net:8080/zcJ8BG/214917/82241
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (US)
 http://tvmate.icu:8080/Alan/Alan1234/11885
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (US)
+http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 1
 http://zuiowy.net:8080/Latin.Media461837/Euqin47183eiqhdu@@/123680
