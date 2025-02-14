@@ -123,6 +123,7 @@ http://148.113.190.252:8000/play/a03f/index.m3u8
 http://190.90.252.200:16001/play/a0ce/index.m3u8
 http://181.176.153.106:8090/play/a10n/index.m3u8
 http://201.174.162.89:9981/stream/channelid/2052993474?profile=pass
+https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1188" , E!1
 ##EXTVLCOPT:network-caching=1000
@@ -132,6 +133,7 @@ http://190.13.81.218:18000/play/a0cz
 
 #EXTINF:0 type="stream" channelId="1200" , LIFETIME
 http://190.90.252.200:16001/play/a0c9/index.m3u8
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
 ##EXTVLCOPT:network-caching=1000
@@ -145,6 +147,7 @@ http://201.174.162.89:9981/stream/channelid/1416842020?profile=pass
 http://181.176.153.106:8090/play/a0z0/index.m3u8
 http://179.1.139.84:8000/play/a0ar/index.m3u8
 http://201.174.162.89:9981/stream/channelid/254968446?profile=pass
+https://streamer1.nexgen.bz/FX/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1052" , TNT
 ##EXTVLCOPT:network-caching=1000
@@ -220,14 +223,14 @@ http://201.174.162.89:9981/stream/channelid/1711848109?profile=pass
 #EXTVLCOPT--http-reconnect=tru
 http://201.174.162.89:9981/stream/channelid/891827617?profile=pass
 http://148.113.190.252:8000/play/a03d/index.m3u8
-
+https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
 
 #EXTINF:0 type="stream" channelId="64" , CINECANAL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://201.174.162.89:9981/stream/channelid/2143626109?profile=pass
-
+https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="292" , MULTIPREMIER  HD
 ##EXTVLCOPT:network-caching=1000
@@ -267,13 +270,14 @@ http://tv.proyectox.vip:8080/live/Blackiekoko1/J2N4tmBxpL/9868_.ts
 http://45.186.105.215:9999/play/a01e/index.m3u8
 http://200.115.96.66:4000/play/a02m/index.m3u8
 http://200.59.188.3:8000/play/a0lb
+https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="2585" , HBO+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.186.105.215:9999/play/a01d/index.m3u8
 http://200.115.96.66:4000/play/a02n/index.m3u8
-
+https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 
 
 #EXTINF:0 type="stream" channelId="2583" , HBO SIGNATURE
@@ -416,6 +420,7 @@ http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/30822
 #EXTVLCOPT--http-reconnect=
 http://190.90.252.200:16001/play/a0c5/index.m3u8
 http://201.174.162.89:9981/stream/channelid/1818130520?profile=pass
+https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
 ##EXTVLCOPT:network-caching=1000
@@ -464,6 +469,7 @@ http://201.174.162.89:9981/stream/channelid/1912603215?profile=pass
 #EXTVLCOPT--http-reconnect=true
 http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/2690
 http://181.78.105.146:8800/play/a06n
+https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
 
 #EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
 ##EXTVLCOPT:network-caching=1000
@@ -482,7 +488,7 @@ http://187.249.112.44:9981/stream/channelid/1736818847?profile=pass
 
 #EXTINF:0 type="stream" channelId="56",NATGEO MUNDO
 http://201.174.162.89:9981/stream/channelid/1736818847?profile=pass
-
+https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Love Nature HD
 http://160.20.165.246:8000/play/a00d/index.m3u8
@@ -497,7 +503,8 @@ http://179.1.139.84:8000/play/a09t/index.m3u82:8000/
 http://190.13.81.218:18000/play/a0g7
 http://187.249.112.44:9981/stream/channelid/1261976682?profile=pass
 http://201.174.162.89:9981/stream/channelid/1261976682?profile=pass
-
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
 ##EXTVLCOPT:network-caching=1000
@@ -506,6 +513,7 @@ http://179.1.139.84:8000/play/a09z/index.m3u8
 http://190.90.252.200:16001/play/a0c8/index.m3u8
 http://187.249.112.44:9981/stream/channelid/111188988?profile=pass
 http://201.174.162.89:9981/stream/channelid/111188988?profile=pass
+https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MTV HD
 http://45.186.105.215:9999/play/a05p/index.m3u8
