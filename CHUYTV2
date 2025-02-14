@@ -30,6 +30,8 @@ http://40948c10.edemist.com/iptv/NC34M5CND4MS7M/1080/index.m3u8
 #EXTINF:0 type="stream" channelId="1967" ,7 TELEMUNDO
 http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/23424
 
+#EXTINF:0 type="stream" channelId="1967" ,8 TELEMUNDO
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
