@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:0 type="stream" channelId="191967",Famos allstar
+https://motivatv.club:443/elviavaldez0524/zt5gEhszzB/1219774
+
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
