@@ -4,10 +4,13 @@
 http://fastream.xyz:8080/movie/38feva75zu57ku98/47wuma84duwe57/70510.mp4
 
 #EXTINF:-1 , capitán america
-http://masterprotv1.com:8080/movie/alex1607sepu/pxgYH3X5Nq/258302.mkv
+http://masterprotv1.com:8080/movie/aube1205carl/carlos1234/258302.mkv
 
-#EXTINF:0 type="stream" channelId="191967",Famos allstar
-https://motivatv.club:443/elviavaldez0524/zt5gEhszzB/1219774
+#EXTINF:0 type="stream" channelId="191967",Famos allstar Cam 1
+http://masterprotv1.com:8080/aube1205carl/carlos1234/65347
+
+#EXTINF:0 type="stream" channelId="191967",Famos allstar Cam 2
+http://masterprotv1.com:8080/aube1205carl/carlos1234/65348
 
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
