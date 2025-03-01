@@ -749,6 +749,9 @@ https://glb.bozztv.com/glb/ssh101/canal30mx/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Pelis tv
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1",PopCorn
+https://freetv.stream.olympusatmedia.com/index.m3u8
+
 #EXTINF:0 type="stream" channelId="340", TV Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
