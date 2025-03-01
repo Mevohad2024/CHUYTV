@@ -12,6 +12,11 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:0 type="stream" channelId="1967" , TELEMUNDO 51 MIAMI
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
+#EXTINF:0 type="stream" channelId="1967" , TELEMUNDO CALIFORNIA
+https://d3i0aurg3nyoct.cloudfront.net/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="1967" , TELEMUNDO
+https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
 
 #EXTINF:0 type="stream" channelId="1967" , TELEMUNDO 52 CHICAGO
 https://nxt.plus:8443/olmos/1234guz/189349
