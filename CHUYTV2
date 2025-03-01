@@ -150,6 +150,7 @@ http://181.176.153.106:8090/play/a0z0/index.m3u8
 http://179.1.139.84:8000/play/a0ar/index.m3u8
 http://201.174.162.89:9981/stream/channelid/254968446?profile=pass
 https://streamer1.nexgen.bz/FX/index.m3u8
+http://45.235.37.254/fxhd/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1052" , TNT
 ##EXTVLCOPT:network-caching=1000
@@ -218,7 +219,7 @@ http://201.174.162.89:9981/stream/channelid/649497696?profile=pass
 http://181.176.153.106:8090/play/a10j/index.m3u8
 http://190.83.2.172:6001/stream/channelid/986135630?profile=pass
 http://201.174.162.89:9981/stream/channelid/1711848109?profile=pass
-
+http://45.235.37.254/amchd/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1326" , Cinemax
 ##EXTVLCOPT:network-caching=1000
