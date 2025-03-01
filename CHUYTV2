@@ -706,6 +706,15 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 http://181.78.105.146:31589/play/a03b/index.m3u8
 http://181.78.105.146:2000/play/a03b/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1", Canal 4.1
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Canal 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Canal 4.3
+https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Canal Once
 
 #EXTINF:0 type="stream" channelId="-1", Canal 12
