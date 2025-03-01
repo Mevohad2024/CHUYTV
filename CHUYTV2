@@ -717,6 +717,9 @@ https://s5.mexside.net:1936/canal14/canal14/.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1", Canal28
+https://s5.mexside.net:1936/canal28/canal28/.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",Pelis tv
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
