@@ -89,6 +89,7 @@ http://201.174.162.89:9981/stream/channelid/1344238232?profile=pass
 http://tv.proyectox.vip:8080/live/Blackiekoko1/J2N4tmBxpL/9868_.ts
 http://200.115.120.1:8000/play/ca009/index.m3u8
 http://190.90.252.200:16001/play/a0b0/index.m3u8
+http://179.49.163.34:45000/play/a00a
 
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
 ##EXTVLCOPT:network-caching=1000
@@ -208,6 +209,7 @@ http://45.235.37.254/sonyhd/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a02w/index.m3u8
 http://190.90.252.200:16001/play/a0bi/index.m3u8
+http://179.49.163.34:45000/play/a02b
 
 #EXTINF:0 type="stream" channelId="2557" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySya_l85w-lsa3DABk4A6723lA1E88XNylC7Qx2_CvFUZpvDshuouYp_d&s=10", WARNER
 ##EXTVLCOPT:network-caching=1000
