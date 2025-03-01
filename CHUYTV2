@@ -552,6 +552,9 @@ http://148.113.190.252:8000/play/a02a/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" , Lavozgrupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" , Ultra 99.2
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/.m3u8
+
 #EXTINF:0 type="stream" channelId="1966" , TELEHIT MUSICA
 http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/47269
 http://148.113.190.252:8000/play/a01f/index.m3u8
