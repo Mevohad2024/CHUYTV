@@ -39,6 +39,7 @@ https://tvpass.org/live/TelemundoEast/hd/b3AyeHZSTVV3RTNJRDg2c2ZkamFqakZtTWRwc2l
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://201.174.162.89:9981/stream/channelid/1466056798?profile=pass
 http://181.78.21.46:8009/play/a006
+http://179.49.163.34:45000/play/a02m/index.m3u8
 http://148.113.190.252:8000/play/bitmehd
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
