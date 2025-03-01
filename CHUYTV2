@@ -544,6 +544,9 @@ http://201.174.162.89:9981/stream/channelid/2122659265?profile=pass
 http://190.60.33.245:4002/play/a0l2/index.m3u8
 http://148.113.190.252:8000/play/a02a/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" , Lavozgrupera
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
+
 #EXTINF:0 type="stream" channelId="1966" , TELEHIT MUSICA
 http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/47269
 http://148.113.190.252:8000/play/a01f/index.m3u8
