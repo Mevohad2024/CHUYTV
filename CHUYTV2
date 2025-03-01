@@ -726,6 +726,7 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/.m3u8
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Canal 12
 https://servilive.com:3263/live/channel12live.m3u8
