@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="191967",Famos allstar Cam 1
-http://masterprotv1.com:8080/aube1205carl/carlos1234/65347
-
-#EXTINF:0 type="stream" channelId="191967",Famos allstar Cam 2
-http://masterprotv1.com:8080/aube1205carl/carlos1234/65348
-
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
@@ -49,7 +43,7 @@ http://148.113.190.252:8000/play/bitmehd
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://190.90.252.200:16001/play/a0ba/index.m3u8
-
+http://45.186.106.207:8000/play/a06t/index.m3u88
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
 http://190.102.246.93:9005/play/a03c
@@ -86,7 +80,7 @@ http://190.13.81.218:18000/play/a0aq
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca002/index.m3u8
 http://148.113.190.252:8000/play/a02x/index.m3u8
-
+http://45.186.106.207:8000/play/a07l/index.m3u88
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
@@ -123,6 +117,7 @@ http://181.78.21.46:8009/play/a03c
 http://181.176.153.106:8090/play/a10i/index.m3u8
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/2667
 http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/2432
+http://45.186.106.207:8000/play/a07x/index.m3u88
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
@@ -134,6 +129,7 @@ http://181.176.153.106:8090/play/a10n/index.m3u8
 http://201.174.162.89:9981/stream/channelid/2052993474?profile=pass
 https://streamer1.nexgen.bz/AXN/index.m3u8
 http://45.235.37.254/axnhd/index.m3u8
+http://45.186.106.207:8000/play/a02p/index.m3u88
 
 #EXTINF:0 type="stream" channelId="1188" , E!1
 ##EXTVLCOPT:network-caching=1000
@@ -231,6 +227,7 @@ http://181.176.153.106:8090/play/a10j/index.m3u8
 http://190.83.2.172:6001/stream/channelid/986135630?profile=pass
 http://201.174.162.89:9981/stream/channelid/1711848109?profile=pass
 http://45.235.37.254/amchd/index.m3u8
+http://45.186.106.207:8000/play/a07y/index.m3u88
 
 #EXTINF:0 type="stream" channelId="1326" , Cinemax
 ##EXTVLCOPT:network-caching=1000
@@ -245,6 +242,7 @@ https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://201.174.162.89:9981/stream/channelid/2143626109?profile=pass
 https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
+http://45.186.106.207:8000/play/a020/index.m3u88
 
 #EXTINF:0 type="stream" channelId="292" , MULTIPREMIER  HD
 ##EXTVLCOPT:network-caching=1000
@@ -435,6 +433,7 @@ http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/30822
 http://190.90.252.200:16001/play/a0c5/index.m3u8
 http://201.174.162.89:9981/stream/channelid/1818130520?profile=pass
 https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+http://45.186.106.207:8000/play/a075/index.m3u88
 
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
 ##EXTVLCOPT:network-caching=1000
@@ -442,7 +441,7 @@ https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 http://45.5.117.182:8000/play/a0jy/index.m3u8
 http://190.13.81.218:18000/play/a0gh
 http://201.174.162.89:9981/stream/channelid/777802716?profile=pass
-
+http://45.186.106.207:8000/play/a079/index.m3u88
 
 #EXTINF:0 type="stream" channelId="2724", Discovery H&H
 ##EXTVLCOPT:network-caching=1000
@@ -451,12 +450,14 @@ http://190.13.81.218:18000/play/a08l
 http://148.113.190.252:8000/play/a02t/index.m3u8
 http://190.90.252.200:16001/play/a0bf/index.m3u8
 http://201.174.162.89:9981/stream/channelid/185103269?profile=pass
+http://45.186.106.207:8000/play/a029/index.m3u88
 
 #EXTINF:0 type="stream" channelId="2839" , Discovery world
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://179.1.139.84:8000/play/a09m/index.m3u8
 http://190.90.252.200:16001/play/a0ah/index.m3u8
+http://45.186.106.207:8000/play/a076/index.m3u88
 
 #EXTINF:0 type="stream" channelId="2558" , Discovery theater
 ##EXTVLCOPT:network-caching=1000
@@ -468,6 +469,7 @@ http://190.90.252.200:16001/play/a0av/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.13.81.218:18000/play/a0cy
+http://45.186.106.207:8000/play/a06m/index.m3u88
 
 #EXTINF:0 type="stream" channelId="1040" , DISCOVERY TLC HD
 ##EXTVLCOPT:network-caching=1000
@@ -484,6 +486,7 @@ http://201.174.162.89:9981/stream/channelid/1912603215?profile=pass
 http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/2690
 http://181.78.105.146:8800/play/a06n
 https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
+http://45.186.106.207:8000/play/a028/index.m3u88
 
 #EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
 ##EXTVLCOPT:network-caching=1000
@@ -493,6 +496,7 @@ http://179.1.139.84:8000/play/a0bc/index.m3u8
 http://45.186.105.215:9999/play/a02m/index.m3u8
 http://190.13.81.218:18000/play/a0g5
 http://201.174.162.89:9981/stream/channelid/435812695?profile=pass
+http://45.186.106.207:8000/play/a07u/index.m3u88
 
 #EXTINF:0 type="stream" channelId="56",NATIONAL GEOGRAPHIC
 ##EXTVLCOPT:network-caching=1000
@@ -623,6 +627,7 @@ http://148.113.190.252:8000/play/a02o/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" ,1 Las estrellas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://45.186.106.207:8000/play/a098/index.m3u88
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://200.115.120.1:8000/play/ca014/index.m3u8
 
@@ -644,6 +649,7 @@ http://190.90.252.200:16001/play/a09w/index.m3u8
 http://200.115.120.1:8000/play/ca0105/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 2 Cnco
+http://45.186.106.207:8000/play/a03g/index.m3u88
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
@@ -892,6 +898,7 @@ http://181.78.21.46:8009/play/a03f
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.21.46:8009/play/a038
+http://45.186.106.207:8000/play/a084/index.m3u88
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/large.TNTNovelas-2023.png.3c8f3ba8041ddfd11298304e93478394.png", TNT Novelas
 http://45.167.3.81:45000/play/a01b/index.m3u8
