@@ -1289,13 +1289,12 @@ http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/87717
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://148.113.190.252:8000/play/a022/index.m3u8
+
 http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/9607
-http://190.83.2.172:6001/stream/channelid/1109170389?profile=pass
-http://201.174.162.89:9981/stream/channelid/1631509901?profile=pass
+http://fastream.xyz:8080/38feva75zu57ku98/47wuma84duwe57/59475
 
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES 2 HD
-http://190.83.2.172:6001/stream/channelid/940957566?profile=pass
+http://148.113.190.252:8000/play/a022/index.m3u8
 
 #EXTINF:0 type="stream" channelId="4665" , PX SPORTS
 ##EXTVLCOPT:network-caching=1000
