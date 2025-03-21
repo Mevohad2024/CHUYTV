@@ -12,6 +12,9 @@ http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410
 #EXTINF:0 type="stream" channelId="1967" ,2 TELEMUNDO
 http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1080/index.m3u8
 
+#EXTINF:0 type="stream" channelId="1967" ,3 TELEMUNDO
+http://wanicelife.com:8880/6mc250009/28887461/60096
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://201.174.162.89:9981/stream/channelid/1466056798?profile=pass
 http://181.78.21.46:8009/play/a006
