@@ -3,37 +3,14 @@
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:0 type="stream" channelId="1967" , TELEMUNDO 51 MIAMI
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-
-#EXTINF:0 type="stream" channelId="1967" , TELEMUNDO CALIFORNIA
-https://d3i0aurg3nyoct.cloudfront.net/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="1967" , TELEMUNDO
-https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
-
 #EXTINF:0 type="stream" channelId="1967" , TELEMUNDO 52 CHICAGO
 https://nxt.plus:8443/olmos/1234guz/189349
 
-#EXTINF:0 type="stream" channelId="1967" ,2 TELEMUNDO
-http://cord-cutter.net:8080/kirk@shields/225@522/56410
-
-#EXTINF:0 type="stream" channelId="1967" ,3 TELEMUNDO
+#EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410
 
-#EXTINF:0 type="stream" channelId="1967" ,4 TELEMUNDO
+#EXTINF:0 type="stream" channelId="1967" ,2 TELEMUNDO
 http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1080/index.m3u8
-
-
-#EXTINF:0 type="stream" channelId="1967" ,7 TELEMUNDO
-http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/23424
-
-#EXTINF:0 type="stream" channelId="1967" ,8 TELEMUNDO
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="1967" ,9 TELEMUNDO
-https://tvpass.org/live/TelemundoEast/hd/b3AyeHZSTVV3RTNJRDg2c2ZkamFqakZtTWRwc2lhOEQ0MHY4bk04eA==
-
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://201.174.162.89:9981/stream/channelid/1466056798?profile=pass
