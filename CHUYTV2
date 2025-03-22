@@ -1,10 +1,13 @@
 #EXTM3U
 
-
 #EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Flow
 http://latinapro.net:25461/movie/CARLOSa61/rodriguez2CA/53391.mkv
 #EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Flow
 http://masterprotv1.com:8080/movie/aube1205carl/carlos1234/253006.mkv
+#EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Flow
+https://nxt.plus:8443/movie/olmos/1234guz/244859.mkv
+#EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Flow
+http://mundo2.pro:80/movie/82jfn7qq23/Xw7Tu9LhHhQE/60ca16ec-336c-446b-80c1-726656e661e0.mkv
 #EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Flow
 
 #EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Flow
