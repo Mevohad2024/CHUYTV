@@ -3,6 +3,12 @@
 
 #EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Flow
 http://latinapro.net:25461/movie/CARLOSa61/rodriguez2CA/53391.mkv
+#EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Flow
+http://masterprotv1.com:8080/movie/aube1205carl/carlos1234/253006.mkv
+#EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Flow
+
+#EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", Flow
+
 
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
