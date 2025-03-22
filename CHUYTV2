@@ -1,5 +1,7 @@
 #EXTM3U
 
+http://latinapro.net:25461/movie/CARLOSa61/rodriguez2CA/53391.mkv
+
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
