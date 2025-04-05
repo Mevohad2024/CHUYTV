@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 ,CAM 1 ALLSTAR
+http://masterprotv1.com:8080/aube1205carl/carlos1234/65347
+#EXTINF:-1 ,CAM 2 ALLSTAR
+http://masterprotv1.com:8080/aube1205carl/carlos1234/65348
+
+
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
