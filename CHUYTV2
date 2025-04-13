@@ -6,6 +6,8 @@ http://playtv44.com:8080/535503/123456/315742
 http://playtv44.com:8080/535503/123456/315743
 #EXTINF:-1 ,CAM 3 ALLSTAR
 http://playtv44.com:8080/535503/123456/315639
+#EXTINF:-1 ,CAM 4 ALLSTAR
+https://nxt.plus:8443/cablestream/uSgBFYRL78sA/252301
 
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
