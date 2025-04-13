@@ -1209,6 +1209,7 @@ http://45.167.3.81:45000/play/a04a/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1591", BEIN SPORTS Ñ
 http://207.248.2.105:3200/play/a0gt/index.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",CDO BASICO
