@@ -27,29 +27,24 @@ http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1080/index.m3u8
 http://wanicelife.com:8880/6mc250009/28887461/60096
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
-http://201.174.162.89:9981/stream/channelid/1466056798?profile=pass
 http://181.78.21.46:8009/play/a006
 http://179.49.163.34:45000/play/a02m/index.m3u8
-http://148.113.190.252:8000/play/bitmehd
+
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
-http://190.90.252.200:16001/play/a0ba/index.m3u8
 http://45.186.106.207:8000/play/a06t/index.m3u88
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
 http://190.102.246.93:9005/play/a03c
-http://190.90.252.200:16001/play/a060/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="41",Nickelodeon HD
-http://201.174.162.89:9981/stream/channelid/846020104?profile=pass
-http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/42923
+
+
 
 
 #EXTINF:0 type="stream" channelId="-1", TeenNick
-http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/2474
 http://45.186.105.215:9999/play/a02l/index.m3u8
-
-
 
 #EXTINF:0 type="stream" channelId="322" , NICK JR.
 ##EXTVLCOPT:network-caching=1000
@@ -61,63 +56,52 @@ http://200.59.188.3:8000/play/a044
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://201.174.162.89:9981/stream/channelid/1097915069?profile=pass
 http://200.115.120.1:8000/play/ca006/index.m3u8
-http://190.13.81.218:18000/play/a0aq
+
 
 
 #EXTINF:0 type="stream" channelId="40" , CARTOON NETWORK HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca002/index.m3u8
-http://148.113.190.252:8000/play/a02x/index.m3u8
 http://45.186.106.207:8000/play/a07l/index.m3u88
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://201.174.162.89:9981/stream/channelid/1344238232?profile=pass
-http://tv.proyectox.vip:8080/live/Blackiekoko1/J2N4tmBxpL/9868_.ts
 http://200.115.120.1:8000/play/ca009/index.m3u8
-http://190.90.252.200:16001/play/a0b0/index.m3u8
 http://179.49.163.34:45000/play/a00a
 
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://190.13.81.218:18000/play/a0i1
-http://201.174.162.89:9981/stream/channelid/347663159?profile=pass
+
+
 
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/30603
-http://45.5.117.182:8000/play/a0hm/index.m3u8
-http://181.176.153.106:8090/play/a163/index.m3u8
+
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://179.49.163.34:45000/play/a011/index.m3u8
-http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/5697
+
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://45.186.106.207:8000/play/a07x/index.m3u88
 http://181.78.21.46:8009/play/a03c
 http://181.176.153.106:8090/play/a10i/index.m3u8
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/2667
-http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/2432
-http://45.186.106.207:8000/play/a07x/index.m3u88
+
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
-http://148.113.190.252:8000/play/a03f/index.m3u8
-http://190.90.252.200:16001/play/a0ce/index.m3u8
-http://181.176.153.106:8090/play/a10n/index.m3u8
-http://201.174.162.89:9981/stream/channelid/2052993474?profile=pass
 https://streamer1.nexgen.bz/AXN/index.m3u8
 http://45.235.37.254/axnhd/index.m3u8
 http://45.186.106.207:8000/play/a02p/index.m3u88
@@ -125,11 +109,10 @@ http://45.186.106.207:8000/play/a02p/index.m3u88
 #EXTINF:0 type="stream" channelId="1188" , E!1
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://200.115.120.1:8000/play/ca031/index.m3u8
-http://190.13.81.218:18000/play/a0cz
+
+
 
 #EXTINF:0 type="stream" channelId="1200" , LIFETIME
-http://190.90.252.200:16001/play/a0c9/index.m3u8
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
