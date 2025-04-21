@@ -429,6 +429,7 @@ http://190.0.241.181:8000/play/LOVENATURENUEVO/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
+http://181.78.109.48:8000/play/a02b/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
 ##EXTVLCOPT:network-caching=1000
@@ -1182,6 +1183,7 @@ http://148.113.190.252:8000/play/a022/index.m3u8
 http://200.115.96.66:4000/play/a0e0/index.m3u8
 http://45.186.105.215:9999/play/a03w/index.m3u8
 http://45.167.3.81:45000/play/a033/index.m3u8
+http://181.78.109.48:8000/play/a03q/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLDlluHOF6kUAw8AR-fbW7oRFSx3_MYZnReXWrkEjkuw-WrsvXoJr7ko&s=10", ADRENALINA
 http://148.113.190.252:8000/play/a013
