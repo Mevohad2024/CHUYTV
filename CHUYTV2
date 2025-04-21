@@ -284,22 +284,22 @@ http://186.148.195.206:8000/play/a0vj/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png", Universal Premier HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://200.115.96.66:4000/play/a034/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.4b8fc78cff89969ea5a888a779654e44.png", Universal Reality HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://200.115.96.66:4000/play/a036/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png", Universal Crime HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://200.115.96.66:4000/play/a033/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.61669777e8ebe4f90876b91db5ef8466.png", Universal Comedy HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://200.115.96.66:4000/play/a032/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLopm-6pUub9GBorT6swxZLPsdvctogtVUg&usqp=CAU", CINE FAMILIAR HD
 ##EXTVLCOPT:network-caching=1000
