@@ -437,8 +437,7 @@ https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MTV HD
-http://45.186.105.215:9999/play/a05p/index.m3u8
-http://201.174.162.89:9981/stream/channelid/1754845884?profile=pass
+
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb0hm9BF3GOc0z4VbHvPE0-YrtdEAzK44PNw&usqp=CAU" , MM KPOP
 https://marine2.miplay.cl/kpop/playlist.m3u8
@@ -446,15 +445,14 @@ https://marine2.miplay.cl/kpop/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" , Nickmusic
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://190.13.81.218:18000/play/a0ap
-http://190.13.81.218:18000/play/a0d2
+
+
 
 #EXTINF:0 type="stream" channelId="1959" , BANDAMAX HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://201.174.162.89:9981/stream/channelid/2122659265?profile=pass
 http://190.60.33.245:4002/play/a0l2/index.m3u8
-http://148.113.190.252:8000/play/a02a/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" , Lavozgrupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
@@ -463,69 +461,65 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/.m3u8
 
 #EXTINF:0 type="stream" channelId="1966" , TELEHIT MUSICA
-http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/47269
-http://148.113.190.252:8000/play/a01f/index.m3u8
+
+
 
 #EXTINF:0 type="stream" channelId="1966" , TELEHIT PLUS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/24976
+
 
 
 #EXTINF:0 type="stream" channelId="1964" , TELEHIT
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/59510
-http://148.113.190.252:8000/play/telehithd/index.m3u8
+
+
 
 #EXTINF:0 type="stream" channelId="2146" , TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MTV Hits
-http://45.186.105.215:9999/play/a026/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1",MTV 90s
-http://45.5.117.182:8000/play/a0if/index.m3u8
-http://45.186.105.215:9999/play/a03y/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1",MTV 80s
-http://45.5.117.182:8000/play/a0f2/index.m3u8
-http://45.186.105.215:9999/play/a027/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="3750" , EXA TV
-http://45.167.3.81:45000/play/a044/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1",HTV
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/14127
 http://181.78.21.46:8009/play/a01m
 
 #EXTINF:0 type="stream" channelId="-1", Video Rola
-http://181.78.105.146:2000/play/a04c/index.m3u8
 http://200.115.120.1:8000/play/ca050/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",1 Azteca 1
-http://148.113.190.252:8000/play/a01v/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",2 Azteca 1
-http://201.174.162.89:9981/stream/channelid/1290009922?profile=pass
+
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",3 Azteca 1
-http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/24787
+
 
 #EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ADN40/20-hls/live-media.m3u8
-http://148.113.190.252:8000/play/a02n/index.m3u8
+
+
 
 
 #EXTINF:0 type="stream" channelId="3720" , A+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://148.113.190.252:8000/play/a02o/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="1954" ,1 Las estrellas
 ##EXTVLCOPT:network-caching=1000
@@ -538,13 +532,13 @@ http://200.115.120.1:8000/play/ca014/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" ,2 Las estrellas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://148.113.190.252:8000/play/a020/index.m3u8
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
+
+
 
 #EXTINF:0 type="stream" channelId="1954" ,3 Las estrellas
-http://201.174.162.89:9981/stream/channelid/1919712826?profile=pass
-http://179.189.222.226:8000/play/ch44
-http://190.90.252.200:16001/play/a09w/index.m3u8
+
+
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 1 Cnco
 ##EXTVLCOPT:network-caching=1000
@@ -553,19 +547,19 @@ http://200.115.120.1:8000/play/ca0105/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 2 Cnco
 http://45.186.106.207:8000/play/a03g/index.m3u88
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
-http://201.174.162.89:9981/stream/channelid/1812213255?profile=pass
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 4 Cnco
 #EXTINF:0 type="stream" channelId="-1ñ#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://148.113.190.252:8000/play/a02l/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
-http://148.113.190.252:8000/play/a00r/index.m3u8
+
+
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado_400x400.jpg", TELEFORMULA HD
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/Teleformula/20-hls/live-media.m3u8
