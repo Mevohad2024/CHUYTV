@@ -158,8 +158,7 @@ http://181.78.109.48:8000/play/a063/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_GaU52nUoGZAFyd9susUdm7PZNpc9meSRJqBscvKJ0sWn5a6J", PANICO HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
-
+http://200.115.120.1:8000/play/ca120/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="2625" , STUDIO UNIVERSAL
@@ -938,19 +937,18 @@ http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/24030
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",1 FSMX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://148.113.190.252:8000/play/a01n/index.m3u8
+http://200.115.96.66:4000/play/a0jx/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",2 FSMX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://201.174.162.89:9981/stream/channelid/885275483?profile=pass
 http://181.78.106.127:9000/play/ca031
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",3 FSMX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca041/index.m3u8
-http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/5616
+
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",4 FSMX
 http://187.249.112.44:9981/stream/channelid/885275483?profile=pass
@@ -959,7 +957,7 @@ http://187.249.112.44:9981/stream/channelid/885275483?profile=pass
 #EXTINF:0 type="stream" channelId="179",1 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://148.113.190.252:8000/play/a01p/index.m3u8
+http://200.115.96.66:4000/play/a0h1/index.m3u8
 
 #EXTINF:0 type="stream" channelId="179",2 FSM 2
 ##EXTVLCOPT:network-caching=1000
@@ -970,23 +968,23 @@ http://187.249.112.44:9981/stream/channelid/1090878414?profile=pass
 #EXTINF:0 type="stream" channelId="179",3 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://201.174.162.89:9981/stream/channelid/885275483?profile=pass
+
 
 #EXTINF:0 type="stream" channelId="180",1 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://148.113.190.252:8000/play/a01r/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="180",2 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/24824
+
 
 
 #EXTINF:0 type="stream" channelId="180",3 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/24922
+
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",1 FS PREMIUM
