@@ -261,7 +261,7 @@ http://186.148.195.206:8000/play/a0wc/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.102.246.93:9005/play/a05b
-
+http://190.60.38.45:8000/play/a09t/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2587" , HBO XTREME
 ##EXTVLCOPT:network-caching=1000
@@ -470,7 +470,7 @@ https://marine2.miplay.cl/kpop/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.201.70:8000/play/a0i3/index.m3u8
-
+http://190.60.38.45:8000/play/a0iz/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1959" , BANDAMAX HD
 ##EXTVLCOPT:network-caching=1000
