@@ -74,12 +74,13 @@ http://181.78.109.48:8000/play/a016/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca009/index.m3u8
 http://179.49.163.34:45000/play/a00a
+http://181.78.21.46:8009/play/a011
 
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.109.48:8000/play/a05b/index.m3u8
-
+http://181.78.21.46:8009/play/a010
 
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
 ##EXTVLCOPT:network-caching=1000
@@ -91,7 +92,7 @@ http://181.78.201.70:8000/play/a0i5/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://179.49.163.34:45000/play/a011/index.m3u8
-
+http://181.78.21.46:8009/play/a02z
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
@@ -112,7 +113,7 @@ http://45.186.106.207:8000/play/a02p/index.m3u88
 #EXTINF:0 type="stream" channelId="1188" , E!1
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://181.78.21.46:8009/play/a03a
 
 
 #EXTINF:0 type="stream" channelId="1200" , LIFETIME
@@ -368,7 +369,7 @@ http://181.78.109.48:8000/play/a02q/index.m3u8
 #EXTINF:0 type="stream" channelId="1418" , HGTV
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://181.78.21.46:8009/play/a01j
 
 
 #EXTINF:0 type="stream" channelId="57" , DISCOVERY CHANNEL
@@ -1012,12 +1013,11 @@ http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/23624
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca040/index.m3u8
-http://201.174.162.89:9981/stream/channelid/607524862?profile=pass
 
 #EXTINF:0 type="stream" channelId="2540",2 ESPN MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://148.113.190.252:8000/play/espn1hd/index.m3u8
+http://181.78.21.46:8009/play/a015
 
 #EXTINF:0 type="stream" channelId="2540",3 ESPN MX
 http://45.186.105.215:9999/play/a064/index.m3u8
@@ -1026,12 +1026,12 @@ http://45.186.105.215:9999/play/a064/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca042/index.m3u8
-http://201.174.162.89:9981/stream/channelid/1893483298?profile=pass
+
 
 #EXTINF:0 type="stream" channelId="344",2 ESPN 2 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://148.113.190.252:8000/play/a00d/index.m3u8
+http://181.78.21.46:8009/play/a016
 
 #EXTINF:0 type="stream" channelId="344",3 ESPN 2 MX
 http://45.167.3.81:45000/play/a069/index.m3u8
@@ -1045,7 +1045,7 @@ http://45.186.105.215:9999/play/a066/index.m3u8
 #EXTINF:0 type="stream" channelId="355",2 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://148.113.190.252:8000/play/a00f/index.m3u8
+http://181.78.21.46:8009/play/a017
 
 #EXTINF:0 type="stream" channelId="355",3 ESPN 3 
 http://45.167.3.81:45000/play/a06a/index.m3u8
@@ -1059,6 +1059,8 @@ http://45.186.105.215:9999/play/a02i/index.m3u8
 #EXTINF:0 type="stream" channelId="1432" ,2 ESPN 4 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://181.78.21.46:8009/play/a03m
+
 #EXTINF:0 type="stream" channelId="1432" ,3 ESPN 4 MX
 http://45.167.3.81:45000/play/a064/index.m3u8
 
@@ -1066,10 +1068,12 @@ http://45.167.3.81:45000/play/a064/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5.png", ESPN 5 MX
 http://45.167.3.81:45000/play/a068/index.m3u8
 http://45.186.105.215:9999/play/a062/index.m3u8
+http://181.78.21.46:8009/play/a018
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ESPN_6.webp.5a00ef854275786ade99bbd5a826743a.webp" , ESPN 6 MX
 http://45.167.3.81:45000/play/a06b/index.m3u8
 http://45.186.105.215:9999/play/a067/index.m3u8
+http://181.78.21.46:8009/play/a019
 
 #EXTINF:0 type="stream" channelId="2540" , ESPN HD sur 
 http://181.78.11.12:1010/play/a08f/index.m3u8
@@ -1150,6 +1154,7 @@ http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/3100
 http://200.59.188.3:8000/play/a0jo
 http://207.248.2.105:3200/play/a0c4/index.m3u8
 http://190.60.38.45:8000/play/a0dp/index.m3u8
+http://181.78.21.46:8009/play/a02s
 
 #EXTINF:0 type="stream" channelId="-1",Win Sports+
 ##EXTVLCOPT:network-caching=1000 
