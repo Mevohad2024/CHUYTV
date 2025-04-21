@@ -864,7 +864,7 @@ http://181.78.201.70:8000/play/a0pn/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Directv%20Sport.png",1 Directv sport
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://177.53.155.236:8000/play/a0co/index.m3u8
+http://200.59.188.3:8000/play/a0xe
 http://weib-tv.com:80/Bzpvaldes070623/nTGpjUG5fNRt/69547.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Direct%20Tv%20Sports%202%20HD.png",1 Directv sport2
@@ -1024,13 +1024,12 @@ http://181.78.27.128:8000/play/a02s/index.m3u8
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://tvpass.org/live/espn-deportes/hd/b3AyeHZSTVV3RTNJRDg2c2ZkamFqakZtTWRwc2lhOEQ0MHY4bk04eA==
-http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/243085
+http://200.115.98.26:9000/play/a044/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/23624
+
 
 
 #EXTINF:0 type="stream" channelId="2540",1 ESPN MX
@@ -1141,6 +1140,7 @@ http://190.111.16.106:40000/play/a09s
 http://207.248.2.105:3200/play/a0gt/index.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+http://200.59.188.3:8000/play/a0cm
 
 #EXTINF:0 type="stream" channelId="-1",CDO BASICO
 http://stklatino.dynns.com:2082/hetosp745vpsoa925drd/7434fsmoa374md/3117
