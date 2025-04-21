@@ -90,6 +90,7 @@ http://181.78.21.46:8009/play/a010
 #EXTVLCOPT--http-reconnect=true
 http://181.78.109.48:8000/play/a04e/index.m3u8
 http://181.78.201.70:8000/play/a0i5/index.m3u8
+http://190.111.16.106:40000/play/a066
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
@@ -191,7 +192,7 @@ http://181.78.109.48:8000/play/a02p/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.211.244:8000/play/a029/index.m3u8
-
+http://190.111.16.106:40000/play/a06m
 
 #EXTINF:0 type="stream" channelId="2501" , AMC
 ##EXTVLCOPT:network-caching=1000
@@ -419,7 +420,7 @@ http://181.78.211.244:8000/play/a03d/index.m3u8
 #EXTINF:0 type="stream" channelId="1040" , DISCOVERY TLC HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://190.111.16.106:40000/play/a06g
 
 #EXTINF:0 type="stream" channelId="2840" , DISCOVERY TURBO HD
 ##EXTVLCOPT:network-caching=1000
@@ -1262,7 +1263,7 @@ http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/247845
 http://167.250.223.27:8085/play/a00d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",11 TUDN HD (MX)
-http://148.113.190.252:8000/play/tudnhd/index.m3u8
+http://190.111.16.106:40000/play/a09p
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (US)
 http://tvmate.icu:8080/Alan/Alan1234/82241
