@@ -1001,22 +1001,19 @@ http://190.111.16.106:40000/play/a09t
 http://45.5.117.182:8000/play/j0b9/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",3 FS PREMIUM
-https://motivatv.club:443/elviavaldez0524/zt5gEhszzB/591683
+http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/79152
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",4 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://masterprotv1.com:8080/alex1607sepu/pxgYH3X5Nq/150251
+
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",5 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/24775
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",6 FS PREMIUM
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-https://motivatv.club:443/elviavaldez0524/zt5gEhszzB/591684
+
 
 #EXTINF:0 type="stream" channelId="0", Fox sport
 http://181.78.27.128:8000/play/a02t/index.m3u8
@@ -1218,9 +1215,8 @@ http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/87717
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/13689
 
-http://tv.proyectox.vip:8080/Blackiekoko1/J2N4tmBxpL/9607
-http://fastream.xyz:8080/38feva75zu57ku98/47wuma84duwe57/59475
 
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES 2 HD
 http://148.113.190.252:8000/play/a022/index.m3u8
