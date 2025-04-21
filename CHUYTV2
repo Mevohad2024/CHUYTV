@@ -46,12 +46,13 @@ http://190.102.246.93:9005/play/a03c
 #EXTINF:0 type="stream" channelId="-1", TeenNick
 http://45.186.105.215:9999/play/a02l/index.m3u8
 http://181.78.109.48:8000/play/a02f/index.m3u8
+http://181.78.201.70:8000/play/a0i4/index.m3u8
 
 #EXTINF:0 type="stream" channelId="322" , NICK JR.
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.59.188.3:8000/play/a044
-
+http://181.78.201.70:8000/play/a0hw/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
@@ -84,7 +85,7 @@ http://181.78.109.48:8000/play/a05b/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.109.48:8000/play/a04e/index.m3u8
-
+http://181.78.201.70:8000/play/a0i5/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
@@ -161,6 +162,7 @@ http://181.78.109.48:8000/play/a063/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://45.235.37.254/studiouniversalhd/index.m3u8
 http://181.78.109.48:8000/play/a05p/index.m3u8
+http://181.78.201.70:8000/play/a0p0/index.m3u8
 
 #EXTINF:0 type="stream" channelId="383" , SPACE
 ##EXTVLCOPT:network-caching=1000
@@ -264,7 +266,7 @@ http://181.78.109.48:8000/play/a01b/index.m3u8
 #EXTINF:0 type="stream" channelId="2725" , HBO MUNDI HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://181.78.201.70:8000/play/a0fu/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.34bdc6633205429349f7a9bb8c9f0a51.png", Universal Cinema HD
 ##EXTVLCOPT:network-caching=1000
@@ -344,7 +346,7 @@ http://200.115.96.66:4000/play/a01r/index.m3u8
 #EXTINF:0 type="stream" channelId="310" , EL GOURMET HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://181.78.201.70:8000/play/a0pi/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="1244" , Food network
@@ -453,7 +455,7 @@ https://marine2.miplay.cl/kpop/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" , Nickmusic
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://181.78.201.70:8000/play/a0i3/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="1959" , BANDAMAX HD
@@ -788,7 +790,7 @@ http://45.186.106.207:8000/play/a084/index.m3u88
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/large.TNTNovelas-2023.png.3c8f3ba8041ddfd11298304e93478394.png", TNT Novelas
 http://45.167.3.81:45000/play/a01b/index.m3u8
 http://181.78.12.164:9000/play/a08y
-
+http://181.78.201.70:8000/play/a0pr/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJIJiXiOLU5sZKUTSgYxn58tkM0aKyCr1v8M6_jsnW-QUIH_YcUPlSX4&s=10" , Sony Novelas
@@ -842,6 +844,7 @@ http://201.174.162.89:9981/stream/channelid/428525580?profile=pass
 #EXTVLCOPT--http-reconnect=true
 http://190.13.81.218:18000/play/a09w
 http://190.90.252.200:16001/play/a0aw/index.m3u8
+http://181.78.201.70:8000/play/a0pn/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Directv%20Sport.png",1 Directv sport
 ##EXTVLCOPT:network-caching=1000
@@ -900,7 +903,7 @@ http://181.78.105.146:8800/play/a04w
 http://200.115.96.66:4000/play/a00h/index.m3u8
 http://190.60.33.245:4002/play/a0hw/index.m3u8
 http://181.78.21.46:8009/play/a02y
-http://148.113.190.252:8000/play/a01j/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 1 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
@@ -1122,6 +1125,7 @@ http://181.176.153.106:8090/play/a1b1/index.m3u8
 #EXTINF:0 type="stream" channelId="1686", GOLTV
 http://167.250.135.246:81/play/a0a2/index.m3u8
 http://181.176.153.106:8090/play/a13o/index.m3u8
+http://181.78.201.70:8000/play/a0n6/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1686" , Gol Peru HD
 http://167.250.135.246:81/play/a0a8/index.m3u8
