@@ -998,6 +998,15 @@ http://fastream.xyz:8080/AmbarBurg2005/hc3XbuyYnVBu/24775
 #EXTVLCOPT--http-reconnect=true
 https://motivatv.club:443/elviavaldez0524/zt5gEhszzB/591684
 
+#EXTINF:0 type="stream" channelId="0", Fox sport
+http://181.78.27.128:8000/play/a02t/index.m3u8
+
+#EXTINF:0 type="stream" channelId="0", Fox sport 2
+http://181.78.27.128:8000/play/a02r/index.m3u8
+
+#EXTINF:0 type="stream" channelId="0", Fox sport 3
+http://181.78.27.128:8000/play/a02s/index.m3u8
+
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
