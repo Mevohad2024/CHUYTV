@@ -122,6 +122,7 @@ http://181.78.21.46:8009/play/a03a
 
 #EXTINF:0 type="stream" channelId="1200" , LIFETIME
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+http://masterprotv1.com:8080/aube1205carl/carlos1234/189492
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
 ##EXTVLCOPT:network-caching=1000
@@ -204,14 +205,14 @@ http://45.186.106.207:8000/play/a07y/index.m3u88
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=tru
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/319
 
 #EXTINF:0 type="stream" channelId="64" , CINECANAL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.186.106.207:8000/play/a020/index.m3u8
 https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/315
 
 #EXTINF:0 type="stream" channelId="292" , MULTIPREMIER  HD
 ##EXTVLCOPT:network-caching=1000
@@ -436,14 +437,16 @@ http://190.0.241.181:8000/play/a0at/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.186.106.207:8000/play/a07u/index.m3u88
+http://masterprotv1.com:8080/aube1205carl/carlos1234/233
 
 #EXTINF:0 type="stream" channelId="56",NATIONAL GEOGRAPHIC
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/237
 
 #EXTINF:0 type="stream" channelId="56",NATGEO MUNDO
 https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+http://masterprotv1.com:8080/aube1205carl/carlos1234/235
 
 #EXTINF:0 type="stream" channelId="-1",Love Nature HD
 http://160.20.165.246:8000/play/a00d/index.m3u8
@@ -455,6 +458,7 @@ http://190.0.241.181:8000/play/LOVENATURENUEVO/index.m3u8
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 http://181.78.109.48:8000/play/a02b/index.m3u8
+http://masterprotv1.com:8080/aube1205carl/carlos1234/188
 
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
 ##EXTVLCOPT:network-caching=1000
@@ -462,9 +466,10 @@ http://181.78.109.48:8000/play/a02b/index.m3u8
 http://181.78.109.48:8000/play/a03k/index.m3u8
 https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
+http://masterprotv1.com:8080/aube1205carl/carlos1234/192
 
 #EXTINF:0 type="stream" channelId="-1", MTV HD
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/142559
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb0hm9BF3GOc0z4VbHvPE0-YrtdEAzK44PNw&usqp=CAU" , MM KPOP
 https://marine2.miplay.cl/kpop/playlist.m3u8
@@ -508,7 +513,7 @@ http://190.0.247.38:8000/play/a049
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MTV Hits
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/142563
 
 #EXTINF:0 type="stream" channelId="-1",MTV 90s
 
@@ -530,7 +535,7 @@ http://200.115.120.1:8000/play/ca050/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",1 Azteca 1
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/191472
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",2 Azteca 1
 
@@ -541,31 +546,31 @@ http://200.115.120.1:8000/play/ca050/index.m3u8
 #EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/191452
 
 
 
 #EXTINF:0 type="stream" channelId="3720" , A+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/191450
 
 #EXTINF:0 type="stream" channelId="1954" ,1 Las estrellas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.186.106.207:8000/play/a098/index.m3u88
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-http://200.115.120.1:8000/play/ca014/index.m3u8
+
 
 
 #EXTINF:0 type="stream" channelId="1954" ,2 Las estrellas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/191587
 
 
 #EXTINF:0 type="stream" channelId="1954" ,3 Las estrellas
-
+http://200.115.120.1:8000/play/ca014/index.m3u8
 
 
 
@@ -579,26 +584,24 @@ http://45.186.106.207:8000/play/a03g/index.m3u88
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/191476
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 4 Cnco
-#EXTINF:0 type="stream" channelId="-1ñ#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 
 
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/191485
 
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado_400x400.jpg", TELEFORMULA HD
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/191507
 
 
 
 #EXTINF:0 type="stream" channelId="3127", Imagen tv
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/191495
 
 
 
@@ -621,7 +624,7 @@ http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:0 type="stream" channelId="4651", 1 NU9VE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/191484
 
 #EXTINF:0 type="stream" channelId="4651", 2 NU9VE
 ##EXTVLCOPT:network-caching=1000
@@ -631,7 +634,7 @@ http://190.92.10.66:4000/play/a007/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Milenio Televisión
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://masterprotv1.com:8080/aube1205carl/carlos1234/191501
 
 #EXTINF:0 type="stream" channelId="-1", Excélsior Televisión
 #EXTVLCOPT--http-reconnect=true
