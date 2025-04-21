@@ -279,26 +279,30 @@ http://186.148.195.206:8000/play/a0vj/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.34bdc6633205429349f7a9bb8c9f0a51.png", Universal Cinema HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://38.159.227.122:8000/play/a04e/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png", Universal Premier HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://38.159.227.122:8000/play/a02w/index.m3u8
 http://200.115.96.66:4000/play/a034/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.4b8fc78cff89969ea5a888a779654e44.png", Universal Reality HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://38.159.227.122:8000/play/a02y/index.m3u8
 http://200.115.96.66:4000/play/a036/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png", Universal Crime HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://38.159.227.122:8000/play/a02z/index.m3u8
 http://200.115.96.66:4000/play/a033/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.61669777e8ebe4f90876b91db5ef8466.png", Universal Comedy HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://38.159.227.122:8000/play/a030/index.m3u8
 http://200.115.96.66:4000/play/a032/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLopm-6pUub9GBorT6swxZLPsdvctogtVUg&usqp=CAU", CINE FAMILIAR HD
@@ -849,6 +853,7 @@ http://179.1.139.84:8000/play/a03s/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Canal claro
 http://45.186.105.215:9999/play/a01h/index.m3u8
+http://38.180.133.31:8000/play/a0yi/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" , Más Chic 
 http://190.13.81.218:18000/play/a08e
@@ -1124,11 +1129,12 @@ http://190.13.81.218:18000/play/a0a2
 http://45.167.3.81:45000/play/a00h/index.m3u8
 http://45.186.105.215:9999/play/a019/index.m3u8
 http://181.78.109.48:8000/play/a014/index.m3u8
+http://38.180.133.31:8000/play/a0yg/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX0JFEUPO9ZbgxumXVxWZQwIhan65So9ZyZFOIhP5fDiZ-K6BV", Claro Sports 2 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://38.180.133.31:8000/play/a0yh/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports HD
