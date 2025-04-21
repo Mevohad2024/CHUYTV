@@ -97,7 +97,7 @@ http://45.186.106.207:8000/play/a07x/index.m3u88
 http://181.78.21.46:8009/play/a03c
 http://181.176.153.106:8090/play/a10i/index.m3u8
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/2667
-
+http://160.20.165.246:8000/play/a00k/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
@@ -207,11 +207,13 @@ https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.211.244:8000/play/a01h/index.m3u8
 http://179.49.163.34:45000/play/a016/index.m3u8
+http://160.20.165.246:8000/play/a00b/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1694" , MC
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://179.49.163.34:45000/play/a01w/index.m3u8
+http://160.20.165.246:8000/play/a00a/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1330" , HBO
 ##EXTVLCOPT:network-caching=1000
@@ -750,6 +752,7 @@ http://148.113.190.252:8000/play/a01h/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RCN
 http://190.13.81.218:18000/play/a09x
+http://160.20.165.246:8000/play/a00h/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RCN 2
 http://190.13.81.218:18000/play/a07z
@@ -803,7 +806,7 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.186.105.215:9999/play/a00h/index.m3u8
-
+http://160.20.165.246:8000/play/a00e/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", A3 SERIES
 ##EXTVLCOPT:network-caching=1000
@@ -813,6 +816,7 @@ http://200.115.120.1:8000/play/ca0101/index.m3u8
 http://45.186.105.215:9999/play/a00n/index.m3u8
 http://200.59.188.3:8000/play/a0iq
 http://190.13.81.218:18000/play/a0c0
+http://160.20.165.246:8000/play/a00f/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Caracol 
 http://179.1.139.84:8000/play/a03r/index.m3u8
