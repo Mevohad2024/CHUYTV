@@ -33,6 +33,7 @@ http://179.49.163.34:45000/play/a02m/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://45.186.106.207:8000/play/a06t/index.m3u88
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/43
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
 http://190.102.246.93:9005/play/a03c
@@ -41,7 +42,7 @@ http://190.102.246.93:9005/play/a03c
 #EXTINF:0 type="stream" channelId="41",Nickelodeon HD
 http://181.78.21.46:8009/play/a01x
 http://181.78.99.187:8000/play/a0od/index.m3u8
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/48
 
 #EXTINF:0 type="stream" channelId="-1", TeenNick
 http://181.78.109.48:8000/play/a02f/index.m3u8
@@ -54,6 +55,7 @@ http://181.78.201.70:8000/play/a0i4/index.m3u8
 http://200.59.188.3:8000/play/a044
 http://181.78.201.70:8000/play/a0hw/index.m3u8
 http://181.78.99.187:8000/play/a0oc/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/45
 
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
 ##EXTVLCOPT:network-caching=1000
@@ -83,6 +85,7 @@ http://190.0.241.181:8000/play/a0as/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.109.48:8000/play/a05b/index.m3u8
 http://181.78.21.46:8009/play/a010
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/46
 
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
 ##EXTVLCOPT:network-caching=1000
@@ -117,23 +120,21 @@ http://45.186.106.207:8000/play/a02p/index.m3u88
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.21.46:8009/play/a03a
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/30
 
 #EXTINF:0 type="stream" channelId="1200" , LIFETIME
-https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 http://masterprotv1.com:8080/aube1205carl/carlos1234/189492
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/64
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.StarChannelLA.png.2fffc7dcafc4373eaf40fcbf75bade94.png", STAR CHANNEL HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.109.48:8000/play/a04t/index.m3u8
 
-
-
-
 #EXTINF:0 type="stream" channelId="1303" , FX
 http://181.176.153.106:8090/play/a0z0/index.m3u8
 http://45.235.37.254/fxhd/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/19
 
 #EXTINF:0 type="stream" channelId="1052" , TNT
 ##EXTVLCOPT:network-caching=1000
@@ -201,15 +202,14 @@ http://45.186.106.207:8000/play/a07y/index.m3u88
 #EXTINF:0 type="stream" channelId="1326" , Cinemax
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=tru
-https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 http://masterprotv1.com:8080/aube1205carl/carlos1234/319
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/82
 
 #EXTINF:0 type="stream" channelId="64" , CINECANAL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.186.106.207:8000/play/a020/index.m3u8
-https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 http://masterprotv1.com:8080/aube1205carl/carlos1234/315
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/73
 
 #EXTINF:0 type="stream" channelId="292" , MULTIPREMIER  HD
 ##EXTVLCOPT:network-caching=1000
@@ -228,36 +228,39 @@ http://160.20.165.246:8000/play/a00a/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.109.48:8000/play/a017/index.m3u8
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/120
 
 #EXTINF:0 type="stream" channelId="935" , HBO2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.109.48:8000/play/a018/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/121
 
 #EXTINF:0 type="stream" channelId="2584" , HBO FAMILY
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 http://181.78.109.48:8000/play/a01a/index.m3u8
 http://186.148.195.206:8000/play/a0w9/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/119
 
 #EXTINF:0 type="stream" channelId="2585" , HBO+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 http://181.78.109.48:8000/play/a019/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/610
 
 #EXTINF:0 type="stream" channelId="2583" , HBO SIGNATURE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.78.66:8000/play/a0ch
 http://186.148.195.206:8000/play/a0wc/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/118
 
 #EXTINF:0 type="stream" channelId="361" , HBO POP
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.60.38.45:8000/play/a09t/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/117
 
 #EXTINF:0 type="stream" channelId="2587" , HBO XTREME
 ##EXTVLCOPT:network-caching=1000
@@ -266,12 +269,14 @@ http://200.115.96.66:4000/play/a02o/index.m3u8
 http://181.78.78.66:8000/play/a0cf
 http://181.78.109.48:8000/play/a01b/index.m3u8
 http://186.148.195.206:8000/play/a0wa/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/298
 
 #EXTINF:0 type="stream" channelId="2725" , HBO MUNDI HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.201.70:8000/play/a0fu/index.m3u8
 http://186.148.195.206:8000/play/a0vj/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1628
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.34bdc6633205429349f7a9bb8c9f0a51.png", Universal Cinema HD
 ##EXTVLCOPT:network-caching=1000
@@ -334,36 +339,36 @@ http://190.102.246.93:9005/play/a03t
 #EXTINF:0 type="stream" channelId="333", GOLDEN
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1624
 
 #EXTINF:0 type="stream" channelId="2502", GOLDEN EDGE
 http://200.115.120.1:8000/play/ca037/index.m3u8
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/84
 
 #EXTINF:0 type="stream" channelId="3765" , GOLDENPLUS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.111.16.106:40000/play/a08r
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/75
 
 #EXTINF:0 type="stream" channelId="1963" ,GOLDEN PREMIER
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a01r/index.m3u8
 http://190.111.16.106:40000/play/a08q
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/83
 
 #EXTINF:0 type="stream" channelId="310" , EL GOURMET HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.201.70:8000/play/a0pi/index.m3u8
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/34
 
 #EXTINF:0 type="stream" channelId="1244" , Food network
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.0.241.181:8000/play/a0ac/index.m3u8
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/27
 
 #EXTINF:0 type="stream" channelId="-1", Sun Channel HD
 http://181.78.109.48:8000/play/a03m/index.m3u8
@@ -379,24 +384,26 @@ http://181.78.109.48:8000/play/a02q/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.21.46:8009/play/a01j
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1425
 
 #EXTINF:0 type="stream" channelId="57" , DISCOVERY CHANNEL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=
-https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 http://45.186.106.207:8000/play/a075/index.m3u88
 http://181.78.109.48:8000/play/a065/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/60
 
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.186.106.207:8000/play/a079/index.m3u88
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/32
 
 #EXTINF:0 type="stream" channelId="2724", Discovery H&H
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.186.106.207:8000/play/a029/index.m3u88
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/62
 
 #EXTINF:0 type="stream" channelId="2839" , Discovery world
 ##EXTVLCOPT:network-caching=1000
@@ -404,6 +411,7 @@ http://45.186.106.207:8000/play/a029/index.m3u88
 http://45.186.106.207:8000/play/a076/index.m3u88
 http://181.78.27.128:8000/play/a02n/index.m3u8
 http://181.78.99.187:8000/play/a0m3/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/59
 
 #EXTINF:0 type="stream" channelId="2558" , Discovery theater
 ##EXTVLCOPT:network-caching=1000
@@ -416,18 +424,20 @@ http://181.78.99.187:8000/play/a0l0/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://45.186.106.207:8000/play/a06m/index.m3u88
 http://181.78.211.244:8000/play/a03d/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/110
 
 #EXTINF:0 type="stream" channelId="1040" , DISCOVERY TLC HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.111.16.106:40000/play/a06g
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/65
 
 #EXTINF:0 type="stream" channelId="2840" , DISCOVERY TURBO HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
 http://45.186.106.207:8000/play/a028/index.m3u88
 http://190.0.241.181:8000/play/a0at/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/285
 
 #EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
 ##EXTVLCOPT:network-caching=1000
@@ -451,16 +461,16 @@ http://190.0.241.181:8000/play/LOVENATURENUEVO/index.m3u8
 #EXTINF:0 type="stream" channelId="1455", HISTORY
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
 http://181.78.109.48:8000/play/a02b/index.m3u8
 http://masterprotv1.com:8080/aube1205carl/carlos1234/188
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/57
 
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
 http://181.78.109.48:8000/play/a03k/index.m3u8
 http://masterprotv1.com:8080/aube1205carl/carlos1234/192
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/289
 
 #EXTINF:0 type="stream" channelId="-1", MTV HD
 http://masterprotv1.com:8080/aube1205carl/carlos1234/142559
@@ -474,11 +484,12 @@ http://191.52.214.5:8000/play/a06d/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.201.70:8000/play/a0i3/index.m3u8
 http://190.60.38.45:8000/play/a0iz/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/47
 
 #EXTINF:0 type="stream" channelId="1959" , BANDAMAX HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1634
 
 
 #EXTINF:0 type="stream" channelId="-1" , Lavozgrupera
@@ -532,7 +543,7 @@ http://200.115.120.1:8000/play/ca050/index.m3u8
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191472
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",2 Azteca 1
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/458
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",3 Azteca 1
 
 #EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
@@ -544,6 +555,7 @@ http://masterprotv1.com:8080/aube1205carl/carlos1234/191452
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191450
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1674
 
 #EXTINF:0 type="stream" channelId="1954" ,1 Las estrellas
 ##EXTVLCOPT:network-caching=1000
@@ -573,7 +585,7 @@ http://45.186.106.207:8000/play/a03g/index.m3u88
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191476
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 4 Cnco
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1457
 
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191485
@@ -585,6 +597,7 @@ http://masterprotv1.com:8080/aube1205carl/carlos1234/191507
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191495
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1695
 
 #EXTINF:0 type="stream" channelId="255",1 Azteca 7
 ##EXTVLCOPT:network-caching=1000
@@ -607,12 +620,13 @@ http://masterprotv1.com:8080/aube1205carl/carlos1234/191484
 #EXTINF:0 type="stream" channelId="4651", 2 NU9VE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/39988
 
 #EXTINF:0 type="stream" channelId="-1", Milenio Televisión
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191501
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/2155
 
 #EXTINF:0 type="stream" channelId="-1", Excélsior Televisión
 #EXTVLCOPT--http-reconnect=true
@@ -722,6 +736,9 @@ http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4361.ts
 #EXTINF:0 type="stream" channelId="134", DPELICULA
 http://181.78.109.48:8000/play/a06j/index.m3u8
 
+#EXTINF:0 type="stream" channelId="134", DPELICULA +
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1699
+
 #EXTINF:0 type="stream" channelId="895", TCM
 http://181.78.99.187:8000/play/a0nu/index.m3u8
 
@@ -809,6 +826,7 @@ http://38.180.133.31:8000/play/a0yi/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" , Más Chic 
 http://200.115.120.1:8000/play/ca021/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/2872
 
 #EXTINF:0 type="stream" channelId="2686" , TNT Series HD
 #EXTVLCOPT--http-reconnect=true
@@ -889,6 +907,7 @@ http://200.115.96.66:4000/play/a0jx/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.106.127:9000/play/ca031
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/92
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",3 FSMX
 ##EXTVLCOPT:network-caching=1000
@@ -909,6 +928,7 @@ http://200.115.96.66:4000/play/a0h1/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a0h1/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/93
 
 
 #EXTINF:0 type="stream" channelId="179",3 FSM 2
@@ -919,18 +939,18 @@ http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4490.ts
 #EXTINF:0 type="stream" channelId="180",1 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/100
 
 #EXTINF:0 type="stream" channelId="180",2 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4491.ts
 
 
 #EXTINF:0 type="stream" channelId="180",3 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4491.ts
+
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",1 FS PREMIUM
@@ -940,7 +960,7 @@ http://190.111.16.106:40000/play/a09t
 http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/79152
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",3 FS PREMIUM
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/992
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",4 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
@@ -984,6 +1004,7 @@ http://181.78.21.46:8009/play/a015
 
 #EXTINF:0 type="stream" channelId="2540",3 ESPN MX
 http://45.186.105.215:9999/play/a064/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/97
 
 #EXTINF:0 type="stream" channelId="344",1 ESPN 2 MX
 ##EXTVLCOPT:network-caching=1000
@@ -997,6 +1018,7 @@ http://181.78.21.46:8009/play/a016
 
 #EXTINF:0 type="stream" channelId="344",3 ESPN 2 MX
 http://45.186.105.215:9999/play/a065/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1456
 
 #EXTINF:0 type="stream" channelId="355",1 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
@@ -1009,13 +1031,14 @@ http://45.186.105.215:9999/play/a066/index.m3u8
 http://181.78.21.46:8009/play/a017
 
 #EXTINF:0 type="stream" channelId="355",3 ESPN 3 
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/91
 
 
 #EXTINF:0 type="stream" channelId="1432" ,1 ESPN 4 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.186.105.215:9999/play/a02i/index.m3u8
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/90
 
 #EXTINF:0 type="stream" channelId="1432" ,2 ESPN 4 MX
 ##EXTVLCOPT:network-caching=1000
@@ -1120,6 +1143,7 @@ http://181.78.21.46:8009/play/a02s
 #EXTINF:0 type="stream" channelId="227" , AYM SPORTS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/2873
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/80167
 
 
@@ -1141,7 +1165,7 @@ http://200.115.96.66:4000/play/a0e0/index.m3u8
 http://181.78.109.48:8000/play/a03q/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLDlluHOF6kUAw8AR-fbW7oRFSx3_MYZnReXWrkEjkuw-WrsvXoJr7ko&s=10", ADRENALINA
-
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1301
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWcwYX2OO5812XT9efEZyh-VHB2LdxY6ZmxGsZex3mORRDhCyKVRmRH00&s=10", CalienteTV
 
