@@ -1158,11 +1158,13 @@ http://181.78.21.46:8009/play/a02s
 #EXTINF:0 type="stream" channelId="227" , AYM SPORTS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/2873
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/80167
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES HD
