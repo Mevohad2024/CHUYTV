@@ -907,7 +907,7 @@ http://latinapro.net:25461/CARLOSa61/rodriguez2CA/342.ts
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 2 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9571
 
 
 
@@ -926,7 +926,7 @@ http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/92
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca041/index.m3u8
-
+http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9579
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",4 FSMX
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4489.ts
@@ -947,6 +947,7 @@ http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/93
 #EXTINF:0 type="stream" channelId="179",3 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9585
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4490.ts
 
 #EXTINF:0 type="stream" channelId="180",1 FSM 3
@@ -963,7 +964,7 @@ http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4491.ts
 #EXTINF:0 type="stream" channelId="180",3 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9591
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",1 FS PREMIUM
@@ -978,7 +979,7 @@ http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/992
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",4 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9593
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",5 FS PREMIUM
@@ -1004,6 +1005,7 @@ http://200.115.98.26:9000/play/a044/index.m3u8
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9544
 
 #EXTINF:0 type="stream" channelId="2540",1 ESPN MX
 ##EXTVLCOPT:network-caching=1000
@@ -1199,6 +1201,8 @@ http://190.111.16.106:40000/play/a09p
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",5 TUDN HD (MX)
 http://167.250.223.27:8085/play/a00d/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (MX)
+http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9603
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (US)
 http://tvmate.icu:8080/Alan/Alan1234/82241
@@ -1214,6 +1218,9 @@ http://tvmate.icu:8080/Alan/Alan1234/11885
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",5 TUDN HD (US)
 http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (US)
+http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9605
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 1
 
