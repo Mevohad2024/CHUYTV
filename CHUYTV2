@@ -1,14 +1,17 @@
 #EXTM3U
 
 #EXTINF:-1 ,CAM 1 ALLSTAR
-http://masterprotv1.com:8080/aube1205carl/carlos1234/65348
+http://playtv44.com:8080/390571/123456/315742
 #EXTINF:-1 ,CAM 1 ALLSTAR
+http://tv.masterplaytv.club:8080/AdonayOrtega07/jGjS8DyBTg/107978
+#EXTINF:-1 ,CAM 1 ALLSTAR
+http://masterprotv1.com:8080/aube1205carl/carlos1234/65347
+
+#EXTINF:-1 ,CAM 2 ALLSTAR
+http://masterprotv1.com:8080/aube1205carl/carlos1234/65348
+#EXTINF:-1 ,CAM 2 ALLSTAR
 http://tv.masterplaytv.club:8080/AdonayOrtega07/jGjS8DyBTg/107979
 #EXTINF:-1 ,CAM 2 ALLSTAR
-http://tv.masterplaytv.club:8080/AdonayOrtega07/jGjS8DyBTg/107978
-#EXTINF:-1 ,CAM 2 ALLSTAR
-http://masterprotv1.com:8080/aube1205carl/carlos1234/65347
-#EXTINF:-1 ,CAM 5 ALLSTAR
 https://nxt.plus:8443/olmos/1234guz/252301
 
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
