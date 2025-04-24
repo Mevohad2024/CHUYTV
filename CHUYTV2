@@ -532,7 +532,7 @@ http://190.0.247.38:8000/play/a049
 #EXTINF:0 type="stream" channelId="1964" , TELEHIT
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://45.68.35.218:4001/play/a00o/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="2146" , TELERITMO
