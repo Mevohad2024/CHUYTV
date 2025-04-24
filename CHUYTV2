@@ -995,7 +995,7 @@ http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9593
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",5 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://tvpremiund.ddns.me:2082/alexalexx/alex207/79152
 
 
 #EXTINF:0 type="stream" channelId="0", Fox sport
@@ -1158,7 +1158,7 @@ http://181.78.21.46:8009/play/a02s
 #EXTINF:0 type="stream" channelId="-1",Win Sports+
 ##EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT--http-reconnect=true
-
+http://tvpremiund.ddns.me:2082/alexalexx/alex207/56941
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9V8Hc6ZO1A6gweWLrsJ1FqbmwfCgrqj_VK2Rmhci2OIwN9gnUZlVO-Q&s=10" , Latin America Sport
