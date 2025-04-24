@@ -39,7 +39,7 @@ http://wanicelife.com:8880/6mc250009/28887461/60096
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://181.78.21.46:8009/play/a006
 http://179.49.163.34:45000/play/a02m/index.m3u8
-
+http://45.68.35.218:4001/play/a00d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://45.186.106.207:8000/play/a06t/index.m3u88
@@ -510,7 +510,8 @@ http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/47
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1634
-
+http://45.5.117.57:8200/play/a05n/index.m3u8
+http://45.68.35.218:4001/play/a00g/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" , Lavozgrupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
@@ -520,7 +521,7 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/.m3u8
 
 #EXTINF:0 type="stream" channelId="1966" , TELEHIT MUSICA
 http://190.0.247.38:8000/play/a022
-
+http://45.5.117.57:8200/play/a0ay/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1966" , TELEHIT PLUS
 ##EXTVLCOPT:network-caching=1000
@@ -539,12 +540,13 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MTV Hits
 http://masterprotv1.com:8080/aube1205carl/carlos1234/142563
+http://45.5.117.57:8200/play/a0gd/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1",MTV 90s
-
+#EXTINF:0 type="stream" channelId="-1",MTV 00s
+http://45.5.117.57:8200/play/a0i0/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",MTV 80s
-
+http://45.5.117.57:8200/play/a0ge/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3750" , EXA TV
 http://181.78.109.48:8000/play/a04r/index.m3u8
@@ -564,7 +566,9 @@ http://masterprotv1.com:8080/aube1205carl/carlos1234/191472
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",2 Azteca 1
 http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/458
+
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",3 Azteca 1
+http://45.68.35.218:4001/play/a025/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
 ##EXTVLCOPT:network-caching=1000
@@ -607,6 +611,9 @@ http://masterprotv1.com:8080/aube1205carl/carlos1234/191476
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 4 Cnco
 http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1457
 
+#EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 5 Cnco
+http://45.68.35.218:4001/play/a009/index.m3u8
+
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191485
 
@@ -632,6 +639,9 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:0 type="stream" channelId="255",3 Azteca 7
 http://190.92.10.66:4000/play/a007/index.m3u8
+
+#EXTINF:0 type="stream" channelId="255",4 Azteca 7
+http://45.68.35.218:4001/play/a006/index.m3u8
 
 #EXTINF:0 type="stream" channelId="4651", 1 NU9VE
 ##EXTVLCOPT:network-caching=1000
@@ -941,6 +951,8 @@ http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9579
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",4 FSMX
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4489.ts
 
+#EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",5 FSMX
+http://45.68.35.218:4001/play/a021/index.m3u8
 
 #EXTINF:0 type="stream" channelId="179",1 FSM 2
 ##EXTVLCOPT:network-caching=1000
@@ -951,14 +963,20 @@ http://200.115.96.66:4000/play/a0h1/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a0h1/index.m3u8
-http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/93
-
 
 #EXTINF:0 type="stream" channelId="179",3 FSM 2
+http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/93
+
+#EXTINF:0 type="stream" channelId="179",4 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9585
+
+#EXTINF:0 type="stream" channelId="179",5 FSM 2
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4490.ts
+
+#EXTINF:0 type="stream" channelId="179",6 FSM 2
+http://45.68.35.218:4001/play/a01p/index.m3u8
 
 #EXTINF:0 type="stream" channelId="180",1 FSM 3
 ##EXTVLCOPT:network-caching=1000
@@ -997,6 +1015,8 @@ http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9593
 #EXTVLCOPT--http-reconnect=true
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/79152
 
+#EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",6 FS PREMIUM
+http://45.5.117.57:8200/play/a096/index.m3u8
 
 #EXTINF:0 type="stream" channelId="0", Fox sport
 http://181.78.27.128:8000/play/a02t/index.m3u8
@@ -1016,6 +1036,9 @@ http://200.115.98.26:9000/play/a044/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9544
+
+#EXTINF:0 type="stream" channelId="3748" , Espndeportes
+http://45.68.35.218:4001/play/a015/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2540",1 ESPN MX
 ##EXTVLCOPT:network-caching=1000
@@ -1116,6 +1139,7 @@ http://38.180.133.31:8000/play/a0yh/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.111.16.106:40000/play/a09s
+http://45.5.117.57:8200/play/a02v/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1591", BEIN SPORTS Ñ
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
@@ -1215,6 +1239,13 @@ http://167.250.223.27:8085/play/a00d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (MX)
 http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9603
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (MX)
+http://45.5.117.57:8200/play/a05v/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",8 TUDN HD (MX)
+http://45.68.35.218:4001/play/a00c/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (US)
 http://tvmate.icu:8080/Alan/Alan1234/82241
