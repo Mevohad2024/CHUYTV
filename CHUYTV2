@@ -885,7 +885,7 @@ http://weib-tv.com:80/Bzpvaldes070623/nTGpjUG5fNRt/69559.ts
 #EXTINF:0 type="stream" channelId="4668", TNT Sports HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://45.68.35.218:4001/play/a030/index.m3u8
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports premium
 http://190.13.81.218:18000/play/a0gt
@@ -1140,6 +1140,7 @@ http://38.180.133.31:8000/play/a0yh/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://190.111.16.106:40000/play/a09s
 http://45.5.117.57:8200/play/a02v/index.m3u8
+http://45.68.35.218:4001/play/a00t/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1591", BEIN SPORTS Ñ
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
@@ -1246,6 +1247,8 @@ http://45.5.117.57:8200/play/a05v/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",8 TUDN HD (MX)
 http://45.68.35.218:4001/play/a00c/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",9 TUDN HD (MX)
+http://45.68.35.218:4001/play/a00u/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (US)
 http://tvmate.icu:8080/Alan/Alan1234/82241
@@ -1264,6 +1267,9 @@ http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (US)
 http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9605
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (US)
+http://45.68.35.218:4001/play/a00x/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 1
 
