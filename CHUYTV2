@@ -102,10 +102,10 @@ http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/46
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://80.80.91.195:8000/play/a04s/index.m3u8
 http://181.78.109.48:8000/play/a04e/index.m3u8
 http://181.78.201.70:8000/play/a0i5/index.m3u8
 http://190.111.16.106:40000/play/a066
-http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/55
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
@@ -174,7 +174,7 @@ http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1166
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca120/index.m3u8
-
+http://80.80.91.195:8000/play/a0e6/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2625" , STUDIO UNIVERSAL
 ##EXTVLCOPT:network-caching=1000
@@ -647,12 +647,12 @@ http://45.68.35.218:4001/play/a006/index.m3u8
 #EXTINF:0 type="stream" channelId="4651", 1 NU9VE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://masterprotv1.com:8080/aube1205carl/carlos1234/191484
+http://45.68.35.218:4001/play/a01g/index.m3u8
 
 #EXTINF:0 type="stream" channelId="4651", 2 NU9VE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/39988
+
 
 #EXTINF:0 type="stream" channelId="-1", Milenio Televisión
 ##EXTVLCOPT:network-caching=1000
@@ -914,6 +914,7 @@ https://nxt.plus:8443/jesus01/jesus01/59250
 http://200.115.96.66:4000/play/a029/index.m3u8
 http://200.115.120.1:8000/play/ca124/index.m3u8
 http://190.111.16.106:40000/play/a09r
+http://80.80.91.195:8000/play/a0eh/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SM1IAOiAR5u3dZDJ-HKMAAltmxJJ0vN4Mm492o0CjjlB8rw13fkiNC8W&s=10", Azteca Deportes HD
 ##EXTVLCOPT:network-caching=1000
@@ -1187,11 +1188,11 @@ http://45.68.35.218:4001/play/a032/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",Win Sports+
 ##EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT--http-reconnect=true
-http://tvpremiund.ddns.me:2082/alexalexx/alex207/56941
+
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9V8Hc6ZO1A6gweWLrsJ1FqbmwfCgrqj_VK2Rmhci2OIwN9gnUZlVO-Q&s=10" , Latin America Sport
-
+http://80.80.91.195:8000/play/a04h/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="227" , AYM SPORTS
