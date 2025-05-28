@@ -718,6 +718,7 @@ http://206.212.244.71:8080/4wVQA7/625159/15336
 #EXTINF:0 type="stream" channelId="3209" , 2 Univisión
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://172.93.102.112:8989/158765_.m3u8
 http://206.212.244.71:8080/4wVQA7/625159/108248
 
 #EXTINF:0 type="stream" channelId="3209" , 3 Univisión
@@ -738,7 +739,7 @@ http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/57969
 http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1100/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1164_2_77191.png.a7bf0653083720991223589926890be4.png",3 Unimas
-
+http://172.93.102.112:8989/158753_.m3u8
 
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 ##EXTVLCOPT:network-caching=1000
@@ -996,7 +997,7 @@ http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4491.ts
 #EXTINF:0 type="stream" channelId="180",3 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9591
+
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",1 FS PREMIUM
@@ -1006,12 +1007,12 @@ http://190.111.16.106:40000/play/a09t
 http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/79152
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",3 FS PREMIUM
-
+http://190.102.139.129:8090/play/a083
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",4 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9593
+
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",5 FS PREMIUM
@@ -1039,7 +1040,7 @@ http://200.115.98.26:9000/play/a044/index.m3u8
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9544
+http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19888
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 http://45.68.35.218:4001/play/a015/index.m3u8
@@ -1182,6 +1183,7 @@ http://181.78.27.128:8000/play/a063/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",Win Sports 
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://200.59.188.3:8000/play/a03y
 http://181.78.21.46:8009/play/a02s
 http://45.68.35.218:4001/play/a032/index.m3u8
 http://45.184.87.142:8000/play/a04d
@@ -1249,6 +1251,7 @@ http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9603
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (MX)
 http://45.5.117.57:8200/play/a05v/index.m3u8
+http://45.228.234.173:9999/play/a069/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",8 TUDN HD (MX)
 http://45.68.35.218:4001/play/a00c/index.m3u8
@@ -1272,7 +1275,7 @@ http://tvmate.icu:8080/Alan/Alan1234/11885
 http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (US)
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9605
+http://181.78.106.127:9000/play/ca036/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (US)
 http://45.68.35.218:4001/play/a00x/index.m3u8
