@@ -35,7 +35,6 @@ http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1080/index.m3u8
 http://wanicelife.com:8880/6mc250009/28887461/60096
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
-http://179.49.163.34:45000/play/a02m/index.m3u8
 http://45.68.35.218:4001/play/a00d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
@@ -52,7 +51,7 @@ http://181.78.99.187:8000/play/a0od/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TeenNick
 http://181.78.109.48:8000/play/a02f/index.m3u8
-http://181.78.201.70:8000/play/a0i4/index.m3u8
+
 
 
 #EXTINF:0 type="stream" channelId="322" , NICK JR.
@@ -60,7 +59,7 @@ http://181.78.201.70:8000/play/a0i4/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.59.188.3:8000/play/a044
 http://181.78.201.70:8000/play/a0hw/index.m3u8
-http://181.78.99.187:8000/play/a0oc/index.m3u8
+
 
 
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
@@ -68,7 +67,7 @@ http://181.78.99.187:8000/play/a0oc/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca006/index.m3u8
 http://181.78.109.48:8000/play/a01o/index.m3u8
-http://181.78.211.244:8000/play/a039/index.m3u8
+
 
 
 #EXTINF:0 type="stream" channelId="40" , CARTOON NETWORK HD
@@ -76,7 +75,7 @@ http://181.78.211.244:8000/play/a039/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca002/index.m3u8
 http://45.186.106.207:8000/play/a07l/index.m3u88
-http://181.78.109.48:8000/play/a016/index.m3u8
+
 
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
@@ -86,7 +85,7 @@ https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 http://200.115.120.1:8000/play/ca009/index.m3u8
 http://179.49.163.34:45000/play/a00a
 http://181.78.99.187:8000/play/a0l7/index.m3u8
-http://190.0.241.181:8000/play/a0as/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
 ##EXTVLCOPT:network-caching=1000
