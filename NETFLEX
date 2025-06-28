@@ -1,45 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1 ,la niña de mis ojos
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3KBYmGByyJoUP3TraG2SyXCp7rhotJMTYX9JUuImhKOhnJt7B3LPCLo&s=10",la niña de mis ojos
 http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82087.mp4
 
-#EXTINF:-1 , La partida de go
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJn6uwh1ItGjbMOLG79xF-cbOGOWrhtxFo-99QzIZtOm_2b0k79UaLf0&s=10", La partida de go
 http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/81948.mp4
 
-#EXTINF:-1 ,Misión imposible
-http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/81980.mkv
-
-#EXTINF:-1 ,karatekid
-http://tvlatino.club:2082/movie/premium17hbo794/JjjCxAJ3RLKn/573958.mkv
-
-#EXTINF:-1 , lilo&stich
-http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/81981.mkv
-
-#EXTINF:-1 ,como entrenar a tu dragon
-http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82098.mkv
-
-#EXTINF:-1 ,F1
-http://netlevel.online:8080/movie/ideas903/XRYET/609292.mp4
-
-#EXTINF:-1 ,Otro pequeño favor
-http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82094.mkv
-
-#EXTINF:-1 , El contador 2
-http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82048.mp4
-
-#EXTINF:-1 ,Nocturnal
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAXcyY9xLD5tUzzZ9zlbQwZlq-mnILjcoRUnLUYn5fy2nDc0hwRp8624w&s=10",Nocturnal
 http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/81909.mp4
 
-#EXTINF:-1 ,Presencia
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPyJy8zDEXIaaL7gbcXjN8AsbHyJK9Qx3zWg3wG6D5QTmBdMf8_Ka248&s=10",Misión imposible
+http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/81980.mkv
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfoXT3tB2IjX05Sikih2MzzUzupsk8DBROf-mcqWnexs_9TczXRJ8M-Emc&s=10",karatekid
+http://tvlatino.club:2082/movie/premium17hbo794/JjjCxAJ3RLKn/573958.mkv
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzjYCtbSkAedfdS9STXLKgie9Y0Yc4aX9QNPwoQxQfe14JxzKumqi5gym&s=10", lilo&stich
+http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/81981.mkv
+http://tv.zeuspro.xyz:8080/movie/EXPg3Q5JuS/gJT9nWY1mv/124742.mkv
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIGliQ7Rc-G8UaJiHq4k4l0Y5fZVr4QaTcZPZJ82vO2cauE6ClaPmoUQ&s=10",como entrenar a tu dragon
+http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82098.mkv
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5UnimjSry-4d2kVcVhwgGGyJ0LfAPAsfDYlztzdb9BclOfjB3xoMNIDQ&s=10",F1
+http://netlevel.online:8080/movie/ideas903/XRYET/609292.mp4
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv42YrSuZ9lNk_gJ5Uqi6KXdOWtpIwY0jBzHgcbv_hyNm5nXv2PIoZKQk&s=10",Otro pequeño favor
+http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82094.mkv
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPddDpVwuP1ye58bJYmwV_MqiH9S3z0J41o1KiwUo2rOszDQKDbjyjAAWS&s=10", El contador 2
+http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82048.mp4
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfBxHPlKTbH7lufVrbdt7ErpjFNTrUoxbCSdxVUP0dcsJ9dDGz1APMRMc&s=10", Balerina Jon wick
+http://tv.zeuspro.xyz:8080/movie/EXPg3Q5JuS/gJT9nWY1mv/126802.mp4
+
+#EXTINF:-1 logo= "https://static.wikia.nocookie.net/doblaje/images/d/dc/Presencia_2025.jpg/revision/latest?cb=20250208031907&path-prefix=es",Presencia
 http://stklatino.dynns.com:2082/movie/diegoantofaiptv/iroquitv23/81910.mp4
 
-#EXTINF:-1 ,Una navidad patas arriba
-http://weib-tv.com:80/movie/Bzpvaldes070623/nTGpjUG5fNRt/621100.mkv
-
-#EXTINF:-1 , DIDI
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6uYJ78URK4m2o9B2QBubKFYFGydBmOSZ0uI0S_HtpYPuaSbFhFUzUyrL6&s=10", DIDI
 http://weib-tv.com:80/movie/Bzpvaldes070623/nTGpjUG5fNRt/592726.mkv
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSne0etuLiinWPBCdodmK64q1ASiscSjzt7k9_3Emg89ByEuLVQvSlQcRve&s=10 ", No te sueltes
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSne0etuLiinWPBCdodmK64q1ASiscSjzt7k9_3Emg89ByEuLVQvSlQcRve&s=10", No te sueltes
 http://weib-tv.com:80/movie/Bzpvaldes070623/nTGpjUG5fNRt/605250.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXhns3ZWHXw1Re5M2p1NZ5F1IGTFNdtXJQxregj2UreIRvzmCKFPgFnhY&s=10" ,Borderlands
