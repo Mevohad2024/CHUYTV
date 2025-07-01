@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 , mujer valiente
-http://tvlatino.club:2082/movie/premium17hbo794/JjjCxAJ3RLKn/567345.mkv
-
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3KBYmGByyJoUP3TraG2SyXCp7rhotJMTYX9JUuImhKOhnJt7B3LPCLo&s=10",la niña de mis ojos
 http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82087.mp4
 
@@ -37,7 +34,7 @@ http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82048.mp4
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfBxHPlKTbH7lufVrbdt7ErpjFNTrUoxbCSdxVUP0dcsJ9dDGz1APMRMc&s=10", Balerina Jon wick
 http://tv.zeuspro.xyz:8080/movie/EXPg3Q5JuS/gJT9nWY1mv/126802.mp4
 
-#EXTINF:-1 logo= "https://static.wikia.nocookie.net/doblaje/images/d/dc/Presencia_2025.jpg/revision/latest?cb=20250208031907&path-prefix=es",Presencia
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSAW578R73mE1pKyYUmdUnfW0BZc9EZtSvEQ_WXEf6I7mppd2KHB_jLIC&s=10",Presencia
 http://stklatino.dynns.com:2082/movie/diegoantofaiptv/iroquitv23/81910.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6uYJ78URK4m2o9B2QBubKFYFGydBmOSZ0uI0S_HtpYPuaSbFhFUzUyrL6&s=10", DIDI
@@ -49,8 +46,7 @@ http://weib-tv.com:80/movie/Bzpvaldes070623/nTGpjUG5fNRt/605250.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXhns3ZWHXw1Re5M2p1NZ5F1IGTFNdtXJQxregj2UreIRvzmCKFPgFnhY&s=10" ,Borderlands
 http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/1b5bd872-9e8e-4dc5-80a4-bccc4b0fac39.mp4
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-f36IcAw9l1eOEzqQAuLtR7_Wt4GCvsO1oOCVEx0IdBfNBb4gIeazcrA&s=10 ", Light Shop S01E01 
-http://masterprotv1.com:8080/series/aube1205carl/carlos1234/249627.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-f36IcAw9l1eOEzqQAuLtR7_Wt4GCvsO1oOCVEx0IdBfNBb4gIeazcrA&s=10 ", Light Shop S01E02 
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/249628.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-f36IcAw9l1eOEzqQAuLtR7_Wt4GCvsO1oOCVEx0IdBfNBb4gIeazcrA&s=10 ", Light Shop S01E03
