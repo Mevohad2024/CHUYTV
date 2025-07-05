@@ -1,10 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26PSmLrCLy-RDkSh6-VLG4GgVn0i24zFdoA&usqp=CAU", REACHER S01E01
-http://netlevel.online:8080/series/ideas903/XRYET/239679.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26PSmLrCLy-RDkSh6-VLG4GgVn0i24zFdoA&usqp=CAU", REACHER S01E02
 http://tvlatino.club:2082/series/premium17hbo794/JjjCxAJ3RLKn/482075.mkv
-http://netlevel.online:8080/series/ideas903/XRYET/239680.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26PSmLrCLy-RDkSh6-VLG4GgVn0i24zFdoA&usqp=CAU", REACHER S01E03
 http://tvlatino.club:2082/series/premium17hbo794/JjjCxAJ3RLKn/482076.mkv
 http://netlevel.online:8080/series/ideas903/XRYET/239681.mkv
@@ -72,8 +70,6 @@ http://netlevel.online:8080/series/ideas903/XRYET/592898.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATixTPNtywI7vhRiH44N4uP2mf4i6VOSKQsdliy4puDtIfBRdSbL_taks&s=10", REACHER S03E08
 http://netlevel.online:8080/series/ideas903/XRYET/593342.mkv
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3KBYmGByyJoUP3TraG2SyXCp7rhotJMTYX9JUuImhKOhnJt7B3LPCLo&s=10",la niña de mis ojos
-http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82087.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJn6uwh1ItGjbMOLG79xF-cbOGOWrhtxFo-99QzIZtOm_2b0k79UaLf0&s=10", La partida de go
 http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/81948.mp4
