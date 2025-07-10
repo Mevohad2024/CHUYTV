@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK1_MrEBLN1DEv-K1_3d_dzyFQe_VNUfiac9HhmWPwrCJ2PZvDwRAbYeY&s=10", REACHER S02E07
-http://tvpremiund.ddns.me:2082/series/stefapenaloza/iroquitv12/81394.mp4
-http://netlevel.online:8080/series/ideas903/XRYET/531493.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK1_MrEBLN1DEv-K1_3d_dzyFQe_VNUfiac9HhmWPwrCJ2PZvDwRAbYeY&s=10", REACHER S02E08
-http://tvpremiund.ddns.me:2082/series/stefapenaloza/iroquitv12/81395.mp4
-http://netlevel.online:8080/series/ideas903/XRYET/531494.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATixTPNtywI7vhRiH44N4uP2mf4i6VOSKQsdliy4puDtIfBRdSbL_taks&s=10", REACHER S03E01
 http://tvpremiund.ddns.me:2082/series/stefapenaloza/iroquitv12/81396.mp4
 http://netlevel.online:8080/series/ideas903/XRYET/590460.mkv
@@ -41,6 +35,7 @@ http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/81980.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfoXT3tB2IjX05Sikih2MzzUzupsk8DBROf-mcqWnexs_9TczXRJ8M-Emc&s=10",karatekid
 http://tvlatino.club:2082/movie/premium17hbo794/JjjCxAJ3RLKn/573958.mkv
+http://tv.nstvlatino.com:8080/movie/eduardoyrosario/eduardo2019/1248185.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzjYCtbSkAedfdS9STXLKgie9Y0Yc4aX9QNPwoQxQfe14JxzKumqi5gym&s=10", lilo&stich
 http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/81981.mkv
