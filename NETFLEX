@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 logo= "https://assets.biggerpicture.ai/assets/HO-1610/eventmaster/1361_4.png", Superman
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-yOJtbSOWb14w7SxyGpCTz5uwyGxFC5AaXA&s", Superman
 http://tv.nstvlatino.com:8080/movie/eduardoyrosario/eduardo2019/1248560.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJn6uwh1ItGjbMOLG79xF-cbOGOWrhtxFo-99QzIZtOm_2b0k79UaLf0&s=10", La partida de go
