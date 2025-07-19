@@ -30,14 +30,12 @@ http://103.111.40.242:9999/play/a02q/index.m3u8
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 http://200.115.120.1:8000/play/ca009/index.m3u8
 http://179.49.163.34:45000/play/a00a
 http://103.111.40.242:9999/play/a014/index.m3u8
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 http://45.184.87.142:8000/play/a01o
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 http://103.111.40.242:9999/play/a00e/index.m3u8
@@ -45,7 +43,7 @@ http://103.111.40.242:9999/play/a00e/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://80.80.91.195:8000/play/a04s/index.m3u8
-http://190.111.16.106:40000/play/a066
+no http://190.111.16.106:40000/play/a066
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
