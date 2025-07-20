@@ -5,47 +5,59 @@ http://190.60.33.245:4002/play/a0kd/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://45.186.106.207:8000/play/a06t/index.m3u88
+http://45.5.119.43:4000/play/a03l/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
 http://190.102.246.93:9005/play/a03c
 
 #EXTINF:0 type="stream" channelId="41",Nickelodeon HD
 http://80.80.91.195:8000/play/a09l/index.m3u8
+http://45.5.119.43:4000/play/a0hs/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TeenNick
 http://80.80.91.195:8000/play/a0cu/index.m3u8
+http://45.5.119.43:4000/play/a03f/index.m3u8
+
 #EXTINF:0 type="stream" channelId="322" , NICK JR.
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.59.188.3:8000/play/a044
+http://45.5.119.43:4000/play/a0fz/index.m3u8
+
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca006/index.m3u8
+http://45.5.119.43:4000/play/a0g0/index.m3u8
 
 #EXTINF:0 type="stream" channelId="40" , CARTOON NETWORK HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca002/index.m3u8
 http://45.186.106.207:8000/play/a07l/index.m3u88
+http://45.5.119.43:4000/play/a0l0/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca009/index.m3u8
 http://179.49.163.34:45000/play/a00a
+http://45.5.119.43:4000/play/a0g1/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.184.87.142:8000/play/a01o
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+http://45.5.119.43:4000/play/a0i8/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://80.80.91.195:8000/play/a04s/index.m3u8
 no http://190.111.16.106:40000/play/a066
+http://45.5.119.43:4000/play/a03k/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -372,6 +384,7 @@ http://45.5.117.57:8200/play/a0i0/index.m3u8
 http://45.5.117.57:8200/play/a0ge/index.m3u8
 #EXTINF:0 type="stream" channelId="3750" , EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
+http://45.5.119.43:4000/play/a0hk/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",HTV
 ##EXTVLCOPT:network-caching=1000
@@ -735,6 +748,7 @@ http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.21.46:8009/play/a015
 #EXTINF:0 type="stream" channelId="2540",3 ESPN MX
+http://45.5.119.43:4000/play/a052/index.m3u8
 
 #EXTINF:0 type="stream" channelId="344",1 ESPN 2 MX
 ##EXTVLCOPT:network-caching=1000
@@ -746,10 +760,10 @@ http://200.115.120.1:8000/play/ca042/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.99.187:8000/play/a0py/index.m3u8
 #EXTINF:0 type="stream" channelId="344",3 ESPN 2 MX
-
+http://45.5.119.43:4000/play/a053/index.m3u8
 #EXTINF:0 type="stream" channelId="355",1 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
-
+http://45.5.119.43:4000/play/a054/index.m3u8
 
 #EXTINF:0 type="stream" channelId="355",2 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
@@ -769,9 +783,11 @@ http://181.78.21.46:8009/play/a03m
 #EXTINF:0 type="stream" channelId="1432" ,3 ESPN 4 MX
 #EXTINF:0 type="stream" channelId="-1" logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5.png", ESPN 5 MX
 http://181.78.21.46:8009/play/a018
+http://45.5.119.43:4000/play/a0ix/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ESPN_6.webp.5a00ef854275786ade99bbd5a826743a.webp" , ESPN 6 MX
 http://181.78.21.46:8009/play/a019
+http://45.5.119.43:4000/play/a0kj/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2540" , ESPN HD sur 
 #EXTINF:0 type="stream" channelId="344" , ESPN 2 HD sur 
@@ -786,6 +802,8 @@ http://181.78.11.12:1010/play/a00g/index.m3u8
 #EXTINF:0 type="stream" channelId="287"  , Claro Sports HD
 #EXTVLCOPT--http-reconnect=true
 http://38.180.133.31:8000/play/a0yg/index.m3u8
+http://45.5.119.43:4000/play/a0kz/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX0JFEUPO9ZbgxumXVxWZQwIhan65So9ZyZFOIhP5fDiZ-K6BV", Claro Sports 2 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -796,7 +814,8 @@ http://38.180.133.31:8000/play/a0yh/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://190.111.16.106:40000/play/a09s
 http://45.5.117.57:8200/play/a02v/index.m3u8
-http://45.68.35.218:4001/play/a00t/index.m3u8
+http://45.5.119.43:4000/play/a02v/index.m3u8
+
 #EXTINF:0 type="stream" channelId="1591", BEIN SPORTS Ñ
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
