@@ -555,7 +555,7 @@ http://160.20.165.246:8000/play/a00h/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",RCN NOVELAS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.186.105.215:9999/play/a03n/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",AZ CORAZÓN
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -735,7 +735,7 @@ http://200.115.120.1:8000/play/ca040/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.21.46:8009/play/a015
 #EXTINF:0 type="stream" channelId="2540",3 ESPN MX
-http://45.186.105.215:9999/play/a064/index.m3u8
+
 #EXTINF:0 type="stream" channelId="344",1 ESPN 2 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -746,11 +746,11 @@ http://200.115.120.1:8000/play/ca042/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.99.187:8000/play/a0py/index.m3u8
 #EXTINF:0 type="stream" channelId="344",3 ESPN 2 MX
-http://45.186.105.215:9999/play/a065/index.m3u8
+
 #EXTINF:0 type="stream" channelId="355",1 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-http://45.186.105.215:9999/play/a066/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="355",2 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -760,7 +760,7 @@ http://181.78.21.46:8009/play/a017
 #EXTINF:0 type="stream" channelId="1432" ,1 ESPN 4 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.186.105.215:9999/play/a02i/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="1432" ,2 ESPN 4 MX
 ##EXTVLCOPT:network-caching=1000
