@@ -211,11 +211,14 @@ http://45.5.119.43:4000/play/a0l4/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.78.66:8000/play/a0ch
-http://186.148.195.206:8000/play/a0wc/index.m3u8
+http://177.234.230.206:8011/play/a0lp/index.m3u8
+
 #EXTINF:0 type="stream" channelId="361" , HBO POP
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.60.38.45:8000/play/a09t/index.m3u8
+http://177.234.230.206:8011/play/a00y/index.m3u8
+
 #EXTINF:0 type="stream" channelId="2587" , HBO XTREME
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -229,6 +232,8 @@ http://45.5.119.43:4000/play/a0l6/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.201.70:8000/play/a0fu/index.m3u8
 http://186.148.195.206:8000/play/a0vj/index.m3u8
+http://177.234.230.206:8011/play/a0lq/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.34bdc6633205429349f7a9bb8c9f0a51.png", Universal Cinema HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -405,6 +410,8 @@ http://191.52.214.5:8000/play/a06d/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.201.70:8000/play/a0i3/index.m3u8
 http://190.60.38.45:8000/play/a0iz/index.m3u8
+http://177.234.230.206:8011/play/a0i5/index.m3u8
+
 #EXTINF:0 type="stream" channelId="1959" , BANDAMAX HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
