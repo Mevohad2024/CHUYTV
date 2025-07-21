@@ -423,7 +423,6 @@ http://177.234.230.206:8011/play/a0i5/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1634
 http://45.5.117.57:8200/play/a05n/index.m3u8
-http://45.68.35.218:4001/play/a00g/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" , Lavozgrupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
@@ -439,7 +438,8 @@ http://190.0.247.38:8000/play/a049
 #EXTINF:0 type="stream" channelId="1964" , TELEHIT
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.68.35.218:4001/play/a00o/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="2146" , TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:0 type="stream" channelId="-1", MTV Hits
@@ -465,7 +465,7 @@ http://masterprotv1.com:8080/aube1205carl/carlos1234/191472
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",2 Azteca 1
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",3 Azteca 1
-http://45.68.35.218:4001/play/a025/index.m3u8
+
 #EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -488,14 +488,14 @@ http://200.115.120.1:8000/play/ca014/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 1 Cnco
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://200.115.120.1:8000/play/ca0105/index.m3u8
 http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 2 Cnco
 http://45.186.106.207:8000/play/a03g/index.m3u88
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191476
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 4 Cnco
-http://45.68.35.218:4001/play/a009/index.m3u8
+http://200.115.120.1:8000/play/ca0105/index.m3u8
+
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191485
 #EXTINF:0 type="stream" channelId="-1"  logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado_400x400.jpg", TELEFORMULA HD
@@ -748,6 +748,7 @@ http://latinapro.net:25461/CARLOSa61/rodriguez2CA/342.ts
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 2 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",1 FSMX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -764,7 +765,8 @@ http://200.115.120.1:8000/play/ca041/index.m3u8
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4489.ts
 http://181.78.99.187:8000/play/a0q1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",5 FSMX
-http://45.68.35.218:4001/play/a021/index.m3u8
+http://45.5.117.57:8200/play/a058/index.m3u8
+
 #EXTINF:0 type="stream" channelId="179",1 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -781,7 +783,8 @@ http://181.78.99.187:8000/play/a0q2/index.m3u8
 #EXTINF:0 type="stream" channelId="179",5 FSM 2
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4490.ts
 #EXTINF:0 type="stream" channelId="179",6 FSM 2
-http://45.68.35.218:4001/play/a01p/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="180",1 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -793,6 +796,7 @@ http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4491.ts
 #EXTINF:0 type="stream" channelId="180",3 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",1 FS PREMIUM
 http://190.111.16.106:40000/play/a09t
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",2 FS PREMIUM
@@ -803,6 +807,7 @@ http://190.102.139.129:8090/play/a083
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.117.57:8200/play/a04z/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",5 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -955,27 +960,21 @@ http://45.5.119.24:8000/play/a048/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLDlluHOF6kUAw8AR-fbW7oRFSx3_MYZnReXWrkEjkuw-WrsvXoJr7ko&s=10", ADRENALINA
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWcwYX2OO5812XT9efEZyh-VHB2LdxY6ZmxGsZex3mORRDhCyKVRmRH00&s=10", CalienteTV
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (MX)
 http://206.212.244.71:8080/4wVQA7/625159/11885
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (MX)
-http://200.115.120.1:8000/play/ca039/index.m3u8
 http://45.5.119.43:4000/play/a05q/index.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",3 TUDN HD (MX)
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",4 TUDN HD (MX)
-http://190.111.16.106:40000/play/a09p
+http://45.5.117.57:8200/play/a04t/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",5 TUDN HD (MX)
-http://167.250.223.27:8085/play/a00d/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (MX)
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/9603
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (MX)
-http://45.5.117.57:8200/play/a05v/index.m3u8
 http://45.228.234.173:9999/play/a069/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",8 TUDN HD (MX)
-http://45.68.35.218:4001/play/a00c/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",9 TUDN HD (MX)
-http://45.68.35.218:4001/play/a00u/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (MX)
+http://200.115.120.1:8000/play/ca039/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (US)
 http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (US)
@@ -989,7 +988,8 @@ http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (US)
 http://181.78.106.127:9000/play/ca036/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (US)
-http://45.68.35.218:4001/play/a00x/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 1
 #EXTINF:0 type="stream" channelId="-1" logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 2
 #EXTINF:0 type="stream" channelId="-1"  logo="https://downloadr2.apkmirror.com/wp-content/uploads/2022/05/47/628054304bb73.png", VIX + Deportes 3
