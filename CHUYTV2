@@ -5,7 +5,6 @@ http://190.60.33.245:4002/play/a0kd/index.m3u8
 http://190.0.247.38:8000/play/a00h
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
-http://45.186.106.207:8000/play/a06t/index.m3u88
 http://45.5.119.43:4000/play/a03l/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
@@ -567,12 +566,15 @@ https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 type="stream" channelId="3209" , 1 Univisión
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.92.10.66:4000/play/a005/index.m3u8
 http://206.212.244.71:8080/4wVQA7/625159/15336
+
 #EXTINF:0 type="stream" channelId="3209" , 2 Univisión
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://172.93.102.112:8989/158765_.m3u8
 http://206.212.244.71:8080/4wVQA7/625159/108248
+
 #EXTINF:0 type="stream" channelId="3209" , 3 Univisión
 http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/3590.ts
@@ -588,8 +590,10 @@ http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/57969
 http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1100/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1164_2_77191.png.a7bf0653083720991223589926890be4.png",3 Unimas
 http://172.93.102.112:8989/158753_.m3u8
+
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
 #EXTINF:0 type="stream" channelId="1967" ,2 TELEMUNDO
 http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410
 #EXTINF:0 type="stream" channelId="1967" ,3 TELEMUNDO
@@ -597,6 +601,7 @@ http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1080/index.m3u8
 #EXTINF:0 type="stream" channelId="1967" ,4 TELEMUNDO
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3779" ,1 Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
@@ -805,7 +810,6 @@ http://104.238.205.28:8989/278599_.m3u8
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/79152
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",6 FS PREMIUM
 
-
 #EXTINF:0 type="stream" channelId="0", Fox sport
 http://181.78.27.128:8000/play/a02t/index.m3u8
 #EXTINF:0 type="stream" channelId="0", Fox sport 2
@@ -955,6 +959,8 @@ http://45.5.119.24:8000/play/a048/index.m3u8
 http://206.212.244.71:8080/4wVQA7/625159/11885
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (MX)
 http://200.115.120.1:8000/play/ca039/index.m3u8
+http://45.5.119.43:4000/play/a05q/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",3 TUDN HD (MX)
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",4 TUDN HD (MX)
