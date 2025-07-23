@@ -5,6 +5,12 @@
 http://tv.nstvlatino.com:8080/movie/eduardoyrosario/eduardo2019/1248560.mkv
 http://masterprotv1.com:8080/movie/aube1205carl/carlos1234/283248.mkv
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZhnFqqbl9UiJKgsjfPGt-Oq9adiO70opTBIMLxTDsFeaCuSv5n7u7Yk&s=10" , M3GAN 2 
+http://195.66.210.10:80/movie/ideas903/XRYET/609264.mp4
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgNu_Aqc6eIwG3QYToV3is8f-wy3JvzSW2RAZIRN3MtzOEI7-jVMsFfi6x&s=10" ,Digimon 2
+http://195.66.210.10:80/movie/ideas903/XRYET/520340.mp4
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPyJy8zDEXIaaL7gbcXjN8AsbHyJK9Qx3zWg3wG6D5QTmBdMf8_Ka248&s=10",Misión imposible
 http://tv.zeuspro.xyz:8080/movie/EXPg3Q5JuS/gJT9nWY1mv/123775.mp4
 
