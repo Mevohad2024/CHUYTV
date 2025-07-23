@@ -1,15 +1,20 @@
 
 #EXTM3U
 
-#EXTINF:-1 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtFYlu-katxkdqtLM189b08gW1KDjGTkldjAVt1hakt20_yI0OcxRt-g8&s=10", Attack on titan
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtFYlu-katxkdqtLM189b08gW1KDjGTkldjAVt1hakt20_yI0OcxRt-g8&s=10", Attack on titan
 http://195.66.210.10:80/movie/ideas903/XRYET/591436.mkv
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUNOwG82tMxAyWPwDAjh30QVtNJe2UuQ-QAZAfMQleFedVEXUG3-4oRs&s=10", Demon Slayer
+http://new-tv.cloud:25461/movie/skyguzman/guzman2022/768362.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-yOJtbSOWb14w7SxyGpCTz5uwyGxFC5AaXA&s", Superman
 http://tv.nstvlatino.com:8080/movie/eduardoyrosario/eduardo2019/1248560.mkv
 http://masterprotv1.com:8080/movie/aube1205carl/carlos1234/283248.mkv
+http://new-tv.cloud:25461/movie/skyguzman/guzman2022/768363.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZhnFqqbl9UiJKgsjfPGt-Oq9adiO70opTBIMLxTDsFeaCuSv5n7u7Yk&s=10" , M3GAN 2 
 http://195.66.210.10:80/movie/ideas903/XRYET/609264.mp4
+http://new-tv.cloud:25461/movie/skyguzman/guzman2022/768364.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgNu_Aqc6eIwG3QYToV3is8f-wy3JvzSW2RAZIRN3MtzOEI7-jVMsFfi6x&s=10" ,Digimon 2
 http://195.66.210.10:80/movie/ideas903/XRYET/520340.mp4
@@ -21,6 +26,9 @@ http://tv.zeuspro.xyz:8080/movie/EXPg3Q5JuS/gJT9nWY1mv/123775.mp4
 http://netlevel.online:8080/movie/ideas903/XRYET/609292.mp4
 http://tv.nstvlatino.com:8080/movie/eduardoyrosario/eduardo2019/1247349.mkv
 http://mundod.ddns.me:2082/movie/hugogatica/927481444/82132.mp4
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMJY668lxXntrlsPCbkgbImLwcvHcHFyKXHs4XbEQk0T802AVMi4NfUS0&s=10", Jurásico World
+http://new-tv.cloud:25461/movie/skyguzman/guzman2022/767881.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv42YrSuZ9lNk_gJ5Uqi6KXdOWtpIwY0jBzHgcbv_hyNm5nXv2PIoZKQk&s=10",Otro pequeño favor
 http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82094.mkv
