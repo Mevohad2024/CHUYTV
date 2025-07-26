@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
+http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/693016
 http://179.49.163.34:45000/play/a02m/index.m3u8
 http://190.60.33.245:4002/play/a0kd/index.m3u8
 http://190.0.247.38:8000/play/a00h
@@ -97,6 +98,7 @@ http://45.5.119.43:4000/play/a0gb/index.m3u8
 http://80.80.91.195:8000/play/a056/index.m3u8
 http://138.36.24.8:8000/play/a03b/index.m3u8
 http://45.5.119.43:4000/play/a0hn/index.m3u8
+http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/693106
 
 #EXTINF:0 type="stream" channelId="1303" , FX
 http://181.176.153.106:8090/play/a0z0/index.m3u8
@@ -151,8 +153,10 @@ http://45.5.119.43:4000/play/a03s/index.m3u8
 #EXTINF:0 type="stream" channelId="2557" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySya_l85w-lsa3DABk4A6723lA1E88XNylC7Qx2_CvFUZpvDshuouYp_d&s=10", WARNER
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/693104
 http://181.78.211.244:8000/play/a029/index.m3u8
 http://190.111.16.106:40000/play/a06m
+
 #EXTINF:0 type="stream" channelId="2501" , AMC
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
