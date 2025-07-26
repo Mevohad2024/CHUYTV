@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGVYWC7OTLeiBpG_r8xME3MRNuWz4yA1EPFhzi7joKjBQUgP48BwVDJnO&s=10", Noche de terror
+http://newultra.xyz:8080/movie/GJbnfLa5HZh4/vzvD9yJ4semK/276544.mp4
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQa5fjIkYfoWAvmLWgB9GdTHLoXZOUOW32HedxXOeCmMPVU6QVOgnnDs0D&s=10", 4 Fantasticos
 http://masterprotv1.com:8080/movie/aube1205carl/carlos1234/285694.mkv
 
