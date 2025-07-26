@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQa5fjIkYfoWAvmLWgB9GdTHLoXZOUOW32HedxXOeCmMPVU6QVOgnnDs0D&s=10", 4 Fantasticos
+http://masterprotv1.com:8080/movie/aube1205carl/carlos1234/285694.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtFYlu-katxkdqtLM189b08gW1KDjGTkldjAVt1hakt20_yI0OcxRt-g8&s=10", Attack on titan
 http://195.66.210.10:80/movie/ideas903/XRYET/591436.mkv
 
