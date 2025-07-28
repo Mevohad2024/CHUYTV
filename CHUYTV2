@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV9NoKT0V0Gl6rUqzJM_KN4VErByFyx_E6WBLfnntQTiofsgf4nHpXzk&s=10",la fiesta
+https://usher.ttvnw.net/api/channel/hls/lacasafamososmx.m3u8
+
 #EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuLNclqr1shwS5eBLCHm6RN3oiZPcv-idWa6VtdQR7xyRe42Ux52aEG4&s=10", La casa Famosos
 http://195.66.210.10:80/ideas903/XRYET/611594
 
