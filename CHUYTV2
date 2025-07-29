@@ -42,6 +42,8 @@ http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768832
 http://195.66.210.10:80/ideas903/XRYET/611657
 
 
+#EXTINF:0 type="https://notifications-images.appspot.com/?game_id=4380152&lang=1", TOLUCA VS COLUMBUS
+
 #EXTINF:0 type="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png", TOLUCA VS COLUMBUS
 http://195.66.210.10:80/DagobertoBrenes/ZZBDS/611688
 #EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxd1vELoI6vauPTB0ye1Y-YpCJuBCCE5OHlkPrCvMBxLJuI3DgPhUl8MITw4R18JJKLj4&usqp=CAU", TOLUCA VS COLUMBUS
@@ -49,12 +51,15 @@ http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768864
 #EXTINF:0 type="https://notifications-images.appspot.com/?game_id=4380152&lang=1", TOLUCA VS COLUMBUS
 
 
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxd1vELoI6vauPTB0ye1Y-YpCJuBCCE5OHlkPrCvMBxLJuI3DgPhUl8MITw4R18JJKLj4&usqp=CAU", LEON VS MONRREAL
+
 #EXTINF:0 type="https://i.ytimg.com/vi/wmj4n8dtJqM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD2dUFAOtqlNpcUvZDw6uTKBoEnDw", LEON VS MONREAL
 http://195.66.210.10:80/DagobertoBrenes/ZZBDS/611687
 #EXTINF:0 type="https://www.record.com.mx/sites/default/files/articulos/2025/07/28/leagues-cup-cuando-y-donde-ver-el-cf-montreal-vs-leon.jpg", LEON VS MONREAL
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768865
 
 
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxd1vELoI6vauPTB0ye1Y-YpCJuBCCE5OHlkPrCvMBxLJuI3DgPhUl8MITw4R18JJKLj4&usqp=CAU", PUEBLA VS NEWYOR
 
 #EXTINF:0 type="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png", PUEBLA VS NEWYORK
 http://195.66.210.10:80/DagobertoBrenes/ZZBDS/611689
@@ -62,18 +67,22 @@ http://195.66.210.10:80/DagobertoBrenes/ZZBDS/611689
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768866
 
 
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxd1vELoI6vauPTB0ye1Y-YpCJuBCCE5OHlkPrCvMBxLJuI3DgPhUl8MITw4R18JJKLj4&usqp=CAU",TIGRES VS HOUSTON
+
 #EXTINF:0 type="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png", TIGRES VS HOUSTON
 http://195.66.210.10:80/DagobertoBrenes/ZZBDS/611690
 #EXTINF:0 type="https://notifications-images.appspot.com/?game_id=4380151&lang=1", TIGRES VS HOUSTON
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768867
 
 
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxd1vELoI6vauPTB0ye1Y-YpCJuBCCE5OHlkPrCvMBxLJuI3DgPhUl8MITw4R18JJKLj4&usqp=CAU", MAZATLAN VS LAFC
 
 #EXTINF:0 type="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png", MAZATLAN VS LAFC
 http://195.66.210.10:80/DagobertoBrenes/ZZBDS/611691
 #EXTINF:0 type="https://notifications-images.appspot.com/?game_id=4380150&lang=1", MAZATLAN VS LAFC
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768868
 
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxd1vELoI6vauPTB0ye1Y-YpCJuBCCE5OHlkPrCvMBxLJuI3DgPhUl8MITw4R18JJKLj4&usqp=CAU",PACHUCA VS SANDIEGO
 
 #EXTINF:0 type="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png", PACHUCA VS SAN DIEGO
 http://195.66.210.10:80/DagobertoBrenes/ZZBDS/611692
