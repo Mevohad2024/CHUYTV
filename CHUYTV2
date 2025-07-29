@@ -3,6 +3,12 @@
 #EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7mSUUd1Owsu_C2_Cum7TmUUjf4zsPeCCUJN-gP73yCtDUuGQmOB_fgzG&s=10",Las estrellas
 http://195.66.210.10:80/ideas903/XRYET/611595
 
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgnov_HISQDeQkMatbI7N5Bm-fiF8I9DHunRFLGuDjjkAgx-2QblFJNkU&s=10", Toda la casa
+http://195.66.210.10:80/ideas903/XRYET/611597
+
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7mSUUd1Owsu_C2_Cum7TmUUjf4zsPeCCUJN-gP73yCtDUuGQmOB_fgzG&s=10",Acceso total
+http://195.66.210.10:80/ideas903/XRYET/611658
+
 #EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuLNclqr1shwS5eBLCHm6RN3oiZPcv-idWa6VtdQR7xyRe42Ux52aEG4&s=10", Habitación 1
 http://195.66.210.10:80/ideas903/XRYET/611594
 
@@ -12,11 +18,14 @@ http://195.66.210.10:80/ideas903/XRYET/611600
 #EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7mSUUd1Owsu_C2_Cum7TmUUjf4zsPeCCUJN-gP73yCtDUuGQmOB_fgzG&s=10",Baño
 http://195.66.210.10:80/ideas903/XRYET/611596
 
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7mSUUd1Owsu_C2_Cum7TmUUjf4zsPeCCUJN-gP73yCtDUuGQmOB_fgzG&s=10", Sala
+http://195.66.210.10:80/ideas903/XRYET/611599
+
 #EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7mSUUd1Owsu_C2_Cum7TmUUjf4zsPeCCUJN-gP73yCtDUuGQmOB_fgzG&s=10",Cocina
 http://195.66.210.10:80/ideas903/XRYET/611598
 
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgnov_HISQDeQkMatbI7N5Bm-fiF8I9DHunRFLGuDjjkAgx-2QblFJNkU&s=10", Toda la casa
-http://195.66.210.10:80/ideas903/XRYET/611597
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7mSUUd1Owsu_C2_Cum7TmUUjf4zsPeCCUJN-gP73yCtDUuGQmOB_fgzG&s=10", Multicamara
+http://195.66.210.10:80/ideas903/XRYET/611657
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
