@@ -494,6 +494,8 @@ http://45.5.119.43:4000/play/a0hk/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.21.46:8009/play/a01m
 http://181.78.74.215:8000/play/a18j/index.m3u8
+http://38.159.227.124:8000/play/a07u/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Video Rola
 http://200.115.120.1:8000/play/ca050/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",1 Azteca 1
@@ -993,6 +995,8 @@ http://tvpremiund.ddns.me:2082/alexalexx/alex207/80167
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+http://190.60.56.41:8000/play/a009/index.m3u8
+
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
