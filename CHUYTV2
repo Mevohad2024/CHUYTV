@@ -52,6 +52,11 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/38039
 #EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",5 ATLAS VS ORLANDO|5:00
 http://tvlatino.club:2082/premium17hbo794/JjjCxAJ3RLKn/578718.ts
 
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 ATLAS VS ORLANDO|5:00
+
+
+
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/693016
