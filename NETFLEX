@@ -2,12 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGVYWC7OTLeiBpG_r8xME3MRNuWz4yA1EPFhzi7joKjBQUgP48BwVDJnO&s=10", Noche de terror
-http://newultra.xyz:8080/movie/GJbnfLa5HZh4/vzvD9yJ4semK/276544.mp4
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQa5fjIkYfoWAvmLWgB9GdTHLoXZOUOW32HedxXOeCmMPVU6QVOgnnDs0D&s=10", 4 Fantasticos
-https://nxt.plus:8443/movie/alfie/alfie/264793.mkv
-http://masterprotv1.com:8080/movie/aube1205carl/carlos1234/285694.mkv
-http://booklife.space:8080/movie/renesototv/gdzx2r6/276577.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtFYlu-katxkdqtLM189b08gW1KDjGTkldjAVt1hakt20_yI0OcxRt-g8&s=10", Attack on titan
 http://195.66.210.10:80/movie/ideas903/XRYET/591436.mkv
@@ -77,12 +72,7 @@ https://nxt.plus:8443/series/alfie/alfie/245869.mkv
 #EXTINF:-1 logo= "https://static.wikia.nocookie.net/drama/images/f/f0/Vigilante-Disney-2023-02.jpg/revision/latest/scale-to-width-down/250?cb=20231016103603&path-prefix=es", Vigilante E07S01
 https://nxt.plus:8443/series/alfie/alfie/245870.mkv
 #EXTINF:-1 logo= "https://static.wikia.nocookie.net/drama/images/f/f0/Vigilante-Disney-2023-02.jpg/revision/latest/scale-to-width-down/250?cb=20231016103603&path-prefix=es", Vigilante E08S01
-https://nxt.plus:8443/series/alfie/alfie/245871.mkv
 
-
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEfYglnOQInLVcSJ6Y4SC6k2JYNci28lD8zC_1WCJbaE8C3OkU6X3RfI&s=10", Sin máscara S01E01 
-http://masterprotv1.com:8080/series/aube1205carl/carlos1234/255637.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEfYglnOQInLVcSJ6Y4SC6k2JYNci28lD8zC_1WCJbaE8C3OkU6X3RfI&s=10", Sin máscara S01E02
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/255638.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEfYglnOQInLVcSJ6Y4SC6k2JYNci28lD8zC_1WCJbaE8C3OkU6X3RfI&s=10", Sin máscara S01E03
