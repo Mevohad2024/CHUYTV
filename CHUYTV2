@@ -41,18 +41,15 @@ http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768832
 #EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10", Multicamara
 http://195.66.210.10:80/ideas903/XRYET/611657
 
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 ATLAS VS ORLANDO|5:00
-http://195.66.210.10:80/ideas903/XRYET/612894INFñ
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 NECAXA VS MIAMI|6:00
-http://195.66.210.10:80/ideas903/XRYET/612895
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 PUMAS VS ATLANTA|8:00
-http://195.66.210.10:80/ideas903/XRYET/612897
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 AMERICA VS MINESOTA|8:00
-http://195.66.210.10:80/ideas903/XRYET/612896
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 SANLUIS VS SALT LAKE|8:30
-http://195.66.210.10:80/ideas903/XRYET/612898
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 QUERETARO VS PORLAND|10:00
-http://195.66.210.10:80/ideas903/XRYET/612899
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 JUAREZ VS CINCINATI|3:00
+http://195.66.210.10:80/ideas903/XRYET/612944
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 CHIVAS VS CHARLOTE|5:30
+http://195.66.210.10:80/ideas903/XRYET/612945
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 MONTERREY VS NEW 
+http://195.66.210.10:80/ideas903/XRYET/612946
+#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 XOLOS VS COLORADO|8:30
+http://195.66.210.10:80/ideas903/XRYET/612947
+
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
