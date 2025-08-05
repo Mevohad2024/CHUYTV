@@ -61,6 +61,7 @@ http://190.0.247.38:8000/play/a00h
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://45.5.119.43:4000/play/a03l/index.m3u8
+http://200.115.98.26:9000/play/a00h/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo
 ="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
