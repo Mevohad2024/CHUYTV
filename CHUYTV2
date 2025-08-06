@@ -41,21 +41,30 @@ http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768832
 #EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10", Multicamara
 http://195.66.210.10:80/ideas903/XRYET/611657
 
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 NECAXA VS ORLANDO|7:00
-
-http://195.66.210.10:80/ideas903/XRYET/612944
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 PUMAS VS MIAMI|7:30
-
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 ATLAS VS ATLANTA|7:30
-
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 SAN LUIS VS MINESOTA |8:30
-
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 QUERETARO VS SALT LAKE|9:30
-
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 AMERICA VS TIMBERS|9:30
-
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNwndnSxOzU66mVpFy5ma9YfWzjiwv_QU2zbL8JGvrZSaQIJ46mgfKWRs&s=10",1 XOLO VS SEATTLE|11:00
-
+#EXTINF:-1,17:00 CT. | Orlando City SC vs Necaxa
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/769304
+#EXTINF:-1,17:30 CT. | Inter Miami vs Pumas UNAM
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/769305
+#EXTINF:-1,17:30 CT. | Inter Miami vs Pumas UNAM (opc2)
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/769306
+#EXTINF:-1,17:30 CT. | Atlanta United vs Atlas
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/769307
+#EXTINF:-1,18:30 CT. | Minnesota United vs Atlético San Luis
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/769308
+#EXTINF:-1,18:30 CT. | Minnesota United vs Atlético San Luis (opc2)
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/769309
+#EXTINF:-1,19:30 CT. | Real Salt Lake vs Querétaro
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/769310
+#EXTINF:-1,19:30 CT. | Real Salt Lake vs Querétaro (opc2)
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/769311
+#EXTINF:-1,19:30 CT. | América vs Portland Timbers
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/769312
+#EXTINF:-1,19:30 CT. | América vs Portland Timbers (opc2)
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/769313
+#EXTINF:-1,21:00 CT. | Seattle Sounders FC vs Tijuana
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/769314
+#EXTINF:-1,21:00 CT. | Seattle Sounders FC vs Tijuana (opc2)
+http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/769315
 
 
 
