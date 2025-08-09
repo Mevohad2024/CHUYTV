@@ -325,7 +325,7 @@ http://200.115.120.1:8000/play/ca037/index.m3u8
 #EXTINF:0 type="stream" channelId="3765" , GOLDENPLUS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://190.111.16.106:40000/play/a08r
+
 #EXTINF:0 type="stream" channelId="1963" ,GOLDEN PREMIER
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -338,7 +338,7 @@ http://181.78.201.70:8000/play/a0pi/index.m3u8
 #EXTINF:0 type="stream" channelId="1244" , Food network
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://190.0.241.181:8000/play/a0ac/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Sun Channel HD
 #EXTINF:0 type="stream" channelId="-1", DHE
 ##EXTVLCOPT:network-caching=1000
@@ -347,59 +347,48 @@ http://179.49.163.34:45000/play/a00o/index.m3u8
 #EXTINF:0 type="stream" channelId="1418" , HGTV
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://181.78.21.46:8009/play/a01j
+
 #EXTINF:0 type="stream" channelId="57" , DISCOVERY CHANNEL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=
-http://45.186.106.207:8000/play/a075/index.m3u88
 http://45.5.119.43:4000/play/a0kn/index.m3u8
 
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.186.106.207:8000/play/a079/index.m3u8
 http://45.5.119.43:4000/play/a0ks/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2724", Discovery H&H
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.186.106.207:8000/play/a029/index.m3u88
 http://45.5.119.43:4000/play/a0hw/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2839" , Discovery world
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.186.106.207:8000/play/a076/index.m3u88
-http://181.78.27.128:8000/play/a02n/index.m3u8
 http://181.78.99.187:8000/play/a0m3/index.m3u8
 http://45.5.119.43:4000/play/a0kp/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2558" , Discovery theater
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://181.78.27.128:8000/play/a02l/index.m3u8
 http://181.78.99.187:8000/play/a0l0/index.m3u8
 http://45.5.119.43:4000/play/a0hv/index.m3u8
 
 #EXTINF:0 type="stream" channelId="58" , Discovery science
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.186.106.207:8000/play/a06m/index.m3u88
-http://181.78.211.244:8000/play/a03d/index.m3u8
 http://190.0.247.38:8000/play/a00s
 
 #EXTINF:0 type="stream" channelId="1040" , DISCOVERY TLC HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://190.111.16.106:40000/play/a06g
 http://45.5.119.43:4000/play/a0hh/index.m3u8
 http://190.0.247.38:8000/play/a00v
 
 #EXTINF:0 type="stream" channelId="2840" , DISCOVERY TURBO HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.186.106.207:8000/play/a028/index.m3u88
-http://190.0.241.181:8000/play/a0at/index.m3u8
 http://45.5.119.43:4000/play/a0ia/index.m3u8
 http://190.0.247.38:8000/play/a00o
 
@@ -411,7 +400,6 @@ http://45.5.119.43:4000/play/a0gq/index.m3u8
 #EXTINF:0 type="stream" channelId="56",NATIONAL GEOGRAPHIC
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://masterprotv1.com:8080/aube1205carl/carlos1234/237
 http://45.5.119.43:4000/play/a0kk/index.m3u8
 
 #EXTINF:0 type="stream" channelId="56",NATGEO MUNDO
@@ -434,8 +422,7 @@ http://190.0.247.38:8000/play/a04r
 #EXTINF:0 type="stream" channelId="-1", MTV HD
 http://masterprotv1.com:8080/aube1205carl/carlos1234/142559
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb0hm9BF3GOc0z4VbHvPE0-YrtdEAzK44PNw&usqp=CAU" , MM KPOP
-https://marine2.miplay.cl/kpop/playlist.m3u8
-http://191.52.214.5:8000/play/a06d/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" , Nickmusic
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -446,8 +433,7 @@ http://177.234.230.206:8011/play/a0i5/index.m3u8
 #EXTINF:0 type="stream" channelId="1959" , BANDAMAX HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://cdn1host.online:2999/mariobackup/rLyzlSWd6l/1634
-http://45.5.117.57:8200/play/a05n/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" , Lavozgrupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
@@ -939,6 +925,7 @@ http://45.5.119.43:4000/play/a0kz/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.180.133.31:8000/play/a0yh/index.m3u8
+http://45.5.117.57:8200/play/a05n/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports HD
 ##EXTVLCOPT:network-caching=1000
