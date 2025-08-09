@@ -1,9 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGVYWC7OTLeiBpG_r8xME3MRNuWz4yA1EPFhzi7joKjBQUgP48BwVDJnO&s=10", Noche de terror
-http://booklife.space:8080/movie/renesototv/gdzx2r6/276544.mp4
-
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUNOwG82tMxAyWPwDAjh30QVtNJe2UuQ-QAZAfMQleFedVEXUG3-4oRs&s=10", Demon Slayer
 http://new-tv.cloud:25461/movie/Yoyis135/Canada7356/768362.mkv
 
@@ -14,10 +11,6 @@ http://tv.zeuspro.xyz:8080/movie/EXPg3Q5JuS/gJT9nWY1mv/123775.mp4
 http://netlevel.online:8080/movie/ideas903/XRYET/609292.mp4
 http://tv.nstvlatino.com:8080/movie/eduardoyrosario/eduardo2019/1247349.mkv
 http://mundod.ddns.me:2082/movie/hugogatica/927481444/82132.mp4
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMJY668lxXntrlsPCbkgbImLwcvHcHFyKXHs4XbEQk0T802AVMi4NfUS0&s=10", Jurásico World
-http://new-tv.cloud:25461/movie/Yoyis135/Canada7356/767881.mkv
-http://booklife.space:8080/movie/renesototv/gdzx2r6/276840.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv42YrSuZ9lNk_gJ5Uqi6KXdOWtpIwY0jBzHgcbv_hyNm5nXv2PIoZKQk&s=10",Otro pequeño favor
 http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82094.mkv
