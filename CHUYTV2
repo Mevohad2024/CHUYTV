@@ -42,7 +42,6 @@ http://195.66.210.10:80/ideas903/XRYET/611598
 http://195.66.210.10:80/ideas903/XRYET/611657
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
-http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/693016
 http://179.49.163.34:45000/play/a02m/index.m3u8
 http://190.60.33.245:4002/play/a0kd/index.m3u8
 http://190.0.247.38:8000/play/a00h
@@ -51,8 +50,7 @@ http://190.0.247.38:8000/play/a00h
 http://45.5.119.43:4000/play/a03l/index.m3u8
 http://200.115.98.26:9000/play/a00h/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo
-="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
+#EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
 http://190.102.246.93:9005/play/a03c
 http://190.0.247.38:8000/play/a00e
 
@@ -67,7 +65,6 @@ http://45.5.119.43:4000/play/a03f/index.m3u8
 #EXTINF:0 type="stream" channelId="322" , NICK JR.
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://200.59.188.3:8000/play/a044
 http://45.5.119.43:4000/play/a0fz/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
@@ -80,7 +77,6 @@ http://45.5.119.43:4000/play/a0g0/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca002/index.m3u8
-http://45.186.106.207:8000/play/a07l/index.m3u88
 http://45.5.119.43:4000/play/a0l0/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
@@ -102,7 +98,6 @@ http://45.5.119.43:4000/play/a0i8/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://80.80.91.195:8000/play/a04s/index.m3u8
-no http://190.111.16.106:40000/play/a066
 http://45.5.119.43:4000/play/a03k/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
