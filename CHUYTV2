@@ -192,7 +192,7 @@ http://45.5.119.43:4000/play/a03s/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0gu/index.m3u8
-http://45.186.106.207:8000/play/a07y/index.m3u88
+
 #EXTINF:0 type="stream" channelId="1326" , Cinemax
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=tru
@@ -208,9 +208,7 @@ http://45.5.119.43:4000/play/a0hq/index.m3u8
 #EXTINF:0 type="stream" channelId="292" , MULTIPREMIER  HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://181.78.211.244:8000/play/a01h/index.m3u8
 http://179.49.163.34:45000/play/a016/index.m3u8
-http://160.20.165.246:8000/play/a00b/index.m3u8
 http://45.5.119.43:4000/play/a0ij/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1694" , MC
@@ -231,7 +229,6 @@ http://45.5.119.43:4000/play/a00c/index.m3u8
 #EXTINF:0 type="stream" channelId="2584" , HBO FAMILY
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://186.148.195.206:8000/play/a0w9/index.m3u8
 http://45.5.119.43:4000/play/a0l5/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2585" , HBO+
@@ -242,7 +239,6 @@ http://45.5.119.43:4000/play/a0l4/index.m3u8
 #EXTINF:0 type="stream" channelId="2583" , HBO SIGNATURE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://181.78.78.66:8000/play/a0ch
 http://177.234.230.206:8011/play/a0lp/index.m3u8
 
 #EXTINF:0 type="stream" channelId="361" , HBO POP
@@ -256,14 +252,12 @@ http://177.234.230.206:8011/play/a00y/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a02o/index.m3u8
 http://181.78.78.66:8000/play/a0cf
-http://186.148.195.206:8000/play/a0wa/index.m3u8
 http://45.5.119.43:4000/play/a0l6/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2725" , HBO MUNDI HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.201.70:8000/play/a0fu/index.m3u8
-http://186.148.195.206:8000/play/a0vj/index.m3u8
 http://177.234.230.206:8011/play/a0lq/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.34bdc6633205429349f7a9bb8c9f0a51.png", Universal Cinema HD
