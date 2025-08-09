@@ -380,6 +380,8 @@ http://181.78.12.164:9000/play/ch52
 http://181.78.12.164:9000/play/ch49
 http://45.5.119.43:4000/play/a0i1/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" logo=" ",FMHMOVIES
+http://38.191.43.69:8000/play/a05w/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.fmh.la/images/team/logo_family.png", FMHFAMILY
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -847,15 +849,16 @@ http://45.5.119.43:4000/play/a05s/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a029/index.m3u8
 
-
 #EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SM1IAOiAR5u3dZDJ-HKMAAltmxJJ0vN4Mm492o0CjjlB8rw13fkiNC8W&s=10", Azteca Deportes HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://181.78.21.46:8009/play/a02y
+http://38.191.43.69:8000/play/a03z/index.m3u8
+
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 1 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://latinapro.net:25461/CARLOSa61/rodriguez2CA/342.ts
+
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 2 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
