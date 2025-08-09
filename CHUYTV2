@@ -117,7 +117,6 @@ http://45.5.119.43:4000/play/a0gt/index.m3u8
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.186.106.207:8000/play/a02p/index.m3u88
 http://45.5.119.43:4000/play/a0iy/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1188" , E!1
@@ -136,17 +135,14 @@ http://45.5.119.43:4000/play/a0gb/index.m3u8
 http://80.80.91.195:8000/play/a056/index.m3u8
 http://138.36.24.8:8000/play/a03b/index.m3u8
 http://45.5.119.43:4000/play/a0hn/index.m3u8
-http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/693106
 
 #EXTINF:0 type="stream" channelId="1303" , FX
-http://181.176.153.106:8090/play/a0z0/index.m3u8
 http://45.5.117.57:8200/play/a01p/index.m3u8
 http://45.5.119.43:4000/play/a0gw/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1052" , TNT
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://181.176.153.106:8090/play/a0ig/index.m3u8
 http://45.5.119.43:4000/play/a0hu/index.m3u8
 
 #EXTINF:0 type="stream" channelId="187" , UNIVERSAL
@@ -174,7 +170,6 @@ http://181.78.99.187:8000/play/a0ln/index.m3u8
 #EXTINF:0 type="stream" channelId="383" , SPACE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://181.176.153.106:8090/play/a0q9/index.m3u8
 http://45.5.119.43:4000/play/a0iz/index.m3u8
 
 #EXTINF:0 type="stream" channelId="530" , Sony chanel
@@ -191,16 +186,12 @@ http://45.5.119.43:4000/play/a03s/index.m3u8
 #EXTINF:0 type="stream" channelId="2557" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySya_l85w-lsa3DABk4A6723lA1E88XNylC7Qx2_CvFUZpvDshuouYp_d&s=10", WARNER
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/693104
-http://181.78.211.244:8000/play/a029/index.m3u8
-http://190.111.16.106:40000/play/a06m
+
 
 #EXTINF:0 type="stream" channelId="2501" , AMC
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://181.176.153.106:8090/play/a10j/index.m3u8
 http://45.5.119.43:4000/play/a0gu/index.m3u8
-
 http://45.186.106.207:8000/play/a07y/index.m3u88
 #EXTINF:0 type="stream" channelId="1326" , Cinemax
 ##EXTVLCOPT:network-caching=1000
