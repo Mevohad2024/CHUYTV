@@ -1,42 +1,50 @@
 #EXTM3U
 
-#EXTINF:0 type="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTq5ekjk2_bdYSi0bsp0vAPc-HGvnWmJUC5pG4NsfUXqopMMsZ",LCDF MX
+#EXTINF:0 type=" ",LCDF MX
 http://195.66.210.10:80/ideas903/XRYET/611595
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286341
 
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNvzn9-BipVt-IArFknVQBglag0z6fVQzepw&usqp=CAU", Toda la casa
+#EXTINF:0 type=" ", Toda la casa
 http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136938
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768830
 http://195.66.210.10:80/ideas903/XRYET/611597
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286278
 
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Acceso total
+#EXTINF:0 type=" ",Acceso total
 http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136937
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768829
 http://195.66.210.10:80/ideas903/XRYET/611658
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286279
 
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10", Habitación 1
+#EXTINF:0 type=" ", Dia
 http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136942
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768834
 http://195.66.210.10:80/ideas903/XRYET/611594
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286283
 
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10", Habitacion 2
+#EXTINF:0 type=" ", Noche
 http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136943
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768835
 http://195.66.210.10:80/ideas903/XRYET/611600
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286284
 
-#EXTINF:0 type="https://static.wixstatic.com/media/71f247_7af8f81b97b84cf7a1c15aa8e767d6bb~mv2.jpg/v1/fill/w_960,h_781,al_c,q_85/71f247_7af8f81b97b84cf7a1c15aa8e767d6bb~mv2.jpg",Baño
+#EXTINF:0 type=" ",Baño
 http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136939
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768831
 http://195.66.210.10:80/ideas903/XRYET/611596
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286280
 
-#EXTINF:0 type="https://static.wikia.nocookie.net/lacasadelosfamosos/images/9/97/LCDLFMX2_logo.jpg/revision/latest?cb=20240722201840&path-prefix=es", Sala
+#EXTINF:0 type=" ", Sala
 http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136941
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768833
 http://195.66.210.10:80/ideas903/XRYET/611599
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286282
 
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Cocina
+#EXTINF:0 type=" ",Cocina
 http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136940
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768832
 http://195.66.210.10:80/ideas903/XRYET/611598
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286281
 
 #EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10", Multicamara
 http://195.66.210.10:80/ideas903/XRYET/611657
