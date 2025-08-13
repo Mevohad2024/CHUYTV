@@ -57,6 +57,7 @@ http://190.0.247.38:8000/play/a00h
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://45.5.119.43:4000/play/a03l/index.m3u8
 http://200.115.98.26:9000/play/a00h/index.m3u8
+http://45.189.151.7:8000/play/a002/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
 http://190.102.246.93:9005/play/a03c
@@ -80,12 +81,14 @@ http://45.5.119.43:4000/play/a0fz/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca006/index.m3u8
 http://45.5.119.43:4000/play/a0g0/index.m3u8
+http://45.189.151.7:8000/play/a00p/index.m3u8
 
 #EXTINF:0 type="stream" channelId="40" , CARTOON NETWORK HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca002/index.m3u8
 http://45.5.119.43:4000/play/a0l0/index.m3u8
+http://45.189.151.7:8000/play/a048/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
@@ -94,6 +97,7 @@ http://200.115.120.1:8000/play/ca009/index.m3u8
 http://179.49.163.34:45000/play/a00a
 http://190.0.247.38:8000/play/a00f
 http://45.5.119.43:4000/play/a0g1/index.m3u8
+http://45.189.151.7:8000/play/a047/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
 ##EXTVLCOPT:network-caching=1000
@@ -101,6 +105,7 @@ http://45.5.119.43:4000/play/a0g1/index.m3u8
 http://45.184.87.142:8000/play/a01o
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 http://45.5.119.43:4000/play/a0i8/index.m3u8
+http://45.189.151.7:8000/play/a046/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
 ##EXTVLCOPT:network-caching=1000
@@ -113,6 +118,7 @@ http://45.5.119.43:4000/play/a03k/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://179.49.163.34:45000/play/a011/index.m3u8
 http://190.0.247.38:8000/play/a00k
+http://45.189.151.7:8000/play/a00j/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
@@ -121,6 +127,7 @@ http://181.176.153.106:8090/play/a10i/index.m3u8
 http://160.20.165.246:8000/play/a00k/index.m3u8
 http://45.184.87.142:8000/play/a004
 http://45.5.119.43:4000/play/a0gt/index.m3u8
+http://45.189.151.7:8000/play/a014/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
@@ -132,6 +139,7 @@ http://45.5.119.43:4000/play/a0iy/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://45.184.87.142:8000/play/a027
 http://45.5.119.43:4000/play/a0gr/index.m3u8
+http://45.189.151.7:8000/play/a03d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1200" , LIFETIME
 http://masterprotv1.com:8080/aube1205carl/carlos1234/189492
@@ -206,6 +214,7 @@ http://45.5.119.43:4000/play/a0gu/index.m3u8
 #EXTVLCOPT--http-reconnect=tru
 http://masterprotv1.com:8080/aube1205carl/carlos1234/319
 http://45.5.119.43:4000/play/a0il/index.m3u8
+http://45.189.151.7:8000/play/a016/index.m3u8
 
 #EXTINF:0 type="stream" channelId="64" , CINECANAL
 ##EXTVLCOPT:network-caching=1000
@@ -360,6 +369,7 @@ http://legendstv.com.mx:80/Charly1234/Charly1234/102127.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=
 http://45.5.119.43:4000/play/a0kn/index.m3u8
+http://45.189.151.7:8000/play/a003/index.m3u8
 
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
 ##EXTVLCOPT:network-caching=1000
@@ -376,12 +386,14 @@ http://45.5.119.43:4000/play/a0hw/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.99.187:8000/play/a0m3/index.m3u8
 http://45.5.119.43:4000/play/a0kp/index.m3u8
+http://45.189.151.7:8000/play/a005/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2558" , Discovery theater
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.99.187:8000/play/a0l0/index.m3u8
 http://45.5.119.43:4000/play/a0hv/index.m3u8
+http://45.189.151.7:8000/play/a004/index.m3u8
 
 #EXTINF:0 type="stream" channelId="58" , Discovery science
 ##EXTVLCOPT:network-caching=1000
@@ -487,7 +499,7 @@ http://masterprotv1.com:8080/aube1205carl/carlos1234/191472
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",2 Azteca 1
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",3 Azteca 1
-
+http://45.189.151.7:8000/play/a04c/index.m3u8
 #EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -497,6 +509,7 @@ http://masterprotv1.com:8080/aube1205carl/carlos1234/191452
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191450
+http://45.189.151.7:8000/play/a04a/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1954" ,1 Las estrellas
 ##EXTVLCOPT:network-caching=1000
@@ -529,6 +542,7 @@ http://masterprotv1.com:8080/aube1205carl/carlos1234/191507
 #EXTVLCOPT--http-reconnect=true
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191495
+http://45.189.151.7:8000/play/a04l/index.m3u8
 #EXTINF:0 type="stream" channelId="255",1 Azteca 7
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -537,6 +551,7 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+http://45.189.151.7:8000/play/a04d/index.m3u8
 #EXTINF:0 type="stream" channelId="255",3 Azteca 7
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 http://190.92.10.66:4000/play/a007/index.m3u8
@@ -654,6 +669,7 @@ http://45.5.119.43:4000/play/a0jw/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca108/index.m3u8
 http://45.5.119.43:4000/play/a0hy/index.m3u8
+http://45.189.151.7:8000/play/a00t/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Distrito Comedia
 ##EXTVLCOPT:network-caching=1000
@@ -707,6 +723,7 @@ http://45.5.119.43:4000/play/a0kq/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://160.20.165.246:8000/play/a00e/index.m3u8
+http://45.189.151.7:8000/play/a03t/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", A3 SERIES
 ##EXTVLCOPT:network-caching=1000
@@ -985,6 +1002,7 @@ http://80.80.91.195:8000/play/a04h/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/80167
+http://45.189.151.7:8000/play/a041/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
