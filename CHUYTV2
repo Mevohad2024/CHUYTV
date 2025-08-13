@@ -823,6 +823,7 @@ http://legendstv.com.mx:80/Charly1234/Charly1234/540391.ts
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 2 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://195.66.210.10:80/ideas903/XRYET/36396
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",1 FSMX
 ##EXTVLCOPT:network-caching=1000
@@ -872,7 +873,7 @@ http://181.78.99.187:8000/play/a0q3/index.m3u8
 #EXTINF:0 type="stream" channelId="180",2 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://195.66.210.10:80/ideas903/XRYET/93563
 #EXTINF:0 type="stream" channelId="180",3 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -996,8 +997,11 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 http://200.59.188.3:8000/play/a0cm
 #EXTINF:0 type="stream" channelId="-1",CDO BASICO
+http://195.66.210.10:80/ideas903/XRYET/12826
 #EXTINF:0 type="stream" channelId="-1",CDO PREMIUM
+http://195.66.210.10:80/ideas903/XRYET/439778
 #EXTINF:0 type="stream" channelId="-1",ECFB
+http://195.66.210.10:80/ideas903/XRYET/211335
 #EXTINF:0 type="stream" channelId="1686", GOLTV
 http://181.78.201.70:8000/play/a0n6/index.m3u8
 #EXTINF:0 type="stream" channelId="1686" , Gol Peru HD
@@ -1015,6 +1019,7 @@ http://legendstv.com.mx:80/Charly1234/Charly1234/520399.ts
 #EXTINF:0 type="stream" channelId="-1",Win Sports 
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://195.66.210.10:80/ideas903/XRYET/516932
 http://200.59.188.3:8000/play/a03y
 http://181.78.21.46:8009/play/a02s
 http://45.184.87.142:8000/play/a04d
@@ -1022,6 +1027,7 @@ http://45.184.87.142:8000/play/a04d
 #EXTINF:0 type="stream" channelId="-1",Win Sports+
 ##EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT--http-reconnect=true
+http://195.66.210.10:80/ideas903/XRYET/516934
 http://legendstv.com.mx:80/Charly1234/Charly1234/36139.ts
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9V8Hc6ZO1A6gweWLrsJ1FqbmwfCgrqj_VK2Rmhci2OIwN9gnUZlVO-Q&s=10" , Latin America Sport
 http://80.80.91.195:8000/play/a04h/index.m3u8
