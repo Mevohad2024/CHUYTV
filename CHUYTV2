@@ -824,6 +824,7 @@ http://legendstv.com.mx:80/Charly1234/Charly1234/540391.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://195.66.210.10:80/ideas903/XRYET/36396
+http://new-tv.cloud:25461/Danielhonorio/DHC1511/552667
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",1 FSMX
 ##EXTVLCOPT:network-caching=1000
