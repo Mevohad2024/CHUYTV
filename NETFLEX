@@ -1,7 +1,11 @@
 
 #EXTM3U
 
+#EXTINF:-1 logo= "https://moviecenter.com.mx/images/peliculas/7dd25577688ed0b47739db2a58b3d874.png", La hora de la desaparición 
+http://195.66.210.10:80/movie/ZMHZE/YFKQW/613789.mp4
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kFRm5Rw17j2g8DaMJF5y4Y49bqOHIVerHUml6jRRnel1hpaNCjsYqiVp&s=10",Otro viernes de locos
+http://195.66.210.10:80/movie/ZMHZE/YFKQW/613715.mp4
 http://legendstv.com.mx:80/movie/Charly1234/Charly1234/571299.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmqq--XSZcLXcew_4IUL9cDFLTtNI02cIJ4QmEjO8vpwIK7K_SZ-yGrk&s=10" , Leyenda de los héroes condor
