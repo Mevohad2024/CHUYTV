@@ -1,32 +1,37 @@
 #EXTM3U
 
-#EXTINF:0 type=" ",LCDF MX
+#EXTINF:0 type=" ",LCDF MX GALA
 http://195.66.210.10:80/ideas903/XRYET/611595
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286341
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7ter90tuf8rU4WNjQBUvqCaI/ts
 
 #EXTINF:0 type=" ", Toda la casa
 http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136938
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768830
 http://195.66.210.10:80/ideas903/XRYET/611597
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286278
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tZ-vt91hJXb2W7kvGKVtIzY/ts
 
 #EXTINF:0 type=" ",Acceso total
 http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136937
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768829
 http://195.66.210.10:80/ideas903/XRYET/611658
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286279
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7te-jmq68Q4oOpRvBdpLHjCY/ts
 
 #EXTINF:0 type=" ", Dia
 http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136942
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768834
 http://195.66.210.10:80/ideas903/XRYET/611594
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286283
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tSzLz1hJfVuwlFrpLkY-NV0/ts
 
 #EXTINF:0 type=" ", Noche
 http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136943
 http://new-tv.cloud:25461/Jul11Men62/Izt10Int21/768835
 http://195.66.210.10:80/ideas903/XRYET/611600
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286284
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tRQ-abdOrPSL21uOptIcK4M/ts
 
 #EXTINF:0 type=" ",Baño
 http://tv.zeuspro.xyz:8080/EXPg3Q5JuS/gJT9nWY1mv/136939
@@ -514,7 +519,9 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tZteEEBd2Zgt1HzcOJ_qw3g/ts
 
 #EXTINF:0 type="stream" channelId="-1", MTV HD
 http://masterprotv1.com:8080/aube1205carl/carlos1234/142559
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tczLTnJQn_mOnEtHRbQkTjA/ts
 http://45.189.151.7:8000/play/a00a/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb0hm9BF3GOc0z4VbHvPE0-YrtdEAzK44PNw&usqp=CAU" , MM KPOP
 
 #EXTINF:0 type="stream" channelId="-1" , Nickmusic
@@ -799,6 +806,8 @@ http://45.186.106.207:8000/play/a084/index.m3u88
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/large.TNTNovelas-2023.png.3c8f3ba8041ddfd11298304e93478394.png", TNT Novelas
 http://181.78.12.164:9000/play/a08y
 http://181.78.201.70:8000/play/a0pr/index.m3u8
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tZ7jgggvCecO2y61hq0P7L4/ts
+
 #EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJIJiXiOLU5sZKUTSgYxn58tkM0aKyCr1v8M6_jsnW-QUIH_YcUPlSX4&s=10" , Sony Novelas
 #EXTINF:0 type="stream" channelId="-1",PASIONES
 http://181.78.12.164:9000/play/a03t
@@ -834,6 +843,7 @@ http://45.5.117.57:8200/play/a05o/index.m3u8
 http://200.115.120.1:8000/play/ca021/index.m3u8
 #EXTINF:0 type="stream" channelId="2686" , TNT Series HD
 #EXTVLCOPT--http-reconnect=true
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tVe-txySx6mOna_D_LAVum8/ts
 http://181.78.201.70:8000/play/a0pn/index.m3u8
 http://45.5.119.43:4000/play/a0km/index.m3u8
 http://45.189.151.7:8000/play/a00h/index.m3u8
@@ -1073,6 +1083,8 @@ http://45.5.119.43:4000/play/a02v/index.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 http://200.59.188.3:8000/play/a0cm
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcQZpTBQs4_RhNPtCm76_5k/ts
+
 #EXTINF:0 type="stream" channelId="-1",CDO BASICO
 http://195.66.210.10:80/ideas903/XRYET/12826
 #EXTINF:0 type="stream" channelId="-1",CDO PREMIUM
@@ -1081,11 +1093,14 @@ http://195.66.210.10:80/ideas903/XRYET/439778
 http://195.66.210.10:80/ideas903/XRYET/211335
 #EXTINF:0 type="stream" channelId="1686", GOLTV
 http://181.78.201.70:8000/play/a0n6/index.m3u8
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tXjOzaUaACUWHw2LXFTl8wY/ts
+
 #EXTINF:0 type="stream" channelId="1686" , Gol Peru HD
 http://181.176.153.106:8090/play/a1av/index.m3u8
 #EXTINF:0 type="stream" channelId="3802", TYC SPORT
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca043/index.m3u8
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tfj-g19SOniT1DlZTKHyeIU/ts
 
 #EXTINF:0 type="stream" channelId="1367" , MOVISTAR LIGA
 http://legendstv.com.mx:80/Charly1234/Charly1234/520400.ts
@@ -1123,6 +1138,8 @@ http://190.60.56.41:8000/play/a009/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/13689
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tUPI1VGbjtG8k6Xu7OlbWbA/ts
+
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES 2 HD
 #EXTINF:0 type="stream" channelId="4665" , PX SPORTS
 ##EXTVLCOPT:network-caching=1000
@@ -1130,10 +1147,17 @@ http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/13689
 http://200.115.96.66:4000/play/a0e0/index.m3u8
 http://45.5.119.24:8000/play/a048/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYZdZW_sGoTuKEn4afATX8ywi6RhgHtrpeOiXyDE2J9wLf3ZyXJC9Yid8&s=10", Hi sports
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tT5MH1KtNZBNFqfC-EL-oO4/ts
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLDlluHOF6kUAw8AR-fbW7oRFSx3_MYZnReXWrkEjkuw-WrsvXoJr7ko&s=10", ADRENALINA
 http://legendstv.com.mx:80/Charly1234/Charly1234/35218.ts
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tX6CplycLXhiUDDFaq9kszE/ts
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFyc1f8PFxlhp0Qe6wucjeix-DGgVi3QznDCJnpkjkOFL6GuKcE3nF7k&s=10", FOXTubi
 http://legendstv.com.mx:80/Charly1234/Charly1234/547078.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFyc1f8PFxlhp0Qe6wucjeix-DGgVi3QznDCJnpkjkOFL6GuKcE3nF7k&s=10", FOXTubi
+http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tetknlGV8u0GeN2KjuEs2Dc/ts
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (MX)
 http://206.212.244.71:8080/4wVQA7/625159/11885
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (MX)
