@@ -853,18 +853,18 @@ http://45.189.151.7:8000/play/a00h/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.59.188.3:8000/play/a0xe
 http://38.211.242.128:8001/play/a09s/index.m3u8
-http://45.5.117.57:8200/play/a050/index.m3u8
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/76985
 
 #EXTINF:0 type="stream" channelId="-1" logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Direct%20Tv%20Sports%202%20HD.png",1 Directv sport2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://200.59.188.3:8000/play/a0xf
-http://38.211.242.128:8001/play/a05g/index.m3u8
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/151374
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebWz0gUaBzK7N-JdqHh6LW66zII4C0y3ZSA&usqp=CAU",1 Directv sport +
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://38.211.242.128:8001/play/a05h/index.m3u8
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/62552
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports HD
 ##EXTVLCOPT:network-caching=1000
@@ -875,6 +875,8 @@ http://legendstv.com.mx:80/Charly1234/Charly1234/520327.ts
 http://200.115.120.1:8000/play/ca040/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iw3Lzx5CrDXWiBQEFdcEDJl92QYuitb7uy5j_sWMuQ&s", DAZN
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/126783
+
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNJsK8L9YXnICakQjfq_4bsuuTzFGAYjQjQJjPg1Bzp9wJdCr-fz9eoWS&s=10", SKY BUNDESLIGA
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -885,6 +887,7 @@ http://45.5.119.43:4000/play/a05s/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a029/index.m3u8
+http://45.5.117.57:8200/play/a050/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SM1IAOiAR5u3dZDJ-HKMAAltmxJJ0vN4Mm492o0CjjlB8rw13fkiNC8W&s=10", Azteca Deportes HD
 ##EXTVLCOPT:network-caching=1000
@@ -1069,8 +1072,9 @@ http://45.5.119.43:4000/play/a0kz/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX0JFEUPO9ZbgxumXVxWZQwIhan65So9ZyZFOIhP5fDiZ-K6BV", Claro Sports 2 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://38.180.133.31:8000/play/a0yh/index.m3u8
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/174645
 http://45.5.117.57:8200/play/a05n/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports HD
 ##EXTVLCOPT:network-caching=1000
