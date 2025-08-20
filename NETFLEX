@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrrZGBeL9jYvSdBbTvHXWTKW1d9Qe0lCguFxQT4Vw-rPL_JqGdDW7goddT&s=10",La hora de la desaparicion
+http://odenfull.co:2086/play/p44JnMNFvwba8qVdG6OZiLyBgBr1p3I8yFdyl3HC5WA-EH2elewT_u0Bxtd4rCxW
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6F6Fc_knP9OBCDMCJ6e2Mwa8FJbca_xfrRFl9h8dhBzJzCJ81fxHdiA&s=10", Escape
 http://legendstv.com.mx:80/movie/Charly1234/Charly1234/534927.mkv
 
