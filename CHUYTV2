@@ -739,12 +739,15 @@ http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1080/index.m3u8
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1967" ,5 TELEMUNDO
-http://user.scalecdn.co:8080/26725074/92867131/3886
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/67996
 
 #EXTINF:0 type="stream" channelId="3779" ,1 Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3779" ,2 Universo
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/4361.ts
+http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/74814
+#EXTINF:0 type="stream" channelId="3779" ,3 Universo
+http://legendstv.com.mx:80/Charly1234/Charly1234/353159.ts
+
 #EXTINF:0 type="stream" channelId="1970" , Galavision
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
