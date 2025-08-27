@@ -130,6 +130,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tRpMpIVIe6wYbdmWgU7N9FU/ts
 http://80.80.91.195:8000/play/a04s/index.m3u8
 http://45.5.119.43:4000/play/a03k/index.m3u8
 http://45.189.151.7:8000/play/a044/index.m3u8
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4296
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
@@ -152,7 +153,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tctijnVl3SMwOtVpVgh0fXc/ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0iy/index.m3u8
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tSJokSO1BLLzzpY0PXSTOts/ts
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4172
 
 #EXTINF:0 type="stream" channelId="1188" , E!1
 ##EXTVLCOPT:network-caching=1000
@@ -492,8 +493,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tUHxYyhohGlx0hrmo3NKpJs/ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0gq/index.m3u8
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tVK28Mr3tMu3NIPFwWZs_io/ts
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tXSLzC4IPHKWrhNzyAMqygs/ts
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4170
 
 #EXTINF:0 type="stream" channelId="56",NATIONAL GEOGRAPHIC
 ##EXTVLCOPT:network-caching=1000
@@ -1141,6 +1141,8 @@ http://80.80.91.195:8000/play/a04h/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/80167
 http://45.189.151.7:8000/play/a041/index.m3u8
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4173
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
@@ -1158,6 +1160,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tUPI1VGbjtG8k6Xu7OlbWbA/ts
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a0e0/index.m3u8
 http://45.5.119.24:8000/play/a048/index.m3u8
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3980
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYZdZW_sGoTuKEn4afATX8ywi6RhgHtrpeOiXyDE2J9wLf3ZyXJC9Yid8&s=10", Hi sports
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tT5MH1KtNZBNFqfC-EL-oO4/ts
@@ -1177,6 +1180,7 @@ http://45.5.119.43:4000/play/a05q/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",3 TUDN HD (MX)
 http://190.92.10.66:4000/play/a002/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tU-b0GfZtxxbN8KGtZs6cGw/ts
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/553262
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",4 TUDN HD (MX)
 http://45.5.117.57:8200/play/a04t/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",5 TUDN HD (MX)
