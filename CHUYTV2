@@ -1002,6 +1002,7 @@ http://181.78.27.128:8000/play/a02s/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.98.26:9000/play/a044/index.m3u8
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2578
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
