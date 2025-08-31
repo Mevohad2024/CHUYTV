@@ -1,10 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVZtR9u3vEGVwWEWsEnII4l7twcGKrqAt93kgcbCArtr_d0Kz7W9Jv84&s=10",Moriré en 6 horas
-http://legendstv.com.mx:80/movie/Victormanuel123/Victormanuel123/571884.mkv
-http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1251031.mkv
-
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXw8rNRjDwzRMbItGhbE48kzRPtSDOrV4iEEFd2uoa-0tYLu3WP7TVpg&s=10", El ejecutor
 http://p2premium.club/movie/Dav1703idP/Dav1703idParDa/5b7df917-ac84-47ee-aec4-90889d60cc18.mp4
 
