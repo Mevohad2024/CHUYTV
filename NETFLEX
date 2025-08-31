@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbhFMtw7P1xYZ4_L0u8w0I6OVvQfnHapglgruF6s1pHkC5jvVEuziT-Vet&s=10",jefes de estado
+http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1247845.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXw8rNRjDwzRMbItGhbE48kzRPtSDOrV4iEEFd2uoa-0tYLu3WP7TVpg&s=10", El ejecutor
 http://p2premium.club/movie/Dav1703idP/Dav1703idParDa/5b7df917-ac84-47ee-aec4-90889d60cc18.mp4
 
@@ -34,14 +37,14 @@ http://booklife.space:8080/movie/renesototv/gdzx2r6/277181.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5UnimjSry-4d2kVcVhwgGGyJ0LfAPAsfDYlztzdb9BclOfjB3xoMNIDQ&s=10",F1
 http://booklife.space:8080/movie/renesototv/gdzx2r6/277205.mp4
+http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1251743.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPddDpVwuP1ye58bJYmwV_MqiH9S3z0J41o1KiwUo2rOszDQKDbjyjAAWS&s=10", El contador 2
 http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82048.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfBxHPlKTbH7lufVrbdt7ErpjFNTrUoxbCSdxVUP0dcsJ9dDGz1APMRMc&s=10", Balerina Jon wick
-http://mundod.ddns.me:2082/movie/hugogatica/927481444/82150.mp4
-http://ultra-premium-pro.xyz:8080/movie/56940940382x/LJBG9X7zRkyK/274834.mp4
 http://booklife.space:8080/movie/renesototv/gdzx2r6/274834.mp4
+http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1247688.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSAW578R73mE1pKyYUmdUnfW0BZc9EZtSvEQ_WXEf6I7mppd2KHB_jLIC&s=10",Presencia
 http://stklatino.dynns.com:2082/movie/diegoantofaiptv/iroquitv23/81910.mp4
