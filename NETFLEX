@@ -67,7 +67,6 @@ http://tv.nstvlatino.com:8080/series/rafaelpagano/RP1217448RP/1246858.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfWWlsCHRDWQ3F56U_CT4KB0Yr_bhTtx27tyj_I1b76Mpt-du3L-XDBr8&s=10", E8S1 Hyper Knife
 http://tv.nstvlatino.com:8080/series/rafaelpagano/RP1217448RP/1246859.mkv
 
-
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSelX4_aZVIT9MePwdI1A-xfK8_2ib8K3J_MOQqtIcnaJtBAnNv_61VqMY&s=10",E1S1 El acuerdo
 http://tv.nstvlatino.com:8080/series/rafaelpagano/RP1217448RP/1177992.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSelX4_aZVIT9MePwdI1A-xfK8_2ib8K3J_MOQqtIcnaJtBAnNv_61VqMY&s=10",E2S1 El acuerdo
@@ -83,6 +82,9 @@ http://tv.nstvlatino.com:8080/series/rafaelpagano/RP1217448RP/1177997.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIDWXjcJ9PHYmWyPBxVjzJWgzd6Fie0D_KyE6bZy7CA9GuTBJ8aTK969c&s=10", E1S1 Adamas
 http://tv.nstvlatino.com:8080/series/rafaelpagano/RP1217448RP/1174906.mkv
+
+#EXTINF:-1 logo= "",E1S1 Newtopia
+http://tv.nstvlatino.com:8080/series/rafaelpagano/RP1217448RP/1238832.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPIwDoIp8zGX1AqcROgl8DxfUCak5y1cLhW083tNyIyGhtd0sMmCgKGmo&s=10",E1S1 DEATH GAME
 https://akm-cdn-play-web.onfilom.com/90f94e9ffb3b71efbfc186c6360c0102/fbf214c540144c31b3622228f02ab705-6c241133d189b3cdbce71059d68016c6-ld.m3u8?hdnts=exp=1756495149_acl=/90f94e9ffb3b71efbfc186c6360c0102/*_hmac=55ef9c70b8688cd5d97af6c931175cb90e0f1eacf38ff6b4bb0077d7c85cf681
