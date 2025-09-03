@@ -67,7 +67,6 @@ http://190.0.247.38:8000/play/a00h
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://45.5.119.43:4000/play/a03l/index.m3u8
 http://200.115.98.26:9000/play/a00h/index.m3u8
-http://45.189.151.7:8000/play/a002/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tWOlJ1kI0HItW_al0KJ03ZQ/ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://cablemio.com/wp-content/uploads/2020/09/canalinfantil.png" , Canal infantil
@@ -94,7 +93,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7teNUuPdbOoBY2kNMJVMAvIc/ts
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca006/index.m3u8
 http://45.5.119.43:4000/play/a0g0/index.m3u8
-http://45.189.151.7:8000/play/a00p/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7teismZDtfO3yeCxWzmFJf-Y/ts
 
 #EXTINF:0 type="stream" channelId="40" , CARTOON NETWORK HD
@@ -102,7 +100,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7teismZDtfO3yeCxWzmFJf-Y/ts
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca002/index.m3u8
 http://45.5.119.43:4000/play/a0l0/index.m3u8
-http://45.189.151.7:8000/play/a048/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tRa1vm2Va73ZCqmUzqblmlE/ts
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
@@ -112,7 +109,6 @@ http://200.115.120.1:8000/play/ca009/index.m3u8
 http://179.49.163.34:45000/play/a00a
 http://190.0.247.38:8000/play/a00f
 http://45.5.119.43:4000/play/a0g1/index.m3u8
-http://45.189.151.7:8000/play/a047/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tR8rqDkKdzRgaRjhi_cyDoA/ts
 
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
@@ -121,7 +117,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tR8rqDkKdzRgaRjhi_cyDoA/ts
 http://45.184.87.142:8000/play/a01o
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 http://45.5.119.43:4000/play/a0i8/index.m3u8
-http://45.189.151.7:8000/play/a046/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tRpMpIVIe6wYbdmWgU7N9FU/ts
 
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
@@ -129,7 +124,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tRpMpIVIe6wYbdmWgU7N9FU/ts
 #EXTVLCOPT--http-reconnect=true
 http://80.80.91.195:8000/play/a04s/index.m3u8
 http://45.5.119.43:4000/play/a03k/index.m3u8
-http://45.189.151.7:8000/play/a044/index.m3u8
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4296
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
@@ -137,7 +131,6 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4296
 #EXTVLCOPT--http-reconnect=true
 http://179.49.163.34:45000/play/a011/index.m3u8
 http://190.0.247.38:8000/play/a00k
-http://45.189.151.7:8000/play/a00j/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
@@ -146,7 +139,6 @@ http://181.176.153.106:8090/play/a10i/index.m3u8
 http://160.20.165.246:8000/play/a00k/index.m3u8
 http://45.184.87.142:8000/play/a004
 http://45.5.119.43:4000/play/a0gt/index.m3u8
-http://45.189.151.7:8000/play/a014/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tctijnVl3SMwOtVpVgh0fXc/ts
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
@@ -160,7 +152,6 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4172
 #EXTVLCOPT--http-reconnect=true
 http://45.184.87.142:8000/play/a027
 http://45.5.119.43:4000/play/a0gr/index.m3u8
-http://45.189.151.7:8000/play/a03d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1200" , LIFETIME
 http://masterprotv1.com:8080/aube1205carl/carlos1234/189492
@@ -178,21 +169,18 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7te2JwLVBr2JZ7p148UKANDU/ts
 #EXTINF:0 type="stream" channelId="1303" , FX
 http://45.5.117.57:8200/play/a01p/index.m3u8
 http://45.5.119.43:4000/play/a0gw/index.m3u8
-http://45.189.151.7:8000/play/a00i/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tVXj4cg9l8pE5tiNyYY7W44/ts
 
 #EXTINF:0 type="stream" channelId="1052" , TNT
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0hu/index.m3u8
-http://45.189.151.7:8000/play/a015/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tYZrMBNZ_F6_dFLIpmbpack/ts
 
 #EXTINF:0 type="stream" channelId="187" , UNIVERSAL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://179.49.163.34:45000/play/a01x/index.m3u8
-http://45.189.151.7:8000/play/a010/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tTfu_NAC899dZNOP2JbfeJI/ts
 
 #EXTINF:0 type="stream" channelId="1719" , PARAMOUNT
@@ -201,7 +189,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tTfu_NAC899dZNOP2JbfeJI/ts
 http://200.115.96.66:4000/play/a0dq/index.m3u8
 http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
 http://45.5.119.43:4000/play/a0kl/index.m3u8
-http://45.189.151.7:8000/play/a00z/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tVv-iSiKKBjdW6M2XJbXOcI/ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_GaU52nUoGZAFyd9susUdm7PZNpc9meSRJqBscvKJ0sWn5a6J", PANICO HD
@@ -214,21 +201,18 @@ http://80.80.91.195:8000/play/a0e6/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.201.70:8000/play/a0p0/index.m3u8
 http://181.78.99.187:8000/play/a0ln/index.m3u8
-http://45.189.151.7:8000/play/a011/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tQFRX7qXXZVlc7i-bDUiZRo/ts
 
 #EXTINF:0 type="stream" channelId="383" , SPACE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0iz/index.m3u8
-http://45.189.151.7:8000/play/a00f/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tZwrsXNBeEzIomz_C7Z7Q5Y/ts
 
 #EXTINF:0 type="stream" channelId="530" , Sony chanel
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0hp/index.m3u8
-http://45.189.151.7:8000/play/a00y/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tdmJb62eyup9jtJmoNXYWRM/ts
 
 #EXTINF:0 type="stream" channelId="1214" , Sony movies
@@ -241,7 +225,6 @@ http://45.5.119.43:4000/play/a03s/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://legendstv.com.mx:80/Charly1234/Charly1234/195446.ts
-http://45.189.151.7:8000/play/a04t/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tfPUP2gmfdGtPpxp82sA7aM/ts
 
 #EXTINF:0 type="stream" channelId="2501" , AMC
@@ -255,7 +238,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tatjN0EifnFtpbdga9hgMi0/ts
 #EXTVLCOPT--http-reconnect=tru
 http://masterprotv1.com:8080/aube1205carl/carlos1234/319
 http://45.5.119.43:4000/play/a0il/index.m3u8
-http://45.189.151.7:8000/play/a016/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tepWdfmNlbrqyh2vlpMxl60/ts
 
 #EXTINF:0 type="stream" channelId="64" , CINECANAL
@@ -293,14 +275,12 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tTH0GFejwpk1uSufzNkDn5s/ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0l5/index.m3u8
-http://45.189.151.7:8000/play/a02t/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tfkEz4Zv2hgNFzC1qVv9sb0/ts
 
 #EXTINF:0 type="stream" channelId="2585" , HBO+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0l4/index.m3u8
-http://45.189.151.7:8000/play/a02u/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tTduDlfkMBKIorREUCLUegs/ts
 
 #EXTINF:0 type="stream" channelId="2583" , HBO SIGNATURE
@@ -322,7 +302,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tbj7rXx_hkGNh4ZiEBptA2k/ts
 http://200.115.96.66:4000/play/a02o/index.m3u8
 http://181.78.78.66:8000/play/a0cf
 http://45.5.119.43:4000/play/a0l6/index.m3u8
-http://45.189.151.7:8000/play/a023/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcBbluZYfLo4DT76T74Xkng/ts
 
 #EXTINF:0 type="stream" channelId="2725" , HBO MUNDI HD
@@ -337,13 +316,13 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcEOrDSCpRBH7C4IQr2mTcQ/ts
 #EXTVLCOPT--http-reconnect=true
 http://38.159.227.122:8000/play/a04e/index.m3u8
 http://45.5.119.43:4000/play/a0kt/index.m3u8
-http://45.189.151.7:8000/play/a03l/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png", Universal Premier HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a034/index.m3u8
 http://38.159.227.122:8000/play/a02w/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.4b8fc78cff89969ea5a888a779654e44.png", Universal Reality HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -357,7 +336,6 @@ http://45.5.119.43:4000/play/a0i3/index.m3u8
 http://200.115.96.66:4000/play/a033/index.m3u8
 http://38.159.227.122:8000/play/a02z/index.m3u8
 http://45.5.119.43:4000/play/a0i4/index.m3u8
-http://45.189.151.7:8000/play/a03x/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.61669777e8ebe4f90876b91db5ef8466.png", Universal Comedy HD
 ##EXTVLCOPT:network-caching=1000
@@ -365,12 +343,12 @@ http://45.189.151.7:8000/play/a03x/index.m3u8
 http://200.115.96.66:4000/play/a032/index.m3u8
 http://38.159.227.122:8000/play/a030/index.m3u8
 http://45.5.119.43:4000/play/a0i5/index.m3u8
-http://45.189.151.7:8000/play/a012/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLopm-6pUub9GBorT6swxZLPsdvctogtVUg&usqp=CAU", CINE FAMILIAR HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.12.164:9000/play/ch52
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D44X7voyBBl1lDSYkhQeToeN2Clhdz0Cjl89h-OwLoz2j84KQZ3GGoEO&s=10", CINE PREMIUM HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -379,18 +357,23 @@ http://45.5.119.43:4000/play/a0i1/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo=" ",FMHMOVIES
 http://38.191.43.69:8000/play/a05w/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.fmh.la/images/team/logo_family.png", FMHFAMILY
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://160.20.165.246:8000/play/a01j/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://fmh.la/images/team/logo_kids.png", FMHKIDS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://160.20.165.246:8000/play/a01f/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2rdckIwiQb2Uz83RC8bo-giGj3crPqzQ2g&usqp=CAU", MX FAMILIAR
 http://190.102.246.93:9005/play/a03i
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKKQFYov3gLn6Bx1ITNAzJiDRkWdo_9DnHdA&usqp=CAU", MX PRIME
 http://190.102.246.93:9005/play/a03t
+
 #EXTINF:0 type="stream" channelId="333", GOLDEN
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -422,11 +405,14 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tW4OUOG1eJVpjloq-6AvGZk/ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://legendstv.com.mx:80/Charly1234/Charly1234/102125.ts
+
 #EXTINF:0 type="stream" channelId="-1", Sun Channel HD
+
 #EXTINF:0 type="stream" channelId="-1", DHE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://179.49.163.34:45000/play/a00o/index.m3u8
+
 #EXTINF:0 type="stream" channelId="1418" , HGTV
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -437,7 +423,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tYe5Qdh8YRKtFizNViSJ3T0/ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=
 http://45.5.119.43:4000/play/a0kn/index.m3u8
-http://45.189.151.7:8000/play/a003/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tQ0k5is7louVNGsgN2Sc3EY/ts
 
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
@@ -457,7 +442,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tVAb1jJXhEE26f07EjWdqfw/ts
 #EXTVLCOPT--http-reconnect=true
 http://181.78.99.187:8000/play/a0m3/index.m3u8
 http://45.5.119.43:4000/play/a0kp/index.m3u8
-http://45.189.151.7:8000/play/a005/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcDaqJjKqOZZIG4FTOqGq50/ts
 
 #EXTINF:0 type="stream" channelId="2558" , Discovery theater
@@ -465,7 +449,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcDaqJjKqOZZIG4FTOqGq50/ts
 #EXTVLCOPT--http-reconnect=true
 http://181.78.99.187:8000/play/a0l0/index.m3u8
 http://45.5.119.43:4000/play/a0hv/index.m3u8
-http://45.189.151.7:8000/play/a004/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7taB0XF96dJ63cdMRx1GcJy4/ts
 
 #EXTINF:0 type="stream" channelId="58" , Discovery science
@@ -479,7 +462,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcZlyX5Fu_SyKtovj1HS2V8/ts
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0hh/index.m3u8
 http://190.0.247.38:8000/play/a00v
-http://45.189.151.7:8000/play/a022/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tXhbxsAMHVI9IX-nVFTl-x0/ts
 
 #EXTINF:0 type="stream" channelId="2840" , DISCOVERY TURBO HD
@@ -499,20 +481,20 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4170
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0kk/index.m3u8
-http://45.189.151.7:8000/play/a007/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tVi1lzveDOqgODht0VrZNvM/ts
 
 #EXTINF:0 type="stream" channelId="56",NATGEO MUNDO
 http://masterprotv1.com:8080/aube1205carl/carlos1234/235
+
 #EXTINF:0 type="stream" channelId="-1",Love Nature HD
 http://160.20.165.246:8000/play/a00d/index.m3u8
 http://190.0.241.181:8000/play/LOVENATURENUEVO/index.m3u8
+
 #EXTINF:0 type="stream" channelId="1455", HISTORY
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0gk/index.m3u8
 http://190.0.247.38:8000/play/a00w
-http://45.189.151.7:8000/play/a00w/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tVuhx5X77xdXEbx94CxSTuM/ts
 
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
@@ -525,9 +507,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tZteEEBd2Zgt1HzcOJ_qw3g/ts
 #EXTINF:0 type="stream" channelId="-1", MTV HD
 http://masterprotv1.com:8080/aube1205carl/carlos1234/142559
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tczLTnJQn_mOnEtHRbQkTjA/ts
-http://45.189.151.7:8000/play/a00a/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb0hm9BF3GOc0z4VbHvPE0-YrtdEAzK44PNw&usqp=CAU" , MM KPOP
 
 #EXTINF:0 type="stream" channelId="-1" , Nickmusic
 ##EXTVLCOPT:network-caching=1000
@@ -562,12 +541,12 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:0 type="stream" channelId="-1", MTV Hits
 http://masterprotv1.com:8080/aube1205carl/carlos1234/142563
 http://45.5.117.57:8200/play/a0gd/index.m3u8
-http://45.189.151.7:8000/play/a019/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",MTV 00s
 http://45.5.117.57:8200/play/a0i0/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",MTV 80s
 http://45.5.117.57:8200/play/a0ge/index.m3u8
-http://45.189.151.7:8000/play/a03z/index.m3u8
+
 #EXTINF:0 type="stream" channelId="3750" , EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 http://45.5.117.57:8200/play/a033/index.m3u8
@@ -598,7 +577,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7te632cWwSmpeBEH_9y-kXOI/ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191450
-http://45.189.151.7:8000/play/a04a/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1954" ,1 Las estrellas
 ##EXTVLCOPT:network-caching=1000
@@ -611,6 +589,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191587
 #EXTINF:0 type="stream" channelId="1954" ,3 Las estrellas
 http://200.115.120.1:8000/play/ca014/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 1 Cnco
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -624,7 +603,7 @@ http://200.115.120.1:8000/play/ca0105/index.m3u8
 
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191485
-http://45.189.151.7:8000/play/a02m/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1"  logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado_400x400.jpg", TELEFORMULA HD
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191507
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tRQs1EHzY0nlFVj6DEIN8nM/ts
@@ -634,7 +613,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tRQs1EHzY0nlFVj6DEIN8nM/ts
 #EXTVLCOPT--http-reconnect=true
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191495
-http://45.189.151.7:8000/play/a04l/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="3127", Imagen tv
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcM3MQmUbU5maowx8hqvQ-M/ts
@@ -647,7 +626,7 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-http://45.189.151.7:8000/play/a04d/index.m3u8
+
 #EXTINF:0 type="stream" channelId="255",3 Azteca 7
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 http://190.92.10.66:4000/play/a007/index.m3u8
@@ -662,6 +641,7 @@ http://legendstv.com.mx:80/Charly1234/Charly1234/135403.ts
 #EXTINF:0 type="stream" channelId="4651", 2 NU9VE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+
 #EXTINF:0 type="stream" channelId="-1", Milenio Televisión
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -770,7 +750,6 @@ http://45.5.119.43:4000/play/a0jw/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca108/index.m3u8
 http://45.5.119.43:4000/play/a0hy/index.m3u8
-http://45.189.151.7:8000/play/a00t/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Distrito Comedia
 ##EXTVLCOPT:network-caching=1000
@@ -787,7 +766,6 @@ http://legendstv.com.mx:80/Charly1234/Charly1234/216634.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://179.49.163.34:45000/play/a00d/index.m3u8
-http://45.189.151.7:8000/play/a03s/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RCN
 http://160.20.165.246:8000/play/a00h/index.m3u8
@@ -809,7 +787,6 @@ http://181.78.21.46:8009/play/a03f
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.21.46:8009/play/a038
-http://45.186.106.207:8000/play/a084/index.m3u88
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/large.TNTNovelas-2023.png.3c8f3ba8041ddfd11298304e93478394.png", TNT Novelas
 http://181.78.12.164:9000/play/a08y
@@ -821,7 +798,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tZ7jgggvCecO2y61hq0P7L4/ts
 http://181.78.12.164:9000/play/a03t
 http://181.78.99.187:8000/play/a0ld/index.m3u8
 http://45.5.119.43:4000/play/a0kq/index.m3u8
-http://45.189.151.7:8000/play/a042/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Kanal D HD
  http://legendstv.com.mx:80/Charly1234/Charly1234/102179.ts
@@ -831,7 +807,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tTctC4gshXHndMO2z0cS9Hc/ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://160.20.165.246:8000/play/a00e/index.m3u8
-http://45.189.151.7:8000/play/a03t/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", A3 SERIES
 ##EXTVLCOPT:network-caching=1000
@@ -854,7 +829,6 @@ http://200.115.120.1:8000/play/ca021/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tVe-txySx6mOna_D_LAVum8/ts
 http://181.78.201.70:8000/play/a0pn/index.m3u8
 http://45.5.119.43:4000/play/a0km/index.m3u8
-http://45.189.151.7:8000/play/a00h/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Directv%20Sport.png",1 Directv sport
 ##EXTVLCOPT:network-caching=1000
@@ -930,7 +904,6 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7teQqgubIn3CEQHEwR24vq7s/ts
 http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",4 FSMX
 http://legendstv.com.mx:80/Charly1234/Charly1234/35274.ts
-http://45.189.151.7:8000/play/a03q/index.m3u8
 
 http://181.78.99.187:8000/play/a0q1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",5 FSMX
@@ -950,7 +923,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tbOyy89ohXTt0U25WtCu9fk/ts
 #EXTINF:0 type="stream" channelId="179",4 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a020/index.m3u8
+
 #EXTINF:0 type="stream" channelId="179",5 FSM 2
 http://legendstv.com.mx:80/Charly1234/Charly1234/35275.ts
 
@@ -1141,7 +1114,6 @@ http://80.80.91.195:8000/play/a04h/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/80167
-http://45.189.151.7:8000/play/a041/index.m3u8
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4173
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", ITV Deportes
