@@ -60,7 +60,7 @@ http://45.5.119.43:4000/play/a03l/index.m3u8
 http://200.115.98.26:9000/play/a00h/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tWOlJ1kI0HItW_al0KJ03ZQ/ts
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://baraktic.com/wp-content/uploads/2024/11/canalinfantil.webp" , Canal infantil
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.fridamedia.com/sites/default/files/2023-05/Logo%20Canal%20Infantil%20pequen%CC%83o.png" , Canal infantil
 http://190.102.246.93:9005/play/a03c
 http://190.0.247.38:8000/play/a00e
 
@@ -511,9 +511,9 @@ http://177.234.230.206:8011/play/a0i5/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://legendstv.com.mx:80/Charly1234/Charly1234/111817.ts
 
-#EXTINF:0 type="stream" channelId="-1" , Lavozgrupera
+#EXTINF:0 type="stream" channelId="-1" logo"https://i.imgur.com/Ku1CEeb.png", Lavozgrupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" , Ultra 99.2
+#EXTINF:0 type="stream" channelId="-1" logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0yoB0eOGgntozLGuVmXGtHFweICB8OhQuye2EF8F32Ss4aIqcBh8I1Vg&s=10", Ultra 99.2
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/.m3u8
 #EXTINF:0 type="stream" channelId="1966" , TELEHIT MUSICA
 http://190.0.247.38:8000/play/a022
