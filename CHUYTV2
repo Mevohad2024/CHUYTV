@@ -1,53 +1,53 @@
 #EXTM3U
 
-#EXTINF:0 type=" ",LCDF MX GALA
+#EXTINF:0 type="stream" channelId="-1" logo="",LCDF MX GALA
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286341
 http://195.66.210.10:80/ideas903/XRYET/611595
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7ter90tuf8rU4WNjQBUvqCaI/ts
 
 
-#EXTINF:0 type=" ", Toda la casa
+#EXTINF:0 type="stream" channelId="-1" logo="", Toda la casa
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286278
 http://195.66.210.10:80/ideas903/XRYET/611597
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tZ-vt91hJXb2W7kvGKVtIzY/ts
 http://tv.nstvlatino.com:8080/rafaelpagano/RP1217448RP/1250160
 
-#EXTINF:0 type=" ",Acceso total
+#EXTINF:0 type="stream" channelId="-1" logo="",Acceso total
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286279
 http://195.66.210.10:80/ideas903/XRYET/611658
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7te-jmq68Q4oOpRvBdpLHjCY/ts
 http://tv.nstvlatino.com:8080/rafaelpagano/RP1217448RP/1250159
 
-#EXTINF:0 type=" ", Dia
+#EXTINF:0 type="stream" channelId="-1" logo="", Dia
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286283
 http://195.66.210.10:80/ideas903/XRYET/611594
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tSzLz1hJfVuwlFrpLkY-NV0/ts
 http://tv.nstvlatino.com:8080/rafaelpagano/RP1217448RP/1250164
 
-#EXTINF:0 type=" ", Noche
+#EXTINF:0 type="stream" channelId="-1" logo="", Noche
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286284
 http://195.66.210.10:80/ideas903/XRYET/611600
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tRQ-abdOrPSL21uOptIcK4M/ts
 http://tv.nstvlatino.com:8080/rafaelpagano/RP1217448RP/1250165
 
-#EXTINF:0 type=" ",Baño
+#EXTINF:0 type="stream" channelId="-1" logo="",Baño
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286280
 http://195.66.210.10:80/ideas903/XRYET/611596
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tejkMIHuNmpe37JJ954CTWI/ts
 http://tv.nstvlatino.com:8080/rafaelpagano/RP1217448RP/1250161
 
-#EXTINF:0 type=" ", Sala
+#EXTINF:0 type="stream" channelId="-1" logo="", Sala
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286282
 http://195.66.210.10:80/ideas903/XRYET/611599
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcY0UsKiJ89EJFfQStMQ2p8/ts
 http://tv.nstvlatino.com:8080/rafaelpagano/RP1217448RP/1250163
 
-#EXTINF:0 type=" ",Cocina
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHLRF3k5Wfs1xflTLqCkz6-5tDdLWLs-WD9fHSCz49ZpUfe2kQS6GAYFg&s=10",Cocina
 http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/286281
 http://195.66.210.10:80/ideas903/XRYET/611598
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tYMPx3tiW_ck6H-2Eqr4Hc0/ts
 
-#EXTINF:0 type="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10", Multicamara
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10", Multicamara
 http://195.66.210.10:80/ideas903/XRYET/611657
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
