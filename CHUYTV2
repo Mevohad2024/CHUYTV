@@ -390,6 +390,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tW4OUOG1eJVpjloq-6AvGZk/ts
 http://legendstv.com.mx:80/Charly1234/Charly1234/102125.ts
 
 #EXTINF:0 type="stream" channelId="-1", Sun Channel HD
+http://185.75.12.105:19017/play/a07c/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", DHE
 ##EXTVLCOPT:network-caching=1000
