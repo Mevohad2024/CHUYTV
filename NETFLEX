@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 logo= "https://pics.filmaffinity.com/Nadie_2-295649250-large.jpg",Nadie 2
+http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1253550.mkv
+
 #EXTINF:-1 logo= "https://pics.filmaffinity.com/Ice_Road_Vengeance-423768629-large.jpg",Ice road
 http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1253777.mkv
 
