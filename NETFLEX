@@ -1,15 +1,14 @@
 
 #EXTM3U
 
+#EXTINF:-1 logo= "https://pm1.narvii.com/6170/b52fd7326bc96f6e80dd8e794b44422cf1a5ee78_hq.jpg",Commiment
+http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1097529.mkv
 
 #EXTINF:-1 logo= "https://static.wikia.nocookie.net/cine/images/0/01/Godscrazy.jpg/revision/latest/scale-to-width-down/259?cb=20121108223934",Los dioses deben estar locod
 http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1097749.mkv
 
 #EXTINF:-1 logo= "https://pics.filmaffinity.com/Nadie_2-295649250-large.jpg",Nadie 2
 http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1253550.mkv
-
-#EXTINF:-1 logo= "https://pics.filmaffinity.com/Ice_Road_Vengeance-423768629-large.jpg",Ice road
-http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1253777.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbhFMtw7P1xYZ4_L0u8w0I6OVvQfnHapglgruF6s1pHkC5jvVEuziT-Vet&s=10",jefes de estado
 http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1247845.mkv
