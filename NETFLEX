@@ -1,6 +1,10 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 logo= "https://static.wikia.nocookie.net/cine/images/0/01/Godscrazy.jpg/revision/latest/scale-to-width-down/259?cb=20121108223934",Los dioses deben estar locod
+http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1097749.mkv
+
 #EXTINF:-1 logo= "https://pics.filmaffinity.com/Nadie_2-295649250-large.jpg",Nadie 2
 http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1253550.mkv
 
