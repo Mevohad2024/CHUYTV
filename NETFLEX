@@ -48,9 +48,6 @@ http://tv.zeuspro.xyz:8080/movie/EXPg3Q5JuS/gJT9nWY1mv/128374.mkv
 http://booklife.space:8080/movie/renesototv/gdzx2r6/277181.mp4
 http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1251578.mkv
 
-#EXTINF:-1 logo= "https://m.media-amazon.com/images/S/pv-target-images/3a85ac66e9b56964b51dbbf4043532e0d39b7643357e1cc83b4271b4685c1171.jpg", The first time
-http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1099073.mkv
-
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPddDpVwuP1ye58bJYmwV_MqiH9S3z0J41o1KiwUo2rOszDQKDbjyjAAWS&s=10", El contador 2
 http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82048.mp4
 
@@ -60,6 +57,12 @@ http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1247688.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSAW578R73mE1pKyYUmdUnfW0BZc9EZtSvEQ_WXEf6I7mppd2KHB_jLIC&s=10",Presencia
 http://stklatino.dynns.com:2082/movie/diegoantofaiptv/iroquitv23/81910.mp4
+
+#EXTINF:-1 logo= "https://m.media-amazon.com/images/S/pv-target-images/468f40cb51a512d3d576ff4ebba493bf270852911bb2ba50133b625b3806a9ce.jpg",Moonrise kimdom
+http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1098915.mkv
+
+#EXTINF:-1 logo= "https://m.media-amazon.com/images/S/pv-target-images/3a85ac66e9b56964b51dbbf4043532e0d39b7643357e1cc83b4271b4685c1171.jpg", The first time
+http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1099073.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfWWlsCHRDWQ3F56U_CT4KB0Yr_bhTtx27tyj_I1b76Mpt-du3L-XDBr8&s=10", E1S1 Hyper Knife
 http://tv.nstvlatino.com:8080/series/rafaelpagano/RP1217448RP/1246852.mkv
