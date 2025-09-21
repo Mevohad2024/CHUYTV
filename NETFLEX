@@ -1,9 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BNmY0OTdkYTEtOGYzNy00NGNkLTg4OWYtN2VkM2VhOTc0M2FmXkEyXkFqcGc@._V1_.jpg", My heart puppy
-http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1199732.mkv
-
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO0HczwnZpVMzx00cr6Jz0EcFuzjlZANZTkvncpJI04TNIjnWaK5cvwG0f&s=10",Coldplay eyes
 http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1093907.mkv
 
