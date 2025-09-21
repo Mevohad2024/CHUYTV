@@ -1,9 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 logo= "https://www.cinepicvip.com/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fcinexo-lastipas.appspot.com%2Fo%2FPeliculas%252F123301%252F14%252Fprimario.png%3Falt%3Dmedia&w=640&q=75",El conjuro
-http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1256432.mkv
-
 #EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BNmY0OTdkYTEtOGYzNy00NGNkLTg4OWYtN2VkM2VhOTc0M2FmXkEyXkFqcGc@._V1_.jpg", My heart puppy
 http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1199732.mkv
 
