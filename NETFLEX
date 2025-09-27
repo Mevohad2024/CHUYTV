@@ -41,6 +41,15 @@ http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1098915.mkv
 #EXTINF:-1 logo= "https://m.media-amazon.com/images/S/pv-target-images/3a85ac66e9b56964b51dbbf4043532e0d39b7643357e1cc83b4271b4685c1171.jpg", The first time
 http://tv.nstvlatino.com:8080/movie/rafaelpagano/RP1217448RP/1099073.mkv
 
+#EXTINF:-1 logo= "https://pics.filmaffinity.com/La_reina_de_la_confianza_Miniserie_de_TV-618314298-large.jpg",E1S1 lareyna de la confianza 
+http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/20396168-0887-4b5c-96f3-d0f0eb970f0d.mp4
+#EXTINF:-1 logo= "https://pics.filmaffinity.com/La_reina_de_la_confianza_Miniserie_de_TV-618314298-large.jpg",E2S1 lareyna de la confianza
+http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/28cd563c-a817-4be2-a9bc-87d89e6580e6.mp4
+#EXTINF:-1 logo= "https://pics.filmaffinity.com/La_reina_de_la_confianza_Miniserie_de_TV-618314298-large.jpg",E3S1 lareyna de la confianza
+http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/05074a44-ed3a-4446-832e-8399f31be5fc.mp4
+#EXTINF:-1 logo= "https://pics.filmaffinity.com/La_reina_de_la_confianza_Miniserie_de_TV-618314298-large.jpg",E4S1 lareyna de la confianza
+http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/04cf00f0-05ef-4f4a-aec9-c5af7b4ae50e.mp4
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfWWlsCHRDWQ3F56U_CT4KB0Yr_bhTtx27tyj_I1b76Mpt-du3L-XDBr8&s=10", E1S1 Hyper Knife
 http://tv.nstvlatino.com:8080/series/rafaelpagano/RP1217448RP/1246852.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfWWlsCHRDWQ3F56U_CT4KB0Yr_bhTtx27tyj_I1b76Mpt-du3L-XDBr8&s=10", E2S1 Hyper Knife
