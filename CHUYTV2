@@ -205,6 +205,7 @@ http://45.5.119.43:4000/play/a03s/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://legendstv.com.mx:80/Charly1234/Charly1234/195446.ts
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tfPUP2gmfdGtPpxp82sA7aM/ts
+http://201.237.193.180:9981/stream/channelid/138548460?profile=pass
 
 #EXTINF:0 type="stream" channelId="2501" , AMC
 ##EXTVLCOPT:network-caching=1000
@@ -275,8 +276,8 @@ http://177.234.230.206:8011/play/a0lp/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tbj7rXx_hkGNh4ZiEBptA2k/ts
-http://190.60.38.45:8000/play/a09t/index.m3u8
 http://177.234.230.206:8011/play/a00y/index.m3u8
+http://201.237.193.180:9981/stream/channelid/185817598?profile=pass
 
 #EXTINF:0 type="stream" channelId="2587" , HBO XTREME
 ##EXTVLCOPT:network-caching=1000
@@ -408,6 +409,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tYe5Qdh8YRKtFizNViSJ3T0/ts
 #EXTVLCOPT--http-reconnect=
 http://45.5.119.43:4000/play/a0kn/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tQ0k5is7louVNGsgN2Sc3EY/ts
+http://201.237.193.180:9981/stream/channelid/1527132129?profile=pass
 
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
 ##EXTVLCOPT:network-caching=1000
@@ -460,7 +462,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tUHxYyhohGlx0hrmo3NKpJs/ts
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0gq/index.m3u8
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4170
-http://190.90.22.42:5280/play/a0dn
+http://201.237.193.180:9981/stream/channelid/1974110378?profile=pass
 
 #EXTINF:0 type="stream" channelId="56",NATIONAL GEOGRAPHIC
 ##EXTVLCOPT:network-caching=1000
@@ -823,25 +825,23 @@ http://45.5.119.43:4000/play/a0km/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Directv%20Sport.png",1 Directv sport
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://200.59.188.3:8000/play/a0xe
-http://38.211.242.128:8001/play/a09s/index.m3u8
-http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/76985
+http://181.78.19.125:9096/play/a008
 
 #EXTINF:0 type="stream" channelId="-1" logo="http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-latinos/Direct%20Tv%20Sports%202%20HD.png",1 Directv sport2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/151374
+
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebWz0gUaBzK7N-JdqHh6LW66zII4C0y3ZSA&usqp=CAU",1 Directv sport +
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/62552
+
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://legendstv.com.mx:80/Charly1234/Charly1234/520327.ts
+http://181.78.19.125:9096/play/a00p
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports premium
 http://200.115.120.1:8000/play/ca040/index.m3u8
