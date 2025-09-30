@@ -115,10 +115,10 @@ http://190.0.247.38:8000/play/a00k
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.176.153.106:8090/play/a10i/index.m3u8
-http://160.20.165.246:8000/play/a00k/index.m3u8
 http://45.184.87.142:8000/play/a004
 http://190.90.22.42:5280/play/a0ek
 http://45.5.119.43:4000/play/a0gt/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
@@ -365,11 +365,12 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tUcqEIAWxnChjmALzymX2i0/ts
 
 #EXTINF:0 type="stream" channelId="2502", GOLDEN EDGE
 http://200.115.120.1:8000/play/ca037/index.m3u8
+http://45.232.176.17:8000/play/a02a
 
 #EXTINF:0 type="stream" channelId="3765" , GOLDENPLUS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://legendstv.com.mx:80/Charly1234/Charly1234/102370.ts
+http://45.232.176.17:8000/play/a028
 
 #EXTINF:0 type="stream" channelId="1963" ,GOLDEN PREMIER
 ##EXTVLCOPT:network-caching=1000
@@ -387,11 +388,10 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tW4OUOG1eJVpjloq-6AvGZk/ts
 #EXTINF:0 type="stream" channelId="1244" , Food network
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://legendstv.com.mx:80/Charly1234/Charly1234/102125.ts
 http://190.90.22.42:5280/play/a0es
 
 #EXTINF:0 type="stream" channelId="-1", Sun Channel HD
-http://185.75.12.105:19017/play/a07c/index.m3u8
+http://45.232.176.17:8000/play/a00w
 
 #EXTINF:0 type="stream" channelId="-1", DHE
 ##EXTVLCOPT:network-caching=1000
@@ -1027,14 +1027,18 @@ http://181.78.21.46:8009/play/a019
 http://45.5.119.43:4000/play/a0kj/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2540" , ESPN HD sur 
+http://45.232.176.17:8000/play/a00s
 #EXTINF:0 type="stream" channelId="344" , ESPN 2 HD sur 
-http://181.78.11.12:1010/play/a04a/index.m3u8
+http://45.232.176.17:8000/play/a023
 #EXTINF:0 type="stream" channelId="355" , ESPN 3 HD sur 
-http://181.78.11.12:1010/play/a00g/index.m3u8
+http://45.232.176.17:8000/play/a01l
 #EXTINF:0 type="stream" channelId="1432" ,ESPN 4 HD sur
+http://45.232.176.17:8000/play/a00r
 #EXTINF:0 type="stream" channelId="-1" logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5.png", ESPN 5 sur
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ESPN_6.webp.5a00ef854275786ade99bbd5a826743a.webp" , ESPN 6 sur
+http://45.232.176.17:8000/play/a026
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.ESPN_7_logo.png.346013410f5a12fe2b8f9147dfbdd0ce.png" , ESPN 7 sur
+http://45.232.176.17:8000/play/a025
 #EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.espnpremium.png.8498f795338c9167a556bd035cb560b0.png", ESPN PREMIUM
 #EXTINF:0 type="stream" channelId="287"  , Claro Sports HD
 #EXTVLCOPT--http-reconnect=true
