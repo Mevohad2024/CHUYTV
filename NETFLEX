@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BNzI0MjNmZTgtNTAxZC00NzdmLWEwYTItOGMzMWE5MmFkOGIwXkEyXkFqcGc@._V1_.jpg", Agarralo como puedas
+http://playtv44.com:8080/movie/973995960/142536/387870.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO0HczwnZpVMzx00cr6Jz0EcFuzjlZANZTkvncpJI04TNIjnWaK5cvwG0f&s=10",Coldplay eyes
 
 #EXTINF:-1 logo= "https://images.justwatch.com/poster/334057666/s718/hijacking.jpg", Secuestro en el vuelo
