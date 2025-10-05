@@ -339,7 +339,7 @@ http://200.115.96.66:4000/play/a036/index.m3u8
 http://38.159.227.122:8000/play/a02y/index.m3u8
 http://45.5.119.43:4000/play/a0i3/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png", Universal Crime HD
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vd5-dOk6lZIhYiyD9wOjI54JpUf-JQKdjDhcObw7rg&s=10", Universal Crime HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a033/index.m3u8
