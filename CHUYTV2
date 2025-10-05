@@ -949,7 +949,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7teQqgubIn3CEQHEwR24vq7s/ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca041/index.m3u8
-#EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",4 FSMX
+#EXTINF:0 type="stream" logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQHRTbeNDhHXQmYbl34AjXNluc6PugsG7MY336fqwqfqDo3-z9",4 FSMX
 http://45.189.151.7:8000/play/a06m/index.m3u8
 
 http://181.78.99.187:8000/play/a0q1/index.m3u8
