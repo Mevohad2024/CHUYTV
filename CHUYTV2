@@ -956,6 +956,9 @@ http://181.78.99.187:8000/play/a0q1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9XPAC1O4Usby8CDavAughMmo57uE6ZpQn9PqXkrbUQ&s=10",5 FSMX
 http://45.5.117.57:8200/play/a058/index.m3u8
 
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://images.ctfassets.net/upygmu80yh8z/5kBIlma4I0DPwWNAPJHd0t/1a1fa4d4ba438df2967825f89d0cf458/FoxSports-logo-deportes.webp",6 FSMX
+
 #EXTINF:0 type="stream" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQos66roD2pXKNttBVYrKEnKfucwvRugx-9kA&usqp=CAU",1 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
