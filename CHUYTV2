@@ -103,7 +103,7 @@ http://190.90.22.42:5280/play/a0df
 #EXTVLCOPT--http-reconnect=true
 http://80.80.91.195:8000/play/a04s/index.m3u8
 http://45.5.119.43:4000/play/a03k/index.m3u8
-http://131.221.41.57:8000/play/a06m/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
@@ -684,7 +684,7 @@ http://206.212.244.71:8080/4wVQA7/625159/108248
 
 #EXTINF:0 type="stream" channelId="3209" , 3 Univisión
 http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
-http://latinapro.net:25461/CARLOSa61/rodriguez2CA/3590.ts
+
 #EXTINF:0 type="stream" channelId="3209" , 4 Univisión
 http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1099/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1164_2_77191.png.a7bf0653083720991223589926890be4.png",1 Unimas
@@ -710,14 +710,14 @@ http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1080/index.m3u8
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1967" ,5 TELEMUNDO
-http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/67996
+
 
 #EXTINF:0 type="stream" channelId="3779" ,1 Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3779" ,2 Universo
-http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/74814
+
 #EXTINF:0 type="stream" channelId="3779" ,3 Universo
-http://legendstv.com.mx:80/Charly1234/Charly1234/353159.ts
+
 
 #EXTINF:0 type="stream" channelId="1970" , Galavision
 ##EXTVLCOPT:network-caching=1000
@@ -732,7 +732,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tUTZHwtiFRQ7bKZWJlAFhw8/ts
 http://179.49.163.34:45000/play/a013/index.m3u8
 
 #EXTINF:0 type="stream" channelId="134", DPELICULA +
-http://legendstv.com.mx:80/Charly1234/Charly1234/125911.ts
+
 #EXTINF:0 type="stream" channelId="895", TCM
 http://181.78.99.187:8000/play/a0nu/index.m3u8
 http://45.5.119.43:4000/play/a0jw/index.m3u8
@@ -751,7 +751,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tZ5OirgobHSpaJfCZ4l7h9k/ts
 #EXTINF:0 type="stream" channelId="-1", Unicable
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://legendstv.com.mx:80/Charly1234/Charly1234/216634.ts
+
 
 #EXTINF:0 type="stream" channelId="-1", TLNovelas
 ##EXTVLCOPT:network-caching=1000
@@ -792,7 +792,6 @@ http://181.78.99.187:8000/play/a0ld/index.m3u8
 http://45.5.119.43:4000/play/a0kq/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Kanal D HD
- http://legendstv.com.mx:80/Charly1234/Charly1234/102179.ts
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tTctC4gshXHndMO2z0cS9Hc/ts
 
 #EXTINF:0 type="stream" channelId="-1", ANTENA 3
@@ -847,7 +846,7 @@ http://181.78.19.125:9096/play/a00p
 http://200.115.120.1:8000/play/ca040/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iw3Lzx5CrDXWiBQEFdcEDJl92QYuitb7uy5j_sWMuQ&s", DAZN
-http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/126783
+
 
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNJsK8L9YXnICakQjfq_4bsuuTzFGAYjQjQJjPg1Bzp9wJdCr-fz9eoWS&s=10", SKY BUNDESLIGA
 ##EXTVLCOPT:network-caching=1000
@@ -869,13 +868,13 @@ http://38.191.43.69:8000/play/a03z/index.m3u8
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 1 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://legendstv.com.mx:80/Charly1234/Charly1234/540391.ts
+
 
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 2 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://195.66.210.10:80/ideas903/XRYET/36396
-http://new-tv.cloud:25461/Danielhonorio/DHC1511/552667
+
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",1 FSMX
 ##EXTVLCOPT:network-caching=1000
@@ -893,7 +892,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7teQqgubIn3CEQHEwR24vq7s/ts
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",4 FSMX
-http://legendstv.com.mx:80/Charly1234/Charly1234/35274.ts
+
 
 http://181.78.99.187:8000/play/a0q1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",5 FSMX
@@ -915,10 +914,10 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tbOyy89ohXTt0U25WtCu9fk/ts
 #EXTVLCOPT--http-reconnect=true
 
 #EXTINF:0 type="stream" channelId="179",5 FSM 2
-http://legendstv.com.mx:80/Charly1234/Charly1234/35275.ts
+
 
 #EXTINF:0 type="stream" channelId="179",6 FSM 2
-http://legendstv.com.mx:80/Charly1234/Charly1234/504828.ts
+
 
 #EXTINF:0 type="stream" channelId="180",1 FSM 3
 ##EXTVLCOPT:network-caching=1000
@@ -933,7 +932,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tXcyRrBBaOrQtosCCuPsXHg/ts
 #EXTINF:0 type="stream" channelId="180",3 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://legendstv.com.mx:80/Charly1234/Charly1234/35276.ts
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",1 FS PREMIUM
 http://190.111.16.106:40000/play/a09t
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tf7PNlamO-Tv2yUSfYsMIIg/ts
@@ -953,7 +952,7 @@ http://45.5.117.57:8200/play/a04z/index.m3u8
 http://104.238.205.28:8989/278599_.m3u8
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/79152
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",6 FS PREMIUM
-http://legendstv.com.mx:80/Charly1234/Charly1234/347114.ts
+
 #EXTINF:0 type="stream" channelId="0", Fox sport
 http://181.78.27.128:8000/play/a02t/index.m3u8
 #EXTINF:0 type="stream" channelId="0", Fox sport 2
@@ -969,9 +968,9 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2578
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://thevdm.xyz:25461/Vargasfam99/fBTVegQTCz/19888
+
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
-http://legendstv.com.mx:80/Charly1234/Charly1234/540393.ts
+
 #EXTINF:0 type="stream" channelId="2540",1 ESPN MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -1048,7 +1047,6 @@ http://45.5.119.43:4000/play/a0kz/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX0JFEUPO9ZbgxumXVxWZQwIhan65So9ZyZFOIhP5fDiZ-K6BV", Claro Sports 2 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://tv-cool.com:25461/ULtR63183811dd/kquFuCz3EpNa/174645
 http://45.5.117.57:8200/play/a05n/index.m3u8
 
 
@@ -1083,11 +1081,11 @@ http://200.115.120.1:8000/play/ca043/index.m3u8
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tfj-g19SOniT1DlZTKHyeIU/ts
 
 #EXTINF:0 type="stream" channelId="1367" , MOVISTAR LIGA
-http://legendstv.com.mx:80/Charly1234/Charly1234/520400.ts
+
 #EXTINF:0 type="stream" channelId="1367" , Movistar Deportes HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://legendstv.com.mx:80/Charly1234/Charly1234/520399.ts
+
 #EXTINF:0 type="stream" channelId="-1",Win Sports 
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -1100,7 +1098,7 @@ http://45.184.87.142:8000/play/a04d
 ##EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT--http-reconnect=true
 http://195.66.210.10:80/ideas903/XRYET/516934
-http://legendstv.com.mx:80/Charly1234/Charly1234/36139.ts
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9V8Hc6ZO1A6gweWLrsJ1FqbmwfCgrqj_VK2Rmhci2OIwN9gnUZlVO-Q&s=10" , Latin America Sport
 http://80.80.91.195:8000/play/a04h/index.m3u8
 #EXTINF:0 type="stream" channelId="227" , AYM SPORTS
@@ -1133,10 +1131,9 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3980
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tT5MH1KtNZBNFqfC-EL-oO4/ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLDlluHOF6kUAw8AR-fbW7oRFSx3_MYZnReXWrkEjkuw-WrsvXoJr7ko&s=10", ADRENALINA
-http://legendstv.com.mx:80/Charly1234/Charly1234/35218.ts
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tX6CplycLXhiUDDFaq9kszE/ts
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFyc1f8PFxlhp0Qe6wucjeix-DGgVi3QznDCJnpkjkOFL6GuKcE3nF7k&s=10", FOXTubi
-http://legendstv.com.mx:80/Charly1234/Charly1234/547078.ts
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFyc1f8PFxlhp0Qe6wucjeix-DGgVi3QznDCJnpkjkOFL6GuKcE3nF7k&s=10", FOXTubi
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tetknlGV8u0GeN2KjuEs2Dc/ts
 
