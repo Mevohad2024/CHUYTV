@@ -977,7 +977,7 @@ http://38.49.128.38:8000/play/a0oz/index.m3u8
 #EXTINF:0 type="stream" channelId="179",6 FSM 2
 
 
-#EXTINF:0 type="stream" channelId="180",1 FSM 3
+#EXTINF:0 type="stream" channelId="180" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5GStPJQ8EvEFBFZGA4tLs4ikZlFBNTMLJh1DekOhopEbIt4KTX6dFv0s&s=10",1 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.99.187:8000/play/a0q3/index.m3u8
