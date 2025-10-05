@@ -292,6 +292,7 @@ http://45.5.119.43:4000/play/a0l4/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tblcASwTx1TnLbu4dDWKhNU/ts
+http://38.49.128.38:8000/play/a0ji/index.m3u8
 http://177.234.230.206:8011/play/a0lp/index.m3u8
 
 #EXTINF:0 type="stream" channelId="361" , HBO POP
@@ -305,6 +306,7 @@ http://201.237.193.180:9981/stream/channelid/185817598?profile=pass
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcBbluZYfLo4DT76T74Xkng/ts
+http://38.49.128.38:8000/play/a096/index.m3u8
 http://200.115.96.66:4000/play/a02o/index.m3u8
 http://181.78.78.66:8000/play/a0cf
 http://45.5.119.43:4000/play/a0l6/index.m3u8
@@ -315,6 +317,7 @@ http://45.189.151.7:8000/play/a06w/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcEOrDSCpRBH7C4IQr2mTcQ/ts
 http://181.78.201.70:8000/play/a0fu/index.m3u8
+http://38.49.128.38:8000/play/a0jj/index.m3u8
 http://177.234.230.206:8011/play/a0lq/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png", Universal Cinema HD
@@ -599,6 +602,7 @@ http://45.189.151.7:8000/play/a05f/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191452
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7te632cWwSmpeBEH_9y-kXOI/ts
+http://38.49.128.38:8000/play/a0ne/index.m3u8
 http://45.189.151.7:8000/play/a05j/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3720" , A+
@@ -628,6 +632,7 @@ http://45.186.106.207:8000/play/a03g/index.m3u88
 http://45.189.151.7:8000/play/a05s/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191476
+http://38.49.128.38:8000/play/a0n6/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 4 Cnco
 http://200.115.120.1:8000/play/ca0105/index.m3u8
 
@@ -638,13 +643,14 @@ http://45.189.151.7:8000/play/a06l/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"  logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado_400x400.jpg", TELEFORMULA HD
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191507
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tRQs1EHzY0nlFVj6DEIN8nM/ts
+http://38.49.128.38:8000/play/a0be/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3127", Imagen tv
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191495
-
+http://38.49.128.38:8000/play/a0d5/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3127", Imagen tv
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcM3MQmUbU5maowx8hqvQ-M/ts
@@ -658,7 +664,7 @@ http://45.189.151.7:8000/play/a05e/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
+http://38.49.128.38:8000/play/a0la/index.m3u8
 #EXTINF:0 type="stream" channelId="255",3 Azteca 7
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 http://190.92.10.66:4000/play/a007/index.m3u8
@@ -679,6 +685,7 @@ http://45.189.151.7:8000/play/a05u/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191501
+http://38.49.128.38:8000/play/a0dm/index.m3u8
 http://45.189.151.7:8000/play/a075/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Excélsior Televisión
@@ -965,7 +972,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tbOyy89ohXTt0U25WtCu9fk/ts
 #EXTVLCOPT--http-reconnect=true
 http://45.189.151.7:8000/play/a06n/index.m3u8
 #EXTINF:0 type="stream" channelId="179",5 FSM 2
-
+http://38.49.128.38:8000/play/a0oz/index.m3u8
 
 #EXTINF:0 type="stream" channelId="179",6 FSM 2
 
@@ -983,7 +990,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tXcyRrBBaOrQtosCCuPsXHg/ts
 #EXTINF:0 type="stream" channelId="180",3 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://38.49.128.38:8000/play/a0ox/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",1 FS PREMIUM
 http://190.111.16.106:40000/play/a09t
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tf7PNlamO-Tv2yUSfYsMIIg/ts
@@ -1159,6 +1166,7 @@ http://80.80.91.195:8000/play/a04h/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/80167
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4173
+http://38.49.128.38:8000/play/a0mk/index.m3u8
 http://45.189.151.7:8000/play/a05i/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", ITV Deportes
@@ -1171,6 +1179,7 @@ http://190.60.56.41:8000/play/a009/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://stklatino.dynns.com:2082/diegoantofaiptv/iroquitv23/13689
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tUPI1VGbjtG8k6Xu7OlbWbA/ts
+http://38.49.128.38:8000/play/a0mj/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES 2 HD
 #EXTINF:0 type="stream" channelId="4665" , PX SPORTS
