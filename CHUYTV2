@@ -939,13 +939,13 @@ http://195.66.210.10:80/ideas903/XRYET/36396
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a0jx/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",2 FSMX
+#EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cYC8aTynrqQTtkJzgvhTG8YSrYqIqV3Kn6SSBVHUHA&s",2 FSMX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.106.127:9000/play/ca031
 http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7teQqgubIn3CEQHEwR24vq7s/ts
 
-#EXTINF:0 type="stream" channelId="-1"logo="https://pbs.twimg.com/profile_images/887699270471516160/mbn24hsn_400x400.jpg",3 FSMX
+#EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8FI6IdSD5vUZW3noDfjFNAyWwpZBsvXCG1Xsv9H3VA&s=10",3 FSMX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca041/index.m3u8
