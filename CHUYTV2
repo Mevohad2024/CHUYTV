@@ -346,7 +346,7 @@ http://200.115.96.66:4000/play/a033/index.m3u8
 http://38.159.227.122:8000/play/a02z/index.m3u8
 http://45.5.119.43:4000/play/a0i4/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://universalplus.com/files/channels/172050409.png", Universal Comedy HD
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1U2OiwdJ9EprjbAH_savWqeLT4N4YpFccHwTDUtaWAFRVC8SzmiNy3w5&s", Universal Comedy HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a032/index.m3u8
