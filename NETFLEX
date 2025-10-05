@@ -1,9 +1,6 @@
 k
 #EXTM3U
 
-#EXTINF:-1 logo= "https://m.media-amazon.com/images/M/MV5BNzI0MjNmZTgtNTAxZC00NzdmLWEwYTItOGMzMWE5MmFkOGIwXkEyXkFqcGc@._V1_.jpg", Agarralo como puedas
-http://playtv44.com:8080/movie/973995960/142536/387870.mkv
-
 #EXTINF:-1 logo= "https://images.justwatch.com/poster/334057666/s718/hijacking.jpg", Secuestro en el vuelo
 http://tvhd.me:8000/movie/elpuma1212/NAVI51J17J/301175.mp4
 
@@ -31,10 +28,6 @@ http://stklatino.dynns.com:2082/movie/diegoantofaiptv/iroquitv23/81910.mp4
 #EXTINF:-1 logo= "https://es.web.img3.acsta.net/medias/nmedia/18/89/88/37/20102236.jpg", Moonrise Kingdom
 http://playtv44.com:8080/movie/973995960/142536/293159.mkv
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwAj1ZDzcM0ore2ku8hmtpgTFXU9wcRrjY06rzAWZe4h_ZW7zyWngrPrZL&s=10", E2S1 MARV3L ZOMBIEW
-http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/6ec8e294-d3e0-4f34-859f-6c63d0539838.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwAj1ZDzcM0ore2ku8hmtpgTFXU9wcRrjY06rzAWZe4h_ZW7zyWngrPrZL&s=10", E3S1 MARV3L ZOMBIEW
-http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/54880e5b-59f3-4ee0-a2b0-6367e41bc5d2.mp4
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwAj1ZDzcM0ore2ku8hmtpgTFXU9wcRrjY06rzAWZe4h_ZW7zyWngrPrZL&s=10", E4S1 MARV3L ZOMBIEW
 http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/c3a0645d-5fea-4025-b93c-a7e5b2d65591.mp4
 
