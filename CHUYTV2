@@ -695,25 +695,25 @@ http://45.189.151.7:8000/play/a075/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 http://legendstv.com.mx:80/Charly1234/Charly1234/111315.ts
-#EXTINF:0 type="stream" channelId="-1", Canal 4.1
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmQo8t45p3w617pNYTgH34UdL680D0VJ4pWZDVG4ifQ&s=10", Canal 4.1
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 4.2
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0_DRoCthvDrLeHYGEqRKNqOl2J8t9eTPRLf8AMI5Nw&s=10", Canal 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 4.3
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PFaK1QG-KZ6ZUQsaeWTR86HrNHSKPSFL9rfB8O1IXg&s=10", Canal 4.3
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 12
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzAzz1VTFAHW9kdyV0ZjUhG61g-JaDIwMgk6sJt2XAnQ&s=10", Canal 12
 https://servilive.com:3263/live/channel12live.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 14
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLCerO47X0U9pwiUCYZWNNNHdX8L_5MeMPRuDAn6JhJw&s=10", Canal 14
 https://s5.mexside.net:1936/canal14/canal14/.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 28
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuekqxL89Sr-dBMWV7Wpxp8ju6x0uomfIy-71RLXQsA&s=10", Canal 28
 https://s5.mexside.net:1936/canal28/canal28/.m3u8
-#EXTINF:0 type="stream" channelId="-1",Pelis tv
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ__pADQ8_ON1p7P5HzqW41ag0yk4d1sMyKBcvUFwZFvQ&s",Pelis tv
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1",PopCorn
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnufYEFU8_AzxQ_SGPVr3Ll5BBM_2_2q7gdrjig2Cy8Q&s=10",PopCorn
 https://freetv.stream.olympusatmedia.com/index.m3u8
 http://45.189.151.7:8000/play/a07f/index.m3u8
 #EXTINF:0 type="stream" channelId="340", TV Mexiquense
@@ -738,15 +738,15 @@ http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="3209" , 4 Univisión
 http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1099/index.m3u8
-#EXTINF:0 type="stream" channelId="-1"logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1164_2_77191.png.a7bf0653083720991223589926890be4.png",1 Unimas
+#EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHOgAfm932xrC8h57zApK8k33gfNS8wnaSpry4Yf-gQ&s=10",1 Unimas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/57969
-#EXTINF:0 type="stream" channelId="-1"logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1164_2_77191.png.a7bf0653083720991223589926890be4.png",2 Unimas
+#EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-yl63zZKG2zwmCEwPzvzzcuvLAnvnvi1frUL_D3lHA&s=10",2 Unimas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://a8d4b9d8.cbilant.com/iptv/DRQBA3GVMPFWG3/1100/index.m3u8
-#EXTINF:0 type="stream" channelId="-1"logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/album_2/large.gallery_1164_2_77191.png.a7bf0653083720991223589926890be4.png",3 Unimas
+#EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjMhVH4ShcGj34bMboM0d_7eTGGZXFHOJIyHKqjm0Lg&s=10",3 Unimas
 http://172.93.102.112:8989/158753_.m3u8
 
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
