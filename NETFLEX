@@ -1,5 +1,8 @@
-k
+
 #EXTM3U
+
+#EXTINF:-1 logo= "https://pics.filmaffinity.com/Juego_sucio-334231294-large.jpg",juego sucio
+http://mundo2.pro:80/movie/Dav1703idP/Dav1703idParDa/15b5694a-1f5d-4dfd-adc6-65d28ca99a51.mp4
 
 #EXTINF:-1 logo= "https://images.justwatch.com/poster/334057666/s718/hijacking.jpg", Secuestro en el vuelo
 http://tvhd.me:8000/movie/elpuma1212/NAVI51J17J/301175.mp4
