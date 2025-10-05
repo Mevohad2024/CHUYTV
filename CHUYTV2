@@ -320,7 +320,7 @@ http://181.78.201.70:8000/play/a0fu/index.m3u8
 http://38.49.128.38:8000/play/a0jj/index.m3u8
 http://177.234.230.206:8011/play/a0lq/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest?cb=20220311031932", Universal Cinema HD
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfNmXa2YzbNrdYVKYJFKxRm5tQFu_HZvLHIbyY3uz0fy3HhfLwIrvyk84m&s", Universal Cinema HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.159.227.122:8000/play/a04e/index.m3u8
