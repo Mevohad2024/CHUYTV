@@ -812,7 +812,7 @@ http://179.49.163.34:45000/play/a00d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RCN
 http://160.20.165.246:8000/play/a00h/index.m3u8
-#EXTINF:0 type="stream" channelId="-1",RCN 2
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJ_dwNKlSzIHzbesJQ1lalObR7KDLLVGU5tyL2CX0vA&s=10",RCN 2
 #EXTINF:0 type="stream" channelId="-1",RCN NOVELAS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -864,7 +864,7 @@ http://160.20.165.246:8000/play/a00f/index.m3u8
 http://45.184.87.142:8000/play/a02h
 #EXTINF:0 type="stream" channelId="-1", Caracol 
 http://179.49.163.34:45000/play/a03b/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Caracol 2
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiSZEs_hXIVELS5uQrkyzUoVXRJNpe9KL0XxPHo_G83Q&s=10", Caracol 2
 http://179.49.163.34:45000/play/a03a/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal claro
 http://38.180.133.31:8000/play/a0yi/index.m3u8
