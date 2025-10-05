@@ -549,7 +549,7 @@ http://legendstv.com.mx:80/Charly1234/Charly1234/111817.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy914jbEXE38pPlaY8i9_rbDdqwFKggwQeLnf-HQt4BQ&s=10", Lavozgrupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdy1O1Y8T-kqTfTJ-n7hZ1sJWj1WxgttaLk1QHARaw0A&s=10", Ultra 99.2
+#EXTINF:0 type="stream" channelId="-1" logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRE5R4iGc9XIDYeXiJxOQ_anlIDJ5WjjY9emSeEDd_w&s=10", Ultra 99.2
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/.m3u8
 #EXTINF:0 type="stream" channelId="1966" , TELEHIT MUSICA
 http://190.0.247.38:8000/play/a022
