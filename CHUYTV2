@@ -956,11 +956,11 @@ http://181.78.99.187:8000/play/a0q1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9XPAC1O4Usby8CDavAughMmo57uE6ZpQn9PqXkrbUQ&s=10",5 FSMX
 http://45.5.117.57:8200/play/a058/index.m3u8
 
-#EXTINF:0 type="stream" channelId="179" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQos66roD2pXKNttBVYrKEnKfucwvRugx-9kA&usqp=CAU",1 FSM 2
+#EXTINF:0 type="stream" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQos66roD2pXKNttBVYrKEnKfucwvRugx-9kA&usqp=CAU",1 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a0h1/index.m3u8
-#EXTINF:0 type="stream" channelId="179",2 FSM 2
+#EXTINF:0 type="stream" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkPZTeTB1uHMbOlifNMyc0AMuGfnXJ3BT8bk7NHfrAMQ&s=10",2 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a0h1/index.m3u8
