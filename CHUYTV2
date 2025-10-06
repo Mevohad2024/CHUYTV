@@ -1,47 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10", Toda la casa
-http://195.66.210.10:80/ideas903/XRYET/611597
-http://fivetv.org:25461/Christian3503/NgCy23h2wuYA/339059
-
-
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Acceso total
-http://195.66.210.10:80/ideas903/XRYET/611658
-http://fivetv.org:25461/Christian3503/NgCy23h2wuYA/339058
-
-
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10", Dia
-http://195.66.210.10:80/ideas903/XRYET/611594
-http://fivetv.org:25461/Christian3503/NgCy23h2wuYA/339063
-
-
-
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10", Noche
-http://195.66.210.10:80/ideas903/XRYET/611600
-http://fivetv.org:25461/Christian3503/NgCy23h2wuYA/339064
-
-
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Baño
-http://195.66.210.10:80/ideas903/XRYET/611596
-http://fivetv.org:25461/Christian3503/NgCy23h2wuYA/339060
-
-
-
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10", Sala
-http://195.66.210.10:80/ideas903/XRYET/611599
-http://fivetv.org:25461/Christian3503/NgCy23h2wuYA/339062
-
-
-
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10",Cocina
-http://195.66.210.10:80/ideas903/XRYET/611598
-http://fivetv.org:25461/Christian3503/NgCy23h2wuYA/339061
-
-
-
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOM4t17h9IbMdXoMyWQW4tfHb8lC3bSHGW20ZwQYLDOzwYOy7oPCJke1k&s=10", Multicamara
-http://195.66.210.10:80/ideas903/XRYET/611657
-
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://179.49.163.34:45000/play/a02m/index.m3u8
 http://190.60.33.245:4002/play/a0kd/index.m3u8
@@ -547,9 +505,9 @@ http://177.234.230.206:8011/play/a0i5/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://legendstv.com.mx:80/Charly1234/Charly1234/111817.ts
 
-#EXTINF:0 type="stream" channelId="-1" logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy914jbEXE38pPlaY8i9_rbDdqwFKggwQeLnf-HQt4BQ&s=10", Lavozgrupera
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy914jbEXE38pPlaY8i9_rbDdqwFKggwQeLnf-HQt4BQ&s=10", Lavozgrupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRE5R4iGc9XIDYeXiJxOQ_anlIDJ5WjjY9emSeEDd_w&s=10", Ultra 99.2
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRE5R4iGc9XIDYeXiJxOQ_anlIDJ5WjjY9emSeEDd_w&s=10", Ultra 99.2
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/.m3u8
 #EXTINF:0 type="stream" channelId="1966" , TELEHIT MUSICA
 http://190.0.247.38:8000/play/a022
