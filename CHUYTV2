@@ -972,11 +972,11 @@ http://104.238.205.28:8989/278599_.m3u8
 http://tvpremiund.ddns.me:2082/alexalexx/alex207/79152
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",6 FS PREMIUM
 
-#EXTINF:0 type="stream" channelId="0", Fox sport
+#EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNqfv0bF_Sk8U7uBDgO6RAITHvxmmld6vjR5cjs6LIA&s=10", Fox sport
 http://181.78.27.128:8000/play/a02t/index.m3u8
-#EXTINF:0 type="stream" channelId="0", Fox sport 2
+#EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFVFyQT0crIywkmEe5lLfPOd9XIXuqO3c81bfQU9G5Q&s=10", Fox sport 2
 http://181.78.27.128:8000/play/a02r/index.m3u8
-#EXTINF:0 type="stream" channelId="0", Fox sport 3
+#EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQAAi0AOemIKs5MTStrXGzCmM16AE-fU0727JsagnQA&s=10", Fox sport 3
 http://181.78.27.128:8000/play/a02s/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
@@ -1041,7 +1041,7 @@ http://181.78.21.46:8009/play/a03m
 http://181.78.21.46:8009/play/a018
 http://45.5.119.43:4000/play/a0ix/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ESPN_6.webp.5a00ef854275786ade99bbd5a826743a.webp" , ESPN 6 MX
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRksdCbT-OswapY0HghjWfnqmV_AR4k_FjSOaNw4EZ6A&s=10" , ESPN 6 MX
 http://181.78.21.46:8009/play/a019
 http://45.5.119.43:4000/play/a0kj/index.m3u8
 
@@ -1054,17 +1054,17 @@ http://45.232.176.17:8000/play/a01l
 #EXTINF:0 type="stream" channelId="1432" ,ESPN 4 HD sur
 http://45.232.176.17:8000/play/a00r
 #EXTINF:0 type="stream" channelId="-1" logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5.png", ESPN 5 sur
-#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ESPN_6.webp.5a00ef854275786ade99bbd5a826743a.webp" , ESPN 6 sur
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8G-G8q0-NzKFeY7dJojjvkqzcGJLuMk_2g7xl1RuwCg&s=10" , ESPN 6 sur
 http://45.232.176.17:8000/play/a026
-#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.ESPN_7_logo.png.346013410f5a12fe2b8f9147dfbdd0ce.png" , ESPN 7 sur
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNLkG_oxTSYHdJERZHHp3PgmQRdLm21emaYprzpT2DA&s=10" , ESPN 7 sur
 http://45.232.176.17:8000/play/a025
-#EXTINF:0 type="stream" channelId="-1" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.espnpremium.png.8498f795338c9167a556bd035cb560b0.png", ESPN PREMIUM
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGltL5iMTIEkx9oVH4DCNGqbfZXRXS46QjMr6y7VFwZQ&s=10", ESPN PREMIUM
 #EXTINF:0 type="stream" channelId="287"  , Claro Sports HD
 #EXTVLCOPT--http-reconnect=true
 http://38.180.133.31:8000/play/a0yg/index.m3u8
 http://45.5.119.43:4000/play/a0kz/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX0JFEUPO9ZbgxumXVxWZQwIhan65So9ZyZFOIhP5fDiZ-K6BV", Claro Sports 2 HD
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3J1jVyITUmH4aIw8J3Fy9K8Vd19V1cEQzDJMcQ-yG&s=10", Claro Sports 2 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.117.57:8200/play/a05n/index.m3u8
@@ -1085,9 +1085,9 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcQZpTBQs4_RhNPtCm76_5k/ts
 
 #EXTINF:0 type="stream" channelId="-1",CDO BASICO
 http://195.66.210.10:80/ideas903/XRYET/12826
-#EXTINF:0 type="stream" channelId="-1",CDO PREMIUM
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQfHwBYcPoqbFYb7jro6GshmbKLfL2olP6VuEzCP7hg&s=10",CDO PREMIUM
 http://195.66.210.10:80/ideas903/XRYET/439778
-#EXTINF:0 type="stream" channelId="-1",ECFB
+#EXTINF:0 type="stream" channelId="-1" logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZjoMWS19eSoKvFG165Akl8kpg8nokudA0gUaXNGkPA&s=10",ECFB
 http://195.66.210.10:80/ideas903/XRYET/211335
 #EXTINF:0 type="stream" channelId="1686", GOLTV
 http://181.78.201.70:8000/play/a0n6/index.m3u8
