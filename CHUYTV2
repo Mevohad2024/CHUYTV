@@ -1087,7 +1087,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcQZpTBQs4_RhNPtCm76_5k/ts
 http://195.66.210.10:80/ideas903/XRYET/12826
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQfHwBYcPoqbFYb7jro6GshmbKLfL2olP6VuEzCP7hg&s=10",CDO PREMIUM
 http://195.66.210.10:80/ideas903/XRYET/439778
-#EXTINF:0 type="stream" channelId="-1" logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZjoMWS19eSoKvFG165Akl8kpg8nokudA0gUaXNGkPA&s=10",ECFB
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZjoMWS19eSoKvFG165Akl8kpg8nokudA0gUaXNGkPA&s=10",ECFB
 http://195.66.210.10:80/ideas903/XRYET/211335
 #EXTINF:0 type="stream" channelId="1686", GOLTV
 http://181.78.201.70:8000/play/a0n6/index.m3u8
