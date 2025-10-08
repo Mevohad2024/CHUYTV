@@ -490,8 +490,7 @@ http://190.90.22.42:5280/play/a0dp
 http://45.189.151.7:8000/play/a06t/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MTV HD
-http://masterprotv1.com:8080/aube1205carl/carlos1234/142559
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tczLTnJQn_mOnEtHRbQkTjA/ts
+http://45.189.151.7:8000/play/a071/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" , Nickmusic
 ##EXTVLCOPT:network-caching=1000
@@ -524,8 +523,7 @@ http://45.5.117.57:8200/play/a05a/index.m3u8
 #EXTINF:0 type="stream" channelId="2146" , TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:0 type="stream" channelId="-1", MTV Hits
-http://masterprotv1.com:8080/aube1205carl/carlos1234/142563
-http://45.5.117.57:8200/play/a0gd/index.m3u8
+http://45.189.151.7:8000/play/a073/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",MTV 00s
 http://45.5.117.57:8200/play/a0i0/index.m3u8
@@ -905,7 +903,7 @@ http://200.115.96.66:4000/play/a0jx/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.106.127:9000/play/ca031
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7teQqgubIn3CEQHEwR24vq7s/ts
+
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8FI6IdSD5vUZW3noDfjFNAyWwpZBsvXCG1Xsv9H3VA&s=10",3 FSMX
 ##EXTVLCOPT:network-caching=1000
@@ -916,8 +914,7 @@ http://45.189.151.7:8000/play/a06m/index.m3u8
 
 http://181.78.99.187:8000/play/a0q1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9XPAC1O4Usby8CDavAughMmo57uE6ZpQn9PqXkrbUQ&s=10",5 FSMX
-http://45.5.117.57:8200/play/a058/index.m3u8
-
+http://45.189.151.7:8000/play/a06m/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://images.ctfassets.net/upygmu80yh8z/5kBIlma4I0DPwWNAPJHd0t/1a1fa4d4ba438df2967825f89d0cf458/FoxSports-logo-deportes.webp",6 FSMX
 
@@ -931,11 +928,12 @@ http://200.115.96.66:4000/play/a0h1/index.m3u8
 http://200.115.96.66:4000/play/a0h1/index.m3u8
 #EXTINF:0 type="stream" channelId="179",3 FSM 2
 http://181.78.99.187:8000/play/a0q2/index.m3u8
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tbOyy89ohXTt0U25WtCu9fk/ts
+
 #EXTINF:0 type="stream" channelId="179",4 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.189.151.7:8000/play/a06n/index.m3u8
+
 #EXTINF:0 type="stream" channelId="179",5 FSM 2
 http://38.49.128.38:8000/play/a0oz/index.m3u8
 
