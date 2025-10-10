@@ -976,11 +976,11 @@ http://tvpremiund.ddns.me:2082/alexalexx/alex207/79152
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",6 FS PREMIUM
 
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNqfv0bF_Sk8U7uBDgO6RAITHvxmmld6vjR5cjs6LIA&s=10", Fox sport
-http://181.78.27.128:8000/play/a02t/index.m3u8
+http://181.13.112.203:8100/play/a07j/index.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFVFyQT0crIywkmEe5lLfPOd9XIXuqO3c81bfQU9G5Q&s=10", Fox sport 2
-http://181.78.27.128:8000/play/a02r/index.m3u8
+http://181.13.112.203:8100/play/a05c/index.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQAAi0AOemIKs5MTStrXGzCmM16AE-fU0727JsagnQA&s=10", Fox sport 3
-http://181.78.27.128:8000/play/a02s/index.m3u8
+http://181.13.112.203:8100/play/a02t/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
