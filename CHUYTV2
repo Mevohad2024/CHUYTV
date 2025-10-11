@@ -509,6 +509,7 @@ http://200.115.96.66:4000/play/a0hw/index.m3u8
 http://45.171.64.30:8800/play/a08h
 http://45.5.117.57:8200/play/a0eo/index.m3u8
 http://45.5.117.57:8200/play/a053/index.m3u8
+http://190.0.247.38:8000/play/a020
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy914jbEXE38pPlaY8i9_rbDdqwFKggwQeLnf-HQt4BQ&s=10", Lavozgrupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
@@ -518,7 +519,7 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/.m3u8
 http://190.0.247.38:8000/play/a022
 http://45.5.117.57:8200/play/a05a/index.m3u8
 
-#EXTINF:0 type="stream" channelId="1963" , TELEHIT
+#EXTINF:0 type="stream" channelId="1964" , TELEHIT
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.0.247.38:8000/play/a049
@@ -538,49 +539,44 @@ http://45.189.151.7:8000/play/a072/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3750" , EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
-http://45.5.117.57:8200/play/a033/index.m3u8
 http://45.5.119.43:4000/play/a0hk/index.m3u8
 http://190.14.10.19:16000/play/a06j/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",HTV
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://181.78.21.46:8009/play/a01m
-http://181.78.74.215:8000/play/a18j/index.m3u8
+http://200.115.96.66:4000/play/a0ct/index.m3u8
 http://38.159.227.124:8000/play/a07u/index.m3u8
+http://38.183.182.166:8000/play/a0s3/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Video Rola
 http://200.115.120.1:8000/play/ca050/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",1 Azteca 1
 http://45.177.179.227:8000/play/a01e/index.m3u8
-
 #EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",2 Azteca 1
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:0 type="stream" channelId="-1"  logo="https://tvazteca.brightspotcdn.com/dims4/default/0b7b2f7/2147483647/strip/true/crop/512x218+0+0/resize/108x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F51%2F40%2F2c2e06a7408898714de1b12846e6%2Funo-2024-512x218-consombra-1.png",3 Azteca 1
 http://45.189.151.7:8000/play/a05f/index.m3u8
+
 #EXTINF:0 type="stream" channelId="2689" , ADN 40 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://masterprotv1.com:8080/aube1205carl/carlos1234/191452
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7te632cWwSmpeBEH_9y-kXOI/ts
 http://38.49.128.38:8000/play/a0ne/index.m3u8
 http://45.189.151.7:8000/play/a05j/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3720" , A+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://masterprotv1.com:8080/aube1205carl/carlos1234/191450
 http://190.90.22.42:5280/play/a0e5
 
 #EXTINF:0 type="stream" channelId="1954" ,1 Las estrellas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.186.106.207:8000/play/a098/index.m3u88
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 type="stream" channelId="1954" ,2 Las estrellas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://masterprotv1.com:8080/aube1205carl/carlos1234/191587
+http://45.186.106.207:8000/play/a098/index.m3u88
 #EXTINF:0 type="stream" channelId="1954" ,3 Las estrellas
 http://200.115.120.1:8000/play/ca014/index.m3u8
 
@@ -592,29 +588,22 @@ http://45.5.119.43:4000/play/a05o/index.m3u8
 http://45.186.106.207:8000/play/a03g/index.m3u88
 http://45.189.151.7:8000/play/a05s/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
-http://masterprotv1.com:8080/aube1205carl/carlos1234/191476
 http://38.49.128.38:8000/play/a0n6/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 4 Cnco
 http://200.115.120.1:8000/play/ca0105/index.m3u8
 
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
-http://masterprotv1.com:8080/aube1205carl/carlos1234/191485
 http://45.189.151.7:8000/play/a06l/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado_400x400.jpg", TELEFORMULA HD
 http://masterprotv1.com:8080/aube1205carl/carlos1234/191507
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tRQs1EHzY0nlFVj6DEIN8nM/ts
 http://38.49.128.38:8000/play/a0be/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3127", Imagen tv
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-http://masterprotv1.com:8080/aube1205carl/carlos1234/191495
 http://38.49.128.38:8000/play/a0d5/index.m3u8
-
-#EXTINF:0 type="stream" channelId="3127", Imagen tv
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tcM3MQmUbU5maowx8hqvQ-M/ts
 
 #EXTINF:0 type="stream" channelId="255",1 Azteca 7
 ##EXTVLCOPT:network-caching=1000
@@ -638,15 +627,10 @@ http://45.177.179.227:8000/play/a017/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://45.189.151.7:8000/play/a05u/index.m3u8
 
-#EXTINF:0 type="stream" channelId="4651", 2 NU9VE
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-
 #EXTINF:0 type="stream" channelId="-1", Milenio Televisión
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-http://masterprotv1.com:8080/aube1205carl/carlos1234/191501
 http://38.49.128.38:8000/play/a0dm/index.m3u8
 http://45.189.151.7:8000/play/a075/index.m3u8
 
@@ -1123,6 +1107,7 @@ http://200.115.120.1:8000/play/ca124/index.m3u8
 #EXTINF:0 type="stream" channelId="1367" , Movistar Deportes HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://38.183.182.166:8000/play/a126/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Win Sports 
 ##EXTVLCOPT:network-caching=1000
