@@ -443,8 +443,9 @@ http://190.0.247.38:8000/play/a00v
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0ia/index.m3u8
+http://38.183.182.166:8000/play/a0uy/index.m3u8
 http://190.0.247.38:8000/play/a00o
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tUHxYyhohGlx0hrmo3NKpJs/ts
+
 
 #EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
 ##EXTVLCOPT:network-caching=1000
@@ -458,11 +459,13 @@ http://201.237.193.180:9981/stream/channelid/1974110378?profile=pass
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0kk/index.m3u8
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tVi1lzveDOqgODht0VrZNvM/ts
+http://45.189.151.7:8000/play/a07a/index.m3u8
+http://38.183.182.166:8000/play/a0vd/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="56",NATGEO MUNDO
 http://masterprotv1.com:8080/aube1205carl/carlos1234/235
-http://45.189.151.7:8000/play/a07a/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1",Love Nature HD
 http://190.102.246.93:9005/play/a05u
@@ -471,19 +474,19 @@ http://190.102.246.93:9005/play/a05u
 #EXTINF:0 type="stream" channelId="1455", HISTORY
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.90.22.42:5280/play/a0do
 http://45.5.119.43:4000/play/a0gk/index.m3u8
 http://190.0.247.38:8000/play/a00w
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tVuhx5X77xdXEbx94CxSTuM/ts
-http://190.90.22.42:5280/play/a0do
+http://38.183.182.166:8000/play/a0v9/index.m3u8
 http://45.189.151.7:8000/play/a06s/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://190.90.22.42:5280/play/a0dp
 http://45.5.119.43:4000/play/a0jp/index.m3u8
 http://190.0.247.38:8000/play/a04r
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tZteEEBd2Zgt1HzcOJ_qw3g/ts
-http://190.90.22.42:5280/play/a0dp
+http://38.183.182.166:8000/play/a0rp/index.m3u8
 http://45.189.151.7:8000/play/a06t/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MTV HD
