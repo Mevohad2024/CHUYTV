@@ -678,6 +678,7 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnufYEFU8_AzxQ_SGPVr3Ll5BBM_2_2q7gdrjig2Cy8Q&s=10",PopCorn
 https://freetv.stream.olympusatmedia.com/index.m3u8
 http://45.189.151.7:8000/play/a07f/index.m3u8
+http://45.177.179.227:8000/play/a00n/index.m3u8
 #EXTINF:0 type="stream" channelId="340", TV Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQknkl97yAWmQZUiV9Y355MaPIVgi5LQCupsw&usqp=CAU",1 ESTRELLA TV
@@ -922,7 +923,7 @@ http://200.115.120.1:8000/play/ca041/index.m3u8
 http://45.189.151.7:8000/play/a06m/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9XPAC1O4Usby8CDavAughMmo57uE6ZpQn9PqXkrbUQ&s=10",5 FSMX
-http://45.189.151.7:8000/play/a06m/index.m3u8
+http://45.177.179.227:8000/play/a00h/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://images.ctfassets.net/upygmu80yh8z/5kBIlma4I0DPwWNAPJHd0t/1a1fa4d4ba438df2967825f89d0cf458/FoxSports-logo-deportes.webp",6 FSMX
 http://200.115.98.26:9000/play/a00w/index.m3u8
@@ -947,7 +948,7 @@ http://45.189.151.7:8000/play/a06n/index.m3u8
 http://38.49.128.38:8000/play/a0oz/index.m3u8
 
 #EXTINF:0 type="stream" channelId="179",6 FSM 2
-
+http://45.177.179.227:8000/play/a011/index.m3u8
 
 #EXTINF:0 type="stream" channelId="180" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5GStPJQ8EvEFBFZGA4tLs4ikZlFBNTMLJh1DekOhopEbIt4KTX6dFv0s&s=10",1 FSM 3
 ##EXTVLCOPT:network-caching=1000
@@ -957,7 +958,7 @@ http://181.78.99.187:8000/play/a0q3/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://195.66.210.10:80/ideas903/XRYET/93563
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tXcyRrBBaOrQtosCCuPsXHg/ts
+http://45.177.179.227:8000/play/a00h/index.m3u8
 
 #EXTINF:0 type="stream" channelId="180",3 FSM 3
 ##EXTVLCOPT:network-caching=1000
@@ -965,12 +966,12 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tXcyRrBBaOrQtosCCuPsXHg/ts
 http://38.49.128.38:8000/play/a0ox/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCOYWf3mf9YGuHJunhSfEeLPrheVRgqyPbC37bZ9kYqr2AHWaodIE-8EY&s=10",1 FS PREMIUM
 http://190.111.16.106:40000/play/a09t
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tf7PNlamO-Tv2yUSfYsMIIg/ts
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",2 FS PREMIUM
 http://190.14.10.19:16000/play/a09z/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",3 FS PREMIUM
-http://190.14.10.19:16000/play/a09z/index.m3u8
+http://45.177.179.227:8000/play/a003/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",4 FS PREMIUM
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
