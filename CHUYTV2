@@ -1,4 +1,4 @@
-.#EXTM3U
+#EXTM3U
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://179.49.163.34:45000/play/a02m/index.m3u8
@@ -463,7 +463,7 @@ http://45.189.151.7:8000/play/a07a/index.m3u8
 http://38.183.182.166:8000/play/a0vd/index.m3u8
 
 
-#EXTINF:0 type="stream" channelId="56",NATGEO MUNDO
+#EXTINF:0 type="stream" channelId="56",NATGEo will
 http://masterprotv1.com:8080/aube1205carl/carlos1234/235
 
 
@@ -495,14 +495,15 @@ http://45.189.151.7:8000/play/a071/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" , Nickmusic
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://181.78.201.70:8000/play/a0i3/index.m3u8
-http://190.60.38.45:8000/play/a0iz/index.m3u8
 http://177.234.230.206:8011/play/a0i5/index.m3u8
+http://181.78.201.70:8000/play/a0i3/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1959" , BANDAMAX HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a0hw/index.m3u8
+http://45.171.64.30:8800/play/a08h
+http://45.5.117.57:8200/play/a053/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy914jbEXE38pPlaY8i9_rbDdqwFKggwQeLnf-HQt4BQ&s=10", Lavozgrupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
@@ -1125,6 +1126,7 @@ http://45.184.87.142:8000/play/a04d
 http://195.66.210.10:80/ideas903/XRYET/516934
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9V8Hc6ZO1A6gweWLrsJ1FqbmwfCgrqj_VK2Rmhci2OIwN9gnUZlVO-Q&s=10" , Latin America Sport
+http://45.171.64.30:8800/play/a027
 http://200.115.98.26:9000/play/a07v/index.m3u8
 #EXTINF:0 type="stream" channelId="227" , AYM SPORTS
 ##EXTVLCOPT:network-caching=1000
