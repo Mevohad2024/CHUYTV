@@ -812,18 +812,20 @@ http://45.189.151.7:8000/play/a07l/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",1 Directv sport
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://200.60.124.19:29000/play/a081/index.m3u8
 http://181.78.19.125:9096/play/a008
+http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnRa20kEGAM6iBHayK5SfitDllKYs2Kd6Q9Sb4RtGNw&s=10",1 Directv sport2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://199.188.103.176:8000/play/a045/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebWz0gUaBzK7N-JdqHh6LW66zII4C0y3ZSA&usqp=CAU",1 Directv sport +
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://199.188.103.176:8000/play/a046/index.m3u8
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports HD
 ##EXTVLCOPT:network-caching=1000
@@ -882,6 +884,7 @@ http://181.78.106.127:9000/play/ca031
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:0 type="stream" logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQHRTbeNDhHXQmYbl34AjXNluc6PugsG7MY336fqwqfqDo3-z9",4 FSMX
+http://181.78.19.125:9096/play/a02c
 http://45.189.151.7:8000/play/a06m/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9XPAC1O4Usby8CDavAughMmo57uE6ZpQn9PqXkrbUQ&s=10",5 FSMX
@@ -904,6 +907,7 @@ http://181.78.99.187:8000/play/a0q2/index.m3u8
 #EXTINF:0 type="stream" channelId="179",4 FSM 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://181.78.19.125:9096/play/a02b
 http://45.189.151.7:8000/play/a06n/index.m3u8
 
 #EXTINF:0 type="stream" channelId="179",5 FSM 2
@@ -919,7 +923,7 @@ http://181.78.99.187:8000/play/a0q3/index.m3u8
 #EXTINF:0 type="stream" channelId="180",2 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://195.66.210.10:80/ideas903/XRYET/93563
+http://181.78.19.125:9096/play/a02a
 http://45.177.179.227:8000/play/a00h/index.m3u8
 
 #EXTINF:0 type="stream" channelId="180",3 FSM 3
@@ -1099,6 +1103,7 @@ http://45.184.87.142:8000/play/a04d
 ##EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT--http-reconnect=true
 http://195.66.210.10:80/ideas903/XRYET/516934
+http://181.78.19.125:9096/play/a021
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9V8Hc6ZO1A6gweWLrsJ1FqbmwfCgrqj_VK2Rmhci2OIwN9gnUZlVO-Q&s=10" , Latin America Sport
 http://45.171.64.30:8800/play/a027
