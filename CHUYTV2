@@ -1,12 +1,15 @@
 #EXTM3U
 
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1Mkt6PLj6XLN7CqpfN1zcPd_wv0KVqOWrozLujj7Ig&s=10",LA GRANJA LA GALA
+http://mundo2.pro:80/live/Dav1703idP/Dav1703idParDa/751905d6-87aa-4dc5-abcc-89368d8198d9.m3u
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLBoAZQytNSrGWC3JF7JAkQv2S9xLp9nBlXHOwiVT_Q&s=10",LA GRANJA 1
 https://fenixplay.info:8443/play/lsFsHgjrBWx9htKElN72qANsLJQICRW0OT94W2INd7beHtoD8r-091ff6VCPXD0N
-http://mundo2.pro:80/live/Dav1703idP/Dav1703idParDa/751905d6-87aa-4dc5-abcc-89368d8198d9.m3u
+http://mundo2.pro:80/live/Dav1703idP/Dav1703idParDa/edd6a752-10e8-48c2-a70c-c26fc28ddd46.m3u
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQr8ljMcNKCzRngQS9f267aJlmgUYsp3E9LVAiHOKNQ&s",LA GRANJA 2
 https://fenixplay.info:8443/play/lsFsHgjrBWx9htKElN72qANsLJQICRW0OT94W2INd7bstWt-DTykPM1f4ccJLAAN
-http://mundo2.pro:80/live/Dav1703idP/Dav1703idParDa/73bc24f7-9549-44b8-9788-9096425875f1.m3u
+http://mundo2.pro:80/live/Dav1703idP/Dav1703idParDa/2296996e-0b79-47c5-8bb6-492c0d6076a1.m3u
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://179.49.163.34:45000/play/a02m/index.m3u8
