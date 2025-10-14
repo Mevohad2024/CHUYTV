@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLBoAZQytNSrGWC3JF7JAkQv2S9xLp9nBlXHOwiVT_Q&s=10",LA GRANJA 1
+https://fenixplay.info:8443/play/lsFsHgjrBWx9htKElN72qANsLJQICRW0OT94W2INd7beHtoD8r-091ff6VCPXD0N
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQr8ljMcNKCzRngQS9f267aJlmgUYsp3E9LVAiHOKNQ&s",LA GRANJA 2
+https://fenixplay.info:8443/play/lsFsHgjrBWx9htKElN72qANsLJQICRW0OT94W2INd7bstWt-DTykPM1f4ccJLAAN
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://179.49.163.34:45000/play/a02m/index.m3u8
 http://190.60.33.245:4002/play/a0kd/index.m3u8
