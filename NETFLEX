@@ -30,8 +30,14 @@ http://stklatino.dynns.com:2082/movie/diegoantofaiptv/iroquitv23/81910.mp4
 #EXTINF:-1 logo= "https://es.web.img3.acsta.net/medias/nmedia/18/89/88/37/20102236.jpg", Moonrise Kingdom
 http://playtv44.com:8080/movie/973995960/142536/293159.mkv
 
+#EXTINF:-1 logo= "",E1S1 Perdidamente enamorada
+
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyYFb3-Jw3tY6_u5W79WcSgMigkO7VCc2-FeJ1POGOQ&s=10",E1S1 Seguro contra divorcio
 http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/9ca4a036-9952-4678-a771-3ad64e56dedb.mp4
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZjAAXYmG8I9sERDdG1vBis9UeSDubpcD_wSu6AjRHQvXP1tMadx6cfc&s=10",E1S1 Newtopia
+http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/aa5cef30-5c6f-4159-b5f3-1d291fd7c054.mp4
 
 #EXTINF:-1 logo= "https://pics.filmaffinity.com/La_reina_de_la_confianza_Miniserie_de_TV-618314298-large.jpg",E1S1 lareyna de la confianza 
 http://tvpremiund.ddns.me:2082/series/stefapenaloza/iroquitv12/126566.mkv
@@ -45,7 +51,6 @@ http://tvpremiund.ddns.me:2082/series/stefapenaloza/iroquitv12/126569.mkv
 http://tvpremiund.ddns.me:2082/series/stefapenaloza/iroquitv12/126570.mkv
 #EXTINF:-1 logo= "https://pics.filmaffinity.com/La_reina_de_la_confianza_Miniserie_de_TV-618314298-large.jpg",E6S1 lareyna de la confianza
 http://tvpremiund.ddns.me:2082/series/stefapenaloza/iroquitv12/126571.mkv
-
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROktMex2tmOE03QJ6eC53FUR35XyVDupugVjKae9Xg5UxqbLh0n546rE1o&s=10",E3S1 los enigmas de un assesino
 http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/a88b3379-6f78-43fa-ade5-fa4992b40084.mp4
@@ -66,46 +71,37 @@ http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/6cc7fc8c-3fbd-4970-a881-c0
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROktMex2tmOE03QJ6eC53FUR35XyVDupugVjKae9Xg5UxqbLh0n546rE1o&s=10",E11S1 los enigmas de un assesino
 http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/1450a6bb-b248-43db-8cb2-612cd623e029.mp4
 
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZjAAXYmG8I9sERDdG1vBis9UeSDubpcD_wSu6AjRHQvXP1tMadx6cfc&s=10",E1S1 Newtopia
-http://mundo2.pro:80/series/Dav1703idP/Dav1703idParDa/aa5cef30-5c6f-4159-b5f3-1d291fd7c054.mp4
-
 #EXTINF:-1logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10" ,Rookie Cops: Los reclutas S01E01
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287087.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E02
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287088.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E03
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E03 Rookie Cops: Los reclutas 
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287089.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E04
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E04 Rookie Cops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287090.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E05
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E05 Rookie Cops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287091.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E06
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E06 Rookie Cops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287092.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E07
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E07 Rookie Cops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287093.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E08
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E08 Rookie Cops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287094.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E09
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E09 Rookie Cops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287095.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E10
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E10 Rookie Cops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287096.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E11
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E011 Rookie Cops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287097.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E12
-http://legendstv.com.mx:80/series/Victormanuel123/Victormanuel123/521877.mkv
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E012 Rookie Cops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287098.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E13
-http://legendstv.com.mx:80/series/Victormanuel123/Victormanuel123/521878.mkv
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E013Rookie Cops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287099.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E14
-http://legendstv.com.mx:80/series/Victormanuel123/Victormanuel123/521879.mkv
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E14 RookieCops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287100.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E15
-http://legendstv.com.mx:80/series/Victormanuel123/Victormanuel123/521880.mkv
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E15 Rookie Cops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287101.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",Rookie Cops: Los reclutas S01E16
-http://legendstv.com.mx:80/series/Victormanuel123/Victormanuel123/521881.mkv
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1uPATymKCB34f8cKzIlCeD375NawN7SYrTfhCHN_q6eRS_aTPF33yH0L&s=10",S01E16 Rookie Cops: Los reclutas
 http://masterprotv1.com:8080/series/aube1205carl/carlos1234/287102.mkv
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNokjiHMFXO1PhvEtv0UMKBbhufkEW_hMEiohlZNKRBWR8BkIxrASHgaG&s=10", El dia del secuestro S01E01
