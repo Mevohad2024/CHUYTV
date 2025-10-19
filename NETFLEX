@@ -1,10 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBEdeWNGHPBDn7vFiKdL76tu6i_0eKi-ijZUGD8XkLg&s=10", Agente kunfu
+http://195.66.210.10:80/movie/ideas903/XRYET/613254.mp4
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkxq_kq9z1xtHzEwrFJXjwmymvrFxjXNSeRNjXb9-Hw&s=10", TRON ARES
 http://mundo2.pro:80/movie/Dav1703idP/Dav1703idParDa/e7a2ed2d-8d8b-4eb8-83f8-91f705e83100.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DRomT9bWjCuvGGxOHCDD79ByF4rnpSCxXV7fhk8UJA&s=10", misión taipei
 http://mundo2.pro:80/movie/Dav1703idP/Dav1703idParDa/233fdb8a-54ba-4518-a4ef-8362187e621b.mkv
+http://195.66.210.10:80/movie/ideas903/XRYET/620523.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXw8rNRjDwzRMbItGhbE48kzRPtSDOrV4iEEFd2uoa-0tYLu3WP7TVpg&s=10", El ejecutor
 http://p2premium.club/movie/Dav1703idP/Dav1703idParDa/5b7df917-ac84-47ee-aec4-90889d60cc18.mp4
