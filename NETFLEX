@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFF7opUZbHptjuczL0wZqDuQEXDX7Xldp-0-5kwzEcMg&s=10", NE Zha 2
+https://213.111.152.253:443/play/W9KB5HIW7R3zBJI906VHu1h09LlJYM_C5CzN-T1-GUkqeYTDTiEwYheZ5Qi6xp1I
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmbLJWSFeMSsjGIPhAUBN_Nb-5ZB7qa--dVv3dR1lFQ&s=10", Los roses
 https://213.111.152.253:443/play/W9KB5HIW7R3zBJI906VHu1h09LlJYM_C5CzN-T1-GUm7N_p9kT4DKdUZbXB8s5gK
 
