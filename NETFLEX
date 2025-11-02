@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyVtOmd0SgXwr7Y9ZC37l8aWy2CKmeW84TcDm8Ygr0JQ&s=10",MAR amarillo
-http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/387070.mkv
-
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZLHyT9iIhB4KCo8AK6TkVZX24DCSJSzayosX2bfFFsg&s=10", Teléfono negro 2
 http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/444178.mp4
 
