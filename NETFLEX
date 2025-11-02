@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZLHyT9iIhB4KCo8AK6TkVZX24DCSJSzayosX2bfFFsg&s=10", Teléfono negro 2
+http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/444178.mp4
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFF7opUZbHptjuczL0wZqDuQEXDX7Xldp-0-5kwzEcMg&s=10", NE Zha 2
 http://masterprotv1.com:8080/movie/aube1205carl/carlos1234/297874.mkv
 
