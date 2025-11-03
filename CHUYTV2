@@ -21,7 +21,7 @@ http://45.5.119.43:4000/play/a0hs/index.m3u8
 http://45.189.151.7:8000/play/a07c/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9609
 
-#EXTINF:0 type="stream" channelId="-1", TeenNick
+#EXTINF:0 type="stream" channelId="TIIN.mx", TeenNick
 http://80.80.91.195:8000/play/a0cu/index.m3u8
 http://45.5.119.43:4000/play/a03f/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/31127
@@ -33,10 +33,10 @@ http://45.5.119.43:4000/play/a0fz/index.m3u8
 http://45.189.151.7:8000/play/a07b/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/91258
 
-#EXTINF:0 type="stream" channelId="-1",CARTOON NETWORK
+#EXTINF:0 <channel id="Cartoon Network.mx"><display-name>Cartoon Network.mx</display-name></channel> type="stream" channelId="-1",CARTOON NETWORK
 http://live.detodotvplay.com:8080/Risario8/Pineda13/240
 
-#EXTINF:0 type="stream" channelId="1305" , CARTOONITO
+#EXTINF:0 <channel id="Cartoonito.mx"><display-name>Cartoonito.mx</display-name></channel> type="stream" channelId="1305" , CARTOONITO
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.90.22.42:5280/play/a0de
@@ -597,7 +597,7 @@ http://38.49.128.38:8000/play/a0ne/index.m3u8
 http://45.189.151.7:8000/play/a05j/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9576
 
-#EXTINF:0 type="stream" channelId="3720" , A+
+#EXTINF:0  <channel id="A+.mx"><display-name>A+.mx</display-name></channel> type="stream" channelId="3720" , A+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.90.22.42:5280/play/a0e5
@@ -1019,7 +1019,7 @@ http://tvhd.me:8000/elpuma1212/NAVI51J17J/145416
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3811
 
-#EXTINF:0 type="stream" channelId="2540",1 ESPN MX
+#EXTINF:0 tvg-id="ESPN.MX.mx" type="stream" channelId="2540",1 ESPN MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.189.151.7:8000/play/a06i/index.m3u8
