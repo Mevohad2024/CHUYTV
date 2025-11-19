@@ -1,5 +1,8 @@
 ⁸#EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdyHyH6JMd5HrReESNJp5Snyl4R5n9liCBu6ksbKUCrA&s=10", Los ilucionistas
+http://streamingtv.vip:80/movie/PqaWkKz2/XtxFA3Jme/407462.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXIVr9PqD3se8mkFRBMC1uACzYivKwKYDpjAlPleElw&s=10", Aleyend
 http://2.magmas5.com:8000/movie/AurelioC/9476234/324750.mp4
 
@@ -8,6 +11,7 @@ http://sinlimitestv.com:8080/movie/Alegutierrez/Gutierrez0822/515294.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3pyLCwemK43SU7kQCVhQlMIAMVeXBULPunx4egnV7w&s=10",Zoopolipsis
 http://www.1play.cool:25461/movie/8572225535/fb3d5cbeab/304986.mkv
+http://streamingtv.vip:80/movie/PqaWkKz2/XtxFA3Jme/407467.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgmyTBt40_5tolvOKviMo_GjRQ17xwxWHSEtIUAssnSA&s=10",Frankeistein
 http://streamingtv.vip:80/movie/PqaWkKz2/XtxFA3Jme/383967.mkv
