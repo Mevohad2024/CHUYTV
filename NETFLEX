@@ -1,4 +1,7 @@
-#EXTM3U
+⁸#EXTM3U
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXIVr9PqD3se8mkFRBMC1uACzYivKwKYDpjAlPleElw&s=10", Aleyend
+http://2.magmas5.com:8000/movie/AurelioC/9476234/324750.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2Er07933eiOsG94MxwYkp7VxMss4r7mATN_hilMS9A&s",Dinero sucio
 http://sinlimitestv.com:8080/movie/Alegutierrez/Gutierrez0822/515294.mkv
@@ -58,10 +61,6 @@ http://stklatino.dynns.com:2082/series/azplay1396/5638836371/95911.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZjAAXYmG8I9sERDdG1vBis9UeSDubpcD_wSu6AjRHQvXP1tMadx6cfc&s=10",E1S1 Newtopia
 http://live.detodotvplay.com:8080/series/Risario8/Pineda13/408476.mkv
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5FjnnQ1-R1HAwUq3EwFihSAGQr3Y5kdYo4YEHFVyaA&s=10",E10 Mentiroso adorable
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367345.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5FjnnQ1-R1HAwUq3EwFihSAGQr3Y5kdYo4YEHFVyaA&s=10",E11 Mentiroso adorable
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367346.mp4
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5FjnnQ1-R1HAwUq3EwFihSAGQr3Y5kdYo4YEHFVyaA&s=10",E12 Mentiroso adorable
 http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367347.mp4
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5FjnnQ1-R1HAwUq3EwFihSAGQr3Y5kdYo4YEHFVyaA&s=10",E13 Mentiroso adorable
