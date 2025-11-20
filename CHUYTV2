@@ -3,12 +3,11 @@
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://179.49.163.34:45000/play/a02m/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/8426
-http://190.0.247.38:8000/play/a00h
 http://181.119.64.227:5070/play/a035/index.m3u8
-http://sinlimitestv.com:8080/Alegutierrez/Gutierrez0822/377470
-http://2.magmas5.com:8000/AurelioC/9476234/151648
+http://190.0.247.38:8000/play/a00h
 
-#EXTINF:-1 type="stream" channelId="-1" ,FMH ANIMOTIONS
+
+#EXTINF:-1 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF5j3FWiLZRbZHYnfNyipeREJJtDF0rggVYkV-Yjys1Q&s=10",FMH ANIMOTIONS
 http://181.119.85.222:8000/play/a03c/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://fmh.la/images/team/logo_kids.png", FMHKIDS
