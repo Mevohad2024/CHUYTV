@@ -1,4 +1,4 @@
-⁸#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdyHyH6JMd5HrReESNJp5Snyl4R5n9liCBu6ksbKUCrA&s=10", Los ilucionistas
 http://streamingtv.vip:80/movie/PqaWkKz2/XtxFA3Jme/407462.mkv
@@ -216,21 +216,3 @@ http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367389.mp4
 http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367390.mp4
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E16 Callejero novato
 http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367391.mp4
-
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYJd72juUPWmRRm0cxhdw5hrCvd2X4uu1S4AfhYDR-g&s=10",E1S1 EL JUEGO DE LA MUERT
-https://skynetmax.live:8443/play/mgBu0nkYkp7ZlNTnpiStUoXuhu6hCQdVXSdWiwpnBxqDG1b78jhfLvzFRiZ3-vSz#.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYJd72juUPWmRRm0cxhdw5hrCvd2X4uu1S4AfhYDR-g&s=10",E2S1 EL JUEGO DE LA MUERT
-https://skynetmax.live:8443/play/mgBu0nkYkp7ZlNTnpiStUoXuhu6hCQdVXSdWiwpnBxoAxA3V5CGwoDlaZWA1U7r-#.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYJd72juUPWmRRm0cxhdw5hrCvd2X4uu1S4AfhYDR-g&s=10",E3S1 EL JUEGO DE LA MUERT
-https://skynetmax.live:8443/play/mgBu0nkYkp7ZlNTnpiStUoXuhu6hCQdVXSdWiwpnBxr4MrILIe-ah6ZVROvcDux-#.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYJd72juUPWmRRm0cxhdw5hrCvd2X4uu1S4AfhYDR-g&s=10",E4S1 EL JUEGO DE LA MUERT
-https://skynetmax.live:8443/play/mgBu0nkYkp7ZlNTnpiStUoXuhu6hCQdVXSdWiwpnBxpZbY-Cp1SwhPKl8O8dK6_e#.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYJd72juUPWmRRm0cxhdw5hrCvd2X4uu1S4AfhYDR-g&s=10",E5S1 EL JUEGO DE LA MUERT
-https://skynetmax.live:8443/play/mgBu0nkYkp7ZlNTnpiStUoXuhu6hCQdVXSdWiwpnBxr1gPw5OR2ZAt2M8QLYfrFh#.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYJd72juUPWmRRm0cxhdw5hrCvd2X4uu1S4AfhYDR-g&s=10",E6S1 EL JUEGO DE LA MUERT
-https://skynetmax.live:8443/play/mgBu0nkYkp7ZlNTnpiStUoXuhu6hCQdVXSdWiwpnBxqr6NMixoyIPA8oFUEyg8Zx#.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYJd72juUPWmRRm0cxhdw5hrCvd2X4uu1S4AfhYDR-g&s=10",E7S1 EL JUEGO DE LA MUERT
-https://skynetmax.live:8443/play/mgBu0nkYkp7ZlNTnpiStUoXuhu6hCQdVXSdWiwpnBxov_5JBCVG-0BVzjImHA7-z#.mkv
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYJd72juUPWmRRm0cxhdw5hrCvd2X4uu1S4AfhYDR-g&s=10",E8S1 EL JUEGO DE LA MUERT
-https://skynetmax.live:8443/play/mgBu0nkYkp7ZlNTnpiStUoXuhu6hCQdVXSdWiwpnBxrh1nieYW7i386V17enNQuN#.mkv
