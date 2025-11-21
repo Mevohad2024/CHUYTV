@@ -55,9 +55,9 @@ http://stklatino.dynns.com:2082/movie/azplay1396/5638836371/127699.mkv
 #EXTINF:-1 logo= "https://es.web.img3.acsta.net/medias/nmedia/18/89/88/37/20102236.jpg", Moonrise Kingdom
 http://playtv44.com:8080/movie/973995960/142536/293159.mkv
 
-
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-6G6Ruq-KuTSPIZK0-PFxRgQEvkBi0K1LhOcg_Ashw&s",E1S1 Beso dinamita
 http://flx.lat:8080/series/56997356945/7783835645/361808.mp4
-
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-6G6Ruq-KuTSPIZK0-PFxRgQEvkBi0K1LhOcg_Ashw&s",E2S1 Beso dinamita
 http://flx.lat:8080/series/56997356945/7783835645/361807.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQir0WllHoIYlIlBn7fx0qB_ZoFUyO0tc_kSSRtPyYebQ&s=10",E1S1 Amor de mentira
