@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp99PTm-F0lYmBFgV4W8CqBn6u1SMXXs1IW703uCw35Q&s=10",gamily plan 2
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp99PTm-F0lYmBFgV4W8CqBn6u1SMXXs1IW703uCw35Q&s=10",family plan 2
 http://sinlimitestv.com:8080/movie/Alegutierrez/Gutierrez0822/515961.mkv
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXIVr9PqD3se8mkFRBMC1uACzYivKwKYDpjAlPleElw&s=10", Aleyend
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXIVr9PqD3se8mkFRBMC1uACzYivKwKYDpjAlPleElw&s=10", Una leyenda
 http://2.magmas5.com:8000/movie/AurelioC/9476234/324750.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2Er07933eiOsG94MxwYkp7VxMss4r7mATN_hilMS9A&s",Dinero sucio
@@ -42,9 +42,6 @@ http://tv.proyectox.vip:8080/movie/userescrip1/V2Z4HvSMkD/155426.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5RGlOnJyllgTaNEA9LgNBPagsENUMZQqYwJwnZOkjtkaI4tax7HfCuw8&s=10", El rey de reyes
 http://live.detodotvplay.com:8080/movie/Risario8/Pineda13/422205.mkv
 http://stklatino.dynns.com:2082/movie/azplay1396/5638836371/82453.mkv
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqR6DhdK7cjHrMHr9fXabj3zY4HCBuvKMlcQMmd_jJhw&s=10",ong back
-http://playtv44.com:8080/movie/973995960/142536/182739.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY1fyqk_YVDJCDc1-QyAddNigVnYpKIua8u6g2NLVHLg&s=10",Caballeros del zodiaco
 http://stklatino.dynns.com:2082/movie/azplay1396/5638836371/90279.mkv
