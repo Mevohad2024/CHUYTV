@@ -34,6 +34,7 @@ http://45.5.119.43:4000/play/a0hs/index.m3u8
 http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/110292
 http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/132711
 http://goldtv.lat:80/JUF297LUY0/cta27playec/132691
+http://45.189.151.7:8000/play/a07c/index.m3u8
 
 #EXTINF:0 type="stream" channelId="TIIN.mx", TeenNick
 http://live.detodotvplay.com:8080/Risario8/Pineda13/31127
@@ -46,6 +47,7 @@ http://45.5.119.43:4000/play/a03f/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/91258
 http://45.5.119.43:4000/play/a0fz/index.m3u8
 http://45.177.179.227:8000/play/a01u/index.m3u8
+http://45.189.151.7:8000/play/a07b/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",CARTOON NETWORK
 http://live.detodotvplay.com:8080/Risario8/Pineda13/240
@@ -91,6 +93,7 @@ http://45.5.119.43:4000/play/a03k/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/224
 http://190.14.10.19:16000/play/a066/index.m3u8
 http://45.177.179.227:8000/play/a00u/index.m3u8
+http://45.189.151.7:8000/play/a07o/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
@@ -144,6 +147,7 @@ http://138.36.24.8:8000/play/a03b/index.m3u8
 http://45.5.119.43:4000/play/a0hn/index.m3u8
 http://38.183.182.166:8000/play/a0w8/index.m3u8
 http://45.177.179.227:8000/play/a01n/index.m3u8
+http://45.189.151.7:8000/play/a07h/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1303" , FX
 http://live.detodotvplay.com:8080/Risario8/Pineda13/261
@@ -160,6 +164,7 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/460
 http://45.5.119.43:4000/play/a0hu/index.m3u8
 http://190.14.10.19:16000/play/a02s/index.m3u8
 http://38.183.182.166:8000/play/a0ve/index.m3u8
+http://45.189.151.7:8000/play/a07n/index.m3u8
 http://45.177.179.227:8000/play/a01f/index.m3u8
 
 #EXTINF:0 type="stream" channelId="187" , UNIVERSAL
@@ -169,6 +174,7 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/9620
 http://179.49.163.34:45000/play/a01x/index.m3u8
 http://38.183.182.166:8000/play/a0wr/index.m3u8
 http://45.177.179.227:8000/play/a01d/index.m3u8
+http://45.189.151.7:8000/play/a07q/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1719" , PARAMOUNT
 ##EXTVLCOPT:network-caching=1000
@@ -179,6 +185,7 @@ http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
 http://45.5.119.43:4000/play/a0kl/index.m3u8
 http://38.183.182.166:8000/play/a0v6/index.m3u8
 http://45.177.179.227:8000/play/a025/index.m3u8
+http://45.189.151.7:8000/play/a07d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_GaU52nUoGZAFyd9susUdm7PZNpc9meSRJqBscvKJ0sWn5a6J", PANICO HD
 ##EXTVLCOPT:network-caching=1000
@@ -193,6 +200,7 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/9613
 http://181.78.201.70:8000/play/a0p0/index.m3u8
 http://38.183.182.166:8000/play/a0r8/index.m3u8
 http://45.177.179.227:8000/play/a02o/index.m3u8
+http://45.189.151.7:8000/play/a07k/index.m3u8
 
 #EXTINF:0 type="stream" channelId="383" , SPACE
 ##EXTVLCOPT:network-caching=1000
@@ -201,6 +209,7 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/9612
 http://45.5.119.43:4000/play/a0iz/index.m3u8
 http://38.183.182.166:8000/play/a0vk/index.m3u8
 http://45.177.179.227:8000/play/a01s/index.m3u8
+http://45.189.151.7:8000/play/a07g/index.m3u8
 
 #EXTINF:0 type="stream" channelId="530" , Sony chanel
 ##EXTVLCOPT:network-caching=1000
@@ -208,6 +217,7 @@ http://45.177.179.227:8000/play/a01s/index.m3u8
 http://45.5.119.43:4000/play/a0hp/index.m3u8
 http://38.183.182.166:8000/play/a0vg/index.m3u8
 http://45.177.179.227:8000/play/a01b/index.m3u8
+http://45.189.151.7:8000/play/a07i/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1214" , Sony movies
 ##EXTVLCOPT:network-caching=1000
@@ -215,6 +225,7 @@ http://45.177.179.227:8000/play/a01b/index.m3u8
 http://179.49.163.34:45000/play/a02b
 http://45.5.119.43:4000/play/a03s/index.m3u8
 http://181.119.85.222:8000/play/a02b/index.m3u8
+http://45.189.151.7:8000/play/a07j/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2557" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySya_l85w-lsa3DABk4A6723lA1E88XNylC7Qx2_CvFUZpvDshuouYp_d&s=10", WARNER
 ##EXTVLCOPT:network-caching=1000
@@ -274,6 +285,7 @@ http://181.119.85.222:8000/play/a01w/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/264
 http://45.5.119.43:4000/play/a0l2/index.m3u8
 http://45.177.179.227:8000/play/a02g/index.m3u8
+http://45.189.151.7:8000/play/a06u/index.m3u8
 
 #EXTINF:0 type="stream" channelId="935" , HBO2
 ##EXTVLCOPT:network-caching=1000
@@ -281,6 +293,7 @@ http://45.177.179.227:8000/play/a02g/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/266
 http://45.5.119.43:4000/play/a00c/index.m3u8
 http://45.177.179.227:8000/play/a02h/index.m3u8
+http://45.189.151.7:8000/play/a06v/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2584" , HBO FAMILY
 ##EXTVLCOPT:network-caching=1000
@@ -323,6 +336,7 @@ http://200.115.96.66:4000/play/a02o/index.m3u8
 http://45.5.119.43:4000/play/a0l6/index.m3u8
 http://38.183.182.166:8000/play/a0zc/index.m3u8
 http://45.177.179.227:8000/play/a02f/index.m3u8
+http://45.189.151.7:8000/play/a06w/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2725" , HBO MUNDI HD
 ##EXTVLCOPT:network-caching=1000
@@ -432,6 +446,7 @@ http://200.115.96.66:4000/play/a01r/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.201.70:8000/play/a0pi/index.m3u8
 http://45.177.179.227:8000/play/a02d/index.m3u8
+http://45.189.151.7:8000/play/a06q/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1244" , Food network
 ##EXTVLCOPT:network-caching=1000
@@ -453,7 +468,7 @@ http://38.183.182.166:8000/play/a0zb/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.183.182.166:8000/play/a0rz/index.m3u8
-
+http://45.189.151.7:8000/play/a06r/index.m3u8
 
 #EXTINF:0 type="stream" channelId="57" , DISCOVERY CHANNEL
 ##EXTVLCOPT:network-caching=1000
@@ -541,6 +556,7 @@ http://201.237.193.180:9981/stream/channelid/1974110378?profile=pass
 http://45.5.119.43:4000/play/a0kk/index.m3u8
 http://38.183.182.166:8000/play/a0vd/index.m3u8
 http://179.1.240.1:18002/play/a026
+http://45.189.151.7:8000/play/a07a/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Love Nature HD
 http://190.102.246.93:9005/play/a05u
@@ -554,6 +570,7 @@ http://45.5.119.43:4000/play/a0gk/index.m3u8
 http://190.0.247.38:8000/play/a00w
 http://38.183.182.166:8000/play/a0v9/index.m3u8
 http://45.177.179.227:8000/play/a01a/index.m3u8
+http://45.189.151.7:8000/play/a06s/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
 ##EXTVLCOPT:network-caching=1000
@@ -563,8 +580,7 @@ http://190.90.22.42:5280/play/a0dp
 http://45.5.119.43:4000/play/a0jp/index.m3u8
 http://190.0.247.38:8000/play/a04r
 http://38.183.182.166:8000/play/a0rp/index.m3u8
-
-
+http://45.189.151.7:8000/play/a06t/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MTV HD
 http://45.177.179.227:8000/play/a01q/index.m3u8
@@ -610,12 +626,15 @@ http://45.177.179.227:8000/play/a00l/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MTV Hits
 http://45.177.179.227:8000/play/a00k/index.m3u8
+http://45.189.151.7:8000/play/a073/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",MTV 00s
 http://45.5.117.57:8200/play/a0i0/index.m3u8
+http://45.189.151.7:8000/play/a075/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",MTV 80s
 http://45.5.117.57:8200/play/a0ge/index.m3u8
+http://45.189.151.7:8000/play/a072/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3750" , EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
@@ -733,7 +752,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/37452
 http://38.49.128.38:8000/play/a0dm/index.m3u8
 http://45.177.179.227:8000/play/a009/index.m3u8
-
+http://45.189.151.7:8000/play/a075/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MVSTV
 ##EXTVLCOPT:network-caching=1000
@@ -759,6 +778,8 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnufYEFU8_AzxQ_SGPVr3Ll5BBM_2_2q7gdrjig2Cy8Q&s=10",PopCorn
 https://freetv.stream.olympusatmedia.com/index.m3u8
 http://45.177.179.227:8000/play/a00n/index.m3u8
+http://45.189.151.7:8000/play/a07f/index.m3u8
+
 #EXTINF:0 type="stream" channelId="340", TV Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQknkl97yAWmQZUiV9Y355MaPIVgi5LQCupsw&usqp=CAU",1 ESTRELLA TV
@@ -823,6 +844,7 @@ http://45.5.119.43:4000/play/a0jw/index.m3u8
 http://200.115.120.1:8000/play/ca108/index.m3u8
 http://45.5.119.43:4000/play/a0hy/index.m3u8
 http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/315009
+http://45.189.151.7:8000/play/a05x/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Distrito Comedia
 ##EXTVLCOPT:network-caching=1000
@@ -863,6 +885,7 @@ http://181.78.21.46:8009/play/a038
 http://181.78.12.164:9000/play/a08y
 http://181.78.201.70:8000/play/a0pr/index.m3u8
 http://45.177.179.227:8000/play/a00t/index.m3u8
+http://45.189.151.7:8000/play/a07m/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",PASIONES
 http://181.78.12.164:9000/play/a03t
@@ -909,6 +932,7 @@ http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tVe-txySx6mOna_D_LAVum8/ts
 http://181.78.201.70:8000/play/a0pn/index.m3u8
 http://45.5.119.43:4000/play/a0km/index.m3u8
 http://45.177.179.227:8000/play/a02i/index.m3u8
+http://45.189.151.7:8000/play/a07l/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",1 Directv sport
 ##EXTVLCOPT:network-caching=1000
