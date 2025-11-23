@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp99PTm-F0lYmBFgV4W8CqBn6u1SMXXs1IW703uCw35Q&s=10",family plan 2
-http://sinlimitestv.com:8080/movie/Alegutierrez/Gutierrez0822/515961.mkv
-
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXIVr9PqD3se8mkFRBMC1uACzYivKwKYDpjAlPleElw&s=10", Una leyenda
 http://2.magmas5.com:8000/movie/AurelioC/9476234/324750.mp4
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2Er07933eiOsG94MxwYkp7VxMss4r7mATN_hilMS9A&s",Dinero sucio
-http://sinlimitestv.com:8080/movie/Alegutierrez/Gutierrez0822/515294.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3pyLCwemK43SU7kQCVhQlMIAMVeXBULPunx4egnV7w&s=10",Zoopolipsis
 http://www.1play.cool:25461/movie/8572225535/fb3d5cbeab/304986.mkv
