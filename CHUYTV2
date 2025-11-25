@@ -1129,7 +1129,7 @@ http://181.13.112.203:8100/play/a02t/index.m3u8
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://tv.dominiotv.xyz:80/JavierMJ/69654628/94154.ts
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3811
