@@ -46,7 +46,9 @@ http://playtv44.com:8080/movie/973995960/142536/293159.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQno-W9omvzr6pAFS7cM_FNKFp_YgnixQZUN3FLlrpg&s=10",E9 Manipulado
 http://ip.tvgo4.me:80/series/Toledo0421/4eadAmVxjeaH/1098155.mkv
-
+http://flx.lat:8080/series/56997356945/7783835645/363669.mp4
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQno-W9omvzr6pAFS7cM_FNKFp_YgnixQZUN3FLlrpg&s=10",E10 Manipulado
+http://flx.lat:8080/series/56997356945/7783835645/363670.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E1 Callejero novato
 http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367376.mp4
