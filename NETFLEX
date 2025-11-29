@@ -44,12 +44,6 @@ http://streamingtv.vip:80/movie/PqaWkKz2/XtxFA3Jme/361915.mp4
 #EXTINF:-1 logo= "https://es.web.img3.acsta.net/medias/nmedia/18/89/88/37/20102236.jpg", Moonrise Kingdom
 http://playtv44.com:8080/movie/973995960/142536/293159.mkv
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQno-W9omvzr6pAFS7cM_FNKFp_YgnixQZUN3FLlrpg&s=10",E9 Manipulado
-http://ip.tvgo4.me:80/series/Toledo0421/4eadAmVxjeaH/1098155.mkv
-http://flx.lat:8080/series/56997356945/7783835645/363669.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQno-W9omvzr6pAFS7cM_FNKFp_YgnixQZUN3FLlrpg&s=10",E10 Manipulado
-http://flx.lat:8080/series/56997356945/7783835645/363670.mp4
-
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHlTF9_l9udCZD9oEkUHWRsU13IaacTVuTXZepIAPPjw&s=10",E1S1 El juego de la muerte
 http://flx.lat:8080/series/56997356945/7783835645/331239.mp4
 http://redworld.pro:8880/series/diego@1736d/PGPc2dtkQ3sX/430842.mp4
@@ -253,3 +247,5 @@ http://live.detodotvplay.com:8080/series/Risario8/Pineda13/408476.mkv
 https://tv.nube-x.xyz:8443/play/-48QlghuOe8245Ni4uEiHnaUbu6ATRlq5NhDRqJER7jrmZsi9S-DAJsU44RuIyBJ#.mkv
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDvWI7zhKtTA6g0svUe_hRU1lNWrK-t6mnZ5QCjhdKClAlIAuXdwc9uvU&s=10",Romance Picante S1E1
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQno-W9omvzr6pAFS7cM_FNKFp_YgnixQZUN3FLlrpg&s=10",E11 Manipulado
