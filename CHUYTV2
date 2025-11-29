@@ -584,6 +584,7 @@ http://179.1.240.1:18002/play/a026
 
 #EXTINF:0 type="stream" channelId="-1",Love Nature HD
 http://190.102.246.93:9005/play/a05u
+http://148.113.207.98:8000/play/a00j/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1455", HISTORY
 ##EXTVLCOPT:network-caching=1000
@@ -820,6 +821,7 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQknkl97yAWmQZUiV9Y355MaPIVgi5LQCupsw&usqp=CAU",2 ESTRELLA TV
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4606
+http://138.36.24.8:8000/play/a06g/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3209" , 1 Univisión
 ##EXTVLCOPT:network-caching=1000
@@ -1042,6 +1044,7 @@ http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9571
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 2 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://148.113.207.98:8000/play/a00a/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJNpyVqpkMUSMKXdX525olkDZxhTqglgUhVZpDTc65A&s",1 FSMX
 ##EXTVLCOPT:network-caching=1000
@@ -1130,6 +1133,7 @@ http://181.13.112.203:8100/play/a02t/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://tv.dominiotv.xyz:80/JavierMJ/69654628/94154.ts
+http://148.113.207.98:8000/play/a004/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3811
@@ -1318,6 +1322,7 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/8419
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (MX)
 http://206.212.244.71:8080/4wVQA7/625159/11885
 http://181.78.106.127:9000/play/ca025/index.m3u8
+http://148.113.207.98:8000/play/a002/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (MX)
 http://45.5.119.43:4000/play/a05q/index.m3u8
