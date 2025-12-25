@@ -66,6 +66,7 @@ http://190.90.22.42:5280/play/a0de
 http://45.189.151.7:8000/play/a05o/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9670
 http://goldtv.lat:80/JUF297LUY0/cta27playec/132708
+http://190.14.10.19:16000/play/a02c/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
@@ -110,6 +111,7 @@ http://190.0.247.38:8000/play/a00k
 http://179.49.163.34:45000/play/a011/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/91302
 http://p2premium.club:80//live/mErCyMy22/22MeRcYm/317518.ts
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/184.ts
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
@@ -237,9 +239,8 @@ http://45.177.179.227:8000/play/a01b/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://179.49.163.34:45000/play/a02b
-http://45.5.119.43:4000/play/a03s/index.m3u8
 http://45.189.151.7:8000/play/a07j/index.m3u8
-http://181.119.85.222:8000/play/a02b/index.m3u8
+http://45.5.119.43:4000/play/a03s/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="2557" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySya_l85w-lsa3DABk4A6723lA1E88XNylC7Qx2_CvFUZpvDshuouYp_d&s=10", WARNER
@@ -247,8 +248,9 @@ http://181.119.85.222:8000/play/a02b/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://live.detodotvplay.com:8080/Risario8/Pineda13/287
 http://38.183.182.166:8000/play/a0vh/index.m3u8
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/309.ts
 http://190.14.10.19:16000/play/a06m/index.m3u8
-http://181.119.85.222:8000/play/a04g/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="2501" , AMC
 ##EXTVLCOPT:network-caching=1000
@@ -1047,6 +1049,9 @@ http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9571
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://148.113.207.98:8000/play/a00a/index.m3u8
+
+#EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 3 Foxdeportes
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/342.ts
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJNpyVqpkMUSMKXdX525olkDZxhTqglgUhVZpDTc65A&s",1 FSMX
 ##EXTVLCOPT:network-caching=1000
