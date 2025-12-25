@@ -287,7 +287,7 @@ http://45.177.179.227:8000/play/a01r/index.m3u8
 http://179.49.163.34:45000/play/a016/index.m3u8
 http://45.5.119.43:4000/play/a0ij/index.m3u8
 http://45.186.106.220:5550/play/a044/index.m3u8
-http://181.119.85.222:8000/play/a016/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="1694" , MC
 ##EXTVLCOPT:network-caching=1000
@@ -295,7 +295,7 @@ http://181.119.85.222:8000/play/a016/index.m3u8
 http://179.49.163.34:45000/play/a01w/index.m3u8
 http://200.115.98.26:9000/play/a081/index.m3u8
 http://45.186.106.220:5550/play/a02g/index.m3u8
-http://181.119.85.222:8000/play/a01w/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="1330" , HBO
 ##EXTVLCOPT:network-caching=1000
@@ -424,12 +424,11 @@ http://179.1.240.1:18002/play/a009
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbiyhk67avCeuc7KO14kAPX7v6WACjHCGU62yj00-VlJaDZqwqU5QFURq&s=10",FMHMOVIES
 http://38.191.43.69:8000/play/a05w/index.m3u8
-http://181.119.85.222:8000/play/a03b/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.fmh.la/images/team/logo_family.png", FMHFAMILY
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://181.119.85.222:8000/play/a03e/index.m3u8
 http://38.183.182.166:8000/play/a12r/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2rdckIwiQb2Uz83RC8bo-giGj3crPqzQ2g&usqp=CAU", MX FAMILIAR
@@ -752,7 +751,7 @@ http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/87616
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/315005
+http://goldtv.lat:80/JUF297LUY0/cta27playec/362406
 
 #EXTINF:0 type="stream" channelId="255",2 Azteca 7
 ##EXTVLCOPT:network-caching=1000
@@ -884,7 +883,7 @@ http://45.5.119.43:4000/play/a0jw/index.m3u8
 http://200.115.120.1:8000/play/ca108/index.m3u8
 http://45.5.119.43:4000/play/a0hy/index.m3u8
 http://45.189.151.7:8000/play/a05x/index.m3u8
-http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/315009
+
 
 
 #EXTINF:0 type="stream" channelId="-1",Distrito Comedia
@@ -897,7 +896,7 @@ http://181.78.106.127:9000/play/ca055/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.228.234.30:16000/play/a02w/index.m3u8
-http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/315007
+
 
 #EXTINF:0 type="stream" channelId="-1", TLNovelas
 ##EXTVLCOPT:network-caching=1000
@@ -942,6 +941,7 @@ http://38.183.182.166:8000/play/a0xj/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.189.151.7:8000/play/a05a/index.m3u8
+http://goldtv.lat:80/JUF297LUY0/cta27playec/110047
 
 #EXTINF:0 type="stream" channelId="-1", A3 SERIES
 ##EXTVLCOPT:network-caching=1000
@@ -971,7 +971,6 @@ http://45.5.117.57:8200/play/a05o/index.m3u8
 http://200.115.120.1:8000/play/ca021/index.m3u8
 #EXTINF:0 type="stream" channelId="2686" , TNT Series HD
 #EXTVLCOPT--http-reconnect=true
-http://alfatv.lat:2082/play/XPKp_PQbTSxv-fnwXp-7tVe-txySx6mOna_D_LAVum8/ts
 http://181.78.201.70:8000/play/a0pn/index.m3u8
 http://45.5.119.43:4000/play/a0km/index.m3u8
 http://45.189.151.7:8000/play/a07l/index.m3u8
@@ -1139,7 +1138,6 @@ http://181.13.112.203:8100/play/a02t/index.m3u8
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://tv.dominiotv.xyz:80/JavierMJ/69654628/94154.ts
 http://148.113.207.98:8000/play/a004/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
@@ -1207,13 +1205,13 @@ http://45.5.119.43:4000/play/a0kj/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2540" , ESPN HD sur 
 http://45.232.176.17:8000/play/a00s
-http://181.119.85.222:8000/play/a01q/index.m3u8
+
 #EXTINF:0 type="stream" channelId="344" , ESPN 2 HD sur 
 http://45.232.176.17:8000/play/a023
-http://181.119.85.222:8000/play/a00m/index.m3u8
+
 #EXTINF:0 type="stream" channelId="355" , ESPN 3 HD sur 
 http://45.232.176.17:8000/play/a01l
-http://181.119.85.222:8000/play/a00n/index.m3u8
+
 #EXTINF:0 type="stream" channelId="1432" ,ESPN 4 HD sur
 http://45.232.176.17:8000/play/a00r
 #EXTINF:0 type="stream" channelId="-1" logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5.png", ESPN 5 sur
@@ -1359,4 +1357,4 @@ http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (US)
 http://181.78.106.127:9000/play/ca036/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (US)
-
+http://goldtv.lat:80/JUF297LUY0/cta27playec/314975
