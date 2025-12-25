@@ -62,11 +62,10 @@ http://45.177.179.227:8000/play/a00e/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca006/index.m3u8
-http://live.detodotvplay.com:8080/Risario8/Pineda13/9670
 http://190.90.22.42:5280/play/a0de
 http://45.189.151.7:8000/play/a05o/index.m3u8
-http://sinlimitestv.com:8080/Alegutierrez/Gutierrez0822/202318
-
+http://live.detodotvplay.com:8080/Risario8/Pineda13/9670
+http://goldtv.lat:80/JUF297LUY0/cta27playec/132708
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
