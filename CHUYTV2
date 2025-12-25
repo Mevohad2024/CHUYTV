@@ -67,6 +67,8 @@ http://45.189.151.7:8000/play/a05o/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9670
 http://goldtv.lat:80/JUF297LUY0/cta27playec/132708
 http://190.14.10.19:16000/play/a02c/index.m3u8
+http://www.1play.cool:25461/8572225535/fb3d5cbeab/30660
+http://www.1play.cool:25461/8572225535/fb3d5cbeab/29732
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
@@ -112,6 +114,7 @@ http://179.49.163.34:45000/play/a011/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/91302
 http://p2premium.club:80//live/mErCyMy22/22MeRcYm/317518.ts
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/184.ts
+http://www.1play.cool:25461/8572225535/fb3d5cbeab/151372
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
@@ -131,7 +134,7 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/237
 http://38.183.182.166:8000/play/a0vi/index.m3u8
 http://45.189.151.7:8000/play/a05h/index.m3u8
 http://sinlimitestv.com:8080/Alegutierrez/Gutierrez0822/173387
-
+http://www.1play.cool:25461/8572225535/fb3d5cbeab/133853
 
 #EXTINF:0 type="stream" channelId="1188" , E!1
 ##EXTVLCOPT:network-caching=1000
@@ -287,7 +290,7 @@ http://45.177.179.227:8000/play/a01r/index.m3u8
 http://179.49.163.34:45000/play/a016/index.m3u8
 http://45.5.119.43:4000/play/a0ij/index.m3u8
 http://45.186.106.220:5550/play/a044/index.m3u8
-
+http://www.1play.cool:25461/8572225535/fb3d5cbeab/30495
 
 #EXTINF:0 type="stream" channelId="1694" , MC
 ##EXTVLCOPT:network-caching=1000
@@ -498,7 +501,6 @@ http://201.237.193.180:9981/stream/channelid/1527132129?profile=pass
 http://45.189.151.7:8000/play/a067/index.m3u8
 http://45.177.179.227:8000/play/a01z/index.m3u8
 
-
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -524,7 +526,6 @@ http://38.183.182.166:8000/play/a0wx/index.m3u8
 http://45.189.151.7:8000/play/a06a/index.m3u8
 http://45.177.179.227:8000/play/a01o/index.m3u8
 
-
 #EXTINF:0 type="stream" channelId="2558" , Discovery theater
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -534,7 +535,6 @@ http://38.183.182.166:8000/play/a0vr/index.m3u8
 http://45.189.151.7:8000/play/a06b/index.m3u8
 http://45.177.179.227:8000/play/a01p/index.m3u8
 
-
 #EXTINF:0 type="stream" channelId="58" , Discovery science
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -543,7 +543,6 @@ http://190.0.247.38:8000/play/a00s
 http://38.183.182.166:8000/play/a0rr/index.m3u8
 http://45.189.151.7:8000/play/a06c/index.m3u8
 http://45.177.179.227:8000/play/a00r/index.m3u8
-
 
 #EXTINF:0 type="stream" channelId="1040" , DISCOVERY TLC HD
 ##EXTVLCOPT:network-caching=1000
