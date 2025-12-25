@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKsQjvR8cXdq3JA4gwyYb7mvqo1Jl3pOJk92FR-OLoLA&s=10",Avatar fuego y ceniza
 http://flx.lat:8080/movie/56997356945/7783835645/380905.mp4
-http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/457972.mp4
+
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A5thnA1id009vOecLiJHTjfc75ai6arQ0_2vaucYHQ&s=10",Crónicas de exsorcismo
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/457747.mp4
@@ -48,54 +48,40 @@ http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/82453.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG48yWzF0ZvRdnR01HmaTDOk8UIE8vSLli9OozoSlSZw&s=10",Demon sleyer castillo infinito
 http://tvpremiund.ddns.me:2082/movie/stefapenaloza/iroquitv12/127699.mkv
-http://streamingtv.vip:80/movie/PqaWkKz2/XtxFA3Jme/361915.mp4
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuzqDkOQ9eKqcTqFDyFrXzEVqXnHKmzsfx3iVxpVeHKQ&s",E11 Encantado de no concerte
-http://flx.lat:8080/series/56997356945/7783835645/379909.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E1 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367376.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E2 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367377.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E3 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367378.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E4 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367379.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E5 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367380.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E6 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367381.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E7 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367382.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E8 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367383.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E9 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367384.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E10 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367385.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E11 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367386.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E12 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367388.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E13 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367388.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E14 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367389.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E15 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367390.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E16 Callejero novato
-http://streamingtv.vip:80/series/PqaWkKz2/XtxFA3Jme/367391.mp4
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-6G6Ruq-KuTSPIZK0-PFxRgQEvkBi0K1LhOcg_Ashw&s",E1S1 Beso dinamita
-http://flx.lat:8080/series/56997356945/7783835645/361811.mp4
-http://redworld.pro:8880/series/diego@1736d/PGPc2dtkQ3sX/454697.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-6G6Ruq-KuTSPIZK0-PFxRgQEvkBi0K1LhOcg_Ashw&s",E2S1 Beso dinamita
-http://flx.lat:8080/series/56997356945/7783835645/361812.mp4
-http://redworld.pro:8880/series/diego@1736d/PGPc2dtkQ3sX/454943.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-6G6Ruq-KuTSPIZK0-PFxRgQEvkBi0K1LhOcg_Ashw&s",E3S1 Beso dinamita
-http://redworld.pro:8880/series/diego@1736d/PGPc2dtkQ3sX/455764.mp4
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-6G6Ruq-KuTSPIZK0-PFxRgQEvkBi0K1LhOcg_Ashw&s",E4S1 Beso dinamita
-http://redworld.pro:8880/series/diego@1736d/PGPc2dtkQ3sX/455765.mp4
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E2 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E3 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E4 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E5 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E6 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E7 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E8 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E9 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E10 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E11 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E12 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E13 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E14 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E15 Callejero novato
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZjmcD1wZ254FsnOhFvSqmroOQUBddXONlR0fzPk7cg&s=10",E16 Callejero novato
+
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQir0WllHoIYlIlBn7fx0qB_ZoFUyO0tc_kSSRtPyYebQ&s=10",E3S1 Amor de mentira
 http://redworld.pro:8880/series/diego@1736d/PGPc2dtkQ3sX/455257.mp4
