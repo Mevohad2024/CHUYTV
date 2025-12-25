@@ -36,7 +36,7 @@ http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/110292
 http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/132711
 http://45.189.151.7:8000/play/a07c/index.m3u8
 http://goldtv.lat:80/JUF297LUY0/cta27playec/132691
-
+http://p2premium.club:80//live/mErCyMy22/22MeRcYm/132708.ts
 
 #EXTINF:0 type="stream" channelId="TIIN.mx", TeenNick
 http://live.detodotvplay.com:8080/Risario8/Pineda13/31127
@@ -105,12 +105,11 @@ http://45.177.179.227:8000/play/a00u/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://179.49.163.34:45000/play/a011/index.m3u8
-http://190.0.247.38:8000/play/a00k
-http://live.detodotvplay.com:8080/Risario8/Pineda13/91302
 http://181.78.106.127:9000/play/ca054/index.m3u8
-http://181.119.85.222:8000/play/a011/index.m3u8
-http://sinlimitestv.com:8080/Alegutierrez/Gutierrez0822/208668
+http://190.0.247.38:8000/play/a00k
+http://179.49.163.34:45000/play/a011/index.m3u8
+http://live.detodotvplay.com:8080/Risario8/Pineda13/91302
+http://p2premium.club:80//live/mErCyMy22/22MeRcYm/317518.ts
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
