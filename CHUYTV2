@@ -8,13 +8,13 @@ http://190.0.247.38:8000/play/a00h
 
 
 #EXTINF:-1 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF5j3FWiLZRbZHYnfNyipeREJJtDF0rggVYkV-Yjys1Q&s=10",FMH ANIMOTIONS
-http://181.119.85.222:8000/play/a03c/index.m3u8
+http://181.119.86.68:8000/play/b034/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://fmh.la/images/team/logo_kids.png", FMHKIDS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.183.182.166:8000/play/a12q/index.m3u8
-http://181.119.85.222:8000/play/a03a/index.m3u8
+http://181.119.86.68:8000/play/b037/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://live.detodotvplay.com:8080/Risario8/Pineda13/245
@@ -115,6 +115,7 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/91302
 http://p2premium.club:80//live/mErCyMy22/22MeRcYm/317518.ts
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/184.ts
 http://www.1play.cool:25461/8572225535/fb3d5cbeab/151372
+http://181.119.86.68:8000/play/b017/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
@@ -244,7 +245,7 @@ http://45.177.179.227:8000/play/a01b/index.m3u8
 http://179.49.163.34:45000/play/a02b
 http://45.189.151.7:8000/play/a07j/index.m3u8
 http://45.5.119.43:4000/play/a03s/index.m3u8
-
+http://181.119.86.68:8000/play/b040/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2557" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySya_l85w-lsa3DABk4A6723lA1E88XNylC7Qx2_CvFUZpvDshuouYp_d&s=10", WARNER
 ##EXTVLCOPT:network-caching=1000
@@ -291,6 +292,7 @@ http://179.49.163.34:45000/play/a016/index.m3u8
 http://45.5.119.43:4000/play/a0ij/index.m3u8
 http://45.186.106.220:5550/play/a044/index.m3u8
 http://www.1play.cool:25461/8572225535/fb3d5cbeab/30495
+http://181.119.86.68:8000/play/b044/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1694" , MC
 ##EXTVLCOPT:network-caching=1000
@@ -298,7 +300,7 @@ http://www.1play.cool:25461/8572225535/fb3d5cbeab/30495
 http://179.49.163.34:45000/play/a01w/index.m3u8
 http://200.115.98.26:9000/play/a081/index.m3u8
 http://45.186.106.220:5550/play/a02g/index.m3u8
-
+http://181.119.86.68:8000/play/c029/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1330" , HBO
 ##EXTVLCOPT:network-caching=1000
