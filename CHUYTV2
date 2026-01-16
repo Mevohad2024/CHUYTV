@@ -7,9 +7,6 @@ http://181.119.64.227:5070/play/a035/index.m3u8
 http://190.0.247.38:8000/play/a00h
 
 
-#EXTINF:-1 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF5j3FWiLZRbZHYnfNyipeREJJtDF0rggVYkV-Yjys1Q&s=10",FMH ANIMOTIONS
-
-
 #EXTINF:0 type="stream" channelId="-1" logo="https://fmh.la/images/team/logo_kids.png", FMHKIDS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -50,7 +47,7 @@ http://45.5.119.43:4000/play/a0fz/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",CARTOON NETWORK
 http://live.detodotvplay.com:8080/Risario8/Pineda13/240
-
+http://45.5.119.43:4000/play/a029/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
 ##EXTVLCOPT:network-caching=1000
@@ -651,7 +648,6 @@ http://200.115.120.1:8000/play/ca014/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a05o/index.m3u8
 
-
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 2 Cnco
 http://45.186.106.207:8000/play/a03g/index.m3u88
 
@@ -1158,6 +1154,7 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 http://200.59.188.3:8000/play/a0cm
 http://181.78.106.127:9000/play/ca039/index.m3u8
+http://45.5.119.43:4000/play/a05s/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",CDO BASICO
 http://195.66.210.10:80/ideas903/XRYET/12826
