@@ -680,6 +680,7 @@ http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/87616
 #EXTVLCOPT--http-reconnect=true
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 http://goldtv.lat:80/JUF297LUY0/cta27playec/362406
+https://streamer2.nexgen.bz/72-AZTECA7/index.m3u8
 
 #EXTINF:0 type="stream" channelId="255",2 Azteca 7
 ##EXTVLCOPT:network-caching=1000
@@ -780,16 +781,17 @@ http://cord-cutter.net:8080/wY96uK/850378/120691
 #EXTINF:0 type="stream" channelId="1967" ,4 TELEMUNDO
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+https://streamer2.nexgen.bz/77-TELEMUNDO/index.m3u8
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1080/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3779" ,1 Universo
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+https://streamer2.nexgen.bz/71-NBCUNIVERSO/index.m3u8
 #EXTINF:0 type="stream" channelId="3779" ,2 Universo
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3696
 #EXTINF:0 type="stream" channelId="3779" ,3 Universo
-http://tvhd.me:8000/elpuma1212/NAVI51J17J/134723
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="134", DPELICULA
 http://179.49.163.34:45000/play/a013/index.m3u8
@@ -819,6 +821,7 @@ http://45.228.234.30:16000/play/a02w/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TLNovelas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+https://streamer2.nexgen.bz/75-TLNOVELAS/index.m3u8
 http://179.49.163.34:45000/play/a00d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RCN
@@ -845,6 +848,7 @@ http://181.78.201.70:8000/play/a0pr/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1",PASIONES
+https://streamer2.nexgen.bz/80-PASIONES/index.m3u8
 http://181.78.12.164:9000/play/a03t
 http://181.78.99.187:8000/play/a0ld/index.m3u8
 http://45.5.119.43:4000/play/a0kq/index.m3u8
