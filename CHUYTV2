@@ -16,10 +16,11 @@ http://38.183.182.166:8000/play/a12q/index.m3u8
 http://45.189.151.7:8000/play/a063
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
+http://45.189.151.7:8000/play/a068
 http://live.detodotvplay.com:8080/Risario8/Pineda13/245
 http://45.5.119.43:4000/play/a03l/index.m3u8
 http://200.115.98.26:9000/play/a00h/index.m3u8
-http://45.189.151.7:8000/play/a068
+http://45.171.64.30:2000/play/a015/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLrw1mQ8vXSSXsSZe7YgoJxySqUmJvG-YWt96nRYTFM1yvn7vZ" , Canal infantil
 http://190.102.246.93:9005/play/a03c
@@ -27,13 +28,12 @@ http://190.0.247.38:8000/play/a00e
 http://179.1.240.1:18002/play/a00b
 
 #EXTINF:0 type="stream" channelId="41",Nickelodeon HD
+http://45.189.151.7:8000/play/a07c/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9609
 http://45.5.119.43:4000/play/a0hs/index.m3u8
 http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/110292
 http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/132711
-http://45.189.151.7:8000/play/a07c/index.m3u8
-http://goldtv.lat:80/JUF297LUY0/cta27playec/132691
-
+http://45.171.64.30:2000/play/a014/index.m3u8
 
 #EXTINF:0 type="stream" channelId="TIIN.mx", TeenNick
 http://live.detodotvplay.com:8080/Risario8/Pineda13/31127
@@ -48,9 +48,10 @@ http://45.5.119.43:4000/play/a0fz/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1",CARTOON NETWORK
+http://45.189.151.7:8000/play/a05n
 http://live.detodotvplay.com:8080/Risario8/Pineda13/240
 http://45.5.119.43:4000/play/a029/index.m3u8
-http://45.189.151.7:8000/play/a05n
+http://45.171.64.30:2000/play/a03k/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
 ##EXTVLCOPT:network-caching=1000
@@ -119,10 +120,11 @@ http://38.183.182.166:8000/play/a0va/index.m3u8
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://45.189.151.7:8000/play/a05h
 http://45.5.119.43:4000/play/a0iy/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/237
 http://38.183.182.166:8000/play/a0vi/index.m3u8
-http://45.189.151.7:8000/play/a05h
+http://45.171.64.30:2000/play/a05y/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1188" , E!1
 ##EXTVLCOPT:network-caching=1000
@@ -233,7 +235,7 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/287
 http://38.183.182.166:8000/play/a0vh/index.m3u8
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/309.ts
 http://190.14.10.19:16000/play/a06m/index.m3u8
-
+http://45.171.64.30:2000/play/a01f/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2501" , AMC
 ##EXTVLCOPT:network-caching=1000
@@ -479,10 +481,11 @@ http://38.183.182.166:8000/play/a0vj/index.m3u8
 #EXTINF:0 type="stream" channelId="2724", Discovery H&H
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://45.189.151.7:8000/play/a069
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9667
 http://45.5.119.43:4000/play/a0hw/index.m3u8
 http://38.183.182.166:8000/play/a0vq/index.m3u8
-http://45.189.151.7:8000/play/a069
+http://45.171.64.30:2000/play/a03g/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2839" , Discovery world
 ##EXTVLCOPT:network-caching=1000
@@ -809,9 +812,12 @@ http://45.5.119.43:4000/play/a0jw/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",COMEDY CENTRAL
 #EXTVLCOPT--http-reconnect=true
-http://200.115.120.1:8000/play/ca108/index.m3u8
-http://45.5.119.43:4000/play/a0hy/index.m3u8
 http://45.189.151.7:8000/play/a05x
+http://200.115.120.1:8000/play/ca108/index.m3u8
+http://45.171.64.30:2000/play/a04a/index.m3u8
+http://45.5.119.43:4000/play/a0hy/index.m3u8
+
+
 
 #EXTINF:0 type="stream" channelId="-1",Distrito Comedia
 ##EXTVLCOPT:network-caching=1000
@@ -898,7 +904,7 @@ http://200.115.120.1:8000/play/ca021/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.201.70:8000/play/a0pn/index.m3u8
 http://45.5.119.43:4000/play/a0km/index.m3u8
-
+http://45.171.64.30:2000/play/a00m/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",1 Directv sport
