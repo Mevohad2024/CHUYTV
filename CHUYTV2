@@ -1,5 +1,9 @@
 
 #EXTM3U
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NNA1PtioIudXluo13qD-RFMkblih4RTzkw&s",Apostarias por mi
+
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://179.49.163.34:45000/play/a02m/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/8426
@@ -25,6 +29,7 @@ http://45.5.119.43:4000/play/a0hs/index.m3u8
 http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/110292
 http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/132711
 http://45.171.64.30:2000/play/a014/index.m3u8
+http://177.10.184.60:8002/play/a00b/index.m3u8
 
 #EXTINF:0 type="stream" channelId="TIIN.mx", TeenNick
 http://live.detodotvplay.com:8080/Risario8/Pineda13/31127
@@ -599,7 +604,7 @@ http://200.115.120.1:8000/play/ca014/index.m3u8
 http://45.5.119.43:4000/play/a05o/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 2 Cnco
-http://45.186.106.207:8000/play/a03g/index.m3u88
+http://177.10.184.60:8002/play/a01n/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
 http://38.49.128.38:8000/play/a0n6/index.m3u8
@@ -632,6 +637,7 @@ http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/87616
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 http://45.171.64.30:2000/play/a08z/index.m3u8
 https://streamer2.nexgen.bz/72-AZTECA7/index.m3u8
+http://177.10.184.60:8002/play/a00o/index.m3u8
 
 #EXTINF:0 type="stream" channelId="255",2 Azteca 7
 ##EXTVLCOPT:network-caching=1000
