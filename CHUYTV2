@@ -78,9 +78,8 @@ http://200.115.120.1:8000/play/ca006/index.m3u8
 http://190.90.22.42:5280/play/a0de
 http://45.189.151.7:8000/play/a05o/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9670
-http://goldtv.lat:80/JUF297LUY0/cta27playec/132708
 http://190.14.10.19:16000/play/a02c/index.m3u8
-
+http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
@@ -141,6 +140,7 @@ http://45.189.151.7:8000/play/a05h
 http://45.5.119.43:4000/play/a0iy/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/237
 http://45.171.64.30:2000/play/a05y/index.m3u8
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="1188" , E!1
 ##EXTVLCOPT:network-caching=1000
@@ -170,6 +170,7 @@ http://190.90.22.42:5280/play/a0ej
 http://45.5.117.57:8200/play/a01p/index.m3u8
 http://45.5.119.43:4000/play/a0gw/index.m3u8
 http://45.171.64.30:2000/play/a05z/index.m3u8
+http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="1052" , TNT
 ##EXTVLCOPT:network-caching=1000
@@ -177,12 +178,14 @@ http://45.171.64.30:2000/play/a05z/index.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/460
 http://45.5.119.43:4000/play/a0hu/index.m3u8
 http://190.14.10.19:16000/play/a02s/index.m3u8
+http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="187" , UNIVERSAL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9620
 http://179.49.163.34:45000/play/a01x/index.m3u8
+http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="1719" , PARAMOUNT
 ##EXTVLCOPT:network-caching=1000
@@ -210,12 +213,13 @@ http://45.171.64.30:2000/play/a04o/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9612
 http://45.5.119.43:4000/play/a0iz/index.m3u8
+http://190.11.225.124:5000/live/space_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="530" , Sony chanel
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0hp/index.m3u8
-
+http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="1214" , Sony movies
 ##EXTVLCOPT:network-caching=1000
@@ -235,9 +239,10 @@ http://45.171.64.30:2000/play/a01f/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" , AMC
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://45.189.151.7:8000/play/a05c
 http://live.detodotvplay.com:8080/Risario8/Pineda13/226
 http://45.5.119.43:4000/play/a0gu/index.m3u8
-http://45.189.151.7:8000/play/a05c
+http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="1326" , Cinemax
 ##EXTVLCOPT:network-caching=1000
@@ -292,13 +297,14 @@ http://45.5.119.43:4000/play/a00c/index.m3u8
 http://45.189.151.7:8000/play/a06x
 http://live.detodotvplay.com:8080/Risario8/Pineda13/267
 http://45.5.119.43:4000/play/a0l5/index.m3u8
+http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2585" , HBO+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://live.detodotvplay.com:8080/Risario8/Pineda13/268
 http://45.5.119.43:4000/play/a0l4/index.m3u8
-
+http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2583" , HBO SIGNATURE
 ##EXTVLCOPT:network-caching=1000
@@ -323,7 +329,7 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/276
 http://38.49.128.38:8000/play/a096/index.m3u8
 http://200.115.96.66:4000/play/a02o/index.m3u8
 http://45.5.119.43:4000/play/a0l6/index.m3u8
-
+http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2725" , HBO MUNDI HD
 ##EXTVLCOPT:network-caching=1000
@@ -557,6 +563,7 @@ http://190.0.247.38:8000/play/a020
 http://181.78.106.127:9000/play/ca064/index.m3u8
 http://181.119.64.227:5070/play/a036/index.m3u8
 http://45.171.64.30:2000/play/a08h/index.m3u8
+http://190.11.225.124:5000/live/bandamax_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy914jbEXE38pPlaY8i9_rbDdqwFKggwQeLnf-HQt4BQ&s=10", Lavozgrupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
@@ -630,6 +637,8 @@ http://177.10.184.60:8002/play/a01n/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
 http://38.49.128.38:8000/play/a0n6/index.m3u8
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 4 Cnco
 http://200.115.120.1:8000/play/ca0105/index.m3u8
 
@@ -787,8 +796,6 @@ http://45.189.151.7:8000/play/a05x
 http://200.115.120.1:8000/play/ca108/index.m3u8
 http://45.171.64.30:2000/play/a04a/index.m3u8
 http://45.5.119.43:4000/play/a0hy/index.m3u8
-
-
 
 #EXTINF:0 type="stream" channelId="-1",Distrito Comedia
 ##EXTVLCOPT:network-caching=1000
@@ -1191,6 +1198,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4173
 http://38.49.128.38:8000/play/a0mk/index.m3u8
 http://45.189.151.7:8000/play/a05i
+http://videx-limit182-stream.x10.mx:8000/stream/aym.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
@@ -1221,6 +1229,7 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/8419
 http://148.113.207.98:8000/play/a002/index.m3u8
 http://206.212.244.71:8080/4wVQA7/625159/11885
 http://181.78.106.127:9000/play/ca025/index.m3u8
+http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (MX)
 http://45.5.119.43:4000/play/a05q/index.m3u8
