@@ -494,7 +494,7 @@ http://45.5.119.43:4000/play/a0hv/index.m3u8
 http://45.189.151.7:8000/play/a06c
 http://live.detodotvplay.com:8080/Risario8/Pineda13/24
 http://190.0.247.38:8000/play/a00s
-
+http://videx-limit182-stream.x10.mx:8000/stream/discoveryscience_2.m3u8
 
 #EXTINF:0 type="stream" channelId="1040" , DISCOVERY TLC HD
 ##EXTVLCOPT:network-caching=1000
@@ -969,6 +969,7 @@ http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/342.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.189.151.7:8000/play/a06m
+http://videx-limit182-stream.x10.mx:8000/stream/foxsports1mx.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8FI6IdSD5vUZW3noDfjFNAyWwpZBsvXCG1Xsv9H3VA&s=10",2 FSMX
 ##EXTVLCOPT:network-caching=1000
@@ -985,6 +986,7 @@ http://200.115.98.26:9000/play/a00w/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.189.151.7:8000/play/a06n
+http://videx-limit182-stream.x10.mx:8000/stream/foxsports2mx.m3u8
 
 #EXTINF:0 type="stream" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkPZTeTB1uHMbOlifNMyc0AMuGfnXJ3BT8bk7NHfrAMQ&s=10",2 FSM 2
 ##EXTVLCOPT:network-caching=1000
@@ -1002,7 +1004,7 @@ http://38.49.128.38:8000/play/a0oz/index.m3u8
 #EXTINF:0 type="stream" channelId="180" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5GStPJQ8EvEFBFZGA4tLs4ikZlFBNTMLJh1DekOhopEbIt4KTX6dFv0s&s=10",1 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://videx-limit182-stream.x10.mx:8000/stream/foxsports3mx.m3u8
 
 #EXTINF:0 type="stream" channelId="180",2 FSM 3
 ##EXTVLCOPT:network-caching=1000
@@ -1061,13 +1063,14 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3811
 #EXTVLCOPT--http-reconnect=true
 http://45.189.151.7:8000/play/a06i
 http://live.detodotvplay.com:8080/Risario8/Pineda13/251
-
+http://videx-limit182-stream.x10.mx:8000/stream/espn1.m3u8
 
 #EXTINF:0 type="stream" channelId="2540",2 ESPN MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.189.151.7:8000/play/a06i/index.m3u8
 http://45.171.64.30:2000/play/a064/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="2540",3 ESPN MX
 http://45.5.119.43:4000/play/a052/index.m3u8
@@ -1081,6 +1084,7 @@ http://200.115.120.1:8000/play/ca042/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.189.151.7:8000/play/a06j
+http://videx-limit182-stream.x10.mx:8000/stream/espn2.m3u8
 
 #EXTINF:0 type="stream" channelId="344",3 ESPN 2 MX
 http://45.5.119.43:4000/play/a053/index.m3u8
@@ -1089,7 +1093,7 @@ http://45.5.119.43:4000/play/a053/index.m3u8
 #EXTINF:0 type="stream" channelId="355",1 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
 http://45.5.119.43:4000/play/a054/index.m3u8
-
+http://videx-limit182-stream.x10.mx:8000/stream/espn3.m3u8
 
 #EXTINF:0 type="stream" channelId="355",2 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
@@ -1102,15 +1106,16 @@ http://45.171.64.30:2000/play/a03n/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://181.78.21.46:8009/play/a03m
 http://45.5.119.43:4000/play/a0ix/index.m3u8
-
+http://videx-limit182-stream.x10.mx:8000/stream/espn4.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5.png", ESPN 5 MX
 http://181.78.21.46:8009/play/a018
-
+http://videx-limit182-stream.x10.mx:8000/stream/espn5.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRksdCbT-OswapY0HghjWfnqmV_AR4k_FjSOaNw4EZ6A&s=10" , ESPN 6 MX
 http://181.78.21.46:8009/play/a019
 http://45.5.119.43:4000/play/a0kj/index.m3u8
+http://videx-limit182-stream.x10.mx:8000/stream/espn6.m3u8
 
 #EXTINF:0 type="stream" channelId="2540" , ESPN HD sur 
 
