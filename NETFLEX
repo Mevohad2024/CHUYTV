@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A5thnA1id009vOecLiJHTjfc75ai6arQ0_2vaucYHQ&s=10",Caballero
+#EXTINF:-1 logo= "",Caballero
 http://tv.streamid.tv:8080/series/ChristianRodriguez/bGXb9M94jcny/306360.mkv
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A5thnA1id009vOecLiJHTjfc75ai6arQ0_2vaucYHQ&s=10",Crónicas de exsorcismo
