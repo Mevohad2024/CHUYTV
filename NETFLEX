@@ -1,7 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 logo= "",Caballero
-http://goldtv.lat:80/series/Richi30po/2Q3cWSX5yPDg/440826.mp4
+#EXTINF:-1 logo= "",Caballero 2
+http://goldtv.lat:80/series/Richi30po/2Q3cWSX5yPDg/442164.mp4
+#EXTINF:-1 logo= "",Caballero 3
+http://goldtv.lat:80/series/Richi30po/2Q3cWSX5yPDg/442999.mp4
+#EXTINF:-1 logo= "",Caballero 4
+http://goldtv.lat:80/series/Richi30po/2Q3cWSX5yPDg/450842.mp4
+#EXTINF:-1 logo= "",Caballero 5
+http://goldtv.lat:80/series/Richi30po/2Q3cWSX5yPDg/450843.mp4
+
+
+
+
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A5thnA1id009vOecLiJHTjfc75ai6arQ0_2vaucYHQ&s=10",Crónicas de exsorcismo
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/457747.mp4
