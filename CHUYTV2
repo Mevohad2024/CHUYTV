@@ -28,10 +28,11 @@ http://live.detodotvplay.com:8080/Risario8/Pineda13/460835
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://179.49.163.34:45000/play/a02m/index.m3u8
+http://videx-limit182-stream.x10.mx:8000/stream/bitme.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/8426
 http://181.119.64.227:5070/play/a035/index.m3u8
 http://190.0.247.38:8000/play/a00h
-http://videx-limit182-stream.x10.mx:8000/stream/bitme.m3u8
+
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://live.detodotvplay.com:8080/Risario8/Pineda13/245
@@ -286,9 +287,10 @@ http://45.189.151.7:8000/play/a05c/index.m3u8
 #EXTINF:0 type="stream" channelId="1326" , Cinemax
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=tru
+http://videx-limit182-stream.x10.mx:8000/stream/cinemax.m3u8
 http://live.detodotvplay.com:8080/Risario8/Pineda13/9581
 http://45.5.119.43:4000/play/a0il/index.m3u8
-http://videx-limit182-stream.x10.mx:8000/stream/cinemax.m3u8
+
 
 #EXTINF:0 type="stream" channelId="64" , CINECANAL
 ##EXTVLCOPT:network-caching=1000
@@ -1121,9 +1123,9 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3811
 #EXTINF:0 tvg-id="ESPN.MX.mx" type="stream" channelId="2540",1 ESPN MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a06i
-http://live.detodotvplay.com:8080/Risario8/Pineda13/251
 http://videx-limit182-stream.x10.mx:8000/stream/espn1.m3u8
+http://live.detodotvplay.com:8080/Risario8/Pineda13/251
+
 
 #EXTINF:0 type="stream" channelId="2540",2 ESPN MX
 ##EXTVLCOPT:network-caching=1000
@@ -1152,8 +1154,9 @@ http://45.5.117.57:8999/play/a04h/index.m3u8
 
 #EXTINF:0 type="stream" channelId="355",1 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
-http://45.5.119.43:4000/play/a054/index.m3u8
 http://videx-limit182-stream.x10.mx:8000/stream/espn3.m3u8
+http://45.5.119.43:4000/play/a054/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="355",2 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
