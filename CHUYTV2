@@ -41,7 +41,7 @@ http://streamingtv.vip:80/PqaWkKz2/XtxFA3Jme/132711
 http://45.171.64.30:2000/play/a014/index.m3u8
 http://45.189.151.7:8000/play/a07c/index.m3u8
 http://177.10.184.60:8002/play/a00b/index.m3u8
-
+http://45.173.72.26:2072/play/a0bf
 
 #EXTINF:0 type="stream" channelId="322" , NICK JR.
 ##EXTVLCOPT:network-caching=1000
