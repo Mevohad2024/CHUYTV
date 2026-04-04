@@ -686,6 +686,7 @@ http://45.5.117.57:8999/play/a0ev/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 http://38.49.128.38:8000/play/a0la/index.m3u8
+http://www.1play.cool:60001/ULtR63183811dd/kquFuCz3EpNa/134288
 
 #EXTINF:0 type="stream" channelId="255",3 Azteca 7
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
@@ -1182,6 +1183,7 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4173
 http://38.49.128.38:8000/play/a0mk/index.m3u8
 http://videx-limit182-stream.x10.mx:8000/stream/aym.m3u8
 http://45.189.151.7:8000/play/a05i/index.m3u8
+http://www.1play.cool:60001/ULtR63183811dd/kquFuCz3EpNa/134286
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
