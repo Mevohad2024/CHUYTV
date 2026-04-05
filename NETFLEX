@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfiLcH3gGzz6sBxzTNVi-AXyZf27X7U_zgnTdlL-OvQ&s=10",inthum
+http://streamprostk.com:2082/movie/azplay1438/6882636383/137203.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDSsoAlqeQ6IVeGyqMuQGd8MW1KjbB8JMDYD2ytzthg&s=10",Mario
 http://canal-pro.xyz:8080/movie/998413036tv/ngukt56/280658.mp4
 
