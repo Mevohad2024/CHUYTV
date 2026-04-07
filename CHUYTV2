@@ -8,12 +8,12 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNksV2bb3FsRnUm5Wb55o2JQxCktmiqW0nk6jwaS2FNw&s=10",FAMOSOS CAM1
 http://streamingtv.vip:80//live/Enjoydeepmauro/0984188770/451546.ts
 http://www.1play.cool:25461/user326/5533ad997a/420295
-http://www.1play.cool:60001/ULtR63183811dd/kquFuCz3EpNa/420295
+
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNksV2bb3FsRnUm5Wb55o2JQxCktmiqW0nk6jwaS2FNw&s=10",FAMOSOS CAM12
 http://streamingtv.vip:80//live/Enjoydeepmauro/0984188770/451543.ts
 http://www.1play.cool:25461/user326/5533ad997a/420296
-http://www.1play.cool:60001/ULtR63183811dd/kquFuCz3EpNa/420296
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://179.49.163.34:45000/play/a02m/index.m3u8
@@ -192,6 +192,7 @@ http://200.115.96.66:4000/play/a0dq/index.m3u8
 http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
 http://45.5.119.43:4000/play/a0kl/index.m3u8
 http://45.5.117.57:8999/play/a04l/index.m3u8
+http://200.4.195.66:8000/play/a00j/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_GaU52nUoGZAFyd9susUdm7PZNpc9meSRJqBscvKJ0sWn5a6J", PANICO HD
 ##EXTVLCOPT:network-caching=1000
@@ -1026,14 +1027,17 @@ http://200.92.227.238:8000/play/a0uy/index.m3u8
 http://45.5.151.251:8000/play/a00l/index.m3u8
 http://181.13.252.102:8000/play/a07j/index.m3u8
 http://181.13.112.203:8100/play/a07j/index.m3u8
+http://200.4.195.66:8000/play/a009/index.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFVFyQT0crIywkmEe5lLfPOd9XIXuqO3c81bfQU9G5Q&s=10", Fox sport 2
 http://45.5.151.251:8000/play/a00m/index.m3u8
 http://181.13.252.102:8000/play/a05c/index.m3u8
 http://181.13.112.203:8100/play/a05c/index.m3u8
+http://200.4.195.66:8000/play/a004/index.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQAAi0AOemIKs5MTStrXGzCmM16AE-fU0727JsagnQA&s=10", Fox sport 3
 http://45.5.151.251:8000/play/a00n/index.m3u8
 http://181.13.252.102:8000/play/a02t/index.m3u8
 http://181.13.112.203:8100/play/a02t/index.m3u8
+http://200.4.195.66:8000/play/a008/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
