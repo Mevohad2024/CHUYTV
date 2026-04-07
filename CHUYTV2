@@ -896,6 +896,7 @@ http://181.78.106.127:9000/play/ca026/index.m3u8
 https://peaky.techcoder40.workers.dev/5981.m3u8
 http://201.240.104.137:8000/play/a0aa/index.m3u8
 http://201.230.121.85:8000/play/a0yv/index.m3u8
+http://181.224.255.210:8001/play/a0s8/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnRa20kEGAM6iBHayK5SfitDllKYs2Kd6Q9Sb4RtGNw&s=10",1 Directv sport2
 ##EXTVLCOPT:network-caching=1000
