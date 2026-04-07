@@ -750,7 +750,7 @@ https://e4.thetvapp.to/hls/UnivisionEast/index.m3u8
 http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1099/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3209" , 3 Univisión
-http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8395
+http://200.39.57.254:8008/play/a00x/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHOgAfm932xrC8h57zApK8k33gfNS8wnaSpry4Yf-gQ&s=10",1 Unimas
 ##EXTVLCOPT:network-caching=1000
@@ -759,10 +759,8 @@ http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/57969
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-yl63zZKG2zwmCEwPzvzzcuvLAnvnvi1frUL_D3lHA&s=10",2 Unimas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8384
+http://200.39.57.254:8008/play/a003/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjMhVH4ShcGj34bMboM0d_7eTGGZXFHOJIyHKqjm0Lg&s=10",3 Unimas
-http://172.93.102.112:8989/158753_.m3u8
-#EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjMhVH4ShcGj34bMboM0d_7eTGGZXFHOJIyHKqjm0Lg&s=10",4 Unimas
 http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1100/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
@@ -782,11 +780,11 @@ http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1080/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3779" ,1 Universo
-https://streamer2.nexgen.bz/71-NBCUNIVERSO/index.m3u8
+http://200.39.57.254:8008/play/a004/index.m3u8
 #EXTINF:0 type="stream" channelId="3779" ,2 Universo
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3696
-#EXTINF:0 type="stream" channelId="3779" ,3 Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3779" ,3 Universo
+
 
 #EXTINF:0 type="stream" channelId="134", DPELICULA
 http://179.49.163.34:45000/play/a013/index.m3u8
