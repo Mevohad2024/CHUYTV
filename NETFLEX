@@ -48,6 +48,9 @@ http://tv.diablotv.net:8080/movie/villasandres1/82fd7c3d2b72/128374.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG48yWzF0ZvRdnR01HmaTDOk8UIE8vSLli9OozoSlSZw&s=10",Demon sleyer castillo infinito
 http://tv.diablotv.net:8080/movie/villasandres1/82fd7c3d2b72/151869.mkv
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkFhkg8mIwQaS_Yb3galiYzw9z_nTSZmTVTNGpak9uQ&s=10",E1 Amor por subcrption
+http://todoplus.digital:80/series/hhasg3as/hhasg3as/753762.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHIC3CRyYpB0FotqarRedjfF1vQpeB_goVBZ8VYQ7HFGfkXqX-TTr7IDci&s=10",E1 luz que guia
 http://redworld.pro:8880/series/diego@1736d/PGPc2dtkQ3sX/514379.mp4
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHIC3CRyYpB0FotqarRedjfF1vQpeB_goVBZ8VYQ7HFGfkXqX-TTr7IDci&s=10",E2 luz que guia
@@ -89,10 +92,6 @@ http://redworld.pro:8880/series/diego@1736d/PGPc2dtkQ3sX/520814.mp4
 http://redworld.pro:8880/series/diego@1736d/PGPc2dtkQ3sX/521158.mp4
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-iD0YdOyYUIH8xvpf7N3MFaXgc-bLRFs14tFzjkxWA&s=10",E10 Beso de sirena
 http://redworld.pro:8880/series/diego@1736d/PGPc2dtkQ3sX/521420.mp4
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkFhkg8mIwQaS_Yb3galiYzw9z_nTSZmTVTNGpak9uQ&s=10",E1 Amor por subcrption
-http://todoplus.digital:80/series/hhasg3as/hhasg3as/753762.mkv
-
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcvB--vUdkpW2stLcMmLLtPBPDvkscKvjKRKHxI3SIqA&s=10",E1 goblin
 http://redworld.pro:8880/series/diego@1736d/PGPc2dtkQ3sX/519906.mp4
