@@ -106,6 +106,7 @@ http://45.189.151.7:8000/play/a07o/index.m3u8
 http://181.78.106.127:9000/play/ca054/index.m3u8
 http://190.0.247.38:8000/play/a00k
 http://38.49.128.38:8000/play/a0no/index.m3u8
+http://200.58.64.244:9000/play/a01d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
@@ -893,28 +894,25 @@ http://200.115.120.1:8000/play/ca021/index.m3u8
 http://200.60.124.19:29000/play/a081/index.m3u8
 http://181.78.19.125:9096/play/a008
 http://190.108.89.228:8000/play/a05w/index.m3u8
-http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9561
 http://181.78.106.127:9000/play/ca026/index.m3u8
-http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+https://peaky.techcoder40.workers.dev/5981.m3u8
+http://201.240.104.137:8000/play/a0aa/index.m3u8
+http://201.230.121.85:8000/play/a0yv/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnRa20kEGAM6iBHayK5SfitDllKYs2Kd6Q9Sb4RtGNw&s=10",1 Directv sport2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://199.188.103.176:8000/play/a045/index.m3u8
-http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9564
-http://179.51.136.19:8000/play/a112/index.m3u8
+https://peaky.techcoder40.workers.dev/5982.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebWz0gUaBzK7N-JdqHh6LW66zII4C0y3ZSA&usqp=CAU",1 Directv sport +
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://199.188.103.176:8000/play/a046/index.m3u8
-http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9557
-http://179.51.136.19:8000/play/a113/index.m3u8
+http://200.62.239.162:8000/play/a077/index.m3u8
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9923
+
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports premium
 http://200.115.120.1:8000/play/ca040/index.m3u8
@@ -952,16 +950,15 @@ http://45.189.151.7:8000/play/a073/index.m3u8
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 1 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+https://peaky.techcoder40.workers.dev/5976.m3u8
 
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 2 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://148.113.207.98:8000/play/a00a/index.m3u8
 http://45.171.64.30:2000/play/a093/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 3 Foxdeportes
-
+http://200.58.64.244:9000/play/a015/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJNpyVqpkMUSMKXdX525olkDZxhTqglgUhVZpDTc65A&s",1 FSMX
 ##EXTVLCOPT:network-caching=1000
@@ -1021,7 +1018,7 @@ http://190.83.9.222:8000/play/ca005/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",2 FS PREMIUM
 http://200.92.227.238:8000/play/a0uy/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",3 FS PREMIUM
-
+http://200.58.64.244:9000/play/a01i/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",3 FS PREMIUM
 http://200.92.227.238:8000/play/a0uy/index.m3u8
 
@@ -1042,7 +1039,7 @@ http://181.13.112.203:8100/play/a02t/index.m3u8
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://200.58.64.244:9000/play/a00i/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3811
