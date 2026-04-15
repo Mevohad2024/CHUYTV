@@ -339,12 +339,14 @@ http://45.5.117.57:8999/play/a05s/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://38.49.128.38:8000/play/a0ji/index.m3u8
 http://177.234.230.206:8011/play/a0lp/index.m3u8
+http://181.224.255.210:8001/play/a0re/index.m3u8
 
 #EXTINF:0 type="stream" channelId="361" , HBO POP
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://177.234.230.206:8011/play/a00y/index.m3u8
 http://201.237.193.180:9981/stream/channelid/185817598?profile=pass
+http://181.224.255.210:8001/play/a0on/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2587" , HBO XTREME
 ##EXTVLCOPT:network-caching=1000
@@ -355,12 +357,14 @@ http://45.5.119.43:4000/play/a0l6/index.m3u8
 http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
 http://45.5.117.57:8999/play/a05u/index.m3u8
 http://45.189.151.7:8000/play/a06w/index.m3u8
+http://181.224.255.210:8001/play/a0nw/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2725" , HBO MUNDI HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.49.128.38:8000/play/a0jj/index.m3u8
 http://177.234.230.206:8011/play/a0lq/index.m3u8
+http://181.224.255.210:8001/play/a0rf/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxibR0UmgBTgqR_Z7hr1fc43Q5AIw5s0g867HsLT1Fyg&s=10", Universal Cinema HD
 ##EXTVLCOPT:network-caching=1000
@@ -596,11 +600,10 @@ http://45.189.151.7:8000/play/a074/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",MTV(165)
 http://45.189.151.7:8000/play/a071/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" , Nickmusic
+#EXTINF:0 type="stream" channelId="-1" ,HEI HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://177.234.230.206:8011/play/a0i5/index.m3u8
-http://181.78.201.70:8000/play/a0i3/index.m3u8
+http://181.224.255.210:8001/play/a0sg/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1959" , BANDAMAX HD
 ##EXTVLCOPT:network-caching=1000
@@ -961,6 +964,7 @@ http://45.5.117.57:8200/play/a0f2/index.m3u8
 http://200.115.96.66:4000/play/a029/index.m3u8
 http://45.5.117.57:8200/play/a050/index.m3u8
 http://190.14.10.19:16000/play/a09u/index.m3u8
+http://45.5.118.152:8000/play/a08f/index.m3u8
 
 #EXTINF:0 type="stream" channelId="0"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshEJRSr7B8KdYFY119B1vMrL1uREd4M3SKLhhJpv4_A&s=10", Sky premier
 
@@ -1173,6 +1177,7 @@ http://45.5.119.43:4000/play/a05s/index.m3u8
 http://45.186.105.214:8000/play/a03v/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",TD+2 HD
+http://45.5.118.152:8000/play/a0b4/index.m3u8
 http://45.186.105.214:8000/play/a03w/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",CDO BASICO
