@@ -884,7 +884,7 @@ http://181.78.21.46:8009/play/a038
 http://45.189.151.7:8000/play/a05d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Kanal D HD
-
+http://8.243.126.131:8000/play/a0mn/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", ANTENA 3
 ##EXTVLCOPT:network-caching=1000
@@ -922,6 +922,7 @@ http://181.78.19.125:9096/play/a008
 http://190.108.89.228:8000/play/a05w/index.m3u8
 http://181.78.106.127:9000/play/ca026/index.m3u8
 https://peaky.techcoder40.workers.dev/5981.m3u8
+http://8.243.126.131:8000/play/a05a/index.m3u8
 http://201.240.104.137:8000/play/a0aa/index.m3u8
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 http://181.224.255.210:8001/play/a0s8/index.m3u8
