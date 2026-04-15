@@ -600,7 +600,7 @@ http://45.189.151.7:8000/play/a071/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nickmusic
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/11940.ts
 
-#EXTINF:0 type="stream" channelId="-1" ,HEI HD
+#EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR44NQHbF9ayIySrhuEX63RThpgeITGQ-cPBFImn3Xp_A&s",HEI HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.224.255.210:8001/play/a0sg/index.m3u8
@@ -701,7 +701,7 @@ http://200.115.120.1:8000/play/ca0105/index.m3u8
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/122592.ts
 http://45.189.151.7:8000/play/a06l/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1"  logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado_400x400.jpg", TELEFORMULA HD
+#EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQl_7c6Om8K-fNYPSvNUHTYFCICJxzoO93svNZUdv5Kg&s=10", TELEFORMULA HD
 http://38.49.128.38:8000/play/a0be/index.m3u8
 
 
@@ -957,7 +957,7 @@ http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/417204.ts
 http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/94464
 http://45.5.117.57:8999/play/a0gn/index.m3u8
 
-#EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNJsK8L9YXnICakQjfq_4bsuuTzFGAYjQjQJjPg1Bzp9wJdCr-fz9eoWS&s=10", SKY BUNDESLIGA
+#EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUU8n9zaSIs6lik8P7dUtv25LaOw66JjUVxx54Q8Oe6A&s=10", SKY BUNDESLIGA
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.117.57:8200/play/a0f2/index.m3u8
@@ -968,7 +968,7 @@ http://45.5.117.57:8999/play/a0f2/index.m3u8
 http://45.5.117.57:8200/play/a0f2/index.m3u8
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592040.ts
 
-#EXTINF:0 type="stream" channelId="0"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRarnK-_V5bcT-hU86OaDrXwfKKZer6Is_w&usqp=CAU", SKY LA LIGA
+#EXTINF:0 type="stream" channelId="0"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvj1EqW7JaMWLcCGyZmAWalwn_txT8Yz58LYa-rMSoIw&s=10", SKY LA LIGA
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a029/index.m3u8
@@ -979,7 +979,7 @@ http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592041.ts
 #EXTINF:0 type="stream" channelId="0"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshEJRSr7B8KdYFY119B1vMrL1uREd4M3SKLhhJpv4_A&s=10", Sky premier
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592042.ts
 
-#EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SM1IAOiAR5u3dZDJ-HKMAAltmxJJ0vN4Mm492o0CjjlB8rw13fkiNC8W&s=10", Azteca Deportes HD
+#EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJx60t2KDnze-Pu7eJ4BJNhjSUv2P8V1hr5oGvckWCJg&s=10", Azteca Deportes HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.191.43.69:8000/play/a03z/index.m3u8
