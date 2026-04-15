@@ -10,12 +10,12 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNksV2bb3FsRnUm5Wb55o2JQxCktmiqW0nk6jwaS2FNw&s=10",FAMOSOS CAM1
 http://streamingtv.vip:80//live/Enjoydeepmauro/0984188770/451546.ts
 http://www.1play.cool:25461/user326/5533ad997a/420295
-
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/747415.ts
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNksV2bb3FsRnUm5Wb55o2JQxCktmiqW0nk6jwaS2FNw&s=10",FAMOSOS CAM12
 http://streamingtv.vip:80//live/Enjoydeepmauro/0984188770/451543.ts
 http://www.1play.cool:25461/user326/5533ad997a/420296
-
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/747416.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://179.49.163.34:45000/play/a02m/index.m3u8
@@ -295,6 +295,7 @@ http://45.186.106.220:5550/play/a044/index.m3u8
 http://181.119.86.68:8000/play/b044/index.m3u8
 http://45.186.105.214:8000/play/a035/index.m3u8
 http://138.36.24.8:8000/play/a04f/index.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/46168.ts
 
 #EXTINF:0 type="stream" channelId="1694" , MC
 ##EXTVLCOPT:network-caching=1000
@@ -596,6 +597,9 @@ http://45.189.151.7:8000/play/a074/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",MTV(165)
 http://45.189.151.7:8000/play/a071/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1", Nickmusic
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/11940.ts
+
 #EXTINF:0 type="stream" channelId="-1" ,HEI HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -694,6 +698,7 @@ http://38.49.128.38:8000/play/a0n6/index.m3u8
 http://200.115.120.1:8000/play/ca0105/index.m3u8
 
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/122592.ts
 http://45.189.151.7:8000/play/a06l/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://pbs.twimg.com/profile_images/247198878/logotelenet3delgado_400x400.jpg", TELEFORMULA HD
@@ -707,7 +712,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 http://38.49.128.38:8000/play/a0d5/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3127", Imagen tv
-
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/122594.ts
 
 #EXTINF:0 type="stream" channelId="255",1 Azteca 7
 ##EXTVLCOPT:network-caching=1000
@@ -742,12 +747,14 @@ http://45.189.151.7:8000/play/a05u/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 http://38.49.128.38:8000/play/a0dm/index.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/122611.ts
 http://45.189.151.7:8000/play/a075/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MVSTV
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/755546.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmQo8t45p3w617pNYTgH34UdL680D0VJ4pWZDVG4ifQ&s=10", Canal 4.1
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
@@ -781,6 +788,7 @@ http://cord-cutter.net:8080/wY96uK/850378/15336
 http://172.93.102.112:8989/158765_.m3u8
 https://e4.thetvapp.to/hls/UnivisionEast/index.m3u8
 http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1099/index.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/175731.ts
 
 #EXTINF:0 type="stream" channelId="3209" , 3 Univisión
 http://200.39.57.254:8008/play/a00x/index.m3u8
@@ -793,6 +801,8 @@ http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/57969
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.39.57.254:8008/play/a003/index.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/175772.ts
+
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjMhVH4ShcGj34bMboM0d_7eTGGZXFHOJIyHKqjm0Lg&s=10",3 Unimas
 http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1100/index.m3u8
 
@@ -816,8 +826,9 @@ http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1080/index.m3u8
 http://200.39.57.254:8008/play/a004/index.m3u8
 #EXTINF:0 type="stream" channelId="3779" ,2 Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/205618.ts
 #EXTINF:0 type="stream" channelId="3779" ,3 Universo
-
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/79070.ts
 
 #EXTINF:0 type="stream" channelId="134", DPELICULA
 http://179.49.163.34:45000/play/a013/index.m3u8
@@ -920,25 +931,28 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 http://201.240.104.137:8000/play/a0aa/index.m3u8
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 http://181.224.255.210:8001/play/a0s8/index.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/417198.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnRa20kEGAM6iBHayK5SfitDllKYs2Kd6Q9Sb4RtGNw&s=10",1 Directv sport2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://peaky.techcoder40.workers.dev/5982.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/417199.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebWz0gUaBzK7N-JdqHh6LW66zII4C0y3ZSA&usqp=CAU",1 Directv sport +
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.62.239.162:8000/play/a077/index.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592039.ts
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592031.ts
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports premium
 http://200.115.120.1:8000/play/ca040/index.m3u8
-
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/417204.ts
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iw3Lzx5CrDXWiBQEFdcEDJl92QYuitb7uy5j_sWMuQ&s", DAZN
 http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/94464
 http://45.5.117.57:8999/play/a0gn/index.m3u8
@@ -952,6 +966,7 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 http://200.115.96.66:4000/play/a02a/index.m3u8
 http://45.5.117.57:8999/play/a0f2/index.m3u8
 http://45.5.117.57:8200/play/a0f2/index.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592040.ts
 
 #EXTINF:0 type="stream" channelId="0"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRarnK-_V5bcT-hU86OaDrXwfKKZer6Is_w&usqp=CAU", SKY LA LIGA
 ##EXTVLCOPT:network-caching=1000
@@ -960,9 +975,9 @@ http://200.115.96.66:4000/play/a029/index.m3u8
 http://45.5.117.57:8200/play/a050/index.m3u8
 http://190.14.10.19:16000/play/a09u/index.m3u8
 http://45.5.118.152:8000/play/a08f/index.m3u8
-
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592041.ts
 #EXTINF:0 type="stream" channelId="0"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshEJRSr7B8KdYFY119B1vMrL1uREd4M3SKLhhJpv4_A&s=10", Sky premier
-
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592042.ts
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SM1IAOiAR5u3dZDJ-HKMAAltmxJJ0vN4Mm492o0CjjlB8rw13fkiNC8W&s=10", Azteca Deportes HD
 ##EXTVLCOPT:network-caching=1000
@@ -980,14 +995,15 @@ https://peaky.techcoder40.workers.dev/5976.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.171.64.30:2000/play/a093/index.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/595878.ts
 
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 3 Foxdeportes
 http://200.58.64.244:9000/play/a015/index.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/591999.ts
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJNpyVqpkMUSMKXdX525olkDZxhTqglgUhVZpDTc65A&s",1 FSMX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://videx-limit182-stream.x10.mx:8000/stream/foxsports1mx.m3u8
 http://45.189.151.7:8000/play/a06m/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8FI6IdSD5vUZW3noDfjFNAyWwpZBsvXCG1Xsv9H3VA&s=10",2 FSMX
@@ -995,7 +1011,7 @@ http://45.189.151.7:8000/play/a06m/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a0jx/index.m3u8
 http://190.83.9.222:8000/play/ca006/index.m3u8
-
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592003.ts
 #EXTINF:0 type="stream" logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQHRTbeNDhHXQmYbl34AjXNluc6PugsG7MY336fqwqfqDo3-z9",3 FSMX
 http://200.115.120.1:8000/play/ca041/index.m3u8
 
@@ -1043,7 +1059,7 @@ http://200.92.227.238:8000/play/a0uy/index.m3u8
 http://200.58.64.244:9000/play/a01i/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",3 FS PREMIUM
 http://200.92.227.238:8000/play/a0uy/index.m3u8
-
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592012.ts
 
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNqfv0bF_Sk8U7uBDgO6RAITHvxmmld6vjR5cjs6LIA&s=10", Fox sport
 http://45.5.151.251:8000/play/a00l/index.m3u8
@@ -1065,9 +1081,10 @@ http://200.4.195.66:8000/play/a008/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.58.64.244:9000/play/a00i/index.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/595818.ts
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3811
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/591971.ts
 
 #EXTINF:0 tvg-id="ESPN.MX.mx" type="stream" channelId="2540",1 ESPN MX
 ##EXTVLCOPT:network-caching=1000
@@ -1195,6 +1212,7 @@ http://190.108.89.228:8000/play/a0cl/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.21.46:8009/play/a02s
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/13767.ts
 
 #EXTINF:0 type="stream" channelId="-1",Win Sports+
 ##EXTVLCOPT:network-caching=1000 
@@ -1202,6 +1220,7 @@ http://181.78.21.46:8009/play/a02s
 http://45.184.87.142:8000/play/a04d
 http://181.78.19.125:9096/play/a021
 http://181.78.79.131:8000/play/a0n1
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/13770.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9V8Hc6ZO1A6gweWLrsJ1FqbmwfCgrqj_VK2Rmhci2OIwN9gnUZlVO-Q&s=10" , Latin America Sport
 http://45.171.64.30:8800/play/a027
@@ -1212,10 +1231,10 @@ http://45.186.105.214:8000/play/a01p/index.m3u8
 #EXTINF:0 type="stream" channelId="227" , AYM SPORTS
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4173
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/122518.ts
 http://38.49.128.38:8000/play/a0mk/index.m3u8
 http://45.189.151.7:8000/play/a05i/index.m3u8
-
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/755478.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
@@ -1225,9 +1244,10 @@ http://190.60.56.41:8000/play/a009/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.49.128.38:8000/play/a0mj/index.m3u8
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/574232.ts
 
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES 2 HD
-
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/755494.ts
 
 #EXTINF:0 type="stream" channelId="4665" , PX SPORTS
 ##EXTVLCOPT:network-caching=1000
@@ -1240,6 +1260,14 @@ http://138.36.24.8:8000/play/a07i/index.m3u8
 #EXTINF:-1 type="stream" channelid="-1", adrenalina
 http://45.173.201.51:4000/play/a0l5/index.m3u8
 
+#EXTINF:-1 type="stream" channelid="-1", FOXONE
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592015.ts
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/755482.ts
+#EXTINF:-1 type="stream" channelid="-1", FOXONE
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/730392.ts
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",0 TUDN HD (MX)
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/443131.ts
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (MX)
 http://45.5.117.57:8200/play/a04t/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (MX)
