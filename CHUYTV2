@@ -298,6 +298,7 @@ http://45.5.119.43:4000/play/a0ij/index.m3u8
 http://45.186.106.220:5550/play/a044/index.m3u8
 http://181.119.86.68:8000/play/b044/index.m3u8
 http://45.186.105.214:8000/play/a035/index.m3u8
+http://138.36.24.8:8000/play/a04f/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1694" , MC
 ##EXTVLCOPT:network-caching=1000
@@ -305,6 +306,7 @@ http://45.186.105.214:8000/play/a035/index.m3u8
 http://179.49.163.34:45000/play/a01w/index.m3u8
 http://200.115.98.26:9000/play/a081/index.m3u8
 http://45.186.105.214:8000/play/a01v/index.m3u8
+http://138.36.24.8:8000/play/a07n/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1330" , HBO
 ##EXTVLCOPT:network-caching=1000
@@ -885,6 +887,7 @@ http://45.189.151.7:8000/play/a05d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Kanal D HD
 http://8.243.126.131:8000/play/a0mn/index.m3u8
+http://138.36.24.8:8000/play/a09x/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", ANTENA 3
 ##EXTVLCOPT:network-caching=1000
@@ -1252,6 +1255,7 @@ http://38.49.128.38:8000/play/a0mj/index.m3u8
 http://200.115.96.66:4000/play/a0e0/index.m3u8
 http://45.5.119.24:8000/play/a048/index.m3u8
 http://200.115.98.26:9000/play/a07u/index.m3u8
+http://138.36.24.8:8000/play/a07i/index.m3u8
 
 #EXTINF:-1 type="stream" channelid="-1", adrenalina
 http://45.173.201.51:4000/play/a0l5/index.m3u8
@@ -1270,6 +1274,9 @@ http://200.115.120.1:8000/play/ca039/index.m3u8
 http://45.186.105.214:8000/play/a05r/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (MX)
 http://45.5.117.57:8200/play/a0ef/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",8 TUDN HD (MX)
+http://181.119.111.25:4000/play/a04f/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",0 TUDN HD (US)
 http://45.5.117.57:8200/play/a04t/index.m3u8
