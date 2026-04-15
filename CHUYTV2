@@ -8,14 +8,14 @@ http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/457965.mp4
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNksV2bb3FsRnUm5Wb55o2JQxCktmiqW0nk6jwaS2FNw&s=10",FAMOSOS CAM1
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/747415.ts
 http://streamingtv.vip:80//live/Enjoydeepmauro/0984188770/451546.ts
 http://www.1play.cool:25461/user326/5533ad997a/420295
-http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/747415.ts
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNksV2bb3FsRnUm5Wb55o2JQxCktmiqW0nk6jwaS2FNw&s=10",FAMOSOS CAM12
+http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/747416.ts
 http://streamingtv.vip:80//live/Enjoydeepmauro/0984188770/451543.ts
 http://www.1play.cool:25461/user326/5533ad997a/420296
-http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/747416.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
 http://179.49.163.34:45000/play/a02m/index.m3u8
@@ -1263,7 +1263,7 @@ http://45.173.201.51:4000/play/a0l5/index.m3u8
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592015.ts
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/755482.ts
-#EXTINF:-1 type="stream" channelid="-1" logo= "",FOXONE
+#EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10",FOXONE
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/730392.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",0 TUDN HD (MX)
