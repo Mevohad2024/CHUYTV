@@ -31,7 +31,7 @@ http://45.171.64.30:2000/play/a015/index.m3u8
 http://45.5.117.57:8999/play/a03s/index.m3u8
 http://45.189.151.7:8000/play/a068/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="",FMH kids
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbk6iQ-BMKthjAyZM6ZmqhOvaCs2fR5orz9Fo2bc6&s=10",FMH kids
 http://45.173.201.51:4000/play/a0m5/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLrw1mQ8vXSSXsSZe7YgoJxySqUmJvG-YWt96nRYTFM1yvn7vZ" , Canal infantil
@@ -111,7 +111,7 @@ http://190.0.247.38:8000/play/a00k
 http://38.49.128.38:8000/play/a0no/index.m3u8
 http://200.58.64.244:9000/play/a01d/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1",RAKUTEN VIKI
+#EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYb9tMm1t74Kuoa0-zQ0bpsHW6fN2o3hRpD0NpXhlxQ&s=10",RAKUTEN VIKI
 http://200.4.195.66:8000/play/a00o/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",PASIONES
@@ -422,7 +422,7 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 https://freetv.stream.olympusatmedia.com/index.m3u8
 http://45.189.151.7:8000/play/a07f/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="",FM family
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQcyoQAfAo_haM4Ab-kpPCv9970-XJzxtrPZEa83STw&s=10",FM family
 http://45.173.201.51:4000/play/a0m4/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbiyhk67avCeuc7KO14kAPX7v6WACjHCGU62yj00-VlJaDZqwqU5QFURq&s=10",FMHMOVIES
