@@ -110,6 +110,19 @@ http://190.0.247.38:8000/play/a00k
 http://38.49.128.38:8000/play/a0no/index.m3u8
 http://200.58.64.244:9000/play/a01d/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1",PASIONES
+https://streamer2.nexgen.bz/80-PASIONES/index.m3u8
+http://181.78.12.164:9000/play/a03t
+http://181.78.99.187:8000/play/a0ld/index.m3u8
+http://45.5.119.43:4000/play/a0kq/index.m3u8
+http://45.5.117.57:8999/play/a04p/index.m3u8
+http://45.189.151.7:8000/play/a07e/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Canal claro
+http://38.180.133.31:8000/play/a0yi/index.m3u8
+http://45.5.117.57:8999/play/a05o/index.m3u8
+http://45.186.105.214:8000/play/a011/index.m3u8
+
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -846,14 +859,6 @@ http://45.189.151.7:8000/play/a05g/index.m3u8
 http://181.78.21.46:8009/play/a038
 http://45.189.151.7:8000/play/a05d/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1",PASIONES
-https://streamer2.nexgen.bz/80-PASIONES/index.m3u8
-http://181.78.12.164:9000/play/a03t
-http://181.78.99.187:8000/play/a0ld/index.m3u8
-http://45.5.119.43:4000/play/a0kq/index.m3u8
-http://45.5.117.57:8999/play/a04p/index.m3u8
-http://45.189.151.7:8000/play/a07e/index.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", Kanal D HD
 
 
@@ -881,10 +886,6 @@ http://181.119.85.222:8000/play/a02t/index.m3u8
 http://179.49.163.34:45000/play/a03a/index.m3u8
 http://190.29.110.32:450/play/a0bj/index.m3u8
 http://181.119.85.222:8000/play/a02z/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", Canal claro
-http://38.180.133.31:8000/play/a0yi/index.m3u8
-http://45.5.117.57:8999/play/a05o/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" , Más Chic 
 http://200.115.120.1:8000/play/ca021/index.m3u8
