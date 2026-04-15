@@ -555,6 +555,7 @@ http://45.5.119.43:4000/play/a0gq/index.m3u8
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4170
 http://201.237.193.180:9981/stream/channelid/1974110378?profile=pass
 http://45.5.117.57:8999/play/a01j/index.m3u8
+http://181.119.111.25:4000/play/a0bz/index.m3u8
 
 #EXTINF:0 type="stream" channelId="56",NATIONAL GEOGRAPHIC
 ##EXTVLCOPT:network-caching=1000
@@ -887,6 +888,7 @@ http://45.189.151.7:8000/play/a05d/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Kanal D HD
 http://8.243.126.131:8000/play/a0mn/index.m3u8
+http://181.119.111.25:4000/play/a0l2/index.m3u8
 http://138.36.24.8:8000/play/a09x/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", ANTENA 3
@@ -1168,7 +1170,7 @@ http://45.5.117.57:8200/play/a05n/index.m3u8
 http://190.14.1.214:40000/play/a09s
 http://45.5.117.57:8200/play/a04z/index.m3u8
 http://45.5.119.43:4000/play/a02v/index.m3u8
-
+http://181.119.111.25:4000/play/a0f1/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1591", BEIN SPORTS Ñ
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
