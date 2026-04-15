@@ -1177,10 +1177,10 @@ http://200.59.188.3:8000/play/a0cm
 http://181.78.106.127:9000/play/ca039/index.m3u8
 http://45.5.119.43:4000/play/a05s/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1",TD+ HD
+#EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
 http://45.186.105.214:8000/play/a03v/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1",TD+2 HD
+#EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHThwBklNqNbichSst_sEKRDSu4EERFKJdb0_HKAFhyw&s=10",TD+2 HD
 http://45.5.118.152:8000/play/a0b4/index.m3u8
 http://45.186.105.214:8000/play/a03w/index.m3u8
 
@@ -1257,13 +1257,13 @@ http://45.5.119.24:8000/play/a048/index.m3u8
 http://200.115.98.26:9000/play/a07u/index.m3u8
 http://138.36.24.8:8000/play/a07i/index.m3u8
 
-#EXTINF:-1 type="stream" channelid="-1", adrenalina
+#EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhixSY2IdFYJbDH92-BcONpPNLQMA1Dazt7C-8A_mvyA&s=10",adrenalina
 http://45.173.201.51:4000/play/a0l5/index.m3u8
 
-#EXTINF:-1 type="stream" channelid="-1", FOXONE
+#EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592015.ts
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/755482.ts
-#EXTINF:-1 type="stream" channelid="-1", FOXONE
+#EXTINF:-1 type="stream" channelid="-1" logo= "",FOXONE
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/730392.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",0 TUDN HD (MX)
