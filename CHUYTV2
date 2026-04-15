@@ -583,15 +583,15 @@ http://190.0.247.38:8000/play/a04r
 http://45.171.64.30:2000/play/a00v/index.m3u8
 http://45.189.151.7:8000/play/a06t/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1",MI MUSICA  REGGAETON HD (171)
+#EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4m318SV4jum_ICsXYIUcxgnbBU13Hs_Q14Jb8UZdeBw&s=10",MI MUSICA  REGGAETON HD (171)
 http://45.189.151.7:8000/play/a077/index.m3u8
-#EXTINF:0 type="stream" channelId="-1",MI MUSICA  REGIONAL HD (172)
+#EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaDuhEie1ZrYNM-cIa1rKiNRAApNyZFH3yP3KpepAvA&s=10",MI MUSICA  REGIONAL HD (172)
 http://45.189.151.7:8000/play/a078/index.m3u8
-#EXTINF:0 type="stream" channelId="-1",MI MUSICA  ROMANTICAS HD (173)
+#EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_w7c2vcyfaLt_SWyTKBarXXhWbJox--U1rt_Ns0IE3g&s",MI MUSICA  ROMANTICAS HD (173)
 http://45.189.151.7:8000/play/a079/index.m3u8
-#EXTINF:0 type="stream" channelId="-1",MI MUSICA HD (170)
+#EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS6G7UfkJcgLeWjZ-7AL-bHzhTymDL5I5HlOIoPSCoCg&s=10",MI MUSICA HD (170)
 http://45.189.151.7:8000/play/a076/index.m3u8
-#EXTINF:0 type="stream" channelId="-1",MUSICA TOP
+#EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQac-Mk6HDnhWcBI3x3DNDv843hVtNyIABGWSMil1Aang&s=10",MUSICA TOP
 http://45.189.151.7:8000/play/a074/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",MTV(165)
