@@ -22,7 +22,7 @@ http://179.49.163.34:45000/play/a02m/index.m3u8
 http://videx-limit182-stream.x10.mx:8000/stream/bitme.m3u8
 http://181.119.64.227:5070/play/a035/index.m3u8
 http://190.0.247.38:8000/play/a00h
-
+http://181.119.111.25:4000/play/a0gl/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
 http://45.5.119.43:4000/play/a03l/index.m3u8
