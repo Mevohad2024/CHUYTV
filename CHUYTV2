@@ -115,6 +115,9 @@ http://190.0.247.38:8000/play/a00k
 http://38.49.128.38:8000/play/a0no/index.m3u8
 http://200.58.64.244:9000/play/a01d/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1",RAKUTEN VIKI
+http://200.4.195.66:8000/play/a00o/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",PASIONES
 https://streamer2.nexgen.bz/80-PASIONES/index.m3u8
 http://181.78.12.164:9000/play/a03t
@@ -1221,6 +1224,7 @@ http://181.78.21.46:8009/play/a02s
 #EXTVLCOPT--http-reconnect=true
 http://45.184.87.142:8000/play/a04d
 http://181.78.19.125:9096/play/a021
+http://181.78.79.131:8000/play/a0n1
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9V8Hc6ZO1A6gweWLrsJ1FqbmwfCgrqj_VK2Rmhci2OIwN9gnUZlVO-Q&s=10" , Latin America Sport
 http://45.171.64.30:8800/play/a027
