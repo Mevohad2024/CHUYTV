@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNAawPtx9imgD34ANMD-x0nMdTiT-v94IY_nUtIJytg&s=10", HIGH FIVE
-http://tv.zapping.life:8080/movie/wilmer25/kVBNvfAa2p/194121.mkv
-
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vqCQp39OdATobTc9U_GkHSqRXDKf5B0yXfYpHc5wzQ&s=10", VENGANZA
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/523856.mp4
 
