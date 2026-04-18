@@ -22,10 +22,6 @@ http://tv.zapping.life:8080/movie/wilmer25/kVBNvfAa2p/194387.mkv
 http://todoplus.digital:80/movie/hhasg3as/hhasg3as/754205.mkv
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/514402.mp4
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSPOHCIaXNQdwwqIe0dUL5JxM8zsG9XADxe7DGtW2lpw&s=10",Escuadron
-http://todoplus.digital:80/movie/hhasg3as/hhasg3as/756255.mkv
-http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/518914.mp4
-
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDSsoAlqeQ6IVeGyqMuQGd8MW1KjbB8JMDYD2ytzthg&s=10",Mario
 http://canal-pro.xyz:8080/movie/998413036tv/ngukt56/280658.mp4
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/522972.mp4
@@ -33,14 +29,21 @@ http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/522972.mp4
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATZ5abmiUezDZGJBTodeHPS_DhTzQYGXw5zZqbqQRDg&s=10", Sin piedad
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/502917.mp4
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFquyjOTRxpxYxCa3z5vw3KuIeNGqFwDJ_PQJzXQzHBQ&s=10", Mutante
+http://tv.zapping.life:8080/movie/wilmer25/kVBNvfAa2p/179768.mkv
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSPOHCIaXNQdwwqIe0dUL5JxM8zsG9XADxe7DGtW2lpw&s=10",Escuadron
+http://todoplus.digital:80/movie/hhasg3as/hhasg3as/756255.mkv
+http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/518914.mp4
+
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXIVr9PqD3se8mkFRBMC1uACzYivKwKYDpjAlPleElw&s=10", Una leyenda
+http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/454716.mp4
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A5thnA1id009vOecLiJHTjfc75ai6arQ0_2vaucYHQ&s=10",Crónicas de exsorcismo
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/457747.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvL6EUHuJvHAC6-aDXoL6h5QdASJrcM-znlXSWy6xS2Q&s=10",soy frankelda
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/457709.mp4
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXIVr9PqD3se8mkFRBMC1uACzYivKwKYDpjAlPleElw&s=10", Una leyenda
-http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/454716.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3pyLCwemK43SU7kQCVhQlMIAMVeXBULPunx4egnV7w&s=10",Zoopolipsis
 http://www.1play.cool:25461/movie/8572225535/fb3d5cbeab/304986.mkv
