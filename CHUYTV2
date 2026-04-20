@@ -103,6 +103,7 @@ http://45.189.151.7:8000/play/a06d/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a03k/index.m3u8
 http://190.14.10.19:16000/play/a066/index.m3u8
+http://207.230.11.18:1982/play/a0nf/index.m3u8
 http://45.189.151.7:8000/play/a07o/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
@@ -110,6 +111,7 @@ http://45.189.151.7:8000/play/a07o/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://38.49.128.38:8000/play/a0no/index.m3u8
 http://190.0.247.38:8000/play/a00k
+http://goldtv.lat:80//live/JUF297LUY0/cta27playec/317518.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYb9tMm1t74Kuoa0-zQ0bpsHW6fN2o3hRpD0NpXhlxQ&s=10",RAKUTEN VIKI
 http://200.4.195.66:8000/play/a00o/index.m3u8
@@ -609,6 +611,7 @@ http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/11940.ts
 #EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR44NQHbF9ayIySrhuEX63RThpgeITGQ-cPBFImn3Xp_A&s",HEI HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://200.60.124.20:29000/play/a0sm/index.m3u8
 http://181.224.255.210:8001/play/a0sg/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1959" , BANDAMAX HD
@@ -819,8 +822,8 @@ http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1100/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO
-http://190.83.9.222:8000/play/ca062/index.m3u8
+#EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO 51
+http://200.59.188.3:8000/play/a104
 #EXTINF:0 type="stream" channelId="1967" ,2 TELEMUNDO
 http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410
 #EXTINF:0 type="stream" channelId="1967" ,3 TELEMUNDO
@@ -876,6 +879,9 @@ http://45.5.117.57:8999/play/a05e/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RCN
 http://181.78.8.199:8000/play/a0hx/index.m3u8
+http://207.230.11.18:1982/play/a0os/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",RCN 2
+http://207.230.11.18:1982/play/a0ot/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RCN NOVELAS
 ##EXTVLCOPT:network-caching=1000
@@ -920,12 +926,14 @@ http://45.189.151.7:8000/play/a05b/index.m3u8
 http://179.49.163.34:45000/play/a03b/index.m3u8
 http://190.29.110.32:450/play/a0bi/index.m3u8
 http://181.119.85.222:8000/play/a02t/index.m3u8
+http://207.230.11.18:1982/play/a0ok/index.m3u8
 http://181.78.8.199:8000/play/a0b0/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiSZEs_hXIVELS5uQrkyzUoVXRJNpe9KL0XxPHo_G83Q&s=10", Caracol 2
 http://179.49.163.34:45000/play/a03a/index.m3u8
 http://190.29.110.32:450/play/a0bj/index.m3u8
 http://181.119.85.222:8000/play/a02z/index.m3u8
+http://207.230.11.18:1982/play/a0or/index.m3u8
 http://181.78.8.199:8000/play/a0hw/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" , Más Chic 
@@ -944,12 +952,14 @@ http://201.240.104.137:8000/play/a0aa/index.m3u8
 http://201.230.121.85:8000/play/a0yv/index.m3u8
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/417198.ts
+http://38.210.3.64:8090/play/a0je/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnRa20kEGAM6iBHayK5SfitDllKYs2Kd6Q9Sb4RtGNw&s=10",1 Directv sport2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://peaky.techcoder40.workers.dev/5982.m3u8
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/417199.ts
+http://200.60.124.20:29000/play/a081/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebWz0gUaBzK7N-JdqHh6LW66zII4C0y3ZSA&usqp=CAU",1 Directv sport +
 ##EXTVLCOPT:network-caching=1000
@@ -979,9 +989,8 @@ http://181.78.106.127:9000/play/ca028/index.m3u8
 http://190.92.10.66:4000/play/a006/index.m3u8
 http://200.115.96.66:4000/play/a02a/index.m3u8
 http://45.5.117.57:8999/play/a0f2/index.m3u8
-http://45.5.117.57:8200/play/a0f2/index.m3u8
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592040.ts
-
+http://45.5.117.57:8200/play/a0f2/index.m3u8
 
 #EXTINF:0 type="stream" channelId="0"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvj1EqW7JaMWLcCGyZmAWalwn_txT8Yz58LYa-rMSoIw&s=10", SKY LA LIGA
 ##EXTVLCOPT:network-caching=1000
@@ -1000,6 +1009,7 @@ http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592042.ts
 http://38.191.43.69:8000/play/a03z/index.m3u8
 http://45.5.117.57:8999/play/a0e5/index.m3u8
 http://45.189.151.7:8000/play/a073/index.m3u8
+http://45.5.117.57:8200/play/a0e5/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 1 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
@@ -1054,7 +1064,7 @@ http://38.49.128.38:8000/play/a0oz/index.m3u8
 #EXTINF:0 type="stream" channelId="180" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5GStPJQ8EvEFBFZGA4tLs4ikZlFBNTMLJh1DekOhopEbIt4KTX6dFv0s&s=10",1 FSM 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://190.83.9.222:8000/play/ca028/index.m3u8
+http://24.152.53.3:8090/play/a011/index.m3u8
 
 #EXTINF:0 type="stream" channelId="180",2 FSM 3
 ##EXTVLCOPT:network-caching=1000
@@ -1076,22 +1086,26 @@ http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592012.ts
 http://190.14.10.19:16000/play/a09z/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",5 FS PREMIUM
 http://187.245.231.226:8000/play/a0uy/index.m3u8
-
+#EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",6 FS PREMIUM
+http://38.210.3.64:8090/play/a083/index.m3u8
 
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNqfv0bF_Sk8U7uBDgO6RAITHvxmmld6vjR5cjs6LIA&s=10", Fox sport
 http://45.5.151.251:8000/play/a00l/index.m3u8
 http://181.13.252.102:8000/play/a07j/index.m3u8
 http://181.13.112.203:8100/play/a07j/index.m3u8
+http://200.60.124.20:29000/play/a0j9/index.m3u8
 http://200.4.195.66:8000/play/a009/index.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFVFyQT0crIywkmEe5lLfPOd9XIXuqO3c81bfQU9G5Q&s=10", Fox sport 2
 http://45.5.151.251:8000/play/a00m/index.m3u8
 http://181.13.252.102:8000/play/a05c/index.m3u8
 http://181.13.112.203:8100/play/a05c/index.m3u8
+http://200.60.124.20:29000/play/a0m5/index.m3u8
 http://200.4.195.66:8000/play/a004/index.m3u8
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQAAi0AOemIKs5MTStrXGzCmM16AE-fU0727JsagnQA&s=10", Fox sport 3
 http://45.5.151.251:8000/play/a00n/index.m3u8
 http://181.13.252.102:8000/play/a02t/index.m3u8
 http://181.13.112.203:8100/play/a02t/index.m3u8
+http://200.60.124.20:29000/play/a0ku/index.m3u8
 http://200.4.195.66:8000/play/a008/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
@@ -1196,41 +1210,48 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 http://200.59.188.3:8000/play/a0cm
 
 #EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
+http://45.171.64.30:8800/play/a00p
 http://200.115.96.66:4000/play/a02i/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHThwBklNqNbichSst_sEKRDSu4EERFKJdb0_HKAFhyw&s=10",TD+2 HD
+http://45.171.64.30:8800/play/a00q
 http://45.5.118.152:8000/play/a0b4/index.m3u8
 http://200.115.96.66:4000/play/a02h/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",CDO BASICO
-http://195.66.210.10:80/ideas903/XRYET/12826
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQfHwBYcPoqbFYb7jro6GshmbKLfL2olP6VuEzCP7hg&s=10",CDO PREMIUM
-http://195.66.210.10:80/ideas903/XRYET/439778
+http://45.232.210.1:18000/play/a08x/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrpf0Tzb8Upcwst-17lzZZaNLmi07bxy4XZDkXvDSSmA&s=10",CDO PREMIUM
+http://45.232.210.1:18000/play/a08a/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf6d6wOBMisCRTWqJ3pOJopg-KMudB27V29PHRUN_COw&s=10",ECFB
-http://195.66.210.10:80/ideas903/XRYET/211335
+http://goldtv.lat:80//live/JUF297LUY0/cta27playec/314939.ts
 #EXTINF:0 type="stream" channelId="1686", GOLTV
-http://181.78.201.70:8000/play/a0n6/index.m3u8
-http://181.78.106.127:9000/play/ca041/index.m3u8
+http://goldtv.lat:80//live/JUF297LUY0/cta27playec/399380.ts
 
 #EXTINF:0 type="stream" channelId="1686" , Gol Peru HD
-http://181.78.106.127:9000/play/ca027/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="3802", TYC SPORT
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca043/index.m3u8
+http://200.60.124.20:29000/play/a0kt/index.m3u8
+http://200.4.195.66:8000/play/a007/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1367" , MOVISTAR LIGA
 http://200.115.120.1:8000/play/ca124/index.m3u8
+http://goldtv.lat:80//live/JUF297LUY0/cta27playec/306867.ts
 
 #EXTINF:0 type="stream" channelId="1367" , Movistar Deportes HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://190.108.89.228:8000/play/a0cl/index.m3u8
+http://200.60.124.20:29000/play/a0qg/index.m3u8
+http://38.210.3.64:8090/play/a0nr/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Win Sports 
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.21.46:8009/play/a02s
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/13767.ts
+http://redworld.pro:8880/diego@1736d/PGPc2dtkQ3sX/167739
 http://181.78.8.199:8000/play/a0ic/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Win Sports+
@@ -1260,6 +1281,7 @@ http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/755478.ts
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 http://190.60.56.41:8000/play/a009/index.m3u8
+http://goldtv.lat:80//live/JUF297LUY0/cta27playec/404310.ts
 
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES HD
 ##EXTVLCOPT:network-caching=1000
@@ -1313,7 +1335,7 @@ http://190.14.10.19:16000/play/a09v/index.m3u8
 http://187.245.231.226:8000/play/a0ut/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",11 TUDN HD (MX)
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/443131.ts
-
+http://24.152.53.3:8090/play/a012/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (US)
 http://tvmate.icu:8080/Alan/Alan1234/82241
