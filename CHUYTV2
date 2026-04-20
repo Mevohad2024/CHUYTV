@@ -1089,19 +1089,19 @@ http://187.245.231.226:8000/play/a0uy/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-p-jI0yvbH7U/XYZOVZWVWeI/AAAAAAAAA2c/0I_CL8iudoAY_r06ZDUZdrc8nvCdmviMQCLcBGAsYHQ/s1600/Fox_Sports_Premium%2B%25283%2529.png",6 FS PREMIUM
 http://38.210.3.64:8090/play/a083/index.m3u8
 
-#EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNqfv0bF_Sk8U7uBDgO6RAITHvxmmld6vjR5cjs6LIA&s=10", Fox sport
+#EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXMJeu6z3eROBlEWL6kw-6VQHWK5sDCjf98_SzcYY_cg&s=10", Fox sport
 http://45.5.151.251:8000/play/a00l/index.m3u8
 http://181.13.252.102:8000/play/a07j/index.m3u8
 http://181.13.112.203:8100/play/a07j/index.m3u8
 http://200.60.124.20:29000/play/a0j9/index.m3u8
 http://200.4.195.66:8000/play/a009/index.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFVFyQT0crIywkmEe5lLfPOd9XIXuqO3c81bfQU9G5Q&s=10", Fox sport 2
+#EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7wte1XZrncQ9VhIDObkpy5G11s1qPnPaQ8qblYdrsUA&s=10", Fox sport 2
 http://45.5.151.251:8000/play/a00m/index.m3u8
 http://181.13.252.102:8000/play/a05c/index.m3u8
 http://181.13.112.203:8100/play/a05c/index.m3u8
 http://200.60.124.20:29000/play/a0m5/index.m3u8
 http://200.4.195.66:8000/play/a004/index.m3u8
-#EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQAAi0AOemIKs5MTStrXGzCmM16AE-fU0727JsagnQA&s=10", Fox sport 3
+#EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG0VWZ0iJzNPofcXwtWwWfNS55QsKf-vamVKHfWIj3ZoqLtf6W6W9QvRLa&s", Fox sport 3
 http://45.5.151.251:8000/play/a00n/index.m3u8
 http://181.13.252.102:8000/play/a02t/index.m3u8
 http://181.13.112.203:8100/play/a02t/index.m3u8
