@@ -1245,6 +1245,7 @@ http://goldtv.lat:80//live/JUF297LUY0/cta27playec/306867.ts
 #EXTVLCOPT--http-reconnect=true
 http://200.60.124.20:29000/play/a0qg/index.m3u8
 http://38.210.3.64:8090/play/a0nr/index.m3u8
+http://38.199.4.105:9999/play/a0ob/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Win Sports 
 ##EXTVLCOPT:network-caching=1000
