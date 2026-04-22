@@ -1116,6 +1116,7 @@ http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/595818.ts
 
 #EXTINF:0 type="stream" channelId="3748" , Espndeportes
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/591971.ts
+https://tx3.nexgen.bz:4000/ESPN_DEPORTES/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN.MX.mx" type="stream" channelId="2540",1 ESPN MX
 ##EXTVLCOPT:network-caching=1000
