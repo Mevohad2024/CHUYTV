@@ -1025,6 +1025,7 @@ http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/595878.ts
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 3 Foxdeportes
 http://200.58.64.244:9000/play/a015/index.m3u8
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/591999.ts
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJNpyVqpkMUSMKXdX525olkDZxhTqglgUhVZpDTc65A&s",1 FSMX
 ##EXTVLCOPT:network-caching=1000
