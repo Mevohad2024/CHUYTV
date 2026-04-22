@@ -54,7 +54,7 @@ http://45.173.72.26:2072/play/a0bf
 http://45.5.119.43:4000/play/a0fz/index.m3u8
 http://45.189.151.7:8000/play/a07b/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_objmj9NtEPp3_JYO3q2r2Dx1r2W1cJzer202clDR&s=10", ANIMEX
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_objmj9NtEPp3_JYO3q2r2Dx1r2W1cJzer202clDR&s=10", ANIMEX NO
 http://45.5.117.57:8999/play/a00r/index.m3u8
 
 
@@ -111,7 +111,7 @@ http://45.189.151.7:8000/play/a07o/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://38.49.128.38:8000/play/a0no/index.m3u8
 http://190.0.247.38:8000/play/a00k
-http://goldtv.lat:80//live/JUF297LUY0/cta27playec/317518.ts
+
 
 #EXTINF:0 type="stream" channelId="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYb9tMm1t74Kuoa0-zQ0bpsHW6fN2o3hRpD0NpXhlxQ&s=10",RAKUTEN VIKI
 http://200.4.195.66:8000/play/a00o/index.m3u8
