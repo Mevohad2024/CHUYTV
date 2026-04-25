@@ -1312,7 +1312,7 @@ http://45.173.201.51:4000/play/a0l5/index.m3u8
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/592015.ts
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/755482.ts
-http://goldtv.lat:80//live/JUF297LUY0/cta27playec/360907.ts
+
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10",FOXONE
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/730392.ts
 http://goldtv.lat:80//live/JUF297LUY0/cta27playec/360908.ts
