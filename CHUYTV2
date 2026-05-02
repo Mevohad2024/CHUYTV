@@ -28,7 +28,7 @@ http://200.115.98.26:9000/play/a00h/index.m3u8
 http://45.171.64.30:2000/play/a015/index.m3u8
 http://45.5.117.57:8999/play/a03s/index.m3u8
 http://45.189.151.7:8000/play/a068/index.m3u8
-http://185.56.109.253/DiscoveryKids/playlist.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbk6iQ-BMKthjAyZM6ZmqhOvaCs2fR5orz9Fo2bc6&s=10",FMH kids
 http://45.173.201.51:4000/play/a0m5/index.m3u8
@@ -104,7 +104,7 @@ http://38.49.128.38:8000/play/a0no/index.m3u8
 http://190.0.247.38:8000/play/a00k
 http://200.229.147.142:8000/play/a05d/index.m3u8
 http://141.136.61.2:8000/play/a0cd/index.m3u8
-http://185.56.109.251/Dreamworks/playlist.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1",PASIONES
 https://streamer2.nexgen.bz/80-PASIONES/index.m3u8
