@@ -276,7 +276,6 @@ http://45.189.151.7:8000/play/a060/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://179.49.163.34:45000/play/a016/index.m3u8
 http://45.5.119.43:4000/play/a0ij/index.m3u8
-http://45.186.106.220:5550/play/a044/index.m3u8
 http://181.119.86.68:8000/play/b044/index.m3u8
 http://45.186.105.214:8000/play/a035/index.m3u8
 http://138.36.24.8:8000/play/a04f/index.m3u8
@@ -989,6 +988,7 @@ http://45.189.151.7:8000/play/a073/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://peaky.techcoder40.workers.dev/5976.m3u8
+http://nor1live.win/livehttpplay?channel_id=23134
 
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 2 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
