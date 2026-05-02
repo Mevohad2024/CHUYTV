@@ -28,6 +28,7 @@ http://200.115.98.26:9000/play/a00h/index.m3u8
 http://45.171.64.30:2000/play/a015/index.m3u8
 http://45.5.117.57:8999/play/a03s/index.m3u8
 http://45.189.151.7:8000/play/a068/index.m3u8
+http://185.56.109.253/DiscoveryKids/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbk6iQ-BMKthjAyZM6ZmqhOvaCs2fR5orz9Fo2bc6&s=10",FMH kids
 http://45.173.201.51:4000/play/a0m5/index.m3u8
@@ -425,6 +426,7 @@ http://200.115.120.1:8000/play/ca037/index.m3u8
 http://181.119.64.227:5070/play/a03q/index.m3u8
 http://45.171.64.30:2000/play/a08k/index.m3u8
 http://45.173.201.51:4000/play/a0m7/index.m3u8
+http://185.56.109.253/Edge/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="1963" ,GOLDEN PREMIER
 ##EXTVLCOPT:network-caching=1000
@@ -504,6 +506,7 @@ http://45.5.119.43:4000/play/a0hh/index.m3u8
 http://190.0.247.38:8000/play/a00v
 http://190.14.10.19:16000/play/a06g/index.m3u8
 http://45.171.64.30:2000/play/a03h/index.m3u8
+http://185.56.109.253/Tlc/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2840" , DISCOVERY TURBO HD
 ##EXTVLCOPT:network-caching=1000
@@ -590,12 +593,14 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyl2Gjve1T9XFV6Mh1yCeail_BdyV-0aPBLYcDooiyQ&s=10", TELEHIT MUSICA
 http://190.0.247.38:8000/play/a022
 http://181.78.78.66:8000/play/a0e7
+http://185.56.109.253/TelehitMusica/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="1964" , TELEHIT
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.0.247.38:8000/play/a049
 http://181.78.78.66:8000/play/a0e6
+http://185.56.109.253/Telehit/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2146" , TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -666,10 +671,11 @@ http://200.115.120.1:8000/play/ca0105/index.m3u8
 #EXTINF:0 type="stream" channelId="328" , Foro Tv
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/122592.ts
 http://45.189.151.7:8000/play/a06l/index.m3u8
+http://185.56.109.253/ForoTv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQl_7c6Om8K-fNYPSvNUHTYFCICJxzoO93svNZUdv5Kg&s=10", TELEFORMULA HD
 http://38.49.128.38:8000/play/a0be/index.m3u8
-
+http://185.56.109.251/Teleformula/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="3127", Imagen tv
 ##EXTVLCOPT:network-caching=1000
@@ -715,6 +721,9 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 http://38.49.128.38:8000/play/a0dm/index.m3u8
 http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/122611.ts
 http://45.189.151.7:8000/play/a075/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Excelsiortv
+http://185.56.109.251/ExcelsiorTv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", MVSTV
 ##EXTVLCOPT:network-caching=1000
@@ -823,13 +832,13 @@ http://181.78.106.127:9000/play/ca055/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.228.234.30:16000/play/a02w/index.m3u8
-
+http://185.56.109.253/Unicable/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TLNovelas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://179.49.163.34:45000/play/a00d/index.m3u8
-
+http://185.56.109.253/TlNovelas/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RCN
 http://181.78.8.199:8000/play/a0hx/index.m3u8
