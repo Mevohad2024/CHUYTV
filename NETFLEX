@@ -64,6 +64,8 @@ https://video.doramed.tv/static/streaming-playlists/hls/8b806d95-51ad-4ed3-8c74-
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNO5fflPrtG8B9w9t6G_g2gd-YJJ64vgqVSECvIjM1qA&s=10", Nemwsus E2
 https://video.doramed.tv/static/streaming-playlists/hls/e1bd7012-a3c7-4c1f-95d3-031854cdfb41/6d83bc5d-4546-4623-aae7-5af2e2de5260-master.m3u8
 
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCsIyBb_FP-_GkS4zpIfZYfEZZmQUinFssdAUrXYo2w&s=10", Crow
+https://vk6-6.vkuser.net/srcIp/187.190.133.235/pr/40/expires/1778463149979/srcAg/CHROME_ANDROID/fromCache/1/ms/95.142.206.165/mid/14251881015369/type/2/sig/J4AEi4XfNNM/ct/29/urls/185.180.203.157%3B185.226.55.177/clientType/14/zs/43/id/15360419695177/ondemand/dash4_15360419695177.CMnQuLLkngNI8Lbpkf______AVAoWA7IJmXQp3yD2g.mpd
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkFhkg8mIwQaS_Yb3galiYzw9z_nTSZmTVTNGpak9uQ&s=10",E4 Amor por subcrption
 http://todoplus.digital:80/series/hhasg3as/hhasg3as/753765.mkv
