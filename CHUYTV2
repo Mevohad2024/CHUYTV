@@ -54,8 +54,8 @@ http://45.189.151.7:8000/play/a07b/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",CARTOON NETWORK
 http://45.5.119.43:4000/play/a029/index.m3u8
 http://45.171.64.30:2000/play/a03k/index.m3u8
-http://45.173.201.51:4000/play/a0ll/index.m3u8
 http://45.189.151.7:8000/play/a05n/index.m3u8
+http://45.68.35.218:9000/play/a03w/index.m3u8?hls
 
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
 ##EXTVLCOPT:network-caching=1000
@@ -125,6 +125,7 @@ http://190.90.22.42:5280/play/a0ek
 http://45.5.119.43:4000/play/a0gt/index.m3u8
 http://45.171.64.30:2000/play/a03f/index.m3u8
 http://185.56.109.253/AyE/playlist.m3u8
+http://45.68.35.218:9000/play/a002/index.m3u8?hls
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
@@ -256,6 +257,7 @@ http://185.56.109.251/warner/playlist.m3u8
 http://45.5.119.43:4000/play/a0gu/index.m3u8
 http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 http://45.189.151.7:8000/play/a05c/index.m3u8
+http://45.68.35.218:9000/play/a004/index.m3u8?hls
 
 #EXTINF:0 type="stream" channelId="1326" , Cinemax
 ##EXTVLCOPT:network-caching=1000
@@ -592,11 +594,10 @@ http://181.224.255.210:8001/play/a0sg/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a0hw/index.m3u8
 http://45.171.64.30:8800/play/a08h
-http://190.0.247.38:8000/play/a020
-http://181.78.106.127:9000/play/ca064/index.m3u8
-http://181.119.64.227:5070/play/a036/index.m3u8
 http://45.171.64.30:2000/play/a08h/index.m3u8
-http://185.56.109.253/Bandamax/playlist.m3u8
+http://190.0.247.38:8000/play/a020
+
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy914jbEXE38pPlaY8i9_rbDdqwFKggwQeLnf-HQt4BQ&s=10", Lavozgrupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
@@ -669,12 +670,13 @@ http://200.115.120.1:8000/play/ca014/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 1 Cnco
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.5.119.43:4000/play/a05o/index.m3u8
 http://45.189.151.7:8000/play/a05s/index.m3u8
+http://45.68.35.218:9000/play/a00m/index.m3u8?hls
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 2 Cnco
 http://177.10.184.60:8002/play/a01n/index.m3u8
 http://185.56.109.253/Canal5/playlist.m3u8
+http://45.5.119.43:4000/play/a05o/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://logosandtypes.com/wp-content/uploads/2020/11/channel-5-mexico.svg", 3 Cnco
 http://38.49.128.38:8000/play/a0n6/index.m3u8
@@ -715,9 +717,10 @@ http://38.49.128.38:8000/play/a0la/index.m3u8
 http://187.245.231.226:8000/play/a0uw/index.m3u8
 
 #EXTINF:0 type="stream" channelId="255",3 Azteca 7
+http://45.189.151.7:8000/play/a05e/index.m3u8
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 http://190.92.10.66:4000/play/a007/index.m3u8
-http://45.189.151.7:8000/play/a05e/index.m3u8
+http://45.68.35.218:9000/play/a01t/index.m3u8?hls
 
 #EXTINF:0 type="stream" channelId="255",4 Azteca 7
 http://45.5.119.43:4000/play/a026/index.m3u8
@@ -1154,7 +1157,7 @@ http://200.92.227.238:8000/play/a0qe/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0kz/index.m3u8
-
+http://45.68.35.218:9000/play/a03n/index.m3u8?hls
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports HD
 ##EXTVLCOPT:network-caching=1000
@@ -1261,6 +1264,7 @@ http://187.245.231.226:8000/play/a0si/index.m3u8
 
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhixSY2IdFYJbDH92-BcONpPNLQMA1Dazt7C-8A_mvyA&s=10",adrenalina
 http://45.173.201.51:4000/play/a0l5/index.m3u8
+http://45.68.35.218:9000/play/a03p/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://futurateve.net:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/755482.ts
