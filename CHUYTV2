@@ -27,7 +27,7 @@ http://200.115.98.26:9000/play/a00h/index.m3u8
 http://45.171.64.30:2000/play/a015/index.m3u8
 http://45.5.117.57:8999/play/a03s/index.m3u8
 http://45.189.151.7:8000/play/a068/index.m3u8
-
+http://futurateve.net:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/11924.ts
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbk6iQ-BMKthjAyZM6ZmqhOvaCs2fR5orz9Fo2bc6&s=10",FMH kids
 http://45.173.201.51:4000/play/a0m5/index.m3u8
