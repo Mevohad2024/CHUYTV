@@ -1245,10 +1245,10 @@ http://goldtv.lat:80//live/JUF297LUY0/cta27playec/404310.ts
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.49.128.38:8000/play/a0mj/index.m3u8
-
+http://futurateve.net:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/502428.ts
 
 #EXTINF:0 type="stream" channelId="3628" , TVC DEPORTES 2 HD
-
+http://futurateve.net:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/755494.ts
 
 #EXTINF:0 type="stream" channelId="4665" , PX SPORTS
 ##EXTVLCOPT:network-caching=1000
@@ -1263,7 +1263,7 @@ http://187.245.231.226:8000/play/a0si/index.m3u8
 http://45.173.201.51:4000/play/a0l5/index.m3u8
 
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-
+http://futurateve.net:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/755482.ts
 
 
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10",FOXONE
