@@ -1,14 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 logo="http://redworld.pro:8880/images/e1753dd47e107fd9f0fc584eed3ad89a.jpg",The Punisher: La última muerte (2026)
+http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/526100.mp4
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vqCQp39OdATobTc9U_GkHSqRXDKf5B0yXfYpHc5wzQ&s=10", VENGANZA
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/523856.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjld_GOQ2xALsgogoRz6x03A4haMVGqKBNv5HUTMbZLw&s=10", AVATAR
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/523543.mp4
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWUlf_leeY3Dy70HH6K3gnQVFjegbzv2UUK_Ctb-6fw&s=10",no hay otra
-http://todoplus.digital:80/movie/hhasg3as/hhasg3as/761165.mkv
-http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/458814.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTIjslBAOoBWZg_dyzgalelD2VW4L2SjVI7jVVOrs5og&s=10",proyecto
 http://cineplay.vip:2086/movie/Citlallysa/5JJGG6GDUf/522009.mkv
@@ -16,7 +15,7 @@ http://tv.zapping.life:8080/movie/wilmer25/kVBNvfAa2p/194387.mkv
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/522722.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ZO387qXhN89eMXDCvUwiBAZ5BgdOH7oHGZaDpyZwGw&s=10",Máquina de guerra
-http://todoplus.digital:80/movie/hhasg3as/hhasg3as/754205.mkv
+
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/514402.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATZ5abmiUezDZGJBTodeHPS_DhTzQYGXw5zZqbqQRDg&s=10", Sin piedad
@@ -59,28 +58,24 @@ http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/435869.mp4
 http://tv.diablotv.net:8080/movie/villasandres1/82fd7c3d2b72/151869.mkv
 http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/458766.mp4
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNO5fflPrtG8B9w9t6G_g2gd-YJJ64vgqVSECvIjM1qA&s=10", Nemwsus E1
-https://video.doramed.tv/static/streaming-playlists/hls/8b806d95-51ad-4ed3-8c74-9a101db1bf93/48a926b5-d864-4da0-ab6c-29aba89c0427-master.m3u8
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNO5fflPrtG8B9w9t6G_g2gd-YJJ64vgqVSECvIjM1qA&s=10", Nemwsus E2
-https://video.doramed.tv/static/streaming-playlists/hls/e1bd7012-a3c7-4c1f-95d3-031854cdfb41/6d83bc5d-4546-4623-aae7-5af2e2de5260-master.m3u8
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCsIyBb_FP-_GkS4zpIfZYfEZZmQUinFssdAUrXYo2w&s=10", Crow
-https://vk6-6.vkuser.net/srcIp/187.190.133.235/pr/40/expires/1778463149979/srcAg/CHROME_ANDROID/fromCache/1/ms/95.142.206.165/mid/14251881015369/type/2/sig/J4AEi4XfNNM/ct/29/urls/185.180.203.157%3B185.226.55.177/clientType/14/zs/43/id/15360419695177/ondemand/dash4_15360419695177.CMnQuLLkngNI8Lbpkf______AVAoWA7IJmXQp3yD2g.mpd
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWUlf_leeY3Dy70HH6K3gnQVFjegbzv2UUK_Ctb-6fw&s=10",no hay otra
+http://todoplus.digital:80/movie/hhasg3as/hhasg3as/761165.mkv
+http://redworld.pro:8880/movie/diego@1736d/PGPc2dtkQ3sX/458814.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkFhkg8mIwQaS_Yb3galiYzw9z_nTSZmTVTNGpak9uQ&s=10",E4 Amor por subcrption
-http://todoplus.digital:80/series/hhasg3as/hhasg3as/753765.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkFhkg8mIwQaS_Yb3galiYzw9z_nTSZmTVTNGpak9uQ&s=10",E5 Amor por subcrption
-http://todoplus.digital:80/series/hhasg3as/hhasg3as/753766.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkFhkg8mIwQaS_Yb3galiYzw9z_nTSZmTVTNGpak9uQ&s=10",E6 Amor por subcrption
-http://todoplus.digital:80/series/hhasg3as/hhasg3as/753767.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkFhkg8mIwQaS_Yb3galiYzw9z_nTSZmTVTNGpak9uQ&s=10",E7 Amor por subcrption
-http://todoplus.digital:80/series/hhasg3as/hhasg3as/753768.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkFhkg8mIwQaS_Yb3galiYzw9z_nTSZmTVTNGpak9uQ&s=10",E8 Amor por subcrption
-http://todoplus.digital:80/series/hhasg3as/hhasg3as/753769.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkFhkg8mIwQaS_Yb3galiYzw9z_nTSZmTVTNGpak9uQ&s=10",E9 Amor por subcrption
-http://todoplus.digital:80/series/hhasg3as/hhasg3as/753770.mkv
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkFhkg8mIwQaS_Yb3galiYzw9z_nTSZmTVTNGpak9uQ&s=10",E10 Amor por subcrption
-http://todoplus.digital:80/series/hhasg3as/hhasg3as/753771.mkv
+
 
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg_YLwNC_WD4SZTqjUZD2_W1R-gJPU3Js78NNavBuKKg&s",E1 EL valor absoluto del amor
