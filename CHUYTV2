@@ -1,22 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png",20:07 ▫ Liga MX ▫ Guadalajara vs. Cruz Azul ▫ HD - ESP ▫
-http://futurateve.net:80/live/Bzjuliosa1123/2023JSaGreDo/777159.ts
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50",05/16 Soccer 09:07pm Guadalajara vs Cruz Azul = Universo
-http://redworld.pro:8880/live/diego@1736d/PGPc2dtkQ3sX/526649.ts
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50",05/16 Soccer 09:07pm Guadalajara vs Cruz Azul = TelemundoNY
-http://redworld.pro:8880/live/diego@1736d/PGPc2dtkQ3sX/526650.ts
-#EXTINF:-1 tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/1485_imgbank_ap_20250313174103.png",LIGA MX | OP2 | 19:07 Chivas vs Cruz Azul
-http://ak-47scan.dyndns.tv:25461/live/noelflores2025/6fg2qevv5Wbj/491427.ts
-#EXTINF:-1 tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/1485_imgbank_ap_20250313174103.png",LIGA MX | UNIVERSO HD ENCODER | 19:07 Chivas vs Cruz Azul
-http://ak-47scan.dyndns.tv:25461/live/noelflores2025/6fg2qevv5Wbj/495579.ts
-#EXTINF:-1 tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/1485_imgbank_ap_20250313174103.png",LIGA MX |  AMAZON PRIME | 19:07 Chivas vs Cruz Azul
-http://ak-47scan.dyndns.tv:25461/live/noelflores2025/6fg2qevv5Wbj/615349.ts
-#EXTINF:-1 tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/1485_imgbank_ap_20250313174103.png",LIGA MX | TELEMUNDO HD ENCODER | 19:07 Chivas vs Cruz Azul
-http://ak-47scan.dyndns.tv:25461/live/noelflores2025/6fg2qevv5Wbj/617555.ts
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dq4uxsxpv/image/upload/mexico-liga-mx-femenil.png",LIGA MX | UNIVERSO HD ENCODER | 19:07 Chivas vs Cruz Azul
-http://ak-47scan.dyndns.tv:25461/live/noelflores2025/6fg2qevv5Wbj/616678.ts
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20279.png",Liga MX | 07:00 PM | Pumas UNAM vs. Pachuca
+http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/200853
 
 
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO galas
