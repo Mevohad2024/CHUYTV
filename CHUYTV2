@@ -1,20 +1,20 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg",14:15 Barcelona vs Real Betis
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="MEXICO",,14:15 Barcelona vs Real Betis
 http://somoseluno.blog:80//live/usuario23CD/578f3wuew/444070.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg",16:00 - Miami vs. Portland
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="MEXICO",16:00 - Miami vs. Portland
 http://goldtv.lat:80//live/usuario30MM/3WVk5KwnLKef/444073.ts
 
 #EXTINF:-1 tvg-logo="http://elmer653.ddns.net:8080/images/mxPsOchwvxnmJ2eA4f2xty43POqfoU-qJRcyYUgE80p1TY6vq82_m0ss02dS0xC5huwqiWHGeDbonK9q9EgSXw.png",CANAL 5 Liga MX
 http://vikingotv.club:8080/live/OscarDuarte6295/naNMGtc9sK/330406.ts
 #EXTINF:-1 tvg-logo="http://elmer653.ddns.net:8080/images/mxPsOchwvxnmJ2eA4f2xty43POqfoU-qJRcyYUgE80p1TY6vq82_m0ss02dS0xC5huwqiWHGeDbonK9q9EgSXw.png",Azteca 7 Liga MX
 http://vikingotv.club:8080/live/OscarDuarte6295/naNMGtc9sK/265984.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://elmer653.ddns.net:8080/images/f99eecf4f15ca4fed9787ffff2358303.png",AZTECA 7 HD| MX
+#EXTINF:-1 tvg-id="" tvg-logo="http://elmer653.ddns.net:8080/images/f99eecf4f15ca4fed9787ffff2358303.png"group-title="MEXICO",AZTECA 7 HD| MX
 http://vikingotv.club:8080/live/OscarDuarte6295/naNMGtc9sK/937.ts
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png",Azteca 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png"group-title="MEXICO",Azteca 7 HD
 http://planettvweb.com:8091/RosinaGuerra/Guerra319/95756
-#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20279.png" ,7:00 PM | Pumas UNAM vs. Pachuca
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20279.png"group-title="MEXICO" ,7:00 PM | Pumas UNAM vs. Pachuca
 http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/535736
 #EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png",20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫
 http://daleplay.vip:80//live/Postales123/Postales123/535913.ts
