@@ -1,10 +1,10 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" ,14:15 Barcelona vs Real Betis
-http://daleplay.vip:80//live/Postales123/Postales123/444070.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg",14:15 Barcelona vs Real Betis
 http://somoseluno.blog:80//live/usuario23CD/578f3wuew/444070.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg",16:00 - Miami vs. Portland
+http://goldtv.lat:80//live/usuario30MM/3WVk5KwnLKef/444073.ts
 
 #EXTINF:-1 tvg-logo="http://elmer653.ddns.net:8080/images/mxPsOchwvxnmJ2eA4f2xty43POqfoU-qJRcyYUgE80p1TY6vq82_m0ss02dS0xC5huwqiWHGeDbonK9q9EgSXw.png",CANAL 5 Liga MX
 http://vikingotv.club:8080/live/OscarDuarte6295/naNMGtc9sK/330406.ts
