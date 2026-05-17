@@ -1,18 +1,21 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO E$PN 3   12:00 Atlético Madrid vs Girona" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg",12:00 Atlético Madrid vs Girona
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg",12:00 Atlético Madrid vs Girona
 http://somoseluno.blog:80//live/usuario23CD/578f3wuew/444058.ts
-#EXTINF:-1 tvg-id="" tvg-name="EVENTO 6 D$PORTS  14:15 Barcelona vs Real Betis" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg",14:15 Barcelona vs Real Betis
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg",14:15 Barcelona vs Real Betis
 http://somoseluno.blog:80//live/usuario23CD/578f3wuew/444070.ts
 
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20279.png",Liga MX | 07:00 PM | Pumas UNAM vs. Pachuca
 http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/200853
-#EXTINF:-1 tvg-id="" tvg-name="20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫" tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png",20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png",20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫
 http://somoseluno.blog:80//live/usuario23CD/578f3wuew/535913.ts
-#EXTINF:-1 tvg-id="" tvg-name="20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫▫" tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png",20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫▫
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png",20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫▫
 http://somoseluno.blog:80//live/usuario23CD/578f3wuew/535914.ts
-
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png",20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫
+http://futurateve.net:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/777478.ts
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png",20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫▫
+http://futurateve.net:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/777479.ts
 
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO galas
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
