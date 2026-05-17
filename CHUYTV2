@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="MEXICO",,14:15 Barcelona vs Real Betis
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="MEXICO",14:15 Barcelona vs Real Betis
 http://somoseluno.blog:80//live/usuario23CD/578f3wuew/444070.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="MEXICO",16:00 - Miami vs. Portland
 http://goldtv.lat:80//live/usuario30MM/3WVk5KwnLKef/444073.ts
@@ -10,9 +10,9 @@ http://goldtv.lat:80//live/usuario30MM/3WVk5KwnLKef/444073.ts
 http://vikingotv.club:8080/live/OscarDuarte6295/naNMGtc9sK/330406.ts
 #EXTINF:-1 tvg-logo="http://elmer653.ddns.net:8080/images/mxPsOchwvxnmJ2eA4f2xty43POqfoU-qJRcyYUgE80p1TY6vq82_m0ss02dS0xC5huwqiWHGeDbonK9q9EgSXw.png",Azteca 7 Liga MX
 http://vikingotv.club:8080/live/OscarDuarte6295/naNMGtc9sK/265984.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://elmer653.ddns.net:8080/images/f99eecf4f15ca4fed9787ffff2358303.png"group-title="MEXICO",AZTECA 7 HD| MX
+#EXTINF:-1 tvg-id="" tvg-logo="http://elmer653.ddns.net:8080/images/f99eecf4f15ca4fed9787ffff2358303.png" group-title="MEXICO",AZTECA 7 HD| MX
 http://vikingotv.club:8080/live/OscarDuarte6295/naNMGtc9sK/937.ts
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png"group-title="MEXICO",Azteca 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",Azteca 7 HD
 http://planettvweb.com:8091/RosinaGuerra/Guerra319/95756
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20279.png"group-title="MEXICO" ,7:00 PM | Pumas UNAM vs. Pachuca
 http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/535736
@@ -40,7 +40,7 @@ http://goldtv.lat:80//live/usuario30MM/3WVk5KwnLKef/535913.ts
 http://goldtv.lat:80//live/usuario30MM/3WVk5KwnLKef/535914.ts
 
 
-#EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO galas
+#EXTINF:0 type="stream" channelId="1967" group-title="MEXICO",1 TELEMUNDO galas
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNksV2bb3FsRnUm5Wb55o2JQxCktmiqW0nk6jwaS2FNw&s=10",FAMOSOS CAM1
@@ -52,7 +52,7 @@ http://ak-47scan.dyndns.tv:25461/live/noelflores2025/6fg2qevv5Wbj/492219.ts
 http://www.1play.cool:25461/user326/5533ad997a/420296
 http://ak-47scan.dyndns.tv:25461/live/noelflores2025/6fg2qevv5Wbj/492218.ts
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" , BITME HD
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU" group-title="MEXICO", BITME HD
 http://179.49.163.34:45000/play/a02m/index.m3u8
 http://181.119.64.227:5070/play/a035/index.m3u8
 http://190.0.247.38:8000/play/a00h
@@ -60,7 +60,7 @@ http://181.119.111.25:4000/play/a0gl/index.m3u8
 http://181.78.8.199:8000/play/a0ga/index.m3u8
 http://185.56.109.253/BitMe/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="2505" , DISCOVERY KIDS HD 
+#EXTINF:0 type="stream" channelId="2505" group-title="MEXICO", DISCOVERY KIDS HD 
 http://45.5.119.43:4000/play/a03l/index.m3u8
 http://200.115.98.26:9000/play/a00h/index.m3u8
 http://45.171.64.30:2000/play/a015/index.m3u8
