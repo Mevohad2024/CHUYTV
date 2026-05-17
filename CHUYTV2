@@ -30,6 +30,11 @@ http://somoseluno.blog:80//live/usuario23CD/578f3wuew/535914.ts
 http://futurateve.net:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/777478.ts
 #EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png",20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫▫
 http://futurateve.net:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/777479.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫" tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png" group-title="⚽PPV-EVENTOS DEL 17 DE MAYO (Hora Ecuador) ⚽",20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫
+http://goldtv.lat:80//live/usuario30MM/3WVk5KwnLKef/535913.ts
+#EXTINF:-1 tvg-id="" tvg-name="20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫▫" tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png" group-title="⚽PPV-EVENTOS DEL 17 DE MAYO (Hora Ecuador) ⚽",20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫▫
+http://goldtv.lat:80//live/usuario30MM/3WVk5KwnLKef/535914.ts
+
 
 #EXTINF:0 type="stream" channelId="1967" ,1 TELEMUNDO galas
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
