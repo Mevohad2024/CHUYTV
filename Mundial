@@ -23,7 +23,8 @@ http://45.228.234.62:8000/play/a05i/index.m3u8
 http://200.229.147.210:9999/play/a0as/index.m3u8
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://200.229.147.142:8000/play/a03i/index.m3u8
-
+#EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
+http://187.245.231.226:8000/play/a0og/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
 http://38.210.3.64:8090/play/a0je/index.m3u8
@@ -48,6 +49,12 @@ http://45.186.105.214:8000/play/a05r/index.m3u8
 http://200.229.147.142:8000/play/a096/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
 http://24.152.53.3:8090/play/a012/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
+http://187.245.231.226:8000/play/a0ut/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 4K
+http://190.83.9.222:8000/play/ca040/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
+http://190.83.9.222:8000/play/ca099/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUD SD
 http://45.171.64.30:8800/play/a07e
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUD SD
@@ -76,6 +83,8 @@ http://200.229.147.142:8000/play/a05g/index.m3u8
 
 http://200.115.96.66:4000/play/a005/index.m3u8
 
+http://200.115.96.66:4000/play/a001/index.m3u8
 
+http://200.115.96.66:4000/play/a0dn/index.m3u8
 
 
