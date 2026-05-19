@@ -45,7 +45,7 @@ http://45.186.105.214:8000/play/a05r/index.m3u8
 http://24.152.53.3:8090/play/a012/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUD SD
 http://45.171.64.30:8800/play/a07e
-
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUD SD
 http://200.229.147.210:9999/play/a01v/index.m3u8
 
 
