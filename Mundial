@@ -21,7 +21,7 @@ http://8.243.126.131:8000/play/a0ih/index.m3u8
 http://45.228.234.62:8000/play/a05i/index.m3u8
 
 
-directv
+
 http://38.210.3.64:8090/play/a0je/index.m3u8
 
 http://8.243.126.131:8000/play/a05a/index.m3u8
@@ -31,17 +31,15 @@ http://201.240.104.137:8000/play/a0aa/index.m3u8
 http://200.60.124.20:29000/play/a081/index.m3u8
 
 
-tudn
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 
 http://45.5.119.43:4000/play/a05q/index.m3u8
-
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
 http://45.228.234.62:8000/play/a00a/index.m3u8
-
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
 http://45.186.106.207:8000/play/a099/index.m3u8
-
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
 http://45.186.105.214:8000/play/a05r/index.m3u8
-
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
 http://24.152.53.3:8090/play/a012/index.m3u8
-
-
-sd
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUD SD
 http://45.171.64.30:8800/play/a07e
