@@ -5,12 +5,9 @@
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNksV2bb3FsRnUm5Wb55o2JQxCktmiqW0nk6jwaS2FNw&s=10",FAMOSOS CAM1
-http://www.1play.cool:25461/user326/5533ad997a/420295
-http://tv.diablotv.net:8080/villasandres1/82fd7c3d2b72/179560
 http://ak-47scan.dyndns.tv:25461/live/noelflores2025/6fg2qevv5Wbj/492219.ts
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNksV2bb3FsRnUm5Wb55o2JQxCktmiqW0nk6jwaS2FNw&s=10",FAMOSOS CAM12
-http://www.1play.cool:25461/user326/5533ad997a/420296
 http://ak-47scan.dyndns.tv:25461/live/noelflores2025/6fg2qevv5Wbj/492218.ts
 
 #EXTINF:0 type="stream" tvg-name="butme HD" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU", BITME HD
@@ -38,6 +35,8 @@ http://190.102.246.93:9005/play/a03c
 http://190.0.247.38:8000/play/a00e
 http://179.1.240.1:18002/play/a00b
 
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR09wW9bnRftHgTNzhjj7JPNifepZbxJOvWXVwlHnI9nA&s=10" , MaxAnime
+http://45.171.64.30:8800/play/a03t
 
 #EXTINF:0 type="stream" channelId="41",Nickelodeon HD
 http://45.5.119.43:4000/play/a0hs/index.m3u8
@@ -68,7 +67,7 @@ http://190.14.10.19:16000/play/a02c/index.m3u8
 http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
 http://45.189.151.7:8000/play/a05o/index.m3u8
 http://45.173.201.51:4000/play/a0lm/index.m3u8
-
+http://45.171.64.30:8800/play/a03u
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
@@ -1284,7 +1283,7 @@ http://futurateve.net:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/755482.ts
 
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10",FOXONE
 http://goldtv.lat:80//live/JUF297LUY0/cta27playec/360908.ts
-
+http://45.171.64.30:8800/play/a05y
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (MX)
 http://185.56.109.251/Tudn/playlist.m3u8
