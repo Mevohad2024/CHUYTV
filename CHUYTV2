@@ -291,8 +291,7 @@ http://200.229.147.142:8000/play/a04f/index.m3u8
 #EXTINF:0 type="stream" channelId="1694" , MC
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://179.49.163.34:45000/play/a01w/index.m3u8
-http://200.115.98.26:9000/play/a081/index.m3u8
+http://200.229.147.142:8000/play/a02p/index.m3u8
 http://45.186.105.214:8000/play/a01v/index.m3u8
 http://138.36.24.8:8000/play/a07n/index.m3u8
 http://187.245.231.226:8000/play/a0sk/index.m3u8
@@ -300,118 +299,115 @@ http://187.245.231.226:8000/play/a0sk/index.m3u8
 #EXTINF:0 type="stream" channelId="1330" , HBO
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a06u/index.m3u8
+http://200.60.124.20:29000/play/a0sw/index.m3u8
 http://45.5.119.43:4000/play/a0l2/index.m3u8
-
+http://200.229.147.142:8000/play/a00q/index.m3u8
+http://45.186.105.214:8000/play/a013/index.m3u8
 
 #EXTINF:0 type="stream" channelId="935" , HBO2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a06v/index.m3u8
 http://45.5.119.43:4000/play/a00c/index.m3u8
-
+http://200.229.147.142:8000/play/a00r/index.m3u8
+http://45.186.105.214:8000/play/a014/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2584" , HBO FAMILY
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a06x/index.m3u8
+http://200.60.124.20:29000/play/a0pn/index.m3u8
+http://200.229.147.142:8000/play/a06q/index.m3u8
 http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 http://45.5.119.43:4000/play/a0l5/index.m3u8
-
 
 
 #EXTINF:0 type="stream" channelId="2585" , HBO+
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://45.186.105.214:8000/play/a015/index.m3u8
+http://200.229.147.142:8000/play/a00s/index.m3u8
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
-http://45.5.119.43:4000/play/a0l4/index.m3u8
-
+http://45.5.119.43:4000/play/a0l4/index.m3u8 
 
 
 #EXTINF:0 type="stream" channelId="2583" , HBO SIGNATURE
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.49.128.38:8000/play/a0ji/index.m3u8
-http://177.234.230.206:8011/play/a0lp/index.m3u8
+http://200.60.124.20:29000/play/a0r6/index.m3u8
 http://181.224.255.210:8001/play/a0re/index.m3u8
 
 #EXTINF:0 type="stream" channelId="361" , HBO POP
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://177.234.230.206:8011/play/a00y/index.m3u8
-http://201.237.193.180:9981/stream/channelid/185817598?profile=pass
+http://200.60.124.20:29000/play/a0pb/index.m3u8
 http://181.224.255.210:8001/play/a0on/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2587" , HBO XTREME
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://38.49.128.38:8000/play/a096/index.m3u8
-http://200.115.96.66:4000/play/a02o/index.m3u8
-http://45.5.119.43:4000/play/a0l6/index.m3u8
 http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
-http://45.5.117.57:8999/play/a05u/index.m3u8
-http://45.189.151.7:8000/play/a06w/index.m3u8
+http://200.115.96.66:4000/play/a02o/index.m3u8
+http://45.186.105.214:8000/play/a017/index.m3u8
+http://200.229.147.142:8000/play/a00t/index.m3u8
+http://200.60.124.20:29000/play/a0po/index.m3u8
+http://45.5.119.43:4000/play/a0l6/index.m3u8
 http://181.224.255.210:8001/play/a0nw/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2725" , HBO MUNDI HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://38.49.128.38:8000/play/a0jj/index.m3u8
-http://177.234.230.206:8011/play/a0lq/index.m3u8
+http://200.60.124.20:29000/play/a0r7/index.m3u8
 http://181.224.255.210:8001/play/a0rf/index.m3u8
 http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxibR0UmgBTgqR_Z7hr1fc43Q5AIw5s0g867HsLT1Fyg&s=10", Universal Cinema HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://200.92.227.238:8000/play/a0q5/index.m3u8
-http://38.159.227.122:8000/play/a04e/index.m3u8
+http://45.186.105.214:8000/play/a05k/index.m3u8
 http://45.5.119.43:4000/play/a0kt/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijhWdypfb7BVS6E6Rfc8li_KLqFodOh7A_wjW-6qvtQ&s=10", Universal Comedy HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://200.92.227.238:8000/play/a0ou/index.m3u8
+http://200.229.147.142:8000/play/a03v/index.m3u8
 http://200.115.96.66:4000/play/a032/index.m3u8
-http://38.159.227.122:8000/play/a030/index.m3u8
 http://45.5.119.43:4000/play/a0i5/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vd5-dOk6lZIhYiyD9wOjI54JpUf-JQKdjDhcObw7rg&s=10", Universal Crime HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://200.92.227.238:8000/play/a0ot/index.m3u8
+http://200.229.147.142:8000/play/a03u/index.m3u8
 http://200.115.96.66:4000/play/a033/index.m3u8
-http://38.159.227.122:8000/play/a02z/index.m3u8
 http://45.5.119.43:4000/play/a0i4/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMUnN9JxMa4ticVyqjk4VuGww9hLdl0dEqCUxiPiCKg&s=10", Universal Premier HD
 ##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-http://200.92.227.238:8000/play/a0oq/index.m3u8
+#EXTVLCOPT--http-reconnect=tru
+http://200.229.147.142:8000/play/a03r/index.m3u8e
 http://200.115.96.66:4000/play/a034/index.m3u8
-http://38.159.227.122:8000/play/a02w/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScA9kqcJaOzH1_kHfRX-GCrVSY2UFHvx035ELs0Tvbgw&s=10", Universal Reality HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.115.96.66:4000/play/a036/index.m3u8
-http://38.159.227.122:8000/play/a02y/index.m3u8
+http://200.229.147.142:8000/play/a03t/index.m3u8
 http://45.5.119.43:4000/play/a0i3/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLopm-6pUub9GBorT6swxZLPsdvctogtVUg&usqp=CAU", CINE FAMILIAR HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a061/index.m3u8
 http://168.228.44.241:9999/play/a00l/index.m3u8
 http://181.78.12.164:9000/play/ch52
+http://181.78.8.199:8000/play/a09p/index.m3u8
+http://200.229.147.142:8000/play/a07v/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D44X7voyBBl1lDSYkhQeToeN2Clhdz0Cjl89h-OwLoz2j84KQZ3GGoEO&s=10", CINE PREMIUM HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a064
 http://181.78.12.164:9000/play/ch49
-http://179.1.240.1:18002/play/a009
-
+http://181.78.8.199:8000/play/a09q/index.m3u8
+http://200.229.147.142:8000/play/a082/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ__pADQ8_ON1p7P5HzqW41ag0yk4d1sMyKBcvUFwZFvQ&s",Pelis tv
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
