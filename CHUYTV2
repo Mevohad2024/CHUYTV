@@ -481,46 +481,46 @@ http://45.186.105.214:8000/play/a04d/index.m3u8
 #EXTINF:0 type="stream" channelId="1418" , HGTV
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a06r/index.m3u8
 http://168.228.44.241:9999/play/a03x/index.m3u8
 
 #EXTINF:0 type="stream" channelId="57" , DISCOVERY CHANNEL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=
-http://45.189.151.7:8000/play/a067/index.m3u8
-http://45.171.64.30:2000/play/a03x/index.m3u8
+http://181.78.8.199:8000/play/a09a/index.m3u8
+http://45.186.105.214:8000/play/a05f/index.m3u8
 http://168.228.44.241:9999/play/a026/index.m3u8
 
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0ks/index.m3u8
-http://45.171.64.30:2000/play/a04y/index.m3u8
+http://45.186.105.214:8000/play/a05j/index.m3u8
+http://200.60.124.20:29000/play/a0rt/index.m3u8
+http://181.78.8.199:8000/play/a07j/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2724", Discovery H&H
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a069/index.m3u8
 http://168.228.44.241:9999/play/a01s/index.m3u8
-http://45.171.64.30:2000/play/a03g/index.m3u8
+http://181.78.8.199:8000/play/a071/index.m3u8
 http://45.5.119.43:4000/play/a0hw/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2839" , Discovery world
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a06a/index.m3u8
+http://200.60.124.20:29000/play/a0sx/index.m3u8
+http://45.186.105.214:8000/play/a05g/index.m3u8
 http://45.5.119.43:4000/play/a0kp/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2558" , Discovery theater
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a06b/index.m3u8
+http://200.60.124.20:29000/play/a0p5/index.m3u8
 http://45.5.119.43:4000/play/a0hv/index.m3u8
 
 #EXTINF:0 type="stream" channelId="58" , Discovery science
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a06c/index.m3u8
 http://190.0.247.38:8000/play/a00s
 http://168.228.44.241:9999/play/a03y/index.m3u8
 
@@ -528,56 +528,52 @@ http://168.228.44.241:9999/play/a03y/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0hh/index.m3u8
-http://190.0.247.38:8000/play/a00v
 http://190.14.10.19:16000/play/a06g/index.m3u8
-http://45.171.64.30:2000/play/a03h/index.m3u8
-http://185.56.109.253/Tlc/playlist.m3u8
+http://181.78.8.199:8000/play/a0a3/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2840" , DISCOVERY TURBO HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0ia/index.m3u8
 http://190.0.247.38:8000/play/a00o
-http://185.56.109.253/DiscoveryTurbo/playlist.m3u8
+http://181.78.8.199:8000/play/a0a5/index.m3u8
 
 #EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0gq/index.m3u8
 http://168.228.44.241:9999/play/a025/index.m3u8
+http://45.186.105.214:8000/play/a044/index.m3u8
+http://181.78.8.199:8000/play/a0by/index.m3u8
 
 #EXTINF:0 type="stream" channelId="56",NATIONAL GEOGRAPHIC
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a07a/index.m3u8
+http://181.78.8.199:8000/play/a093/index.m3u8
 http://45.5.119.43:4000/play/a0kk/index.m3u8
-http://179.1.240.1:18002/play/a026
-http://45.171.64.30:2000/play/a01l/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Love Nature HD
-http://190.102.246.93:9005/play/a05u
+http://200.60.124.20:29000/play/a0qp/index.m3u8
 http://181.224.255.210:8001/play/a0sr/index.m3u8
-http://181.78.21.46:8009/play/a01p
 
 #EXTINF:0 type="stream" channelId="1455", HISTORY
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.90.22.42:5280/play/a0do
-http://45.5.119.43:4000/play/a0gk/index.m3u8
 http://190.0.247.38:8000/play/a00w
-http://45.171.64.30:2000/play/a017/index.m3u8
-http://45.189.151.7:8000/play/a06s/index.m3u8
-http://185.56.109.253/History/playlist.m3u8
+http://45.5.119.43:4000/play/a0gk/index.m3u8
+http://200.229.147.142:8000/play/a01o/index.m3u8
+http://200.60.124.20:29000/play/a0rk/index.m3u8
+http://181.78.8.199:8000/play/a0an/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://190.90.22.42:5280/play/a0dp
 http://45.5.119.43:4000/play/a0jp/index.m3u8
-http://190.0.247.38:8000/play/a04r
 http://45.171.64.30:2000/play/a00v/index.m3u8
-http://45.189.151.7:8000/play/a06t/index.m3u8
-http://185.56.109.253/History2/playlist.m3u8
+http://190.90.22.42:5280/play/a0dp
+http://181.78.8.199:8000/play/a0ag/index.m3u8
 
 #EXTINF:0 type="stream" channelId="",KPOP
 http://190.14.249.223:17032/play/a05f/index.m3u8
