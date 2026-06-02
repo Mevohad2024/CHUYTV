@@ -20,12 +20,11 @@ http://181.78.8.199:8000/play/a0ga/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="2505", DISCOVERY KIDS HD 
-http://45.189.151.7:8000/play/a068/index.m3u8
 http://45.171.64.30:2000/play/a015/index.m3u8
 http://45.5.119.43:4000/play/a03l/index.m3u8
 http://200.115.120.1:8000/play/ca009/index.m3u8
-http://168.228.44.241:9999/play/a01v/index.m3u8
 http://181.78.8.199:8000/play/a070/index.m3u8
+http://168.228.44.241:9999/play/a01v/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbk6iQ-BMKthjAyZM6ZmqhOvaCs2fR5orz9Fo2bc6&s=10",FMH kids
 http://45.173.201.51:4000/play/a0m5/index.m3u8
@@ -42,34 +41,29 @@ http://45.171.64.30:8800/play/a03t
 
 #EXTINF:0 type="stream" channelId="41",Nickelodeon HD
 http://45.171.64.30:2000/play/a014/index.m3u8
-http://45.189.151.7:8000/play/a07c/index.m3u8
 http://177.10.184.60:8002/play/a00b/index.m3u8
 http://45.173.72.26:2072/play/a0bf
 
 #EXTINF:0 type="stream" channelId="322" , NICK JR.
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a07b/index.m3u8
 http://181.78.8.199:8000/play/a0i5/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1",CARTOON NETWORK
 http://45.5.119.43:4000/play/a029/index.m3u8
 http://45.171.64.30:2000/play/a03k/index.m3u8
-http://45.189.151.7:8000/play/a05n/index.m3u8
 http://45.68.35.218:9000/play/a03w/index.m3u8?hls
 http://181.78.8.199:8000/play/a095/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1305" , CARTOONITO
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a05o/index.m3u8
-http://168.228.44.241:9999/play/a056/index.m3u8
 http://200.115.120.1:8000/play/ca006/index.m3u8
 http://190.14.10.19:16000/play/a02c/index.m3u8
 http://45.171.64.30:8800/play/a03u
 http://181.78.8.199:8000/play/a09f/index.m3u8
-
+http://168.228.44.241:9999/play/a056/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
