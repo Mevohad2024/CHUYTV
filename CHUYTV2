@@ -49,7 +49,6 @@ http://45.173.72.26:2072/play/a0bf
 #EXTVLCOPT--http-reconnect=true
 http://181.78.8.199:8000/play/a0i5/index.m3u8
 
-
 #EXTINF:0 type="stream" channelId="-1",CARTOON NETWORK
 http://45.5.119.43:4000/play/a029/index.m3u8
 http://45.171.64.30:2000/play/a03k/index.m3u8
@@ -753,6 +752,7 @@ http://138.36.24.8:8000/play/a06g/index.m3u8
 #EXTINF:0 type="stream" channelId="3209" , 1 Univisión
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://tvmate.icu:8080/ScXs7M/690853/15336
 http://cord-cutter.net:8080/wY96uK/850378/15336
 
 #EXTINF:0 type="stream" channelId="3209" , 2 Univisión
@@ -766,6 +766,8 @@ http://200.39.57.254:8008/play/a00x/index.m3u8
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHOgAfm932xrC8h57zApK8k33gfNS8wnaSpry4Yf-gQ&s=10",1 Unimas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+http://cord-cutter.net:8080/wY96uK/850378/57969
+http://tvmate.icu:8080/ScXs7M/690853/57969
 
 #EXTINF:0 type="stream" channelId="-1"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-yl63zZKG2zwmCEwPzvzzcuvLAnvnvi1frUL_D3lHA&s=10",2 Unimas
 ##EXTVLCOPT:network-caching=1000
