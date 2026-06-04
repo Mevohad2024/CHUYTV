@@ -978,7 +978,7 @@ http://45.189.151.7:8000/play/a073/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://peaky.techcoder40.workers.dev/5976.m3u8
-http://nor1live.win/livehttpplay?channel_id=23134
+
 
 #EXTINF:0 type="stream" channelId="3751"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdu-hYcOwP5Zl2CzY4WGnf8M1w6wja4PKduw&s", 2 Foxdeportes
 ##EXTVLCOPT:network-caching=1000
