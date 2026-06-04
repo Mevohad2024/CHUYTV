@@ -11,28 +11,22 @@ http://ak-47scan.dyndns.tv:25461/live/noelflores2025/6fg2qevv5Wbj/492219.ts
 http://ak-47scan.dyndns.tv:25461/live/noelflores2025/6fg2qevv5Wbj/492218.ts
 
 #EXTINF:0 type="stream" tvg-name="butme HD" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aCcJiTkwseNCO4DNjw-29tSKJIMAiFdiPA&usqp=CAU", BITME HD
-http://185.56.109.253/BitMe/playlist.m3u8
-http://179.49.163.34:45000/play/a02m/index.m3u8
-http://181.119.64.227:5070/play/a035/index.m3u8
 http://190.0.247.38:8000/play/a00h
 http://181.119.111.25:4000/play/a0gl/index.m3u8
 http://181.78.8.199:8000/play/a0ga/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="2505", DISCOVERY KIDS HD 
-http://45.171.64.30:2000/play/a015/index.m3u8
-http://45.5.119.43:4000/play/a03l/index.m3u8
-http://200.115.120.1:8000/play/ca009/index.m3u8
 http://181.78.8.199:8000/play/a070/index.m3u8
 http://168.228.44.241:9999/play/a01v/index.m3u8
+http://200.115.120.1:8000/play/ca009/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbk6iQ-BMKthjAyZM6ZmqhOvaCs2fR5orz9Fo2bc6&s=10",FMH kids
-http://45.173.201.51:4000/play/a0m5/index.m3u8
 http://170.246.114.52:8000/play/a047/index.m3u8
 http://207.230.11.18:1982/play/a0px/index.m3u8
+http://45.173.201.51:4000/play/a0m5/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLrw1mQ8vXSSXsSZe7YgoJxySqUmJvG-YWt96nRYTFM1yvn7vZ" , Canal infantil
-http://190.102.246.93:9005/play/a03c
 http://190.0.247.38:8000/play/a00e
 http://181.78.8.199:8000/play/a09o/index.m3u8
 
@@ -61,13 +55,13 @@ http://181.78.8.199:8000/play/a095/index.m3u8
 http://200.115.120.1:8000/play/ca006/index.m3u8
 http://190.14.10.19:16000/play/a02c/index.m3u8
 http://45.171.64.30:8800/play/a03u
-http://181.78.8.199:8000/play/a09f/index.m3u8
 http://168.228.44.241:9999/play/a056/index.m3u8
+http://181.78.8.199:8000/play/a09f/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="3331" , DISNEY JUNIOR HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a06e/index.m3u8
 http://190.90.22.42:5280/play/a0de
 http://45.5.119.43:4000/play/a0g1/index.m3u8
 http://181.78.8.199:8000/play/a084/index.m3u8
@@ -76,16 +70,14 @@ http://190.0.247.38:8000/play/a00f
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a06d/index.m3u8
 http://45.5.119.43:4000/play/a0i8/index.m3u8
 http://181.78.12.119:16123/play/ch03/index.m3u8
-http://181.78.8.199:8000/play/a0dn/index.m3u8
 http://168.228.44.241:9999/play/a01q/index.m3u8
+http://181.78.8.199:8000/play/a0dn/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a07o/index.m3u8
 http://45.5.119.43:4000/play/a03k/index.m3u8
 http://190.14.10.19:16000/play/a066/index.m3u8
 http://207.230.11.18:1982/play/a0nf/index.m3u8
@@ -94,18 +86,17 @@ http://181.78.8.199:8000/play/a09g/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://38.49.128.38:8000/play/a0no/index.m3u8
 http://190.0.247.38:8000/play/a00k
 http://200.229.147.142:8000/play/a05d/index.m3u8
 http://141.136.61.2:8000/play/a0cd/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1",PASIONES
-http://45.189.151.7:8000/play/a07e/index.m3u8
 http://45.5.119.43:4000/play/a0kq/index.m3u8
+http://45.186.105.214:8000/play/a05h/index.m3u8
 http://168.228.44.241:9999/play/a03m/index.m3u8
 http://181.78.12.164:9000/play/a03t
-http://45.186.105.214:8000/play/a05h/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1", Canal claro
 http://200.60.124.20:29000/play/a04w/index.m3u8
@@ -114,7 +105,6 @@ http://45.186.105.214:8000/play/a011/index.m3u8
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.171.64.30:2000/play/a03f/index.m3u8
 http://45.68.35.218:9000/play/a002/index.m3u8?hls
 http://45.186.105.214:8000/play/a047/index.m3u8
 http://200.60.124.20:29000/play/a0si/index.m3u8
@@ -126,12 +116,11 @@ http://190.90.22.42:5280/play/a0ek
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a05h/index.m3u8
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 http://45.186.105.214:8000/play/a03d/index.m3u8
-http://181.78.8.199:8000/play/a0cu/index.m3u8
 http://200.229.147.142:8000/play/a027/index.m3u8
 http://45.5.119.43:4000/play/a0iy/index.m3u8
+http://181.78.8.199:8000/play/a0cu/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1188" , E!1
 ##EXTVLCOPT:network-caching=1000
@@ -164,11 +153,10 @@ http://45.5.119.43:4000/play/a0hn/index.m3u8
 http://190.90.22.42:5280/play/a0ej
 http://45.186.105.214:8000/play/a04a/index.m3u8
 http://45.5.119.43:4000/play/a0gw/index.m3u8
-http://181.78.8.199:8000/play/a0ds/index.m3u8
 http://200.60.124.20:29000/play/a0rx/index.m3u8
 http://200.229.147.142:8000/play/a020/index.m3u8
 http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
-
+http://181.78.8.199:8000/play/a0ds/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1052" , TNT
 ##EXTVLCOPT:network-caching=1000
@@ -183,11 +171,9 @@ http://168.228.44.241:9999/play/a01z/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7viw-ATvhvEmuDZGg9FbJTZa5jjtqZl3kD7C2HGreEQ&s=10", ENT CHANEL
 http://200.4.195.66:8000/play/a00w/index.m3u8
 
-
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUA-2yRiE2T3M_dk8JW-xQMOZ70Iscn20pNvf_-Z_Wdg&s=10", ENT FAMILY
 #EXTVLCOPT--http-reconnect=true
 http://200.4.195.66:8000/play/a00v/index.m3u8
-
 
 #EXTINF:0 type="stream" channelId="187" , UNIVERSAL
 ##EXTVLCOPT:network-caching=1000
@@ -799,44 +785,37 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 
 #EXTINF:0 type="stream" channelId="134", DPELICULA
-http://179.49.163.34:45000/play/a013/index.m3u8
-http://185.56.109.253/DePelicula/playlist.m3u8
+
 
 #EXTINF:0 type="stream" channelId="895", TCM
-http://181.78.99.187:8000/play/a0nu/index.m3u8
 http://45.5.119.43:4000/play/a0jw/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",COMEDY CENTRAL
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca108/index.m3u8
-http://45.171.64.30:2000/play/a04a/index.m3u8
-http://45.5.119.43:4000/play/a0hy/index.m3u8
-http://45.189.151.7:8000/play/a05x/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1",Distrito Comedia
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://179.49.163.34:45000/play/a02n/index.m3u8
-http://181.78.106.127:9000/play/ca055/index.m3u8
-http://185.56.109.253/DistritoComedia/playlist.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1", Unicable
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.228.234.30:16000/play/a02w/index.m3u8
-http://185.56.109.253/Unicable/playlist.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1", TLNovelas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://179.49.163.34:45000/play/a00d/index.m3u8
-http://185.56.109.253/TlNovelas/playlist.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1",RCN
 http://181.78.8.199:8000/play/a0hx/index.m3u8
-http://190.14.249.223:17032/play/a06l/index.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1",RCN 2
-http://190.14.249.223:17032/play/a082/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1",RCN NOVELAS
 ##EXTVLCOPT:network-caching=1000
@@ -845,66 +824,49 @@ http://200.115.120.1:8000/play/ca017/index.m3u8
 
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LYB62YdcTrEcbJC26PoOlmLLqJ6eCNomp1EkDcSACA&s=10", TNT Novelas
-http://45.189.151.7:8000/play/a07m/index.m3u8
 http://181.78.12.164:9000/play/a08y
 http://181.78.201.70:8000/play/a0pr/index.m3u8
 http://168.228.44.241:9999/play/a03p/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2686" , TNT Series HD
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a07l/index.m3u8
-http://181.78.201.70:8000/play/a0pn/index.m3u8
 http://45.5.119.43:4000/play/a0km/index.m3u8
-http://45.171.64.30:2000/play/a00m/index.m3u8
-6
+
 
 #EXTINF:0 type="stream" channelId="-1",AZ CORAZÓN
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a05g/index.m3u8
 http://181.78.21.46:8009/play/a039
 http://190.90.22.42:5280/play/a0e4
 
 #EXTINF:0 type="stream" channelId="-1", Az Clic!
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a05d/index.m3u8
 http://181.78.21.46:8009/play/a038
 
 #EXTINF:0 type="stream" channelId="-1", Kanal D HD
 http://8.243.126.131:8000/play/a0mn/index.m3u8
-http://181.119.111.25:4000/play/a0l2/index.m3u8
 http://138.36.24.8:8000/play/a09x/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", ANTENA 3
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a05a/index.m3u8
-http://goldtv.lat:80/JUF297LUY0/cta27playec/110047
+
 
 #EXTINF:0 type="stream" channelId="-1", A3 SERIES
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://45.189.151.7:8000/play/a05b/index.m3u8
-http://200.115.120.1:8000/play/ca0101/index.m3u8
-http://45.184.87.142:8000/play/a02h
+
 
 #EXTINF:-1 type="stream" channelId="-1" ,3ACINE
+http://200.115.120.1:8000/play/ca0101/index.m3u8
 http://168.228.44.241:9999/play/a00i/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Caracol 
-http://179.49.163.34:45000/play/a03b/index.m3u8
-http://190.29.110.32:450/play/a0bi/index.m3u8
-http://181.119.85.222:8000/play/a02t/index.m3u8
 http://181.78.8.199:8000/play/a0b0/index.m3u8
-http://190.14.249.223:17032/play/a067/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiSZEs_hXIVELS5uQrkyzUoVXRJNpe9KL0XxPHo_G83Q&s=10", Caracol 2
-http://179.49.163.34:45000/play/a03a/index.m3u8
-http://190.29.110.32:450/play/a0bj/index.m3u8
-http://181.119.85.222:8000/play/a02z/index.m3u8
 http://181.78.8.199:8000/play/a0hw/index.m3u8
-http://190.14.249.223:17032/play/a066/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" , Más Chic 
 http://200.115.120.1:8000/play/ca021/index.m3u8
@@ -913,15 +875,10 @@ http://200.115.120.1:8000/play/ca021/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://38.210.3.64:8090/play/a0je/index.m3u8
-http://200.60.124.19:29000/play/a081/index.m3u8
 http://200.60.124.20:29000/play/a081/index.m3u8
-http://181.78.19.125:9096/play/a008
-http://190.108.89.228:8000/play/a05w/index.m3u8
-http://181.78.106.127:9000/play/ca026/index.m3u8
 https://peaky.techcoder40.workers.dev/5981.m3u8
 http://8.243.126.131:8000/play/a05a/index.m3u8
 http://201.240.104.137:8000/play/a0aa/index.m3u8
-http://201.230.121.85:8000/play/a0yv/index.m3u8
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 
 
@@ -934,19 +891,16 @@ http://200.60.124.20:29000/play/a081/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebWz0gUaBzK7N-JdqHh6LW66zII4C0y3ZSA&usqp=CAU",1 Directv sport +
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://200.62.239.162:8000/play/a077/index.m3u8
-
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://181.78.78.66:8000/play/a0at
 
 
 #EXTINF:0 type="stream" channelId="4668", TNT Sports premium
 http://200.115.120.1:8000/play/ca040/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iw3Lzx5CrDXWiBQEFdcEDJl92QYuitb7uy5j_sWMuQ&s", DAZN
-http://tv.proyectox.vip:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/94464
 
 
 #EXTINF:0 type="stream" channelId="0" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUU8n9zaSIs6lik8P7dUtv25LaOw66JjUVxx54Q8Oe6A&s=10", SKY BUNDESLIGA
@@ -1256,41 +1210,40 @@ http://138.36.24.8:8000/play/a07i/index.m3u8
 http://187.245.231.226:8000/play/a0si/index.m3u8
 
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhixSY2IdFYJbDH92-BcONpPNLQMA1Dazt7C-8A_mvyA&s=10",adrenalina
-http://45.173.201.51:4000/play/a0l5/index.m3u8
 http://45.68.35.218:9000/play/a03p/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://futurateve.net:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/755482.ts
-
-#EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10",FOXONE
-http://goldtv.lat:80//live/JUF297LUY0/cta27playec/360908.ts
 http://45.171.64.30:8800/play/a05y
 
+#EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10",FOXONE
+
+
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (MX)
-http://185.56.109.251/Tudn/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (MX)
 http://200.115.120.1:8000/play/ca039/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",3 TUDN HD (MX)
 http://45.186.105.214:8000/play/a05r/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",4 TUDN HD (MX)
-http://45.171.64.30:2000/play/a08j/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",5 TUDN HD (MX)
-http://181.119.111.25:4000/play/a04f/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",6 TUDN HD (MX)
 http://190.14.10.19:16000/play/a09v/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",7 TUDN HD (MX)
 http://187.245.231.226:8000/play/a0ut/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",8 TUDN HD (MX)
-http://latinotvplus.online:80/SAndovaLCB20/PCcjsH5Ys733/443131.ts
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",9 TUDN HD (MX)
 http://24.152.53.3:8090/play/a012/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (US)
-http://tvmate.icu:8080/Alan/Alan1234/82241
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (US)
 http://tvmate.icu:8080/triniyoung891@yahoo.com/p4hgv3f3tn/11885
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",3 TUDN HD (US)
-http://tvmate.icu:8080/Alan/Alan1234/11885
+
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",4 TUDN HD (US)
-http://goldtv.lat:80/JUF297LUY0/cta27playec/314975
+
 
