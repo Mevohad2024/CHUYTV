@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Mouse S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9rU2DdJaoO5OGMlGTumse9gLKr.jpg" ,Mouse S01 E11
-http://playtv44.com:8080/series/cc6/del23er/398165.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mouse S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rj3IXjs5u3urulthkts678B7Ew.jpg" ,Mouse S01 E12
 http://playtv44.com:8080/series/cc6/del23er/398166.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mouse S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JZkuQdJ86NkyeNyTANP70BAeuq.jpg" ,Mouse S01 E13
