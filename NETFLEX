@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/11f9297c15a1c658ea5d4bf220decdb5.jpg",Backrooms: Sin salida (2026) CAM
+http://starlatino.tv:8880/movie/56994497047/8nKFxqVSbeWL/532489.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/0a6c49be7da91685647490727c2c7019.jpg",Las ovejas detectives (2026) CAM
+http://starlatino.tv:8880/movie/56994497047/8nKFxqVSbeWL/527229.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/665d3b6670fe1a8a043964b2287cece8.jpg",El Mandaloriano y Grogu (2026) CAM
+http://starlatino.tv:8880/movie/56994497047/8nKFxqVSbeWL/532165.mp4
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vqCQp39OdATobTc9U_GkHSqRXDKf5B0yXfYpHc5wzQ&s=10", VENGANZA
 
 
