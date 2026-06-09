@@ -46,12 +46,12 @@ http://200.60.124.20:29000/play/a081/index.m3u8
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 
 
-#EXTINF:-1,DSPORTS2 HD
+#EXTINF:-1 group-title="-",DSPORTS2 HD
 http://cablemaxsigloxxi.com:8000/play/a066/index.m3u8
-#EXTINF:-1,DSPORTS2 HD
+#EXTINF:-1 group-title="-",DSPORTS2 HD
 http://200.59.188.3:8000/play/a0xe
 
-#EXTINF:-1,DSPORTS+ HD
+#EXTINF:-1 group-title="-",DSPORTS+ HD
 http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8
 
 
@@ -79,6 +79,17 @@ http://190.83.9.222:8000/play/ca099/index.m3u8
 http://45.171.64.30:8800/play/a07e
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUD SD
 http://200.229.147.210:9999/play/a01v/index.m3u8
+
+#EXTINF:-1 group-title="-",ESPN HD
+http://181.13.252.102:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 HD
+http://181.13.252.102:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://181.13.252.102:8000/play/a078/index.m3u8
 
 #EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
 http://200.229.147.210:9999/play/a00g/index.m3u8
