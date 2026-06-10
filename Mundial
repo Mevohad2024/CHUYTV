@@ -5,8 +5,25 @@ http://200.115.120.1:8000/play/ca109/index.m3u8
 
 #EXTINF:-1 group-title="-",TIGO SPORTS HONDURAS
 http://38.188.186.47:4000/play/a018/index.m3u8
+#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
+http://200.60.124.20:29000/play/a081/index.m3u8
 #EXTINF:0 group-title="-"  type="stream" channelId="1967" , TELEMUNDO 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
+http://45.172.92.111:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
+http://200.115.120.1:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="-",ESPN
+http://181.78.211.244:8000/play/a0b4/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://181.78.78.66:8000/play/a0gr
+#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 
+http://45.5.119.43:4000/play/a05q/index.m3u8
+#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
+http://45.186.105.214:8000/play/a05r/index.m3u8
+
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
+http://186.33.25.234:8125/play/a0e5/index.m3u8
 #EXTINF:0 group-title="-" type="stream" channelId="1967" ,2 TELEMUNDO
 http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410
 #EXTINF:0 group-title="-" type="stream" channelId="1967" ,3 TELEMUNDO
@@ -20,12 +37,10 @@ http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1080/index.m3u8
 http://38.159.227.214:8000/play/a038
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://190.14.10.19:16000/play/a0a2/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://45.172.92.111:8000/play/a02d/index.m3u8
+
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://38.194.226.190:8000/play/a00o/index.m3u8?hls
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://200.115.120.1:8000/play/a017/index.m3u8
+
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://45.5.118.152:8000/play/a0dh/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
@@ -48,8 +63,7 @@ http://181.119.108.27:7292/play/a02v/index.m3u8
 http://186.33.25.234:8125/play/a04p/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://186.33.25.234:8125/play/a0e6/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
-http://186.33.25.234:8125/play/a0e5/index.m3u8
+
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://45.5.118.152:8000/play/a0ds/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
@@ -77,8 +91,6 @@ http://38.188.100.18:8000/play/a05m/index.m3u8
 http://200.59.188.3:8000/play/a0xe
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
 http://201.240.104.137:8000/play/a0aa/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
-http://200.60.124.20:29000/play/a081/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 #EXTINF:-1 group-title="-",00 - DirecTV Sports
@@ -110,14 +122,12 @@ http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8
 #EXTINF:-1,D SPORT +
 http://38.199.5.160:8000/play/a09q/index.m3u8
 
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 
-http://45.5.119.43:4000/play/a05q/index.m3u8
+
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
 http://45.228.234.62:8000/play/a00a/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
 http://45.186.106.207:8000/play/a099/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
-http://45.186.105.214:8000/play/a05r/index.m3u8
+
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
 http://200.229.147.142:8000/play/a096/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
@@ -151,12 +161,10 @@ http://181.224.255.210:8001/play/a0sd/index.m3u8
 http://181.78.8.199:8000/play/a08y/index.m3u8
 #EXTINF:-1 group-title="-",ESPN
 http://181.205.205.173:8888/play/a0ua/index.m3u8
-#EXTINF:-1 group-title="-",ESPN
-http://181.78.211.244:8000/play/a0b4/index.m3u8
+
 #EXTINF:-1 group-title="-",ESPN HD
 http://181.205.205.173:8888/play/a0tn/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
-http://181.78.78.66:8000/play/a0gr
+
 #EXTINF:-1 group-title="-",ESPN HD
 http://190.90.22.42:5280/play/a0ex
 #EXTINF:-1 group-title="-",ESPN
