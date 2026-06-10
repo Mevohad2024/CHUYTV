@@ -56,6 +56,13 @@ http://45.5.118.152:8000/play/a0ds/index.m3u8
 http://45.5.118.152:8000/play/a0df/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://181.78.17.52:8000/play/a0rq/index.m3u8
+#EXTINF:-1 group-title="-",FOX
+http://38.52.182.224:8000/play/a0ja/index.m3u8
+#EXTINF:-1 group-title="-",FOX CR
+http://38.52.182.224:8000/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="-",FOX HD GUA
+http://38.52.182.224:8000/play/a0j9/index.m3u8
+
 
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
 http://200.59.188.3:8000/play/a0xe
