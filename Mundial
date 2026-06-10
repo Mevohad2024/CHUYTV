@@ -72,6 +72,8 @@ http://201.240.104.137:8000/play/a0aa/index.m3u8
 http://200.60.124.20:29000/play/a081/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
 http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-1 group-title="-",00 - DirecTV Sports
+http://38.56.111.14:8000/play/a041/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
@@ -139,6 +141,10 @@ http://181.78.78.66:8000/play/a0gr
 http://190.90.22.42:5280/play/a0ex
 #EXTINF:-1 group-title="-",ESPN
 http://181.78.85.59:2500/play/a036/index.m3u8
+#EXTINF:-1 group-title="-",1985 ESPN HD
+http://38.56.111.14:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="-",1988 ESPN HD
+http://38.56.111.14:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 HD
 http://200.59.188.3:8000/play/a073
 #EXTINF:-1 group-title="-",ESPN 2 HD
