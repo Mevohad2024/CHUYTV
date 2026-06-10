@@ -66,7 +66,14 @@ http://38.52.182.224:8000/play/a0ja/index.m3u8
 http://38.52.182.224:8000/play/a0ay/index.m3u8
 #EXTINF:-1 group-title="-",FOX HD GUA
 http://38.52.182.224:8000/play/a0j9/index.m3u8
-
+#EXTINF:-1,FOX
+http://38.252.238.18:8000/play/a079/index.m3u8
+#EXTINF:-1,FOX CR
+http://38.252.238.18:8000/play/a077/index.m3u8
+#EXTINF:-1,FOX CR
+http://38.252.238.18:8000/play/a02p/index.m3u8
+#EXTINF:-1,FOX HD GUA
+http://38.252.238.18:8000/play/a078/index.m3u8
 
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSports HD
 http://38.188.100.18:8000/play/a05m/index.m3u8
@@ -80,6 +87,14 @@ http://200.60.124.20:29000/play/a081/index.m3u8
 http://181.224.255.210:8001/play/a0s8/index.m3u8
 #EXTINF:-1 group-title="-",00 - DirecTV Sports
 http://38.56.111.14:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="-",DSPORTS_HD
+http://38.226.210.46:8000/play/A008/index.m3u8
+#EXTINF:-1 group-title="-",OFICINA  DSPORT 14
+http://38.252.213.209:8000/play/a08e
+#EXTINF:-1 group-title="-",DSPORTS HD  (PARA ANALOGICO)
+http://38.252.213.212:8000/play/a01k
+#EXTINF:-1 group-title="-",DSPORT
+http://38.252.215.33:8000/play/a082/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
@@ -92,9 +107,12 @@ http://cablemaxsigloxxi.com:8000/play/a066/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS2 HD
 http://200.59.188.3:8000/play/a0xe
 
+#EXTINF:-1 group-title="-",OFICINA  DSPORT 2 12
+http://38.252.213.209:8000/play/a00f
 #EXTINF:-1 group-title="-",DSPORTS+ HD
 http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8
-
+#EXTINF:-1,D SPORT +
+http://38.199.5.160:8000/play/a09q/index.m3u8
 
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 
 http://45.5.119.43:4000/play/a05q/index.m3u8
@@ -149,8 +167,15 @@ http://190.90.22.42:5280/play/a0ex
 http://181.78.85.59:2500/play/a036/index.m3u8
 #EXTINF:-1 group-title="-",1985 ESPN HD
 http://38.56.111.14:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="-",ESPN_1_Col
+http://38.211.145.109:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://38.224.48.4:8000/play/a0x4/index.m3u8
+#EXTINF:-1 group-title="-",ESPN LIMA
+http://38.224.48.4:8000/play/a0wp/index.m3u8
 #EXTINF:-1 group-title="-",1988 ESPN HD
 http://38.56.111.14:8000/play/a01j/index.m3u8
+
 #EXTINF:-1 group-title="-",ESPN 2 HD
 http://200.59.188.3:8000/play/a073
 #EXTINF:-1 group-title="-",ESPN 2 HD
