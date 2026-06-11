@@ -139,6 +139,22 @@ http://38.252.238.18:8000/play/a02p/index.m3u8
 #EXTINF:-1,FOX HD GUA
 http://38.252.238.18:8000/play/a078/index.m3u8
 
+#EXTINF:-1 xui-id="651389" tvg-id="" tvg-name="MAX CLICK SPORTS  | 01" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 01
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fVEDHX-5pP6X_V3Khs9NDD-EeQKIiEMs6jK3xUMJ94ym
+#EXTINF:-1 xui-id="651390" tvg-id="" tvg-name="MAX CLICK SPORTS  | 02" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 02
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc12diy0fbmO3XmJjCVPOCOj
+#EXTINF:-1 xui-id="651391" tvg-id="" tvg-name="MAX CLICK SPORTS  | 03" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 03
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc3RI-DalC7FZCfOmkOhLt_J
+#EXTINF:-1 xui-id="651392" tvg-id="" tvg-name="MAX CLICK SPORTS  | 04" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 04
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc22NFxlFwFRCsctUJn7yr4A
+#EXTINF:-1 xui-id="651393" tvg-id="" tvg-name="MAX CLICK SPORTS  | 05" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 05
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc1lTVY1v1B1vcjo3vCNI4cn
+#EXTINF:-1 xui-id="651394" tvg-id="" tvg-name="MAX CLICK SPORTS  | 06" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 06
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc0paZzjiNhX7qpkLZhmZGeR
+#EXTINF:-1 xui-id="651395" tvg-id="" tvg-name="MAX CLICK SPORTS  | 07" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 07
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc0XQ5SC3kfYDcV57aeFYTyS
+#EXTINF:-1 xui-id="651396" tvg-id="" tvg-name="MAX CLICK SPORTS  | 08" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 08
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc3i0CVfZmtKZB5bMn22t6n7
 #EXTINF:-1 group-title="-",OFICINA  DSPORT 14
 http://38.252.213.209:8000/play/a08e
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
