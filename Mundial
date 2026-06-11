@@ -183,6 +183,8 @@ http://181.205.205.173:8888/play/a0tn/index.m3u8
 http://190.90.22.42:5280/play/a0ex
 #EXTINF:-1 group-title="-",ESPN
 http://181.78.85.59:2500/play/a036/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://181.78.21.46:8009/play/a015
 #EXTINF:-1 group-title="-",1985 ESPN HD
 http://38.56.111.14:8000/play/a03m/index.m3u8
 #EXTINF:-1 group-title="-",ESPN_1_Col
