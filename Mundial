@@ -14,14 +14,14 @@ http://181.78.211.244:8000/play/a0b4/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
 http://181.78.78.66:8000/play/a0gr
 
-#EXTINF:-1,Azteca 7
+#EXTINF:-1 group-title="-",Azteca 7
 http://45.186.105.214:8000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.119.108.27:7292/playlist/tvg-logo/a0ah.png",AZTECA 7
+#EXTINF:-1 tvg-logo="http://181.119.108.27:7292/playlist/tvg-logo/a0ah.png" group-title="-",AZTECA 7
 http://181.119.108.27:7292/play/a0ah/index.m3u8
 
-#EXTINF:-1,TIGO SPORT
+#EXTINF:-1 logo="http://181.119.111.25:4000/playlist/tvg-logo/a0f1.png" group-title="-",TIGO SPORT
 http://181.78.109.48:9998/play/a06m/index.m3u8
-#EXTINF:-1 group-title="-",TIGO SPORTS HONDURAS
+#EXTINF:-1 logo="http://181.119.111.25:4000/playlist/tvg-logo/a0f1.png" group-title="-",TIGO SPORTS HONDURAS
 http://38.188.186.47:4000/play/a018/index.m3u8
 
 
@@ -62,69 +62,53 @@ http://redworld.pro:8880/Melany2025/62upBbekb4Ku/526170
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/527938
 
 
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 1 FOXONE CR
-http://38.159.227.214:8000/play/a038
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 2 FOXONE CR
-http://190.14.10.19:16000/play/a0a2/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 3 FOXONE CR
-http://45.5.118.152:8000/play/a0dh/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 4 FOXONE CR
-http://45.5.119.43:4000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 5 FOXONE CR
-http://8.243.126.131:8000/play/a0oq/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 6 FOXONE CR
-http://8.243.126.131:8000/play/a0ih/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",7 FOXONE CR
-http://45.228.234.62:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",8 FOXONE CR
-http://200.229.147.210:9999/play/a0as/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 9 FOXONE CR
-http://200.229.147.142:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",10 FOXONE CR
-http://187.245.231.226:8000/play/a0og/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 11 FOXONE CR
-http://181.119.108.27:7292/play/a02v/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 12 FOXONE CR
-http://186.33.25.234:8125/play/a04p/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 13 FOXONE CR
-http://186.33.25.234:8125/play/a0e6/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 14 FOXONE CR
-http://45.5.118.152:8000/play/a0ds/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 15 FOXONE CR
-http://45.5.118.152:8000/play/a0df/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 16 FOXONE CR
-http://181.78.17.52:8000/play/a0rq/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",17 FOXONE CR
-http://38.52.182.224:8000/play/a0ja/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",18 FOXONE CR
-http://38.52.182.224:8000/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",19 FOX HD GUA
-http://38.52.182.224:8000/play/a0j9/index.m3u8
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",20 FOXONE
-http://38.252.238.18:8000/play/a079/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",21 FOXONE CR
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE CR
 http://38.252.238.18:8000/play/a077/index.m3u8
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",22 FOXONE CR
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",2 FOXONE CR
+http://38.52.182.224:8000/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 3 FOXONE CR
+http://38.159.227.214:8000/play/a038
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",4 FOXONE CR
 http://38.252.238.18:8000/play/a02p/index.m3u8
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",23 FOXONE HD GUA
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 5 FOXONE CR
+http://45.5.118.152:8000/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 6 FOXONE CR
+http://45.5.119.43:4000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 7 FOXONE CR
+http://8.243.126.131:8000/play/a0oq/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 8 FOXONE CR
+http://8.243.126.131:8000/play/a0ih/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",9 FOXONE CR
+http://45.228.234.62:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",10 FOXONE CR
+http://200.229.147.210:9999/play/a0as/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 12 FOXONE CR
+http://200.229.147.142:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",12 FOXONE CR
+http://187.245.231.226:8000/play/a0og/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 13 FOXONE CR
+http://181.119.108.27:7292/play/a02v/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 14 FOXONE CR
+http://186.33.25.234:8125/play/a04p/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 15 FOXONE CR
+http://45.5.118.152:8000/play/a0ds/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 16 FOXONE CR
+http://45.5.118.152:8000/play/a0df/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 17 FOXONE CR
+http://181.78.17.52:8000/play/a0rq/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",18 FOX HD GUA
+http://38.52.182.224:8000/play/a0j9/index.m3u8
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",19 FOXONE HD GUA
 http://38.252.238.18:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 20 FOXONE
+http://190.14.10.19:16000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 21 FOXONE CR
+http://186.33.25.234:8125/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",22 FOXONE CR
+http://38.52.182.224:8000/play/a0ja/index.m3u8
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",23 FOXONE
+http://38.252.238.18:8000/play/a079/index.m3u8
 
-#EXTINF:-1 xui-id="651389" tvg-id="" tvg-name="MAX CLICK SPORTS  | 01" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 01
-http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fVEDHX-5pP6X_V3Khs9NDD-EeQKIiEMs6jK3xUMJ94ym
-#EXTINF:-1 xui-id="651390" tvg-id="" tvg-name="MAX CLICK SPORTS  | 02" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 02
-http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc12diy0fbmO3XmJjCVPOCOj
-#EXTINF:-1 xui-id="651391" tvg-id="" tvg-name="MAX CLICK SPORTS  | 03" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 03
-http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc3RI-DalC7FZCfOmkOhLt_J
-#EXTINF:-1 xui-id="651392" tvg-id="" tvg-name="MAX CLICK SPORTS  | 04" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 04
-http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc22NFxlFwFRCsctUJn7yr4A
-#EXTINF:-1 xui-id="651393" tvg-id="" tvg-name="MAX CLICK SPORTS  | 05" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 05
-http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc1lTVY1v1B1vcjo3vCNI4cn
-#EXTINF:-1 xui-id="651394" tvg-id="" tvg-name="MAX CLICK SPORTS  | 06" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 06
-http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc0paZzjiNhX7qpkLZhmZGeR
-#EXTINF:-1 xui-id="651395" tvg-id="" tvg-name="MAX CLICK SPORTS  | 07" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 07
-http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc0XQ5SC3kfYDcV57aeFYTyS
-#EXTINF:-1 xui-id="651396" tvg-id="" tvg-name="MAX CLICK SPORTS  | 08" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 08
-http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc3i0CVfZmtKZB5bMn22t6n7
 #EXTINF:-1 group-title="-",OFICINA  DSPORT 14
 http://38.252.213.209:8000/play/a08e
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
@@ -193,6 +177,8 @@ http://190.83.9.222:8000/play/ca099/index.m3u8
 http://45.171.64.30:8800/play/a07e
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUD SD
 http://200.229.147.210:9999/play/a01v/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://181.119.111.25:4000/playlist/tvg-logo/a04f.png",37) TUDN
+http://181.119.111.25:4000/play/a04f/index.m3u8
 
 #EXTINF:-1 group-title="-",ESPN HD
 http://200.59.188.3:8000/play/a17q
@@ -278,19 +264,32 @@ http://181.224.255.210:8001/play/a0pt/index.m3u8
 #EXTINF:-1 group-title="-",ESPN Premium HD
 http://181.205.205.173:8888/play/a0t6/index.m3u8
 
+#EXTINF:-1 xui-id="651389" tvg-id="" tvg-name="MAX CLICK SPORTS  | 01" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 01
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fVEDHX-5pP6X_V3Khs9NDD-EeQKIiEMs6jK3xUMJ94ym
+#EXTINF:-1 xui-id="651390" tvg-id="" tvg-name="MAX CLICK SPORTS  | 02" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 02
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc12diy0fbmO3XmJjCVPOCOj
+#EXTINF:-1 xui-id="651391" tvg-id="" tvg-name="MAX CLICK SPORTS  | 03" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 03
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc3RI-DalC7FZCfOmkOhLt_J
+#EXTINF:-1 xui-id="651392" tvg-id="" tvg-name="MAX CLICK SPORTS  | 04" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 04
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc22NFxlFwFRCsctUJn7yr4A
+#EXTINF:-1 xui-id="651393" tvg-id="" tvg-name="MAX CLICK SPORTS  | 05" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 05
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc1lTVY1v1B1vcjo3vCNI4cn
+#EXTINF:-1 xui-id="651394" tvg-id="" tvg-name="MAX CLICK SPORTS  | 06" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 06
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc0paZzjiNhX7qpkLZhmZGeR
+#EXTINF:-1 xui-id="651395" tvg-id="" tvg-name="MAX CLICK SPORTS  | 07" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 07
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc0XQ5SC3kfYDcV57aeFYTyS
+#EXTINF:-1 xui-id="651396" tvg-id="" tvg-name="MAX CLICK SPORTS  | 08" tvg-logo="https://i.ibb.co/cKRhx2HX/image.png" group-title="LA FIESTA DEL FÚTBOL ⏯️ | PREMIUM",MAX CLICK SPORTS  | 08
+http://maxclicktv.net:8080/play/QQwkzWOHnHhMo4MXvKm4fbQXe6OrdPwrDKS9e2YJjc3i0CVfZmtKZB5bMn22t6n7
 
 #EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
 http://200.229.147.210:9999/play/a00g/index.m3u8
-#EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
-http://177.10.184.60:8002/play/a013/index.m3u8
+
 #EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
 http://200.229.147.142:8000/play/a00d/index.m3u8
 #EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
 http://200.115.96.66:4000/play/a02i/index.m3u8
-#EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV6hU1Q9lwphMiZt0tm9pB2WK-9g8-FzABCy1ROYIVw&s=10",TD+ HD
-http://170.244.209.30:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="http://181.119.111.25:4000/playlist/tvg-logo/a04f.png",37) TUDN
-http://181.119.111.25:4000/play/a04f/index.m3u8
+
+
 
 #EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHThwBklNqNbichSst_sEKRDSu4EERFKJdb0_HKAFhyw&s=10",TD+2 HD
 http://200.229.147.210:9999/play/a00h/index.m3u8
@@ -301,19 +300,8 @@ http://200.115.96.66:4000/play/a02h/index.m3u8
 #EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHThwBklNqNbichSst_sEKRDSu4EERFKJdb0_HKAFhyw&s=10",TD+2 HD
 http://170.244.209.30:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 group-title="-" tvg-logo="http://181.119.111.25:4000/playlist/tvg-logo/a0ky.png",Deportes TVC - HND
-http://181.119.111.25:4000/play/a0ky/index.m3u8
-#EXTINF:0 group-title="-" logo= " ",Deportes tvc
-http://200.229.147.142:8000/play/a04k/index.m3u8
-#EXTINF:0 group-title="-" channelId="-1" logo= " ",Deportes tvc
-http://200.229.147.142:8000/play/a05g/index.m3u8
-#EXTINF:0 group-title="-" logo= " ",Deportes tvc
-http://200.115.96.66:4000/play/a005/index.m3u8
-#EXTINF:0 group-title="-" logo= " ",Deportes tvc
-http://200.115.96.66:4000/play/a001/index.m3u8
-#EXTINF:0 group-title="-" logo= " " ,Deportes tvc
-http://200.115.96.66:4000/play/a0dn/index.m3u8
-
+#EXTINF:0 group-title="-" logo= " ",Win Sports
+http://181.78.8.199:8000/play/a06v/index.m3u8
 #EXTINF:0 group-title="-" logo= " ",Win Sports
 http://181.78.8.199:8000/play/a0cc/index.m3u8
 #EXTINF:0 group-title="-" logo= " ",Win Sports
@@ -321,18 +309,10 @@ http://181.78.211.244:8005/play/a0am/index.m3u8
 #EXTINF:0 group-title="-" logo= " ",Win Sports
 http://181.78.21.46:8009/play/a02s
 
-
-#EXTINF:0 group-title="-" logo= " ",Win Sports+
-http://181.78.8.199:8000/play/a06v/index.m3u8
-#EXTINF:0 group-title="-" logo= " ",Win Sports+
-http://181.205.205.173:8888/play/a0ul/index.m3u8
-
-
-
-#EXTINF:-1 group-title="-" tvg-logo="http://181.119.111.25:4000/playlist/tvg-logo/a0f1.png",Tigo Sports HD
-http://45.5.118.152:8000/play/a08x/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports HD
 http://45.228.234.62:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://181.119.111.25:4000/playlist/tvg-logo/a0f1.png",Tigo Sports HD
+http://45.5.118.152:8000/play/a08x/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports+ HD
 http://45.171.64.30:2000/play/a08e/index.m3u8
 #EXTINF:0 group-title="-"  type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports HD lento
