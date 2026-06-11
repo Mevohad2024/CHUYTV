@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Tierra de oro S01 E07" tvg-logo="http://redworld.pro:8880/images/8048dce18579d03773aeb9b81cdd6ea1.jpg" ,Tierra de oro S01 E07
+http://starlatino.tv:8880/series/Vxtream005/bThhYj3tXsNd/527222.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Tierra de oro S01 E08" tvg-logo="http://redworld.pro:8880/images/ab655d39b215e6ca2345f52a1a7300f5.jpg" ,Tierra de oro S01 E08
 http://rlatinop.com:8880/series/Vxtream0012/GFE7EUELw2gX/527223.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tierra de oro S01 E09" tvg-logo="http://redworld.pro:8880/images/62e3b905f0f3b573ef0ecb72e880639f.jpg" ,Tierra de oro S01 E09
