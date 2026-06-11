@@ -52,7 +52,30 @@ http://redworld.pro:8880/Melany2025/62upBbekb4Ku/527938
 http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541547.m3u8
 #EXTINF:-1 group-title="-",VIX
 http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541549.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 00 (540p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png" ,Mundial 2026 00 (540p)
+http://www.1play.cool:25461/2147807636/33de96f6e3/443022
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 00 (720p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png" ,Mundial 2026 00 (720p)
+http://www.1play.cool:25461/2147807636/33de96f6e3/443023
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 01 (540p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png" ,Mundial 2026 01 (540p)
+http://www.1play.cool:25461/2147807636/33de96f6e3/443024
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 01 (720p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png" ,Mundial 2026 01 (720p)
+http://www.1play.cool:25461/2147807636/33de96f6e3/443025
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 02 (540p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png" ,Mundial 2026 02 (540p)
+http://www.1play.cool:25461/2147807636/33de96f6e3/443026
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 02 (720p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png" ,Mundial 2026 02 (720p)
+http://www.1play.cool:25461/2147807636/33de96f6e3/443027
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 03 (540p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png" ,Mundial 2026 03 (540p)
+http://www.1play.cool:25461/2147807636/33de96f6e3/443028
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 03 (720p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png" ,Mundial 2026 03 (720p)
+http://www.1play.cool:25461/2147807636/33de96f6e3/443029
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 04 (540p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png" ,Mundial 2026 04 (540p)
+http://www.1play.cool:25461/2147807636/33de96f6e3/443030
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 04 (720p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png" ,Mundial 2026 04 (720p)
+http://www.1play.cool:25461/2147807636/33de96f6e3/443031
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 05 (540p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png",Mundial 2026 05 (540p)
+http://www.1play.cool:25461/2147807636/33de96f6e3/443032
+#EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 05 (720p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png",Mundial 2026 05 (720p)
+http://www.1play.cool:25461/2147807636/33de96f6e3/443033
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://186.33.25.234:8125/play/a0e5/index.m3u8
 #EXTINF:0 group-title="-" type="stream" channelId="1967" ,2 TELEMUNDO
