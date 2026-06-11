@@ -6,9 +6,9 @@ http://200.115.120.1:8000/play/ca109/index.m3u8
 #EXTINF:-1 group-title="-",TIGO SPORTS HONDURAS
 http://38.188.186.47:4000/play/a018/index.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSports HD
-http://38.188.100.18:8000/play/a05m/index.m3u8
+http://200.59.188.3:8000/play/a0xe
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
-http://200.60.124.20:29000/play/a081/index.m3u8
+http://38.188.100.18:8000/play/a05m/index.m3u8
 #EXTINF:0 group-title="-"  type="stream" channelId="1967" , TELEMUNDO 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
@@ -101,7 +101,7 @@ http://38.252.238.18:8000/play/a02p/index.m3u8
 http://38.252.238.18:8000/play/a078/index.m3u8
 
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
-http://200.59.188.3:8000/play/a0xe
+http://200.60.124.20:29000/play/a081/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
 http://201.240.104.137:8000/play/a0aa/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
