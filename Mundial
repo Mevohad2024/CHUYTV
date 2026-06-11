@@ -19,9 +19,9 @@ http://45.186.105.214:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.119.108.27:7292/playlist/tvg-logo/a0ah.png" group-title="-",AZTECA 7
 http://181.119.108.27:7292/play/a0ah/index.m3u8
 
-#EXTINF:-1 logo="http://181.119.111.25:4000/playlist/tvg-logo/a0f1.png" group-title="-",TIGO SPORT
+#EXTINF:-1 group-title="-" logo="http://181.119.111.25:4000/playlist/tvg-logo/a0f1.png",TIGO SPORT
 http://181.78.109.48:9998/play/a06m/index.m3u8
-#EXTINF:-1 logo="http://181.119.111.25:4000/playlist/tvg-logo/a0f1.png" group-title="-",TIGO SPORTS HONDURAS
+#EXTINF:-1 group-title="-" logo="http://181.119.111.25:4000/playlist/tvg-logo/a0f1.png",TIGO SPORTS HONDURAS
 http://38.188.186.47:4000/play/a018/index.m3u8
 
 
@@ -62,13 +62,13 @@ http://redworld.pro:8880/Melany2025/62upBbekb4Ku/526170
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/527938
 
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE CR
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE CR
 http://38.252.238.18:8000/play/a077/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",2 FOXONE CR
 http://38.52.182.224:8000/play/a0ay/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 3 FOXONE CR
 http://38.159.227.214:8000/play/a038
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",4 FOXONE CR
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",4 FOXONE CR
 http://38.252.238.18:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 5 FOXONE CR
 http://45.5.118.152:8000/play/a0dh/index.m3u8
@@ -98,7 +98,7 @@ http://45.5.118.152:8000/play/a0df/index.m3u8
 http://181.78.17.52:8000/play/a0rq/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",18 FOX HD GUA
 http://38.52.182.224:8000/play/a0j9/index.m3u8
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",19 FOXONE HD GUA
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",19 FOXONE HD GUA
 http://38.252.238.18:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 20 FOXONE
 http://190.14.10.19:16000/play/a0a2/index.m3u8
@@ -106,7 +106,7 @@ http://190.14.10.19:16000/play/a0a2/index.m3u8
 http://186.33.25.234:8125/play/a0e6/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",22 FOXONE CR
 http://38.52.182.224:8000/play/a0ja/index.m3u8
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",23 FOXONE
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",23 FOXONE
 http://38.252.238.18:8000/play/a079/index.m3u8
 
 #EXTINF:-1 group-title="-",OFICINA  DSPORT 14
@@ -135,7 +135,7 @@ http://200.59.188.3:8000/play/a0xe
 
 #EXTINF:-1 group-title="-",OFICINA  DSPORT 2 12
 http://38.252.213.209:8000/play/a00f
-#EXTINF:-1,D SPORT +
+#EXTINF:-1 group-title="-",D SPORT +
 http://38.199.5.160:8000/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mundial 2026 00 (540p)" tvg-logo="http://23.153.217.128:90/Logos/ppv2/mundial2026.png" ,Mundial 2026 00 (540p)
