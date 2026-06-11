@@ -39,7 +39,10 @@ http://redworld.pro:8880/Melany2025/62upBbekb4Ku/526169
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/526170
 #EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA (3) (Recomendada)" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="-",SEÑAL EXCLUSIVA (3) (Recomendada)
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/527938
-
+#EXTINF:-1 group-title="-",DAZN
+http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541547.m3u8
+#EXTINF:-1 group-title="-",VIX
+http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541549.m3u8
 
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://186.33.25.234:8125/play/a0e5/index.m3u8
