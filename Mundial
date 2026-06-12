@@ -13,6 +13,9 @@ http://181.78.109.48:9998/play/a06m/index.m3u8
 http://38.188.186.47:4000/play/a018/index.m3u8
 #EXTINF:-1 group-title="-",DAZN
 http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541547.m3u8
+#EXTINF:0 type="stream" channelId="3802", TYC SPORT
+#EXTVLCOPT--http-reconnect=true
+http://200.4.195.66:8000/play/a007/index.m3u8
 #EXTINF:0 group-title="-" logo= " ",Win Sports
 http://181.78.8.199:8000/play/a06v/index.m3u8
 #EXTINF:0 group-title="-" logo= " ",Win Sports
