@@ -61,6 +61,8 @@ http://181.119.108.27:7292/play/a0ah/index.m3u8
 #EXTINF:0 group-title="-"  type="stream" channelId="1967" , TELEMUNDO 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF:-1 group-title="-",2.180 Fox Costa Rica HD
+http://181.119.108.43:9001/play/a0n6/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOX SD GUA
 http://200.115.120.1:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOX SD GUA
@@ -97,7 +99,10 @@ http://redworld.pro:8880/Melany2025/62upBbekb4Ku/526170
 #EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA (3) (Recomendada)" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="-",SEÑAL EXCLUSIVA (3) (Recomendada)
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/527938
 
-
+#EXTINF:-1 group-title="-",FOX ESA HD
+http://181.119.108.43:9001/play/a0n9/index.m3u8
+#EXTINF:-1 group-title="-",FOX GUA HD
+http://181.119.108.43:9001/play/a0n8/index.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE CR
 http://38.252.238.18:8000/play/a077/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",2 FOXONE CR
