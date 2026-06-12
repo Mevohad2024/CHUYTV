@@ -9,6 +9,10 @@ http://200.59.188.3:8000/play/a0xe
 http://38.188.100.18:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="-",DAZN
 http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541547.m3u8
+#EXTINF:0 group-title="-" logo= " ",Win Sports
+http://181.78.8.199:8000/play/a06v/index.m3u8
+#EXTINF:0 group-title="-" logo= " ",Win Sports
+http://181.78.8.199:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="-",ESPN
 http://181.78.211.244:8000/play/a0b4/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
@@ -305,10 +309,7 @@ http://200.115.96.66:4000/play/a02h/index.m3u8
 #EXTINF:0 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHThwBklNqNbichSst_sEKRDSu4EERFKJdb0_HKAFhyw&s=10",TD+2 HD
 http://170.244.209.30:8000/play/a00i/index.m3u8
 
-#EXTINF:0 group-title="-" logo= " ",Win Sports
-http://181.78.8.199:8000/play/a06v/index.m3u8
-#EXTINF:0 group-title="-" logo= " ",Win Sports
-http://181.78.8.199:8000/play/a0cc/index.m3u8
+
 #EXTINF:0 group-title="-" logo= " ",Win Sports
 http://181.78.211.244:8005/play/a0am/index.m3u8
 #EXTINF:0 group-title="-" logo= " ",Win Sports
