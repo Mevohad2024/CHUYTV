@@ -122,9 +122,6 @@ http://181.224.255.210:8001/play/a0s8/index.m3u8
 http://38.56.111.14:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS_HD
 http://38.226.210.46:8000/play/A008/index.m3u8
-#EXTINF:-1,Dsport
-http://38.183.213.254:8000/play/a01x/index.m3u8
-
 #EXTINF:-1 group-title="-",DSPORTS HD  (PARA ANALOGICO)
 http://38.252.213.212:8000/play/a01k
 #EXTINF:-1 group-title="-",DSPORT
