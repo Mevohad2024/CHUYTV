@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZC1l0x1Dz1w4sN0VDiARHUfNT-Zs3YWLGKV1bFgouw&s=10",CALENDARIO FIFA 2026
 http://200.115.120.1:8000/play/ca109/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO HOUSTON" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="" - ",(OFFLINE) TELEMUNDO HOUSTON
+#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO HOUSTON" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title=" - ",(OFFLINE) TELEMUNDO HOUSTON
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/490425
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4V2tKgK2p0zUQIP4fhH1bBObdmQ9Lrsur2t3Ki2-qjw&s=10",DAZN
 http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541547.m3u8
