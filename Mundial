@@ -1,17 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="-",CALENDARIO FIFA 2026
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZC1l0x1Dz1w4sN0VDiARHUfNT-Zs3YWLGKV1bFgouw&s=10",CALENDARIO FIFA 2026
 http://200.115.120.1:8000/play/ca109/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO HOUSTON" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",(OFFLINE) TELEMUNDO HOUSTON
+#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO HOUSTON" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="" - ",(OFFLINE) TELEMUNDO HOUSTON
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/490425
-#EXTINF:-1 group-title="-",DAZN
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4V2tKgK2p0zUQIP4fhH1bBObdmQ9Lrsur2t3Ki2-qjw&s=10",DAZN
 http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541547.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSports HD
 http://200.59.188.3:8000/play/a0xe
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
 http://38.188.100.18:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="-",DSPORTS HD  (PARA ANALOGICO)
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSPORTS HD  (PARA ANALOGICO)
 http://38.252.213.212:8000/play/a01k
 #EXTINF:0 group-title="-" type="stream" channelId="1967" ,2 TELEMUNDO
 http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410
@@ -21,9 +21,9 @@ http://cord-cutter.net:8080/wY96uK/850378/120691
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Direct Tv Sports 2" tvg-logo="http://51.222.27.42/iconox/DIRECTVSPORTS2--.png" group-title="SPORTS",Direct Tv Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="Direct Tv Sports 2" tvg-logo="http://51.222.27.42/iconox/DIRECTVSPORTS2--.png" group-title="-",Direct Tv Sports 2
 http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/25986
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="http://51.222.27.42/iconox/directtvsports.png" group-title="SPORTS",Directv Sports
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="http://51.222.27.42/iconox/directtvsports.png" group-title="-",Directv Sports
 http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/25705
 #EXTINF:-1 group-title="-" logo="http://181.119.111.25:4000/playlist/tvg-logo/a0f1.png",TIGO SPORT
 http://181.78.109.48:9998/play/a06m/index.m3u8
@@ -33,7 +33,7 @@ http://38.188.186.47:4000/play/a018/index.m3u8
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CR | F0X +" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/2026_FIFA_World_Cup_%28Inverted%29.svg/revision/latest/scale-to-width-down/250?cb=20230523174302" group-title="-",CR | F0X +
 http://livetv-plus.com:8880//live/Ramon52/UVRTY/656005.ts
 
-#EXTINF:0 group-title="-" type="stream" channelId="3802", TYC SPORT
+#EXTINF:0 group-title="-" type="stream" channelId="3802" logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png", TYC SPORT
 #EXTVLCOPT--http-reconnect=true
 http://200.4.195.66:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="-", | TYC SPORTS
@@ -48,20 +48,20 @@ http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/81921
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/167738
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="http://51.222.27.42/iconox/WINSPORTS--.PNG" group-title="SPORTS",Win Sports +
 http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/81924
-#EXTINF:0 group-title="-" logo= " ",Win Sports
+#EXTINF:0 group-title="-" logo= " http://51.222.27.42/iconox/WINSPORTS--.PNG",Win Sports
 http://181.78.8.199:8000/play/a06v/index.m3u8
-#EXTINF:0 group-title="-" logo= " ",Win Sports
+#EXTINF:0 group-title="-" logo= " http://51.222.27.42/iconox/WINSPORTS--.PNG",Win Sports
 http://181.78.8.199:8000/play/a0cc/index.m3u8
 
 
-#EXTINF:-1 group-title="-",Azteca 7
+#EXTINF:-1 group-title="-" logo="http://181.119.108.27:7292/playlist/tvg-logo/a0ah.png",Azteca 7
 http://45.186.105.214:8000/play/a05z/index.m3u8
 http://daleplay.vip:80//live/hghc4@3gf(n)!/kmgd56(e)3@400/362476.ts
 #EXTINF:-1 tvg-logo="http://181.119.108.27:7292/playlist/tvg-logo/a0ah.png" group-title="-",AZTECA 7
 http://181.119.108.27:7292/play/a0ah/index.m3u8
 
 
-#EXTINF:-1 group-title="-",2.180 Fox Costa Rica HD
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10",Fox CR HD
 http://181.119.108.43:9001/play/a0n6/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOX ESA
 http://200.115.120.1:8000/play/a017/index.m3u8
@@ -78,9 +78,9 @@ http://redworld.pro:8880/Melany2025/62upBbekb4Ku/526170
 #EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA (3) (Recomendada)" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="-",SEÑAL EXCLUSIVA (3) (Recomendada)
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/527938
 
-#EXTINF:-1 group-title="-",FOX ESA HD
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10",FOX ESA HD
 http://181.119.108.43:9001/play/a0n9/index.m3u8
-#EXTINF:-1 group-title="-",FOX GUA HD
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10",FOX GUA HD
 http://181.119.108.43:9001/play/a0n8/index.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE 
 http://38.252.238.18:8000/play/a077/index.m3u8
@@ -127,7 +127,7 @@ http://38.52.182.224:8000/play/a0ja/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",23 FOX SD ESA
 http://38.252.238.18:8000/play/a079/index.m3u8
 
-#EXTINF:-1 group-title="-",OFICINA  DSPORT 14
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",OFICINA  DSPORT 14
 http://38.252.213.209:8000/play/a08e
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport 2
 http://200.60.124.20:29000/play/a081/index.m3u8
@@ -135,9 +135,9 @@ http://200.60.124.20:29000/play/a081/index.m3u8
 http://201.240.104.137:8000/play/a0aa/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
 http://181.224.255.210:8001/play/a0s8/index.m3u8
-#EXTINF:-1 group-title="-",00 - DirecTV Sports
+#EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",00 - DirecTV Sports
 http://38.56.111.14:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="-",DSPORTS_HD
+#EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSPORTS_HD
 http://38.226.210.46:8000/play/A008/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSports.pe" tvg-name="PE | *$PORTS 1" tvg-logo="http://redworld.pro:8880/images/02fa25039bab7a36031658b571bc59cf.png" group-title="-",PE | *$PORTS 1
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/428666
@@ -147,11 +147,11 @@ http://redworld.pro:8880/Melany2025/62upBbekb4Ku/428667
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/428668
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="-",AR | D$PORTS + HD
 http://daleplay.vip:80//live/hghc4@3gf(n)!/kmgd56(e)3@400/54471.ts
-#EXTINF:-1 group-title="-",DSPORT
+#EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSPORT
 http://38.252.215.33:8000/play/a082/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
 http://8.243.126.131:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="-",Dsport
+#EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Dsport
 http://38.183.213.254:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 group-title="-",Dsport 2
