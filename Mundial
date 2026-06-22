@@ -6,6 +6,8 @@ http://200.115.120.1:8000/play/ca109/index.m3u8
 http://daleplay.vip:80//live/hghc4@3gf(n)!/kmgd56(e)3@400/362476.ts
 #EXTINF:-1 group-title="-" channelId="1967" , 1.127 TELEMUNDO MIAMI
 http://181.119.108.43:9001/play/a0nb/index.m3u8
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSPORTS HD  (PARA ANALOGICO)
+http://38.252.213.212:8000/play/a01k
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4tjr_HmupiLNlFD_bOsUj3IlBe-dLXvKsgvzSVpb&s=10?cb=20230523174302" group-title="-",FOX MAS
 http://190.61.101.11:7050/play/a09c/index.m3u8
 #EXTINF:-1 group-title="-",FOX NIC HD
@@ -20,9 +22,6 @@ http://redworld.pro:8880/Melany2025/62upBbekb4Ku/490425
 http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541547.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSports HD
 http://200.59.188.3:8000/play/a0xe
-#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSPORTS HD  (PARA ANALOGICO)
-http://38.252.213.212:8000/play/a01k
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Direct Tv Sports 2" tvg-logo="http://51.222.27.42/iconox/DIRECTVSPORTS2--.png" group-title="-",Direct Tv Sports 2
