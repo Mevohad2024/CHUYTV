@@ -10,6 +10,8 @@ http://181.119.108.43:9001/play/a0nb/index.m3u8
 http://38.252.213.212:8000/play/a01k
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4tjr_HmupiLNlFD_bOsUj3IlBe-dLXvKsgvzSVpb&s=10?cb=20230523174302" group-title="-",FOX MAS
 http://190.61.101.11:7050/play/a09c/index.m3u8
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE 
+http://38.252.238.18:8000/play/a077/index.m3u8
 #EXTINF:-1 group-title="-",FOX NIC HD
 http://190.61.101.11:7050/play/a0af/index.m3u8
 #EXTINF:0 group-title="-" type="stream" channelId="1967" ,2 TELEMUNDO
