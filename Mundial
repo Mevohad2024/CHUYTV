@@ -11,6 +11,10 @@ http://181.119.108.43:9001/play/a0nb/index.m3u8
 http://38.252.215.33:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSPORTS HD  (PARA ANALOGICO)
 http://38.252.213.212:8000/play/a01k
+#EXTINF:-1 group-title="-",G- IP DIRECTV SPORT
+http://190.108.83.69:8000/play/a0cb/index.m3u8
+#EXTINF:-1 group-title="-",G- IP DIRECTV SPORTS + HD
+http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu51h9taoHhls2IHHSBHOUXsrKnLtUvGwUhuuzu1uqNg&s=10"group-title="-",OFICINA  DSPORT+
 http://38.252.213.209:8000/play/a00f
 #EXTINF:-1 tvg-logo="http://51.222.27.42/iconox/tycsport.png" group-title="-",090-TyC Sport
@@ -23,6 +27,38 @@ http://190.61.101.11:7050/play/a09c/index.m3u8
 http://181.119.108.27:7292/play/a02v/index.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE 
 http://38.252.238.18:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="-",04 Costa Rica:  FOX  ●
+http://45.173.231.22:8000/play/a0dy/index.m3u8
+#EXTINF:-1 group-title="-",05 Costa Rica: FOX +
+http://45.173.231.22:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="-",06 DIRECTV SPORTS
+http://45.173.231.22:8000/play/a0de/index.m3u8
+#EXTINF:-1 group-title="-",07 DIRECTV SPORTS +
+http://45.173.231.22:8000/play/a0df/index.m3u8
+#EXTINF:-1 group-title="-",08 LAT | DIRECTV AR  HD
+http://45.173.231.22:8000/play/a0e1/index.m3u8
+#EXTINF:-1 group-title="-",09 LAT | DIRECTV EC  HD
+http://45.173.231.22:8000/play/a0dw/index.m3u8
+#EXTINF:-1 group-title="-",10 TIGO 1 BOL
+http://45.173.231.22:8000/play/a0da/index.m3u8
+#EXTINF:-1 group-title="-",11 TIGO 1 GUATE
+http://45.173.231.22:8000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="-",12 TIGO SPORT
+http://45.173.231.22:8000/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="-",13 C
+http://45.173.231.22:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="-",13 LAT | TYC LOCAL HD
+http://45.173.231.22:8000/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="-",14 CO: WIN SPORT
+http://45.173.231.22:8000/play/a0e4/index.m3u8
+#EXTINF:-1 group-title="-",15 CO: WIN SPORTS +
+http://45.173.231.22:8000/play/a0e3/index.m3u8
+#EXTINF:-1 group-title="-",16 TUDN HD MX
+http://45.173.231.22:8000/play/a0dl/index.m3u8
+#EXTINF:-1 group-title="-",17 MLS 08: TUDN  ●
+http://45.173.231.22:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="-",18 TIGO 1 CR
+http://45.173.231.22:8000/play/a0dt/index.m3u8
 
 #EXTINF:-1 group-title="-",FOX NIC HD
 http://190.61.101.11:7050/play/a0af/index.m3u8
@@ -151,6 +187,8 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Dsport
 http://38.183.213.254:8000/play/a01x/index.m3u8
 
+#EXTINF:-1 group-title="-",G- IP DIRECTV SPORT 2
+http://190.108.83.69:8000/play/a0c6/index.m3u8
 #EXTINF:-1 group-title="-",Dsport 2
 http://38.183.213.254:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS2 HD
