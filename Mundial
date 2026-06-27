@@ -38,6 +38,8 @@ http://38.252.215.33:8000/play/a02o/index.m3u8
 http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/25986
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4tjr_HmupiLNlFD_bOsUj3IlBe-dLXvKsgvzSVpb&s=10?cb=20230523174302" group-title="-",FOX MAS
 http://190.61.101.11:7050/play/a09c/index.m3u8
+#EXTINF:-1 group-title="-",FOX + CR
+http://190.61.101.11:7050/play/a0ag/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 13 FOXONE 
 http://181.119.108.27:7292/play/a02v/index.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE 
@@ -189,6 +191,16 @@ http://186.33.25.234:8125/play/a0e6/index.m3u8
 http://38.52.182.224:8000/play/a0ja/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",23 FOX SD ESA
 http://38.252.238.18:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="-",FOX CR
+http://201.207.54.159:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="-",FOX ESA
+http://201.207.54.159:8000/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="-",FOX HND
+http://201.207.54.159:8000/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="-",FOX NIC HD
+http://201.207.54.159:8000/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="-",FOX Sports HD
+http://201.207.54.159:8000/play/a07b/index.m3u8
 
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",OFICINA  DSPORT 14
 http://38.252.213.209:8000/play/a08e
