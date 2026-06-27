@@ -12,8 +12,8 @@ http://38.252.213.212:8000/play/a01k
 http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/25986
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4tjr_HmupiLNlFD_bOsUj3IlBe-dLXvKsgvzSVpb&s=10?cb=20230523174302" group-title="-",FOX MAS
 http://190.61.101.11:7050/play/a09c/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",10 FOXONE 
-http://200.229.147.210:9999/play/a0as/index.m3u8
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 13 FOXONE 
+http://181.119.108.27:7292/play/a02v/index.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE 
 http://38.252.238.18:8000/play/a077/index.m3u8
 
@@ -94,11 +94,11 @@ http://8.243.126.131:8000/play/a0oq/index.m3u8
 http://8.243.126.131:8000/play/a0ih/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",9 FOXONE 
 http://45.228.234.62:8000/play/a05i/index.m3u8
-
+#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",10 FOXONE 
+http://200.229.147.210:9999/play/a0as/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",12 FOXONE 
 http://187.245.231.226:8000/play/a0og/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 13 FOXONE 
-http://181.119.108.27:7292/play/a02v/index.m3u8
+
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 14 FOXONE
 http://186.33.25.234:8125/play/a04p/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 15 FOXONE 
