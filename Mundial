@@ -70,6 +70,8 @@ http://45.173.231.22:8000/play/a0dt/index.m3u8
 http://190.61.101.11:7050/play/a0af/index.m3u8
 #EXTINF:0 group-title="-" type="stream" channelId="1967" ,2 TELEMUNDO
 http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410
+
+https://streamvidex.qzz.io/videx/universo/index.m3u8
 #EXTINF:0 group-title="-" type="stream" channelId="1967" ,3 TELEMUNDO
 http://cord-cutter.net:8080/wY96uK/850378/120691
 #EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO HOUSTON" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="-",(OFFLINE) TELEMUNDO HOUSTON
