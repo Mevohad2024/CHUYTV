@@ -70,12 +70,18 @@ http://45.173.231.22:8000/play/a0dt/index.m3u8
 http://190.61.101.11:7050/play/a0af/index.m3u8
 #EXTINF:0 group-title="-" type="stream" channelId="1967" ,2 TELEMUNDO
 http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410
-
+#EXTINF:0 type="stream" channelId="3779" ,3 Universo
 https://streamvidex.qzz.io/videx/universo/index.m3u8
 #EXTINF:0 group-title="-" type="stream" channelId="1967" ,3 TELEMUNDO
 http://cord-cutter.net:8080/wY96uK/850378/120691
 #EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO HOUSTON" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="-",(OFFLINE) TELEMUNDO HOUSTON
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/490425
+#EXTINF:0 type="stream" channelId="3779" ,1 Universo
+http://200.39.57.254:8008/play/a004/index.m3u8
+#EXTINF:0 type="stream" channelId="3779" ,2 Universo
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
+
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4V2tKgK2p0zUQIP4fhH1bBObdmQ9Lrsur2t3Ki2-qjw&s=10",DAZN
 http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541547.m3u8
 
