@@ -24,8 +24,7 @@ http://cord-cutter.net:8080/wY96uK/850378/120691
 http://redworld.pro:8880/Melany2025/62upBbekb4Ku/490425
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4V2tKgK2p0zUQIP4fhH1bBObdmQ9Lrsur2t3Ki2-qjw&s=10",DAZN
 http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541547.m3u8
-#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSports HD
-http://200.59.188.3:8000/play/a0xe
+
 
 
 
@@ -258,7 +257,8 @@ http://190.61.114.186:8000/play/a01o/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 4K
 http://190.83.9.222:8000/play/ca040/index.m3u8
 
-
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSports HD No
+http://200.59.188.3:8000/play/a0xe
 
 #EXTINF:-1 group-title="-",VIX
 http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541549.m3u8
