@@ -10,7 +10,7 @@ http://181.119.108.43:9001/play/a06n/index.m3u8
 http://190.61.101.11:7050/play/a09b/index.m3u8
 #EXTINF:-1 group-title="-" channelId="1967" , 1.127 TELEMUNDO MIAMI
 http://181.119.108.43:9001/play/a0nb/index.m3u8
-#EXTINF:-1 group-title="-",DSPORTS HD
+#EXTINF:-1 group-title="-",DSPORTS HD 1
 http://190.238.43.117:9000/play/a09d/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS+ HD
 http://190.238.43.117:9000/play/a09g/index.m3u8
@@ -103,6 +103,8 @@ http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/25705
 http://181.78.109.48:9998/play/a06m/index.m3u8
 #EXTINF:-1 group-title="-" logo="http://181.119.111.25:4000/playlist/tvg-logo/a0f1.png",TIGO SPORTS HONDURAS
 http://38.188.186.47:4000/play/a018/index.m3u8
+#EXTINF:-1 group-title="-",Tigo Sports HD
+http://45.190.184.79:5800/play/a06h/index.m3u8
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CR | F0X +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4tjr_HmupiLNlFD_bOsUj3IlBe-dLXvKsgvzSVpb&s=10?cb=20230523174302" group-title="-",CR | F0X +
 http://livetv-plus.com:8880//live/Ramon52/UVRTY/656005.ts
@@ -200,6 +202,8 @@ http://201.207.54.159:8000/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="-",FOX Sports HD
 http://201.207.54.159:8000/play/a07b/index.m3u8
 
+#EXTINF:-1 group-title="-",DSPORTS HD 2
+http://45.190.184.79:5800/play/ditv/index.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",OFICINA  DSPORT 14
 http://38.252.213.209:8000/play/a08e
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport 2
@@ -212,7 +216,7 @@ http://181.224.255.210:8001/play/a0s8/index.m3u8
 http://38.56.111.14:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSPORTS_HD
 http://38.226.210.46:8000/play/A008/index.m3u8
-#EXTINF:-1 group-title="-",DSPORT
+#EXTINF:-1 group-title="-",DSPORTS 3
 http://45.5.57.58:8000/play/a07p/index.m3u8
 
 
