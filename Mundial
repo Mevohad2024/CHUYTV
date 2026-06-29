@@ -8,6 +8,8 @@ http://daleplay.vip:80//live/hghc4@3gf(n)!/kmgd56(e)3@400/362476.ts
 http://181.119.108.43:9001/play/a06n/index.m3u8
 #EXTINF:-1 group-title="-",AZTECA 7
 http://190.61.101.11:7050/play/a09b/index.m3u8
+#EXTINF:-1 group-title="-",IXP MX 1.107 AZTECA 7
+http://181.119.108.43:9001/play/a06c/index.m3u8
 #EXTINF:-1 group-title="-" channelId="1967" , 1.127 TELEMUNDO MIAMI
 http://181.119.108.43:9001/play/a0nb/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS HD 1
@@ -38,6 +40,8 @@ http://38.252.215.33:8000/play/a02o/index.m3u8
 http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/25986
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4tjr_HmupiLNlFD_bOsUj3IlBe-dLXvKsgvzSVpb&s=10?cb=20230523174302" group-title="-",FOX MAS
 http://190.61.101.11:7050/play/a09c/index.m3u8
+#EXTINF:-1 group-title="-",0.130VFOX+ GT
+http://181.119.108.43:9001/play/a0q4/index.m3u8
 #EXTINF:-1 group-title="-",FOX + CR
 http://190.61.101.11:7050/play/a0ag/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 13 FOXONE 
@@ -148,6 +152,13 @@ http://redworld.pro:8880/Melany2025/62upBbekb4Ku/527938
 
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10",FOX GUA HD
 http://181.119.108.43:9001/play/a0n8/index.m3u8
+#EXTINF:-1 group-title="-",1.103 FOX + CR HD
+http://181.119.108.43:9001/play/a0nd/index.m3u8
+#EXTINF:-1 group-title="-",1.103 FOX ESA HD
+http://181.119.108.43:9001/play/a0ng/index.m3u8
+
+#EXTINF:-1 group-title="-",1.180 FOX CR HD
+http://181.119.108.43:9001/play/a0nc/index.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE 
 http://38.252.238.18:8000/play/a077/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",2 FOXONE 
@@ -309,6 +320,8 @@ http://www.1play.cool:25461/2147807636/33de96f6e3/177178
 #EXTINF:-1 tvg-id="eurosport1.us" tvg-name="ViX Premium Deportes 20" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 20
 http://www.1play.cool:25461/2147807636/33de96f6e3/177179
 
+#EXTINF:-1 group-title="-",0 GTM Fox MX HD
+http://181.119.108.43:9001/play/a075/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE MX
 http://45.172.92.111:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE MX
