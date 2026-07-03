@@ -39,6 +39,24 @@ http://45.173.231.22:8000/play/a0dw/index.m3u8
 http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/25705
 #EXTINF:-1 group-title="-"  logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSPORTS HD
 http://74.208.30.121/a176/mono.m3u8
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",OFICINA  DSPORT 14
+http://38.252.213.209:8000/play/a08e
+#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport 2
+http://200.60.124.20:29000/play/a081/index.m3u8
+#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport11
+http://201.240.104.137:8000/play/a0aa/index.m3u8
+#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport12
+http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",00 - DirecTV Sports
+http://38.56.111.14:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSPORTS_HD
+http://38.226.210.46:8000/play/A008/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://51.222.27.42/iconox/directtvsports.png",DSPORTS 
+http://45.5.57.58:8000/play/a07p/index.m3u8
+#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Dsport
+http://38.183.213.254:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CR | F0X +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4tjr_HmupiLNlFD_bOsUj3IlBe-dLXvKsgvzSVpb&s=10?cb=20230523174302" group-title="-",CR | F0X +
 http://livetv-plus.com:8880//live/Ramon52/UVRTY/656005.ts
@@ -65,6 +83,10 @@ http://45.173.231.22:8000/play/a0df/index.m3u8
 http://38.224.175.2:8000/play/a011/index.m3u8
 #EXTINF:-1,DSPORTS+ HD
 http://74.208.30.121/a178/mono.m3u8
+#EXTINF:-1 group-title="-",D SPORT +
+http://38.199.5.160:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="-",Dsport +
+http://38.183.213.254:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Direct Tv Sports 2" tvg-logo="http://51.222.27.42/iconox/DIRECTVSPORTS2--.png" group-title="-",Direct Tv Sports 2
 http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/25986
@@ -72,8 +94,16 @@ http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/25986
 http://38.224.175.2:8000/play/a066/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS HD 2
 http://45.190.184.79:5800/play/ditv/index.m3u8
-#EXTINF:-1,DSPORTS2 HD
+#EXTINF:-1 group-title="-",DSPORTS2 HD
 http://74.208.30.121/a177/mono.m3u8
+#EXTINF:-1 group-title="-",G- IP DIRECTV SPORT 2
+http://190.108.83.69:8000/play/a0c6/index.m3u8
+#EXTINF:-1 group-title="-",Dsport 2
+http://38.183.213.254:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="-",DSPORTS2 HD
+http://200.59.188.3:8000/play/a0xf
+#EXTINF:-1 group-title="-",064 - DSports 2 HD
+http://38.252.215.33:8000/play/a01l/index.m3u8
 
 #EXTINF:-1 group-title="-",01 LIGA PRO 1
 http://45.173.231.22:8000/play/a0e6/index.m3u8
@@ -210,41 +240,6 @@ http://190.61.101.11:7050/play/a0af/index.m3u8
 
 
 
-#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",OFICINA  DSPORT 14
-http://38.252.213.209:8000/play/a08e
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport 2
-http://200.60.124.20:29000/play/a081/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport11
-http://201.240.104.137:8000/play/a0aa/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport12
-http://181.224.255.210:8001/play/a0s8/index.m3u8
-#EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",00 - DirecTV Sports
-http://38.56.111.14:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSPORTS_HD
-http://38.226.210.46:8000/play/A008/index.m3u8
-#EXTINF:-1 group-title="-",DSPORTS 
-http://45.5.57.58:8000/play/a07p/index.m3u8
-
-
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Directv sport
-http://8.243.126.131:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",Dsport
-http://38.183.213.254:8000/play/a01x/index.m3u8
-
-#EXTINF:-1 group-title="-",G- IP DIRECTV SPORT 2
-http://190.108.83.69:8000/play/a0c6/index.m3u8
-#EXTINF:-1 group-title="-",Dsport 2
-http://38.183.213.254:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="-",DSPORTS2 HD
-http://200.59.188.3:8000/play/a0xf
-
-#EXTINF:-1 group-title="-",064 - DSports 2 HD
-http://38.252.215.33:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="-",D SPORT +
-http://38.199.5.160:8000/play/a09q/index.m3u8
-#EXTINF:-1 group-title="-",Dsport +
-http://38.183.213.254:8000/play/a01z/index.m3u8
-
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
 http://45.186.106.207:8000/play/a099/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
@@ -275,45 +270,6 @@ http://45.5.118.152:8000/play/a08x/index.m3u8
 http://45.171.64.30:2000/play/a08e/index.m3u8
 #EXTINF:0 group-title="-"  type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports HD lento
 http://45.5.119.43:4000/play/a05t/index.m3u8
-
-#EXTINF:-1 tvg-id="vixpremiumdeportes1.us" tvg-name="ViX Premium Deportes 01" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 01
-http://www.1play.cool:25461/2147807636/33de96f6e3/177161
-#EXTINF:-1 tvg-id="vixpremiumdeportes2.us" tvg-name="ViX Premium Deportes 02" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 02
-http://www.1play.cool:25461/2147807636/33de96f6e3/177162
-#EXTINF:-1 tvg-id="vixpremiumdeportes3.us" tvg-name="ViX Premium Deportes 03" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 03
-http://www.1play.cool:25461/2147807636/33de96f6e3/177163
-#EXTINF:-1 tvg-id="vixpremiumdeportes4.us" tvg-name="ViX Premium Deportes 04" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 04
-http://www.1play.cool:25461/2147807636/33de96f6e3/177164
-#EXTINF:-1 tvg-id="vixpremiumdeportes5.us" tvg-name="ViX Premium Deportes 05" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 05
-http://www.1play.cool:25461/2147807636/33de96f6e3/177165
-#EXTINF:-1 tvg-id="vixpremiumdeportes7.us" tvg-name="ViX Premium Deportes 07" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 07
-http://www.1play.cool:25461/2147807636/33de96f6e3/177166
-#EXTINF:-1 tvg-id="vixpremiumdeportes8.us" tvg-name="ViX Premium Deportes 08" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 08
-http://www.1play.cool:25461/2147807636/33de96f6e3/177167
-#EXTINF:-1 tvg-id="vixpremiumdeportes9.us" tvg-name="ViX Premium Deportes 09" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 09
-http://www.1play.cool:25461/2147807636/33de96f6e3/177168
-#EXTINF:-1 tvg-id="vixpremiumdeportes10.us" tvg-name="ViX Premium Deportes 10" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 10
-http://www.1play.cool:25461/2147807636/33de96f6e3/177169
-#EXTINF:-1 tvg-id="vixpremiumdeportes11.us" tvg-name="ViX Premium Deportes 11" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 11
-http://www.1play.cool:25461/2147807636/33de96f6e3/177170
-#EXTINF:-1 tvg-id="vixpremiumdeportes12.us" tvg-name="ViX Premium Deportes 12" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 12
-http://www.1play.cool:25461/2147807636/33de96f6e3/177171
-#EXTINF:-1 tvg-id="vixpremiumdeportes13.us" tvg-name="ViX Premium Deportes 13" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 13
-http://www.1play.cool:25461/2147807636/33de96f6e3/177172
-#EXTINF:-1 tvg-id="vixpremiumdeportes14.us" tvg-name="ViX Premium Deportes 14" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 14
-http://www.1play.cool:25461/2147807636/33de96f6e3/177173
-#EXTINF:-1 tvg-id="vixpremiumdeportes15.us" tvg-name="ViX Premium Deportes 15" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 15
-http://www.1play.cool:25461/2147807636/33de96f6e3/177174
-#EXTINF:-1 tvg-id="vixpremiumdeportes16.us" tvg-name="ViX Premium Deportes 16" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 16
-http://www.1play.cool:25461/2147807636/33de96f6e3/177175
-#EXTINF:-1 tvg-id="vixpremiumdeportes17.us" tvg-name="ViX Premium Deportes 17" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 17
-http://www.1play.cool:25461/2147807636/33de96f6e3/177176
-#EXTINF:-1 tvg-id="vixpremiumdeportes18.us" tvg-name="ViX Premium Deportes 18" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 18
-http://www.1play.cool:25461/2147807636/33de96f6e3/177177
-#EXTINF:-1 tvg-id="eurosport1.us" tvg-name="ViX Premium Deportes 19" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 19
-http://www.1play.cool:25461/2147807636/33de96f6e3/177178
-#EXTINF:-1 tvg-id="eurosport1.us" tvg-name="ViX Premium Deportes 20" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 20
-http://www.1play.cool:25461/2147807636/33de96f6e3/177179
 
 #EXTINF:-1 group-title="-",0 GTM Fox MX HD
 http://181.119.108.43:9001/play/a075/index.m3u8
