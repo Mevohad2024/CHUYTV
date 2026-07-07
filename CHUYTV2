@@ -23,6 +23,7 @@ http://181.78.8.199:8000/play/a09o/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR09wW9bnRftHgTNzhjj7JPNifepZbxJOvWXVwlHnI9nA&s=10" , MaxAnime
 http://45.171.64.30:8800/play/a03t
+http://181.119.108.43:9001/play/a05k/index.m3u8
 
 #EXTINF:0 type="stream" channelId="41",Nickelodeon HD
 http://45.171.64.30:2000/play/a014/index.m3u8
@@ -59,6 +60,7 @@ http://190.90.22.42:5280/play/a0de
 http://45.5.119.43:4000/play/a0g1/index.m3u8
 http://181.78.8.199:8000/play/a084/index.m3u8
 http://190.0.247.38:8000/play/a00f
+http://181.119.108.43:9001/play/a010/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2720" , Disney Channel HD
 ##EXTVLCOPT:network-caching=1000
@@ -67,6 +69,7 @@ http://45.5.119.43:4000/play/a0i8/index.m3u8
 http://181.78.12.119:16123/play/ch03/index.m3u8
 http://168.228.44.241:9999/play/a01q/index.m3u8
 http://181.78.8.199:8000/play/a0dn/index.m3u8
+http://181.119.108.43:9001/play/a0jw/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2639" , Tooncast
 ##EXTVLCOPT:network-caching=1000
@@ -90,11 +93,12 @@ http://45.5.119.43:4000/play/a0kq/index.m3u8
 http://45.186.105.214:8000/play/a05h/index.m3u8
 http://168.228.44.241:9999/play/a03m/index.m3u8
 http://181.78.12.164:9000/play/a03t
-
+http://181.119.108.43:9001/play/a0p9/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Canal claro
 http://200.60.124.20:29000/play/a04w/index.m3u8
 http://45.186.105.214:8000/play/a011/index.m3u8
+http://181.119.108.43:9001/play/a052/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
@@ -154,6 +158,7 @@ http://200.60.124.20:29000/play/a0rx/index.m3u8
 http://200.229.147.142:8000/play/a020/index.m3u8
 http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 http://181.78.8.199:8000/play/a0ds/index.m3u8
+http://181.119.108.43:9001/play/a0c8/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1052" , TNT
 ##EXTVLCOPT:network-caching=1000
@@ -247,6 +252,7 @@ http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 http://45.186.105.214:8000/play/a048/index.m3u8
 http://200.60.124.20:29000/play/a0ss/index.m3u8
 http://45.68.35.218:9000/play/a004/index.m3u8?hls
+http://181.119.108.43:9001/play/a0c6/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1326" , Cinemax
 ##EXTVLCOPT:network-caching=1000
@@ -287,6 +293,7 @@ http://200.60.124.20:29000/play/a0sw/index.m3u8
 http://45.5.119.43:4000/play/a0l2/index.m3u8
 http://200.229.147.142:8000/play/a00q/index.m3u8
 http://45.186.105.214:8000/play/a013/index.m3u8
+http://181.119.108.43:9001/play/a054/index.m3u8
 
 #EXTINF:0 type="stream" channelId="935" , HBO2
 ##EXTVLCOPT:network-caching=1000
@@ -294,6 +301,7 @@ http://45.186.105.214:8000/play/a013/index.m3u8
 http://45.5.119.43:4000/play/a00c/index.m3u8
 http://200.229.147.142:8000/play/a00r/index.m3u8
 http://45.186.105.214:8000/play/a014/index.m3u8
+http://181.119.108.43:9001/play/a055/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2584" , HBO FAMILY
 ##EXTVLCOPT:network-caching=1000
@@ -302,7 +310,7 @@ http://200.60.124.20:29000/play/a0pn/index.m3u8
 http://200.229.147.142:8000/play/a06q/index.m3u8
 http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 http://45.5.119.43:4000/play/a0l5/index.m3u8
-
+http://181.119.108.43:9001/play/a057/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2585" , HBO+
 ##EXTVLCOPT:network-caching=1000
@@ -311,7 +319,7 @@ http://45.186.105.214:8000/play/a015/index.m3u8
 http://200.229.147.142:8000/play/a00s/index.m3u8
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 http://45.5.119.43:4000/play/a0l4/index.m3u8 
-
+http://181.119.108.43:9001/play/a056/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2583" , HBO SIGNATURE
 ##EXTVLCOPT:network-caching=1000
@@ -356,6 +364,7 @@ http://45.5.119.43:4000/play/a0kt/index.m3u8
 http://200.229.147.142:8000/play/a03v/index.m3u8
 http://200.115.96.66:4000/play/a032/index.m3u8
 http://45.5.119.43:4000/play/a0i5/index.m3u8
+http://181.119.108.43:9001/play/a0ct/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vd5-dOk6lZIhYiyD9wOjI54JpUf-JQKdjDhcObw7rg&s=10", Universal Crime HD
 ##EXTVLCOPT:network-caching=1000
@@ -363,13 +372,14 @@ http://45.5.119.43:4000/play/a0i5/index.m3u8
 http://200.229.147.142:8000/play/a03u/index.m3u8
 http://200.115.96.66:4000/play/a033/index.m3u8
 http://45.5.119.43:4000/play/a0i4/index.m3u8
+http://181.119.108.43:9001/play/a0cs/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMUnN9JxMa4ticVyqjk4VuGww9hLdl0dEqCUxiPiCKg&s=10", Universal Premier HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=tru
 http://200.229.147.142:8000/play/a03r/index.m3u8e
 http://200.115.96.66:4000/play/a034/index.m3u8
-
+http://181.119.108.43:9001/play/a0cp/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScA9kqcJaOzH1_kHfRX-GCrVSY2UFHvx035ELs0Tvbgw&s=10", Universal Reality HD
 ##EXTVLCOPT:network-caching=1000
@@ -377,6 +387,7 @@ http://200.115.96.66:4000/play/a034/index.m3u8
 http://200.115.96.66:4000/play/a036/index.m3u8
 http://200.229.147.142:8000/play/a03t/index.m3u8
 http://45.5.119.43:4000/play/a0i3/index.m3u8
+http://181.119.108.43:9001/play/a0cr/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLopm-6pUub9GBorT6swxZLPsdvctogtVUg&usqp=CAU", CINE FAMILIAR HD
 ##EXTVLCOPT:network-caching=1000
@@ -430,11 +441,13 @@ http://181.119.108.43:9001/play/a06t/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.229.147.142:8000/play/a00g/index.m3u8
 http://200.115.96.66:4000/play/a01r/index.m3u8
+http://181.119.108.43:9001/play/a04p/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1963" ,GOLDEN PREMIER2
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.229.147.142:8000/play/a00h/index.m3u8
+http://181.119.108.43:9001/play/a04q/index.m3u8
 
 #EXTINF:0 type="stream" channelId="310" , EL GOURMET HD
 ##EXTVLCOPT:network-caching=1000
@@ -461,6 +474,7 @@ http://181.78.8.199:8000/play/a086/index.m3u8
 http://168.228.44.241:9999/play/a006/index.m3u8
 http://200.229.147.142:8000/play/a023/index.m3u8
 http://45.186.105.214:8000/play/a04d/index.m3u8
+http://181.119.108.43:9001/play/a0cb/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1418" , HGTV
 ##EXTVLCOPT:network-caching=1000
@@ -473,6 +487,7 @@ http://168.228.44.241:9999/play/a03x/index.m3u8
 http://181.78.8.199:8000/play/a09a/index.m3u8
 http://45.186.105.214:8000/play/a05f/index.m3u8
 http://168.228.44.241:9999/play/a026/index.m3u8
+http://181.119.108.43:9001/play/a0p7/index.m3u8
 
 #EXTINF:0 type="stream" channelId="59" , Discovery ID
 ##EXTVLCOPT:network-caching=1000
@@ -481,6 +496,7 @@ http://45.5.119.43:4000/play/a0ks/index.m3u8
 http://45.186.105.214:8000/play/a05j/index.m3u8
 http://200.60.124.20:29000/play/a0rt/index.m3u8
 http://181.78.8.199:8000/play/a07j/index.m3u8
+http://181.119.108.43:9001/play/a0pb/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2724", Discovery H&H
 ##EXTVLCOPT:network-caching=1000
@@ -496,12 +512,14 @@ http://181.119.108.43:9001/play/a0ck/index.m3u8
 http://200.60.124.20:29000/play/a0sx/index.m3u8
 http://45.186.105.214:8000/play/a05g/index.m3u8
 http://45.5.119.43:4000/play/a0kp/index.m3u8
+http://181.119.108.43:9001/play/a0p8/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2558" , Discovery theater
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://200.60.124.20:29000/play/a0p5/index.m3u8
 http://45.5.119.43:4000/play/a0hv/index.m3u8
+http://181.119.108.43:9001/play/a0cj/index.m3u8
 
 #EXTINF:0 type="stream" channelId="58" , Discovery science
 ##EXTVLCOPT:network-caching=1000
@@ -522,6 +540,7 @@ http://181.78.8.199:8000/play/a0a3/index.m3u8
 http://45.5.119.43:4000/play/a0ia/index.m3u8
 http://190.0.247.38:8000/play/a00o
 http://181.78.8.199:8000/play/a0a5/index.m3u8
+http://181.119.108.43:9001/play/a016/index.m3u8
 
 #EXTINF:0 type="stream" channelId="240", ANIMAL PLANET HD
 ##EXTVLCOPT:network-caching=1000
@@ -530,12 +549,14 @@ http://45.5.119.43:4000/play/a0gq/index.m3u8
 http://168.228.44.241:9999/play/a025/index.m3u8
 http://45.186.105.214:8000/play/a044/index.m3u8
 http://181.78.8.199:8000/play/a0by/index.m3u8
+http://181.119.108.43:9001/play/a0c2/index.m3u8
 
 #EXTINF:0 type="stream" channelId="56",NATIONAL GEOGRAPHIC
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.8.199:8000/play/a093/index.m3u8
 http://45.5.119.43:4000/play/a0kk/index.m3u8
+http://181.119.108.43:9001/play/a0p4/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Love Nature HD
 http://200.60.124.20:29000/play/a0qp/index.m3u8
@@ -645,6 +666,7 @@ http://148.230.149.45:1021/play/a09e/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://148.230.149.45:1021/play/a06z/index.m3u8
+http://181.119.108.43:9001/play/a042/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1954" ,2 Las estrellas
 ##EXTVLCOPT:network-caching=1000
@@ -697,6 +719,7 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 http://45.171.64.30:2000/play/a08z/index.m3u8
 http://177.10.184.60:8002/play/a00o/index.m3u8
 http://148.230.149.45:1021/play/a072/index.m3u8
+http://181.119.108.43:9001/play/a06n/index.m3u8
 
 #EXTINF:0 type="stream" channelId="255",2 Azteca 7
 ##EXTVLCOPT:network-caching=1000
@@ -789,6 +812,8 @@ http://cord-cutter.net:8080/wY96uK/850378/120691
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 http://x3c1rsvw.ottclub.xyz/iptv/F5BM9GXMAPYBDK/1080/index.m3u8
+#EXTINF:-1 type="stream" channelId="1967" ,IXP 0.190 Telemundo Este 51 HD
+http://181.119.108.43:9001/play/a0qa/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3779" ,1 Universo
 http://200.39.57.254:8008/play/a004/index.m3u8
@@ -845,7 +870,7 @@ http://168.228.44.241:9999/play/a03p/index.m3u8
 #EXTINF:0 type="stream" channelId="2686" , TNT Series HD
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0km/index.m3u8
-
+http://181.119.108.43:9001/play/a0p6/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",AZ CORAZÓN
 ##EXTVLCOPT:network-caching=1000
@@ -871,7 +896,7 @@ http://181.119.108.43:9001/play/a03x/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", A3 SERIES
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://181.119.108.43:9001/play/a004/index.m3u8
 
 #EXTINF:-1 type="stream" channelId="-1" ,3ACINE
 http://200.115.120.1:8000/play/ca0101/index.m3u8
@@ -1112,12 +1137,14 @@ http://200.4.195.66:8000/play/a00f/index.m3u8
 http://38.180.133.31:8000/play/a0yg/index.m3u8
 http://200.115.96.66:4000/play/a02k/index.m3u8
 http://200.92.227.238:8000/play/a0qe/index.m3u8
+http://181.119.108.43:9001/play/a050/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3J1jVyITUmH4aIw8J3Fy9K8Vd19V1cEQzDJMcQ-yG&s=10", Claro Sports 2 HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.5.119.43:4000/play/a0kz/index.m3u8
 http://45.68.35.218:9000/play/a03n/index.m3u8?hls
+http://181.119.108.43:9001/play/a051/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports HD
 ##EXTVLCOPT:network-caching=1000
@@ -1242,9 +1269,21 @@ http://181.119.108.43:9001/play/a0ng/index.m3u8
 http://181.119.108.43:9001/play/a0n8/index.m3u8
 #EXTINF:-1 ,1.180 FOX CR HD
 http://181.119.108.43:9001/play/a0nc/index.m3u8
+#EXTINF:-1 ,FOX ESA
+http://181.119.108.43:9001/play/a0nj/index.m3u8
+#EXTINF:-1 ,FOX GUA
+http://181.119.108.43:9001/play/a0ni/index.m3u8
+#EXTINF:-1 ,FOX HND
+http://181.119.108.43:9001/play/a0nh/index.m3u8
+#EXTINF:-1 ,FOX HND HD
+http://181.119.108.43:9001/play/a0ne/index.m3u8
+#EXTINF:-1 ,FOX NIC
+http://181.119.108.43:9001/play/a0q8/index.m3u8
+#EXTINF:-1 ,FOX NIC HD
+http://181.119.108.43:9001/play/a0q9/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (MX)
-
+http://181.119.108.43:9001/play/a0jz/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (MX)
 http://200.115.120.1:8000/play/ca039/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",3 TUDN HD (MX)
