@@ -121,7 +121,8 @@ http://181.78.109.48:9998/play/a06m/index.m3u8
 http://38.188.186.47:4000/play/a018/index.m3u8
 #EXTINF:-1 group-title="-",Tigo Sports HD
 http://45.190.184.79:5800/play/a06h/index.m3u8
-
+#EXTINF:-1 group-title="-",Tigo Sports HD
+http://190.115.3.141:9000/play/a0og/index.m3u8
 
 #EXTINF:-1 logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="-",090-TyC Sport
 http://38.252.215.33:8000/play/a02o/index.m3u8
@@ -222,7 +223,18 @@ http://201.207.54.159:8000/play/a0c3/index.m3u8
 http://201.207.54.159:8000/play/a07b/index.m3u8
 #EXTINF:-1 group-title="-",FOX NIC HD
 http://190.61.101.11:7050/play/a0af/index.m3u8
-
+#EXTINF:-1 group-title="-",FOX ESA
+http://190.115.3.141:9000/play/a0y8/index.m3u8
+#EXTINF:-1 group-title="-",FOX ESA HD
+http://190.115.3.141:9000/play/a0ya/index.m3u8
+#EXTINF:-1 group-title="-",FOX GUA
+http://190.115.3.141:9000/play/a0ye/index.m3u8
+#EXTINF:-1 group-title="-",FOX HD GUA
+http://190.115.3.141:9000/play/a0y7/index.m3u8
+#EXTINF:-1 group-title="-",FOX NIC
+http://190.115.3.141:9000/play/a0yb/index.m3u8
+#EXTINF:-1 group-title="-",FOX NIC HD
+http://190.115.3.141:9000/play/a0yd/index.m3u8
 
 
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
