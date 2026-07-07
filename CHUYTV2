@@ -27,11 +27,13 @@ http://45.171.64.30:8800/play/a03t
 http://45.171.64.30:2000/play/a014/index.m3u8
 http://177.10.184.60:8002/play/a00b/index.m3u8
 http://45.173.72.26:2072/play/a0bf
+http://181.119.108.43:9001/play/a0g6/index.m3u8
 
 #EXTINF:0 type="stream" channelId="322" , NICK JR.
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://181.78.8.199:8000/play/a0i5/index.m3u8
+http://181.119.108.43:9001/play/a0g7/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",CARTOON NETWORK
 http://45.5.119.43:4000/play/a029/index.m3u8
@@ -72,6 +74,7 @@ http://45.5.119.43:4000/play/a03k/index.m3u8
 http://190.14.10.19:16000/play/a066/index.m3u8
 http://207.230.11.18:1982/play/a0nf/index.m3u8
 http://181.78.8.199:8000/play/a09g/index.m3u8
+http://181.119.108.43:9001/play/a0g8/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMZbaKfAlf8qyUXbqTRqhRPZcFvqap1kJgw&usqp=CAU", DreamWorks HD
 ##EXTVLCOPT:network-caching=1000
@@ -79,7 +82,7 @@ http://181.78.8.199:8000/play/a09g/index.m3u8
 http://190.0.247.38:8000/play/a00k
 http://200.229.147.142:8000/play/a05d/index.m3u8
 http://141.136.61.2:8000/play/a0cd/index.m3u8
-
+http://181.119.108.43:9001/play/a0pz/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",PASIONES
 http://45.5.119.43:4000/play/a0kq/index.m3u8
@@ -101,7 +104,7 @@ http://200.60.124.20:29000/play/a0si/index.m3u8
 http://200.229.147.142:8000/play/a01x/index.m3u8
 http://181.78.8.199:8000/play/a0ct/index.m3u8
 http://190.90.22.42:5280/play/a0ek
-
+http://181.119.108.43:9001/play/a0pl/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1573" , AXN
 ##EXTVLCOPT:network-caching=1000
@@ -111,6 +114,7 @@ http://45.186.105.214:8000/play/a03d/index.m3u8
 http://200.229.147.142:8000/play/a027/index.m3u8
 http://45.5.119.43:4000/play/a0iy/index.m3u8
 http://181.78.8.199:8000/play/a0cu/index.m3u8
+http://181.119.108.43:9001/play/a0po/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1188" , E!1
 ##EXTVLCOPT:network-caching=1000
@@ -119,6 +123,7 @@ http://45.186.105.214:8000/play/a045/index.m3u8
 http://200.229.147.142:8000/play/a01v/index.m3u8
 http://181.78.8.199:8000/play/a0ac/index.m3u8
 http://45.5.119.43:4000/play/a0gr/index.m3u8
+http://181.119.108.43:9001/play/a0px/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1200" , LIFETIME
 http://45.5.119.43:4000/play/a0gb/index.m3u8
@@ -127,6 +132,7 @@ http://187.245.231.226:8000/play/a0lq/index.m3u8
 http://45.173.201.51:4000/play/a0hc/index.m3u8
 http://190.14.249.223:17032/play/a04d/index.m3u8
 http://181.78.8.199:8000/play/a0ai/index.m3u8
+http://181.119.108.43:9001/play/a0pk/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvGX3fYuKig6aO_6RqlX5_jtJ7MWJhT0d_hLNyUnWdGt9uN5nzA-f42MV&s=10", STAR CHANNEL HD
 ##EXTVLCOPT:network-caching=1000
@@ -170,6 +176,7 @@ http://200.4.195.66:8000/play/a00v/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.60.124.20:29000/play/a0sl/index.m3u8
 http://181.78.8.199:8000/play/a09t/index.m3u8
+http://181.119.108.43:9001/play/a0pq/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_GaU52nUoGZAFyd9susUdm7PZNpc9meSRJqBscvKJ0sWn5a6J", PANICO HD
 ##EXTVLCOPT:network-caching=1000
@@ -185,7 +192,7 @@ http://45.186.105.214:8000/play/a043/index.m3u8
 http://200.229.147.142:8000/play/a01t/index.m3u8
 http://200.60.124.20:29000/play/a0q0/index.m3u8
 http://181.78.8.199:8000/play/a09w/index.m3u8
-
+http://181.119.108.43:9001/play/a0pp/index.m3u8
 
 #EXTINF:0 type="stream" channelId="383" , SPACE
 ##EXTVLCOPT:network-caching=1000
@@ -205,6 +212,7 @@ http://45.5.119.43:4000/play/a0hp/index.m3u8
 http://45.186.105.214:8000/play/a02m/index.m3u8
 http://200.229.147.142:8000/play/a03f/index.m3u8
 http://181.78.8.199:8000/play/a0e6/index.m3u8
+http://181.119.108.43:9001/play/a0pn/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS223-DIhaIa7QhQgiLlAkcJI4cyyJ-myCFwKNFTc3p5g&s=10", Sony Cine
 http://200.4.195.66:8000/play/a00d/index.m3u8
@@ -215,7 +223,8 @@ http://200.4.195.66:8000/play/a00d/index.m3u8
 http://45.5.119.43:4000/play/a03s/index.m3u8
 http://181.78.8.199:8000/play/a0e7/index.m3u8
 http://200.60.124.20:29000/play/a0md/index.m3u8
-http://45.186.105.214:8000/play/a04c/index.m3u8
+http://45.186.105.214:8000/play/a10p/index.m3u8
+http://181.119.108.43:9001/play/a0pm/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2557" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySya_l85w-lsa3DABk4A6723lA1E88XNylC7Qx2_CvFUZpvDshuouYp_d&s=10", WARNER
 ##EXTVLCOPT:network-caching=1000
@@ -401,7 +410,7 @@ http://207.230.11.18:1982/play/a0q1/index.m3u8
 http://45.186.105.214:8000/play/a01t/index.m3u8
 http://200.229.147.142:8000/play/a02n/index.m3u8
 http://181.78.8.199:8000/play/a0cj/index.m3u8
-
+http://181.119.108.43:9001/play/a015/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", GOLDEN PLUS
 
@@ -410,7 +419,7 @@ http://181.78.8.199:8000/play/a0cj/index.m3u8
 http://200.115.120.1:8000/play/ca037/index.m3u8
 http://45.171.64.30:2000/play/a08k/index.m3u8
 http://181.78.8.199:8000/play/a0ab/index.m3u8
-
+http://181.119.108.43:9001/play/a06t/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1963" ,GOLDEN PREMIER
 ##EXTVLCOPT:network-caching=1000
@@ -428,6 +437,7 @@ http://200.229.147.142:8000/play/a00h/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 http://200.60.124.20:29000/play/a0sk/index.m3u8
 http://200.229.147.142:8000/play/a09d/index.m3u8
+http://181.119.108.43:9001/play/a0d7/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1244" , Food network
 ##EXTVLCOPT:network-caching=1000
@@ -535,7 +545,7 @@ http://45.5.119.43:4000/play/a0gk/index.m3u8
 http://200.229.147.142:8000/play/a01o/index.m3u8
 http://200.60.124.20:29000/play/a0rk/index.m3u8
 http://181.78.8.199:8000/play/a0an/index.m3u8
-
+http://181.119.108.43:9001/play/a0pj/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1201", HISTORY 2
 ##EXTVLCOPT:network-caching=1000
@@ -544,6 +554,10 @@ http://45.5.119.43:4000/play/a0jp/index.m3u8
 http://45.171.64.30:2000/play/a00v/index.m3u8
 http://190.90.22.42:5280/play/a0dp
 http://181.78.8.199:8000/play/a0ag/index.m3u8
+http://181.119.108.43:9001/play/a0ph/index.m3u8
+
+#EXTINF:-1 ,MTV HD
+http://181.119.108.43:9001/play/a0ex/index.m3u8
 
 #EXTINF:0 type="stream" channelId="",KPOP
 http://190.14.249.223:17032/play/a05f/index.m3u8
@@ -574,6 +588,7 @@ http://181.78.8.199:8000/play/a0g7/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://190.0.247.38:8000/play/a049
+http://181.119.108.43:9001/play/a06y/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2146" , TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -590,6 +605,7 @@ http://45.5.119.43:4000/play/a0hk/index.m3u8
 http://181.78.8.199:8000/play/a081/index.m3u8
 http://181.78.21.46:8009/play/a01m
 http://207.230.11.18:1982/play/a0qh/index.m3u8
+http://181.119.108.43:9001/play/a0g9/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Video Rola
 http://181.78.78.66:8000/play/a0e9
@@ -775,7 +791,7 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 
 #EXTINF:0 type="stream" channelId="134", DPELICULA
-
+http://181.119.108.43:9001/play/a06w/index.m3u8
 
 #EXTINF:0 type="stream" channelId="895", TCM
 http://45.5.119.43:4000/play/a0jw/index.m3u8
@@ -783,7 +799,7 @@ http://45.5.119.43:4000/play/a0jw/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",COMEDY CENTRAL
 #EXTVLCOPT--http-reconnect=true
 http://200.115.120.1:8000/play/ca108/index.m3u8
-
+http://181.119.108.43:9001/play/a043/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Distrito Comedia
 ##EXTVLCOPT:network-caching=1000
@@ -798,7 +814,7 @@ http://200.115.120.1:8000/play/ca108/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TLNovelas
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-
+http://181.119.108.43:9001/play/a06u/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",RCN
 http://181.78.8.199:8000/play/a0hx/index.m3u8
@@ -1204,8 +1220,19 @@ http://45.68.35.218:9000/play/a03p/index.m3u8?hls
 
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE
 http://45.171.64.30:8800/play/a05y
-
+http://181.119.108.43:9001/play/a075/index.m3u8
 #EXTINF:-1 type="stream" channelid="-1" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10",FOXONE
+
+#EXTINF:-1 ,0.130VFOX+ GT
+http://181.119.108.43:9001/play/a0q4/index.m3u8
+#EXTINF:-1 ,1.103 FOX + CR HD
+http://181.119.108.43:9001/play/a0nd/index.m3u8
+#EXTINF:-1 ,1.103 FOX ESA HD
+http://181.119.108.43:9001/play/a0ng/index.m3u8
+#EXTINF:-1 ,1.103 FOX GUA HD
+http://181.119.108.43:9001/play/a0n8/index.m3u8
+#EXTINF:-1 ,1.180 FOX CR HD
+http://181.119.108.43:9001/play/a0nc/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",1 TUDN HD (MX)
 
@@ -1231,46 +1258,46 @@ http://24.152.53.3:8090/play/a012/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",2 TUDN HD (US)
 http://tvmate.icu:8080/triniyoung891@yahoo.com/p4hgv3f3tn/11885
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",3 TUDN HD (US)
-
+http://181.119.108.43:9001/play/a06z/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",4 TUDN HD (US)
 
-#EXTINF:-1 tvg-id="vixpremiumdeportes1.us" tvg-name="ViX Premium Deportes 01" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 01
+#EXTINF:-1 tvg-id="vixpremiumdeportes1.us" tvg-name="ViX Premium Deportes 01" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 01
 http://www.1play.cool:25461/2147807636/33de96f6e3/177161
-#EXTINF:-1 tvg-id="vixpremiumdeportes2.us" tvg-name="ViX Premium Deportes 02" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 02
+#EXTINF:-1 tvg-id="vixpremiumdeportes2.us" tvg-name="ViX Premium Deportes 02" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 02
 http://www.1play.cool:25461/2147807636/33de96f6e3/177162
-#EXTINF:-1 tvg-id="vixpremiumdeportes3.us" tvg-name="ViX Premium Deportes 03" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 03
+#EXTINF:-1 tvg-id="vixpremiumdeportes3.us" tvg-name="ViX Premium Deportes 03" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 03
 http://www.1play.cool:25461/2147807636/33de96f6e3/177163
-#EXTINF:-1 tvg-id="vixpremiumdeportes4.us" tvg-name="ViX Premium Deportes 04" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 04
+#EXTINF:-1 tvg-id="vixpremiumdeportes4.us" tvg-name="ViX Premium Deportes 04" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 04
 http://www.1play.cool:25461/2147807636/33de96f6e3/177164
-#EXTINF:-1 tvg-id="vixpremiumdeportes5.us" tvg-name="ViX Premium Deportes 05" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 05
+#EXTINF:-1 tvg-id="vixpremiumdeportes5.us" tvg-name="ViX Premium Deportes 05" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 05
 http://www.1play.cool:25461/2147807636/33de96f6e3/177165
-#EXTINF:-1 tvg-id="vixpremiumdeportes7.us" tvg-name="ViX Premium Deportes 07" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 07
+#EXTINF:-1 tvg-id="vixpremiumdeportes7.us" tvg-name="ViX Premium Deportes 07" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 07
 http://www.1play.cool:25461/2147807636/33de96f6e3/177166
-#EXTINF:-1 tvg-id="vixpremiumdeportes8.us" tvg-name="ViX Premium Deportes 08" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 08
+#EXTINF:-1 tvg-id="vixpremiumdeportes8.us" tvg-name="ViX Premium Deportes 08" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 08
 http://www.1play.cool:25461/2147807636/33de96f6e3/177167
-#EXTINF:-1 tvg-id="vixpremiumdeportes9.us" tvg-name="ViX Premium Deportes 09" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 09
+#EXTINF:-1 tvg-id="vixpremiumdeportes9.us" tvg-name="ViX Premium Deportes 09" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 09
 http://www.1play.cool:25461/2147807636/33de96f6e3/177168
-#EXTINF:-1 tvg-id="vixpremiumdeportes10.us" tvg-name="ViX Premium Deportes 10" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 10
+#EXTINF:-1 tvg-id="vixpremiumdeportes10.us" tvg-name="ViX Premium Deportes 10" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 10
 http://www.1play.cool:25461/2147807636/33de96f6e3/177169
-#EXTINF:-1 tvg-id="vixpremiumdeportes11.us" tvg-name="ViX Premium Deportes 11" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 11
+#EXTINF:-1 tvg-id="vixpremiumdeportes11.us" tvg-name="ViX Premium Deportes 11" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 11
 http://www.1play.cool:25461/2147807636/33de96f6e3/177170
-#EXTINF:-1 tvg-id="vixpremiumdeportes12.us" tvg-name="ViX Premium Deportes 12" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 12
+#EXTINF:-1 tvg-id="vixpremiumdeportes12.us" tvg-name="ViX Premium Deportes 12" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 12
 http://www.1play.cool:25461/2147807636/33de96f6e3/177171
-#EXTINF:-1 tvg-id="vixpremiumdeportes13.us" tvg-name="ViX Premium Deportes 13" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 13
+#EXTINF:-1 tvg-id="vixpremiumdeportes13.us" tvg-name="ViX Premium Deportes 13" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 13
 http://www.1play.cool:25461/2147807636/33de96f6e3/177172
-#EXTINF:-1 tvg-id="vixpremiumdeportes14.us" tvg-name="ViX Premium Deportes 14" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 14
+#EXTINF:-1 tvg-id="vixpremiumdeportes14.us" tvg-name="ViX Premium Deportes 14" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 14
 http://www.1play.cool:25461/2147807636/33de96f6e3/177173
-#EXTINF:-1 tvg-id="vixpremiumdeportes15.us" tvg-name="ViX Premium Deportes 15" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 15
+#EXTINF:-1 tvg-id="vixpremiumdeportes15.us" tvg-name="ViX Premium Deportes 15" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 15
 http://www.1play.cool:25461/2147807636/33de96f6e3/177174
-#EXTINF:-1 tvg-id="vixpremiumdeportes16.us" tvg-name="ViX Premium Deportes 16" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 16
+#EXTINF:-1 tvg-id="vixpremiumdeportes16.us" tvg-name="ViX Premium Deportes 16" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 16
 http://www.1play.cool:25461/2147807636/33de96f6e3/177175
-#EXTINF:-1 tvg-id="vixpremiumdeportes17.us" tvg-name="ViX Premium Deportes 17" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 17
+#EXTINF:-1 tvg-id="vixpremiumdeportes17.us" tvg-name="ViX Premium Deportes 17" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 17
 http://www.1play.cool:25461/2147807636/33de96f6e3/177176
-#EXTINF:-1 tvg-id="vixpremiumdeportes18.us" tvg-name="ViX Premium Deportes 18" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 18
+#EXTINF:-1 tvg-id="vixpremiumdeportes18.us" tvg-name="ViX Premium Deportes 18" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 18
 http://www.1play.cool:25461/2147807636/33de96f6e3/177177
-#EXTINF:-1 tvg-id="eurosport1.us" tvg-name="ViX Premium Deportes 19" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 19
+#EXTINF:-1 tvg-id="eurosport1.us" tvg-name="ViX Premium Deportes 19" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 19
 http://www.1play.cool:25461/2147807636/33de96f6e3/177178
-#EXTINF:-1 tvg-id="eurosport1.us" tvg-name="ViX Premium Deportes 20" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" group-title="✔️ TV | ViX DEPORTES",ViX Premium Deportes 20
+#EXTINF:-1 tvg-id="eurosport1.us" tvg-name="ViX Premium Deportes 20" tvg-logo="http://213.145.87.11/Logos/vixpremium.png" ,ViX Premium Deportes 20
 http://www.1play.cool:25461/2147807636/33de96f6e3/177179
 
 
