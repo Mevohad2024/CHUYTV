@@ -74,6 +74,8 @@ http://190.61.101.11:7050/play/a09c/index.m3u8
 http://181.119.108.43:9001/play/a0q4/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4tjr_HmupiLNlFD_bOsUj3IlBe-dLXvKsgvzSVpb&s=10?cb=20230523174302" group-title="-",FOX + CR
 http://190.61.101.11:7050/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="-",7 FOX + PREMIER LIGA
+http://190.61.101.11:7050/play/a08w/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4tjr_HmupiLNlFD_bOsUj3IlBe-dLXvKsgvzSVpb&s=10?cb=20230523174302" group-title="-",05 Costa Rica: FOX +
 http://45.173.231.22:8000/play/a0dz/index.m3u8
 
