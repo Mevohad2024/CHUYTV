@@ -25,6 +25,8 @@ http://45.190.184.79:5800/play/ditv/index.m3u8
 http://138.59.227.20:8000/play/a0ft/index.m3u8
 #EXTINF:-1 group-title="-",DSSPORT
 http://38.87.224.19:2220/play/a04f/index.m3u8
+#EXTINF:-1,DIRECTV SPORTS
+http://181.65.155.51:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="-"logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSPORTS_HD
 http://38.226.210.46:8000/play/A008/index.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8GutoKTaXWNMKP2WVXreidhKF2KEqJ9L6XjPSkRtZqQTL9YHe41xudc&s=10",DSPORT
