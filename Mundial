@@ -66,6 +66,10 @@ http://190.234.82.52:8000/play/ac5p/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="http://51.222.27.42/iconox/directtvsports.png302",DIRECTV SPORTS
 http://181.65.155.51:8000/play/a03w/index.m3u8
 
+#EXTINF:-1 group-title="-",0.180 FOX + CR HD
+http://45.5.118.136:8888/play/a016/index.m3u8
+#EXTINF:-1 group-title="-",117w 1.26 FOX+ HD
+http://45.5.118.136:8888/play/a00s/index.m3u8
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="CR | F0X +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4tjr_HmupiLNlFD_bOsUj3IlBe-dLXvKsgvzSVpb&s=10?cb=20230523174302" group-title="-",CR | F0X +
 http://livetv-plus.com:8880//live/Ramon52/UVRTY/656005.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4tjr_HmupiLNlFD_bOsUj3IlBe-dLXvKsgvzSVpb&s=10?cb=20230523174302" group-title="-",FOX MAS
