@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZC1l0x1Dz1w4sN0VDiARHUfNT-Zs3YWLGKV1bFgouw&s=10",CALENDARIO FIFA 2026
-http://200.115.120.1:8000/play/ca109/index.m3u8
+#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lELlpTI7znCbrKeHtAlbLrvwNX0Wiw8iVJSy_BU_WA&s",FOX DEPORTES
+http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/9571
 
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4V2tKgK2p0zUQIP4fhH1bBObdmQ9Lrsur2t3Ki2-qjw&s=10",DAZN
 http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541547.m3u8
