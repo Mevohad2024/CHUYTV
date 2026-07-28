@@ -1,38 +1,56 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Acceso Total" tvg-logo="http://www.1play.cool:25461/images/549aac0e52c7920ed6191d9f4390f69d.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Acceso Total
+http://www.1play.cool:25461/2147807636/33de96f6e3/475409
 #EXTINF:-1 tvg-id="" tvg-name="Acceso Total 24/7" tvg-logo="https://i.postimg.cc/1zrgrBTL/la-casa-de-los-famosos-Mexico-2026.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",Acceso Total 24/7
 http://cineplay.vip:2086/Guillermomonares2/gYbwCef55NJj/553871
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF | Acceso Total" tvg-logo="http://www.1play.cool:25461/images/549aac0e52c7920ed6191d9f4390f69d.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Acceso Total
 http://alltvmx.com/live/Victoria89/Victoria89/1191138.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Toda la casa 24/7" tvg-logo="http://www.1play.cool:25461/images/2012e4a90bffc321ffa4cf300516d4dd.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Toda la casa 24/7
+http://www.1play.cool:25461/2147807636/33de96f6e3/475411
 #EXTINF:-1 tvg-id="" tvg-name="Toda la Casa 24/7" tvg-logo="https://i.postimg.cc/1zrgrBTL/la-casa-de-los-famosos-Mexico-2026.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",Toda la Casa 24/7
 http://cineplay.vip:2086/Guillermomonares2/gYbwCef55NJj/553870
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF | Toda la casa 24/7" tvg-logo="http://www.1play.cool:25461/images/2012e4a90bffc321ffa4cf300516d4dd.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Toda la casa 24/7
 http://alltvmx.com/live/Victoria89/Victoria89/1191130.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Sala" tvg-logo="http://www.1play.cool:25461/images/6b694e8cf87fc88d392ed8ebf81d9385.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Sala
+http://www.1play.cool:25461/2147807636/33de96f6e3/475410
 #EXTINF:-1 tvg-id="" tvg-name="Sala" tvg-logo="https://i.postimg.cc/1zrgrBTL/la-casa-de-los-famosos-Mexico-2026.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",Sala
 http://cineplay.vip:2086/Guillermomonares2/gYbwCef55NJj/553868
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF | Sala" tvg-logo="http://www.1play.cool:25461/images/6b694e8cf87fc88d392ed8ebf81d9385.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Sala
 http://alltvmx.com/live/Victoria89/Victoria89/1191131.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cuarto Tulum" tvg-logo="http://www.1play.cool:25461/images/81c9b3ffa6d12ffe2bfd1a22f5525dfe.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Cuarto Tulum
+http://www.1play.cool:25461/2147807636/33de96f6e3/475407
 #EXTINF:-1 tvg-id="" tvg-name="Cuarto Tulúm" tvg-logo="https://i.postimg.cc/KvbdLHQN/Tulum.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",Cuarto Tulúm
 http://cineplay.vip:2086/Guillermomonares2/gYbwCef55NJj/553866
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cuarto Tulum" tvg-logo="http://www.1play.cool:25461/images/81c9b3ffa6d12ffe2bfd1a22f5525dfe.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Cuarto Tulum
 http://alltvmx.com/live/Victoria89/Victoria89/1191133.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cuarto Malibu" tvg-logo="http://www.1play.cool:25461/images/a2a2f72b9a6888194646afe60bafb214.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Cuarto Malibu
+http://www.1play.cool:25461/2147807636/33de96f6e3/475406
 #EXTINF:-1 tvg-id="" tvg-name="Cuarto Malibú" tvg-logo="https://i.postimg.cc/4d7TLH9C/Malibu.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",Cuarto Malibú
 http://cineplay.vip:2086/Guillermomonares2/gYbwCef55NJj/553864
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cuarto Malibu" tvg-logo="http://www.1play.cool:25461/images/a2a2f72b9a6888194646afe60bafb214.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Cuarto Malibu
 http://alltvmx.com/live/Victoria89/Victoria89/1191134.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cuarto Ibiza" tvg-logo="http://www.1play.cool:25461/images/fcb529a8a89e2bc9ca289ef887f5e737.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Cuarto Ibiza
+http://www.1play.cool:25461/2147807636/33de96f6e3/475405
 #EXTINF:-1 tvg-id="" tvg-name="Cuarto Ibiza" tvg-logo="https://i.postimg.cc/CKdy5nJY/Ibiza.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",Cuarto Ibiza
 http://cineplay.vip:2086/Guillermomonares2/gYbwCef55NJj/553865
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cuarto Ibiza" tvg-logo="http://www.1play.cool:25461/images/fcb529a8a89e2bc9ca289ef887f5e737.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Cuarto Ibiza
 http://alltvmx.com/live/Victoria89/Victoria89/1191135.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cocina" tvg-logo="http://www.1play.cool:25461/images/99281303f6eab9edf2ec9f7ffde1bbaa.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Cocina
+http://www.1play.cool:25461/2147807636/33de96f6e3/475404
 #EXTINF:-1 tvg-id="" tvg-name="Cocina" tvg-logo="https://i.postimg.cc/1zrgrBTL/la-casa-de-los-famosos-Mexico-2026.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",Cocina
 http://cineplay.vip:2086/Guillermomonares2/gYbwCef55NJj/553869
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cocina" tvg-logo="http://www.1play.cool:25461/images/99281303f6eab9edf2ec9f7ffde1bbaa.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Cocina
 http://alltvmx.com/live/Victoria89/Victoria89/1191136.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Baño" tvg-logo="http://www.1play.cool:25461/images/4aa469cbc5e9a2d795cf1e595bb00e49.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Baño
+http://www.1play.cool:25461/2147807636/33de96f6e3/475403
 #EXTINF:-1 tvg-id="" tvg-name="Baño" tvg-logo="https://i.postimg.cc/1zrgrBTL/la-casa-de-los-famosos-Mexico-2026.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",Baño
 http://cineplay.vip:2086/Guillermomonares2/gYbwCef55NJj/553867
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF | Baño" tvg-logo="http://www.1play.cool:25461/images/4aa469cbc5e9a2d795cf1e595bb00e49.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Baño
 http://alltvmx.com/live/Victoria89/Victoria89/1191137.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Multicamaras" tvg-logo="http://www.1play.cool:25461/images/4ff5af1b069a22a76e460dd0d1bcaa1b.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Multicamaras
+http://www.1play.cool:25461/2147807636/33de96f6e3/475408
 #EXTINF:-1 tvg-id="" tvg-name="Multicámaras" tvg-logo="https://i.postimg.cc/1zrgrBTL/la-casa-de-los-famosos-Mexico-2026.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",Multicámaras
 http://cineplay.vip:2086/Guillermomonares2/gYbwCef55NJj/553863
 #EXTINF:-1 tvg-id="" tvg-name="LCDLF | Multicamaras" tvg-logo="http://www.1play.cool:25461/images/4ff5af1b069a22a76e460dd0d1bcaa1b.png" group-title="CASA DE LOS FAMOSOS MEXICO✨",LCDLF | Multicamaras
