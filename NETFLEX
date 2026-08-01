@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Un nuevo Día (2026)" tvg-logo="" ,Spider-Man: Un nuevo Día (2026)
+http://alltvmx.com/movie/Victoria89/Victoria89/1192555.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHP_KIDxuEpVSvwBuhpWF3LknNv1B_uykF690ZNK_PA&s", Spiderman
 http://virgencitachatuti.com:8080/movie/LeonardoHurtado/d8BU2utDfF/1192555.mkv
 
