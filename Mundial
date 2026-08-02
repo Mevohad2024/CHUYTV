@@ -4,6 +4,8 @@
 http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/219333
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="17:00 - Liga MX - Querétaro vs Tigres" tvg-logo="https://i.imgur.com/G5O5Eny.png",17:00 - Liga MX - Querétaro vs Tigres
 http://livetv-plus.com:8880/TUVkZXZHdjMrbW9jbGpGalhDMEFISHo4d3B5WVZlSHQySFd6WG9NRy91Zz0
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="003 LAT: LIGA MX / Queretaro vs Tigres 5PM -Atlas vs Monterrey 7PM -Cruz Azul vs Atlante 9PM -TUDN U" tvg-logo="" ,003 LAT: LIGA MX / Queretaro vs Tigres 5PM -Atlas vs Monterrey 7PM -Cruz Azul vs Atlante 9PM -TUDN U
+http://livetv-plus.com:8880/TUVkZXZHdjMrbW9jbGpGalhDMEFIQVVHK2E4VGgzemNVN3RSWDl3N1lHbz0
 #EXTINF:-1 tvg-id="" tvg-name="Liga MX | 07:00 PM | Atlas FC vs. CF Monterrey" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20279.png" ,Liga MX | 07:00 PM | Atlas FC vs. CF Monterrey
 http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/219334
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="19:00 - Liga MX - Atlas FC vs. CF Monterrey" tvg-logo="https://i.imgur.com/G5O5Eny.png",19:00 - Liga MX - Atlas FC vs. CF Monterrey
