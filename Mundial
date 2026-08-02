@@ -30,10 +30,6 @@ http://181.119.111.25:4000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="-",0 GTM Fox MX HD
 http://181.119.108.43:9001/play/a075/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE MX
-http://45.172.92.111:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE MX
-http://38.194.226.190:8000/play/a00o/index.m3u8?hls
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOXONE MX
 http://38.52.182.224:8000/play/a0ja/index.m3u8
 
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 
