@@ -1042,7 +1042,7 @@ http://45.186.105.214:8000/play/a02g/index.m3u8
 http://45.171.64.30:2000/play/a064/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2540",3 ESPN MX
-
+http://38.52.182.224:8000/play/a0ce/index.m3u8
 
 #EXTINF:0 type="stream" channelId="344",1 ESPN 2 MX
 ##EXTVLCOPT:network-caching=1000
@@ -1054,36 +1054,40 @@ http://45.5.119.43:4000/play/a053/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://168.228.44.241:9999/play/a05a/index.m3u8
+http://45.171.64.30:2000/play/a03n/index.m3u8
 
 #EXTINF:0 type="stream" channelId="355",1 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
 http://45.5.119.43:4000/play/a054/index.m3u8
-http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
+http://38.52.182.224:8000/play/a0gf/index.m3u8
 
 #EXTINF:0 type="stream" channelId="355",2 ESPN 3 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.186.105.214:8000/play/a01n/index.m3u8
-http://45.171.64.30:2000/play/a03n/index.m3u8
+
 
 #EXTINF:0 type="stream" channelId="355",3 ESPN 3 MX
-http://190.11.225.124:5000/live/espn_3_hd/playlist.m3u8
+http://38.52.182.224:8000/play/a0gg/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1432" ,ESPN 4 MX
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 http://45.186.105.214:8000/play/a05v/index.m3u8
 http://168.228.44.241:9999/play/a00e/index.m3u8
+http://38.52.182.224:8000/play/a0gl/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://televvd.com/wp-content/uploads/2024/03/TODOS_2024_ESPN-5.png", ESPN 5 MX
 http://181.78.21.46:8009/play/a018
 http://45.5.119.43:4000/play/a0ix/index.m3u8
 http://168.228.44.241:9999/play/a002/index.m3u8
+http://38.52.182.224:8000/play/a0gr/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRksdCbT-OswapY0HghjWfnqmV_AR4k_FjSOaNw4EZ6A&s=10" , ESPN 6 MX
 http://181.78.21.46:8009/play/a019
 http://45.5.119.43:4000/play/a0kj/index.m3u8
 http://168.228.44.241:9999/play/a017/index.m3u8
+http://38.52.182.224:8000/play/a0ch/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGltL5iMTIEkx9oVH4DCNGqbfZXRXS46QjMr6y7VFwZQ&s=10", ESPN PREMIUM
 http://181.224.255.210:8001/play/a0pt/index.m3u8
@@ -1095,6 +1099,7 @@ http://38.180.133.31:8000/play/a0yg/index.m3u8
 http://200.115.96.66:4000/play/a02k/index.m3u8
 http://200.92.227.238:8000/play/a0qe/index.m3u8
 http://181.119.108.43:9001/play/a050/index.m3u8
+http://38.52.182.224:8000/play/a0i3/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3J1jVyITUmH4aIw8J3Fy9K8Vd19V1cEQzDJMcQ-yG&s=10", Claro Sports 2 HD
 ##EXTVLCOPT:network-caching=1000
@@ -1102,6 +1107,7 @@ http://181.119.108.43:9001/play/a050/index.m3u8
 http://45.5.119.43:4000/play/a0kz/index.m3u8
 http://45.68.35.218:9000/play/a03n/index.m3u8?hls
 http://181.119.108.43:9001/play/a051/index.m3u8
+http://38.52.182.224:8000/play/a0i4/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaXVao0pMqYHe7SQw5d-MG4no2EbiPOkVIaqPO2IU1CR7Pza7Kwb-gFBB&s=10", Tigo Sports HD
 ##EXTVLCOPT:network-caching=1000
