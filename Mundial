@@ -1,14 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:45 ▫ Leagues Cup ▫ Cincinnati vs. Pachuca ▫ HD ▫
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/1228977.ts
 #EXTINF:-1 tvg-id="" tvg-name="Leagues Cup | 05:45 PM | Cincinnati vs. Pachuca" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png" ,Leagues Cup | 05:45 PM | Cincinnati vs. Pachuca
 http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/220189
 #EXTINF:-1 tvg-id="" tvg-name="17:45 - Leagues Cup - Cincinnati vs. Pachuca" tvg-logo="https://i.imgur.com/oaAoZKs.png" ,17:45 - Leagues Cup - Cincinnati vs. Pachuca
 http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFS0RlWXIxbFJsREwxR2d6ZVhBVkZkMD0
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:45 ▫ Leagues Cup ▫ Cincinnati vs. Pachuca ▫ HD ▫
+http://mundo2.vip:80/live/MentorA2025/MentorA2025/565682.ts
 
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:45 ▫ Leagues Cup ▫ Columbus Crew vs. Atlas ▫ HD ▫
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/1228978.ts
 #EXTINF:-1 tvg-id="" tvg-name="Leagues Cup | 05:45 PM | Columbus vs. Atlas FC" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png" ,Leagues Cup | 05:45 PM | Columbus vs. Atlas FC
 http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/220190
 #EXTINF:-1 tvg-id="" tvg-name="17:45 - Leagues Cup - Columbus vs. Atlas FC" tvg-logo="https://i.imgur.com/oaAoZKs.png"  - Leagues Cup - Columbus vs. Atlas FC
 http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFSlR2NmE4NnNMY3RWUG5KazB2MlJnaz0
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:45 ▫ Leagues Cup ▫ Columbus Crew vs. Atlas ▫ HD ▫
+http://mundo2.vip:80/live/MentorA2025/MentorA2025/565683.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Leagues Cup | 06:00 PM | Charlotte vs. Pumas" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png" ,Leagues Cup | 06:00 PM | Charlotte vs. Pumas
 http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/220191
@@ -36,10 +44,8 @@ http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFR0sxbnQwUFZBd1Rhem5RNzBGaHV1Zz0
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:45 ▫ Leagues Cup ▫ Cincinnati vs. Pachuca (english) ▫ HD ▫
 http://mundo2.vip:80/live/MentorA2025/MentorA2025/565681.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:45 ▫ Leagues Cup ▫ Cincinnati vs. Pachuca ▫ HD ▫
-http://mundo2.vip:80/live/MentorA2025/MentorA2025/565682.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:45 ▫ Leagues Cup ▫ Columbus Crew vs. Atlas ▫ HD ▫
-http://mundo2.vip:80/live/MentorA2025/MentorA2025/565683.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,19:00 ▫ Leagues Cup ▫ Charlotte vs. Pumas UNAM ▫ HD ▫
 http://mundo2.vip:80/live/MentorA2025/MentorA2025/565687.ts
 #EXTINF:-1 tvg-id=""  tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,19:30 ▫ Leagues Cup ▫ Minnesota United vs. Juárez ▫ HD ▫
@@ -52,10 +58,8 @@ http://mundo2.vip:80/live/MentorA2025/MentorA2025/565715.ts
 http://mundo2.vip:80/live/MentorA2025/MentorA2025/565717.ts
 #EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png",18:45 ▫ Leagues Cup ▫ Cincinnati vs. Pachuca (english) ▫ HD ▫
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/1228976.ts
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:45 ▫ Leagues Cup ▫ Cincinnati vs. Pachuca ▫ HD ▫
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/1228977.ts
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:45 ▫ Leagues Cup ▫ Columbus Crew vs. Atlas ▫ HD ▫
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/1228978.ts
+
+
 #EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,19:00 ▫ Leagues Cup ▫ Charlotte vs. Pumas UNAM ▫ HD ▫
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/1228982.ts
 #EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,19:30 ▫ Leagues Cup ▫ Minnesota United vs. Juárez ▫ HD ▫
