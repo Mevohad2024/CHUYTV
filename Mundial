@@ -1,5 +1,115 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,17:30 | Leagues Cup Countdown | Leagues Cup
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229247.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,17:30 | Leagues Cup La Previa | Leagues Cup
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229248.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,18:30 | En Español: CF Monterrey vs. Orlando City | Leagues Cup
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229259.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="" ,Monterrey vs Orlando 5:30PM -  LAFC vs Chivas 8:30PM -Apple TV - Purple 1
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KSVAzK1YweklKWkZwU1ZUcnZoYWEyOD0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,18:30 | En Español: Inter Miami CF vs. Atlético San Luis | Leagues Cup
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229260.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,19:30 | En Español: FC Dallas vs. Club Querétaro | Leagues Cup
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229274.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,19:30 | En Español: Nashville SC vs. Club León | Leagues Cup
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229275.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,21:00 | En Español: Toluca vs. Seattle Sounders FC | Leagues Cup
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229288.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,21:30 | En Español: Los Angeles Football Club vs. Chivas de Guadalajara | Leagues Cup
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229291.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,00:00 08-07 | En Español: League Cup Wrap-Up | Leagues Cup
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229293.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://contentmasters.app/logos/mls.png" ,1 19:30 - MLS Inter Miami vs Atlético San Luis
+http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFQjdReWdtZy9XNm5DMVBPQit2bmtZMD0
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,2 18:30 ▫ Leagues Cup ▫ Inter Miami vs. Atlético San Luis ▫ HD ▫
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229173.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" ,3 17:30 - Miami vs. San Luis (Spanish) - Leagues Cup
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KSi9yYi9XbVZNbk5JUUVPYzhyMjc5az0
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="" ,4 USA: Leagues Cup / Inter Miami vs San Luis - 5:30PM - Apple TV
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KSTBwMHFpc2w5YkpiYmtNN3MwUHFJbz0
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="" ,5 USA: Leagues Cup / Inter Miami vs San Luis - 5:30PM - Apple TV - Purple 2
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KRVhPNWVoRHlRQ0dMR2I5VXgzd0o2RT0
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://contentmasters.app/logos/mls.png" ,1 19:30 - MLS Monterrey vs Orlando City SC
+http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFSFkwUGdoUzZJb3FGK2hzT3F2Q1pKcz0
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,2 18:30 ▫ Leagues Cup ▫ Monterrey vs. Orlando City SC ▫ HD ▫
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229174.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-logo="https://i.imgur.com/oaAoZKs.png" ,3 17:30 - Monterrey vs. Orlando - Leagues Cup
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KQzFIK3laZmcrSUtRK2NUWkRrNFUzVT0
+#EXTINF:-1 tvg-id="" tvg-logo="https://contentmasters.app/logos/mls.png" ,4 19:30 - MLS Monterrey vs Orlando City SC
+http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFSGs3Q0lhS3pPZjh6N05jMFQyejhTST0
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="" ,5 USA: Leagues Cup / Monterrey vs Orlando - 5:30PM - Apple TV
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KRlhVTStKOWUweEZUNUI4bnVZREtxWT0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png" ,05:30 PM | Monterrey vs. Orlando
+http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/220262
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,1 19:30 ▫ Leagues Cup ▫ Dallas vs. Querétaro ▫ HD ▫
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229187.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-logo="https://i.imgur.com/oaAoZKs.png" ,2 18:30 - Dallas vs Querétaro - Leagues Cup
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KQ0JSTFl2R203ODJ4WXdNMm90Qlk1VT0
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="" ,3 USA: Leagues Cup / Dallas vs Queretaro - 6:30PM - Apple TV
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KTkxWT3c4ckl4cGNodlRjaVRZbFJpdz0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://contentmasters.app/logos/mls.png" ,1 20:30 - MLS Nashville SC vs León
+http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFSkNRc2RockxleTRIclI1emk4UWRYOD0
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,2 19:30 ▫ Leagues Cup ▫ Nashville SC vs. León ▫ HD ▫
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229188.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-logo="https://i.imgur.com/oaAoZKs.png" ,3 18:30 - Nashville SC vs León - Leagues Cup
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KR1pEUnFWVTlRdENvS1FhWXdOL2c2QT0
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="" ,4 LAT: Leagues Cup / Nashville vs Leon - 6:30PM - TUDN US
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KQTFSdUs5SUsrSEFxaXdQYUJmY2FNQT0
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,1 21:00 ▫ Leagues Cup ▫ Toluca vs. Seattle Sounders FC ▫ HD ▫
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229210.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-logo="https://i.imgur.com/oaAoZKs.png" ,2 20:00 - Toluca vs. Seattle - Leagues Cup
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KS3J5L21OUDR3RHdmK2xmc2Y1eGpCQT0
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="" ,3 USA: Leagues Cup / Toluca vs Seattle - 8:00PM- FS1
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KSTdFWTFHK09lcmVWRjhQdjhSUjljMD0
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://contentmasters.app/logos/mls.png" ,1 22:30 - MLS Los Angeles FC vs Guadalajara
+http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFTEhiRFBPQ3NjbjlvallxVHdvU3RZOD0
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,2 21:30 ▫ Leagues Cup ▫ Los Angeles FC vs. Guadalajara ▫ HD ▫
+http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229212.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png",3 20:30 - LAFC vs. Chivas - Leagues Cup
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KTVVIRjdJTThkOTNDb3A1UDVKRGNyMD0
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="" ,4 USA: Leagues Cup / LAFC vs Chivas - 8:30PM - Apple TV
+http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KTTl3QTUrNkNZem1LaTZlcTFRdFd5cz0
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png" ,05:30 PM | Miami vs. San Luis (Spanish)
+http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/220264
+#EXTINF:-1 tvg-id="" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png" ,06:30 PM | Nashville SC vs León
+http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/220265
+#EXTINF:-1 tvg-id="" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png" ,06:30 PM | Dallas vs Querétaro
+http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/220266
+#EXTINF:-1 tvg-id="" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png" ,08:00 PM | Toluca vs. Seattle
+http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/220267
+#EXTINF:-1 tvg-id="" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png" ,08:30 PM | LAFC vs. Chivas
+http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/220268
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
