@@ -76,15 +76,15 @@ http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KSTdFWTFHK09lcmVWRjhQdjhS
 #EXTINF:-1 tvg-id="" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png" ,4 08:00 PM | Toluca vs. Seattle
 http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/220267
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://contentmasters.app/logos/mls.png" ,1 22:30 - MLS Los Angeles FC vs Guadalajara
+#EXTINF:-1 tvg-id="" tvg-logo="https://contentmasters.app/logos/mls.png" group-title="-",1 22:30 - MLS Los Angeles FC vs Guadalajara
 http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFTEhiRFBPQ3NjbjlvallxVHdvU3RZOD0
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,2 21:30 Los Angeles FC vs. Guadalajara
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" group-title="-",2 21:30 Los Angeles FC vs. Guadalajara
 http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1229212.ts
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png",3 20:30  LAFC vs. Chivas
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png"group-title="-",3 20:30  LAFC vs. Chivas
 http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KTVVIRjdJTThkOTNDb3A1UDVKRGNyMD0
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="" ,4 LAFC vs Chivas - 8:30PM 
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-logo="" group-title="-",4 LAFC vs Chivas - 8:30PM 
 http://livetv-plus.com:8880/d0pKZENJY1V1VEJ3SzYyZ1FTU29KTTl3QTUrNkNZem1LaTZlcTFRdFd5cz0
-#EXTINF:-1 tvg-id="" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png" ,5 08:30 PM LAFC vs. Chivas
+#EXTINF:-1 tvg-id="" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2410.png" group-title="-",5 08:30 PM LAFC vs. Chivas
 http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/220268
 
 
