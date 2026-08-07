@@ -1,11 +1,110 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="Leagues Cup",20:00 Austin FC vs. Club Tijuana | Leagues Cup
-http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1326075.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="Leagues Cup",21:00 América vs. San Diego FC | Leagues Cup
-http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1326082.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" group-title="Leagues Cup",21:30 Portland Timbers vs. Club Puebla | Leagues Cup
-http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1326085.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,17:30 Leagues Cup Countdown
+http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326946.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,17:30 Leagues Cup La Previa
+http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326947.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,18:30 Charlotte vs Atlas
+http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,18:30 Columbus vs Club Pachuca
+http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,19:00 Cincinnati vs. Pumas
+http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326967.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,20:00 Tigres vs. Minnesota
+http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326974.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CLmrtsLC/Leagues-Cuplogo.png" ,21:30 Vancouver vs. Juárez
+http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326983.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" ,17:30 Charlotte vs Atlas
+http://miotv.cc:8080/WWZVdE82dTZXQ2ljbFJYTkxuQ1JyUWp6RmJQR1lUWlRsL1h0SFJ1UWU3QT0
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:30 Charlotte vs Atlas
+http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326876.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://premieresupport.support:80/images/Ot0G-zkBil5HgfveJ2aD7YYwv5D25dAUUWJMaim7n25mc6H_rmyUwsCBBex6k5Xs.png" ,17:30 Charlotte vs Atlas
+http://elpapanatas.space:8080/6user2825/123456/518004
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/733-leagues-cup.png?q=75&w=50" ,07:30pm Charlotte vs Atlas = MLS PASS
+http://elpapanatas.space:8080/6user2825/123456/518051
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:30 Charlotte vs Atlas
+http://elpapanatas.space:8080/6user2825/123456/518286
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" ,17:30 Columbus vs. Pachuca
+http://miotv.cc:8080/WWZVdE82dTZXQ2ljbFJYTkxuQ1JyV1lPZWYvUDdYTllMVko3OHZPUDFUcz0
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:30 Columbus vs Pachuca
+http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326877.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://premieresupport.support:80/images/Ot0G-zkBil5HgfveJ2aD7YYwv5D25dAUUWJMaim7n25mc6H_rmyUwsCBBex6k5Xs.png" ,17:30 Columbus Crew vs Pachuca
+http://elpapanatas.space:8080/6user2825/123456/518005
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/733-leagues-cup.png?q=75&w=50" ,07:30pm Columbus Crew vs Pachuca = MLS PASS
+http://elpapanatas.space:8080/6user2825/123456/518052
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,18:30 Columbus vs Pachuca 
+http://elpapanatas.space:8080/6user2825/123456/518287
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" ,18:00 Cincinnati vs. Pumas
+http://miotv.cc:8080/WWZVdE82dTZXQ2ljbFJYTkxuQ1JyUlJPUW5lV2NpVlgvQ056eVg3YjJMTT0
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,19:00 Cincinnati vs Pumas
+http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326884.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://premieresupport.support:80/images/Ot0G-zkBil5HgfveJ2aD7YYwv5D25dAUUWJMaim7n25mc6H_rmyUwsCBBex6k5Xs.png" ,18:00 Cincinnati vs Pumas
+http://elpapanatas.space:8080/6user2825/123456/518012
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/733-leagues-cup.png?q=75&w=50" ,08:00pm Cincinnati vs Pumas TUDN HD
+http://elpapanatas.space:8080/6user2825/123456/518053
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/733-leagues-cup.png?q=75&w=50" ,08:00pm Cincinnati vs Pumas Unimas HD
+http://elpapanatas.space:8080/6user2825/123456/518054
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/733-leagues-cup.png?q=75&w=50" ,08:00pm Cincinnati vs Pumas Imagen HD
+http://elpapanatas.space:8080/6user2825/123456/518055
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,19:00 Cincinnati vs Pumas 
+http://elpapanatas.space:8080/6user2825/123456/518294
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" ,19:00 Tigres vs. Minnesota
+http://miotv.cc:8080/WWZVdE82dTZXQ2ljbFJYTkxuQ1JyU1o3alhIVjdGVllzYzZFL3d1eU1lWT0
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,20:00 Tigres UANL vs Minnesota United 
+http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326895.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://premieresupport.support:80/images/Ot0G-zkBil5HgfveJ2aD7YYwv5D25dAUUWJMaim7n25mc6H_rmyUwsCBBex6k5Xs.png",19:00 Tigres vs Minnesota
+http://elpapanatas.space:8080/6user2825/123456/518022
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/733-leagues-cup.png?q=75&w=50" ,09:00pm Tigres vs Minnesota MLS PASS
+http://elpapanatas.space:8080/6user2825/123456/518057
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,20:00 Tigres vs Minnesota
+http://elpapanatas.space:8080/6user2825/123456/518305
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" ,20:30 Vancouver Whitecaps vs Juárez
+http://miotv.cc:8080/WWZVdE82dTZXQ2ljbFJYTkxuQ1JyVGlxTVArUVU4UUppT3ZQWVhSOERMWT0
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,21:30 Vancouver vs Juárez 
+http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326910.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://premieresupport.support:80/images/Ot0G-zkBil5HgfveJ2aD7YYwv5D25dAUUWJMaim7n25mc6H_rmyUwsCBBex6k5Xs.png" ,20:30 Vancouver vs Juárez
+http://elpapanatas.space:8080/6user2825/123456/518037
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" ,21:30 Vancouver vs Juárez
+http://elpapanatas.space:8080/6user2825/123456/518320
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" group-title="Leagues Cup",21:00 ▫ Leagues Cup ▫ América vs San Diego FC (english) ▫ HD ▫
 http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1326011.ts
@@ -13,15 +112,8 @@ http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1326011.ts
 http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/476587.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" group-title="Leagues Cup",20:00 América vs. San Diego
 http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFRWl0SlZNeUtCcGxJTTdoOFoyaFY4RT0
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" group-title="Leagues Cup",21:00 América vs San Diego FC ▫ HD ▫
-http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1326012.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" group-title="Leagues Cup",21:30 Portland Timbers vs Puebla ▫ HD ▫
-http://alltvmx.com/live/GlendaMoradel/DbKex48ccB/1326013.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://a4.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2410.png" group-title="Leagues Cup",21:30 Portland Timbers vs Puebla
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/476588.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" group-title="Leagues Cup",20:30 Portland Timbers vs Puebla
-http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFQjVYNUY4OW9jMUZZQTJhNmg1ZytMQT0
+
 
 #EXTINF:-1 group-title="-",78W 1.014 Azteca 7 HD
 http://181.119.108.43:9001/play/a06n/index.m3u8
