@@ -1,25 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" group-title="Leagues Cup",17:30 Charlotte vs Atlas
-http://miotv.cc:8080/WWZVdE82dTZXQ2ljbFJYTkxuQ1JyUWp6RmJQR1lUWlRsL1h0SFJ1UWU3QT0
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/affac56f7bf04ed81ceaa0d110a11dca.png" group-title="Leagues Cup",18:30 Charlotte vs Atlas
-http://virgencitachatuti.com/live/LeonardoHurtado/d8BU2utDfF/1326876.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" group-title="Leagues Cup",17:30 Columbus vs. Pachuca
-http://miotv.cc:8080/WWZVdE82dTZXQ2ljbFJYTkxuQ1JyV1lPZWYvUDdYTllMVko3OHZPUDFUcz0
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" ,18:00 Cincinnati vs. Pumas
-http://miotv.cc:8080/WWZVdE82dTZXQ2ljbFJYTkxuQ1JyUlJPUW5lV2NpVlgvQ056eVg3YjJMTT0
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" group-title="Leagues Cup",19:00 Tigres vs. Minnesota
-http://miotv.cc:8080/WWZVdE82dTZXQ2ljbFJYTkxuQ1JyU1o3alhIVjdGVllzYzZFL3d1eU1lWT0
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oaAoZKs.png" group-title="Leagues Cup",20:30 Vancouver Whitecaps vs Juárez
-http://miotv.cc:8080/WWZVdE82dTZXQ2ljbFJYTkxuQ1JyVGlxTVArUVU4UUppT3ZQWVhSOERMWT0
-
 
 #EXTINF:-1 group-title="-",78W 1.014 Azteca 7 HD
 http://181.119.108.43:9001/play/a06n/index.m3u8
@@ -233,7 +214,8 @@ http://181.225.73.159:8000/play/a0bx/index.m3u8
 http://190.234.82.52:8000/play/ac5p/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="http://51.222.27.42/iconox/directtvsports.png302",DIRECTV SPORTS
 http://181.65.155.51:8000/play/a03w/index.m3u8
-
+#EXTINF:-1,D-SPORT
+http://181.78.82.130:8000/play/a0r5/index.m3u8
 
 #EXTINF:-1 group-title="-",G- IP DIRECTV SPORTS + HD
 http://190.108.83.69:8000/play/a05w/index.m3u8
@@ -266,7 +248,8 @@ http://190.238.43.117:9000/play/a09f/index.m3u8
 http://38.183.213.254:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS2 HD
 http://200.59.188.3:8000/play/a0xf
-
+#EXTINF:-1,D-SPORT 2
+http://181.78.82.130:8000/play/a0r4/index.m3u8
 
 #EXTINF:-1 group-title="-",01 LIGA PRO 1
 http://45.173.231.22:8000/play/a0e6/index.m3u8
@@ -274,12 +257,7 @@ http://45.173.231.22:8000/play/a0e6/index.m3u8
 http://45.173.231.22:8000/play/a0d7/index.m3u8
 #EXTINF:-1 group-title="-",03 LIGA PRO 3
 http://45.173.231.22:8000/play/a0dp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA (1) (Recomendada)" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="-",SEÑAL EXCLUSIVA (1) (Recomendada)
-http://redworld.pro:8880/Melany2025/62upBbekb4Ku/526169
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA (2) (Recomendada)" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="-",SEÑAL EXCLUSIVA (2) (Recomendada)
-http://redworld.pro:8880/Melany2025/62upBbekb4Ku/526170
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA (3) (Recomendada)" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="-",SEÑAL EXCLUSIVA (3) (Recomendada)
-http://redworld.pro:8880/Melany2025/62upBbekb4Ku/527938
+
 
 #EXTINF:-1 group-title="-",10 TIGO 1 BOL
 http://45.173.231.22:8000/play/a0da/index.m3u8
