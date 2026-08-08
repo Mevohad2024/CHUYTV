@@ -47,6 +47,8 @@ http://190.83.9.222:8000/play/ca040/index.m3u8
 http://45.173.231.22:8000/play/a0dl/index.m3u8
 #EXTINF:-1 group-title="-",17 MLS 08: TUDN  ●
 http://45.173.231.22:8000/play/a0dx/index.m3u8
+#EXTINF:-1,TUDN HD
+http://45.190.13.8/TUDNHD/index.m3u8
 
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lELlpTI7znCbrKeHtAlbLrvwNX0Wiw8iVJSy_BU_WA&s",FOX DEPORTES
 http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/9571
@@ -221,7 +223,8 @@ http://38.224.231.176:8000/play/a08d/index.m3u8
 http://38.224.175.2:8000/play/a09o/index.m3u8
 #EXTINF:-1 group-title="-",DIRETV SPORT
 http://190.119.168.226:4000/play/a0a5/index.m3u8
-
+#EXTINF:-1,DIRECTV SPORT
+http://190.117.20.37:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 group-title="-",G- IP DIRECTV SPORTS + HD
 http://190.108.83.69:8000/play/a05w/index.m3u8
