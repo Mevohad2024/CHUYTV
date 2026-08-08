@@ -152,11 +152,10 @@ http://190.115.3.141:9000/play/a0y7/index.m3u8
 http://190.115.3.141:9000/play/a0yb/index.m3u8
 #EXTINF:-1 group-title="-",FOX NIC HD
 http://190.115.3.141:9000/play/a0yd/index.m3u8
-
-
-
-
-
+#EXTINF:-1 group-title="-",FOX CR
+http://181.66.249.246:8000/play/a0ki/index.m3u8
+#EXTINF:-1 group-title="-",Tigo Sports HD
+http://181.66.249.246:8000/play/a0dp/index.m3u8
 
 #EXTINF:-1 group-title="-" tvg-logo="http://51.222.27.42/iconox/directtvsports.png",Directv sport
 http://190.234.82.52:8000/play/c4pn/index.m3u8
@@ -220,6 +219,8 @@ http://181.78.82.130:8000/play/a0r5/index.m3u8
 http://38.224.231.176:8000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS 1
 http://38.224.175.2:8000/play/a09o/index.m3u8
+
+
 
 #EXTINF:-1 group-title="-",G- IP DIRECTV SPORTS + HD
 http://190.108.83.69:8000/play/a05w/index.m3u8
