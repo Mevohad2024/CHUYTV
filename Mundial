@@ -219,7 +219,8 @@ http://181.78.82.130:8000/play/a0r5/index.m3u8
 http://38.224.231.176:8000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS 1
 http://38.224.175.2:8000/play/a09o/index.m3u8
-
+#EXTINF:-1 group-title="-",DIRETV SPORT
+http://190.119.168.226:4000/play/a0a5/index.m3u8
 
 
 #EXTINF:-1 group-title="-",G- IP DIRECTV SPORTS + HD
