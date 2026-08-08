@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="16:30 - Leagues Cup - Orlando vs. León" tvg-logo="https://i.imgur.com/oaAoZKs.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",16:30 - Leagues Cup - Orlando vs. León
+http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFRmJhYWhKSDdtMHp3Z01VZWFla0h1UT0
+#EXTINF:-1 tvg-id="" tvg-name="18:00 - Leagues Cup - Miami vs. Monterrey (Spanish)" tvg-logo="https://i.imgur.com/oaAoZKs.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",18:00 - Leagues Cup - Miami vs. Monterrey (Spanish)
+http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFTVRiV1lmMFc1OFZiTVc0ZDRJYWhKTT0
+#EXTINF:-1 tvg-id="" tvg-name="18:00 - Leagues Cup - Miami vs. Monterrey (English)" tvg-logo="https://i.imgur.com/oaAoZKs.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",18:00 - Leagues Cup - Miami vs. Monterrey (English)
+http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFSkFDYnlMM3pKdnM5YkhvZHc2L3VPTT0
+#EXTINF:-1 tvg-id="" tvg-name="19:00 - Leagues Cup - Guadalajara vs Dallas" tvg-logo="https://i.imgur.com/oaAoZKs.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",19:00 - Leagues Cup - Guadalajara vs Dallas
+http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFTzZSUHgxbFUwc1JPenE0NkFNMklmOD0
+#EXTINF:-1 tvg-id="" tvg-name="20:00 - Leagues Cup - Real Salt Lake vs Atlante" tvg-logo="https://i.imgur.com/oaAoZKs.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",20:00 - Leagues Cup - Real Salt Lake vs Atlante
+http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFR2RtQkppWDYvdDdtek1TRFpiMkRnQT0
+#EXTINF:-1 tvg-id="" tvg-name="21:10 - Leagues Cup - Toluca vs. LAFC" tvg-logo="https://i.imgur.com/oaAoZKs.png" group-title="🏆 | EVENTOS DEL DIA  ⚽ ⭐",21:10 - Leagues Cup - Toluca vs. LAFC
+http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFSnhQR1M1WkFicmpqV2hmVXBqRnp5RT0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/178/566/original/hd-icon-logo-on-transparent-background-free-png.png",MX| IMAGEN HD
+http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFT001M3YyMDI0aWRxZVdieDcydVRFVT0
 #EXTINF:-1 group-title="-" tvg-logo="http://45.5.118.139:8000/playlist/tvg-logo/a05q.png",AZTECA 7
 http://45.5.118.139:8000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="-",78W 1.014 Azteca 7 HD
