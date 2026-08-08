@@ -77,6 +77,9 @@ http://181.78.8.199:8000/play/a09o/index.m3u8
 http://181.119.108.43:9001/play/a05k/index.m3u8
 http://181.78.50.91:8000/play/a011/index.m3u8
 
+#EXTINF:-1,88i - KPOP
+http://190.121.128.220:19784/play/a05f/index.m3u8
+
 #EXTINF:0 type="stream" channelId="41",Nickelodeon HD
 http://181.119.108.43:9001/play/a0g6/index.m3u8
 
