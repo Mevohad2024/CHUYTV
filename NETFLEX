@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Avatar: Aang, El último Maestro Aire (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXyICsxc1amVyziopCT4yhnelNv.jpg",Avatar: Aang, El último Maestro Aire (2026)
-http://livetv-plus.com:8880/movie/granAve/J3Z3mKUFMLWh/662711.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="La odisea (2026)" tvg-logo="" ,La odisea (2026)
 http://alltvmx.com/movie/ElmerVillalobos06/c1a718bf6e76ace6/1192556.mkv
 
@@ -20,14 +20,13 @@ http://virgencitachatuti.com:8080/movie/LeonardoHurtado/d8BU2utDfF/1192555.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Un nuevo día (2026) Calidad HDTS" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/GUVYjqDLWy61q9hDYiV9M5UEJe.jpg",Spider-Man: Un nuevo día (2026) Calidad HDTS
 http://elpapanatas.space:8080/movie/JavierRenderos/xakRfkrgDJ/512577.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story (2026)" tvg-logo="https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",Toy Story (2026)
-http://alltvmx.com/movie/Victoria89/Victoria89/1100480.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="He-Man y los masters del universo (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU_-6V12aH0_LbJ40rmNqcKUbnDTPhroosph3cOUgDQQ&s=10" ,He-Man y los masters del universo (2026)
 http://alltvmx.com/movie/Victoria89/Victoria89/1190245.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Sheep Detectives (2026)" tvg-logo="https://image.tmdb.org/t/p/w500/3RpiAGjwlV517P3L378QzEVFBP4.jpg" ,The Sheep Detectives (2026)
 http://alltvmx.com/movie/Victoria89/Victoria89/1100470.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Minions and Monsters (2026)" tvg-logo="https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",Minions and Monsters (2026)
-http://alltvmx.com/movie/Victoria89/Victoria89/1100399.mk
+
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTIjslBAOoBWZg_dyzgalelD2VW4L2SjVI7jVVOrs5og&s=10",proyecto
 http://alltvmx.com/movie/Victoria89/Victoria89/1100423.mkv
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATZ5abmiUezDZGJBTodeHPS_DhTzQYGXw5zZqbqQRDg&s=10", Sin piedad
