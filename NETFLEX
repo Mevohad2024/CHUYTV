@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFognKEBtBPyQ1IPMtwWlqa7q92.jpg" , Reacher S04E01
+http://flexlive.lat:8080/series/SoldiamarMatamoros1024/e4ExXBdcnJ67/478631.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFognKEBtBPyQ1IPMtwWlqa7q92.jpg" , Reacher S04E02
+http://flexlive.lat:8080/series/SoldiamarMatamoros1024/e4ExXBdcnJ67/478632.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFognKEBtBPyQ1IPMtwWlqa7q92.jpg" , Reacher S04E03
+http://flexlive.lat:8080/series/SoldiamarMatamoros1024/e4ExXBdcnJ67/478633.mp4
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Avatar: Aang, El último Maestro Aire (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXyICsxc1amVyziopCT4yhnelNv.jpg",Avatar: Aang, El último Maestro Aire (2026)
 
