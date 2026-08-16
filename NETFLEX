@@ -38,31 +38,27 @@ http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1327697.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01E12" tvg-logo="https://image.tmdb.org/t/p/w1280/myEJ9DicIez9ZlpdsU8twnJ4b7C.jpg",Acaramelados S01E12
 http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1327698.mkv
 
-#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Avatar: Aang, El último Maestro Aire (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXyICsxc1amVyziopCT4yhnelNv.jpg",Avatar: Aang, El último Maestro Aire (2026)
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2064e09a148fc105e4baa3d31b8a0ef5.jpg",Avatar: Aang, El último Maestro Aire (2026)
+http://redworld.pro:8880/movie/abelardi90351/aDPtM5BcCNUN/554625.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Un nuevo Día (2026)" tvg-logo="" ,Spider-Man: Un nuevo Día (2026)
 http://alltvmx.com/movie/ElmerVillalobos06/c1a718bf6e76ace6/1192555.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="He-Man y los masters del universo (2026)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU_-6V12aH0_LbJ40rmNqcKUbnDTPhroosph3cOUgDQQ&s=10" ,He-Man y los masters del universo (2026)
-http://alltvmx.com/movie/Victoria89/Victoria89/1190245.mkv
+
+http://redworld.pro:8880/movie/abelardi90351/aDPtM5BcCNUN/554621.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Sheep Detectives (2026)" tvg-logo="https://image.tmdb.org/t/p/w500/3RpiAGjwlV517P3L378QzEVFBP4.jpg" ,The Sheep Detectives (2026)
-http://alltvmx.com/movie/Victoria89/Victoria89/1100470.mkv
+http://redworld.pro:8880/movie/abelardi90351/aDPtM5BcCNUN/554756.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Minions and Monsters (2026)" tvg-logo="https://image.tmdb.org/t/p/w500/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg",Minions and Monsters (2026)
 http://flexlive.lat:8080/movie/SoldiamarMatamoros1024/e4ExXBdcnJ67/472097.mp4
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTIjslBAOoBWZg_dyzgalelD2VW4L2SjVI7jVVOrs5og&s=10",proyecto
-http://alltvmx.com/movie/Victoria89/Victoria89/1100423.mkv
+http://redworld.pro:8880/movie/abelardi90351/aDPtM5BcCNUN/554817.mp4
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATZ5abmiUezDZGJBTodeHPS_DhTzQYGXw5zZqbqQRDg&s=10", Sin piedad
-http://alltvmx.com/movie/Victoria89/Victoria89/1100393.mkv
+http://redworld.pro:8880/movie/abelardi90351/aDPtM5BcCNUN/554831.mp4
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFquyjOTRxpxYxCa3z5vw3KuIeNGqFwDJ_PQJzXQzHBQ&s=10", Mutante
 
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSPOHCIaXNQdwwqIe0dUL5JxM8zsG9XADxe7DGtW2lpw&s=10",Escuadron
-
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXIVr9PqD3se8mkFRBMC1uACzYivKwKYDpjAlPleElw&s=10", Una leyenda
 
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A5thnA1id009vOecLiJHTjfc75ai6arQ0_2vaucYHQ&s=10",Crónicas de exsorcismo
