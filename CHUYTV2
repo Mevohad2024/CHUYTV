@@ -72,6 +72,7 @@ http://45.173.201.51:4000/play/a0m5/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLrw1mQ8vXSSXsSZe7YgoJxySqUmJvG-YWt96nRYTFM1yvn7vZ" , Canal infantil
 http://181.78.8.199:8000/play/a09o/index.m3u8
+http://209.61.12.132:9000/play/a02y/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR09wW9bnRftHgTNzhjj7JPNifepZbxJOvWXVwlHnI9nA&s=10" , MaxAnime
 http://181.119.108.43:9001/play/a05k/index.m3u8
@@ -131,6 +132,7 @@ http://181.119.108.43:9001/play/a0g8/index.m3u8
 http://200.229.147.142:8000/play/a05d/index.m3u8
 http://141.136.61.2:8000/play/a0cd/index.m3u8
 http://181.119.108.43:9001/play/a0pz/index.m3u8
+http://138.59.177.78:9999/play/a00m/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",PASIONES
 http://45.5.119.43:4000/play/a0kq/index.m3u8
@@ -140,6 +142,7 @@ http://181.119.108.43:9001/play/a0p9/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal claro
 http://200.60.124.20:29000/play/a04w/index.m3u8
 http://181.119.108.43:9001/play/a052/index.m3u8
+http://138.59.177.78:9999/play/a0bm/index.m3u8
 
 #EXTINF:0 type="stream" channelId="1208" , A&E HD
 ##EXTVLCOPT:network-caching=1000
@@ -212,6 +215,7 @@ http://181.119.108.43:9001/play/a0pq/index.m3u8
 http://200.115.120.1:8000/play/ca120/index.m3u8
 http://38.134.250.110:8000/play/a02c/index.m3u8
 http://181.78.8.199:8000/play/a0bt/index.m3u8
+http://209.61.12.132:9000/play/a02w/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2625" , STUDIO UNIVERSAL
 ##EXTVLCOPT:network-caching=1000
