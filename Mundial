@@ -34,6 +34,8 @@ http://181.119.111.25:4000/play/a04f/index.m3u8
 http://181.78.106.127:5000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="-",FOX CR
 http://181.78.106.127:5000/play/a009/index.m3u8
+#EXTINF:-1 group-title="-",Tigo Sports HD - CR
+http://181.78.106.127:5000/play/a0qn/index.m3u8
 #EXTINF:-1 group-title="-",0 GTM Fox MX HD
 http://181.119.108.43:9001/play/a075/index.m3u8
 #EXTINF:-1 group-title="-",7 FOX + PREMIER LIGA
