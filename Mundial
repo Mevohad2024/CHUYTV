@@ -50,6 +50,8 @@ http://181.78.106.127:5000/play/a009/index.m3u8
 http://181.78.106.127:5000/play/a0qn/index.m3u8
 #EXTINF:-1 group-title="-",0 GTM Fox MX HD
 http://181.119.108.43:9001/play/a075/index.m3u8
+#EXTINF:-1 group-title="-",1.103 FOX ESA HD
+http://181.119.108.43:9001/play/a0ng/index.m3u8
 #EXTINF:-1 group-title="-",7 FOX + PREMIER LIGA
 http://190.61.101.11:7050/play/a08w/index.m3u8
 
@@ -109,8 +111,7 @@ http://186.33.25.234:8125/play/a0e5/index.m3u8
 http://181.119.108.43:9001/play/a0n8/index.m3u8
 #EXTINF:-1 group-title="-",1.103 FOX + CR HD
 http://181.119.108.43:9001/play/a0nd/index.m3u8
-#EXTINF:-1 group-title="-",1.103 FOX ESA HD
-http://181.119.108.43:9001/play/a0ng/index.m3u8
+
 #EXTINF:-1 group-title="-",1.180 FOX CR HD
 http://181.119.108.43:9001/play/a0nc/index.m3u8
 #EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE 
