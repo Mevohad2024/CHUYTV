@@ -1,11 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Una tienda para asesinos (Trial Audio) S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSSquXBYe6LoV1hHPxP4DZzcZz6.jpg",Una tienda para asesinos (Trial Audio) S02E04
-http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1329652.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una tienda para asesinos (Trial Audio) S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0GDavWxyoCER24eLQNOATo1Wcw.jpg",Una tienda para asesinos (Trial Audio) S02E05
-http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1329653.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una tienda para asesinos (Trial Audio) S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBowBmyi5dsmvdBdENLyjPVZkBT.jpg",Una tienda para asesinos (Trial Audio) S02E06
-http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1329654.mkv
+#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZjAAXYmG8I9sERDdG1vBis9UeSDubpcD_wSu6AjRHQvXP1tMadx6cfc&s=10",E4S1 Newtopia
 
 #EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/moSHYdtQL1yVmIfJ2ZwBenXzxsb.jpg",Acaramelados S01E01
 http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1327688.mkv
@@ -194,9 +189,6 @@ http://elpapanatas.space:8080/movie/12meses21890310/12meses21890310/452094.mkv
 
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyYFb3-Jw3tY6_u5W79WcSgMigkO7VCc2-FeJ1POGOQ&s=10",E1S1 Seguro contra divorcio
-
-
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZjAAXYmG8I9sERDdG1vBis9UeSDubpcD_wSu6AjRHQvXP1tMadx6cfc&s=10",E1S1 Newtopia
 
 
 #EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gj4_RcDsZcHMClsybV7NeH5knnb5LaMiah0gfmcKBw&s=10",E1 Soñando con maldito
