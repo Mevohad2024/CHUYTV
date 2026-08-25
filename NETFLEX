@@ -1,6 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZjAAXYmG8I9sERDdG1vBis9UeSDubpcD_wSu6AjRHQvXP1tMadx6cfc&s=10",E4S1 Newtopia
+#EXTINF:-1 tvg-id="" tvg-name="Newtopia S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/7902tvNhWHaweGsZd3eZbFUgtVp.jpg",Newtopia S01E04
+http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1039480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Newtopia S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/3TEc3IZatG2QkDLfWNxG0QWzLqa.jpg" ,Newtopia S01E05
+http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1039483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Newtopia S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/80NVOuuihGLH1GVTthbSbtO0Sru.jpg" ,Newtopia S01E06
+http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1039481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Newtopia S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/aENorTxAyVyeYRgKDzo7KMvuUus.jpg" ,Newtopia S01E07
+http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1039478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Newtopia S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/A6jwylNKmgqIfV5k4ZrGo0yNTQ.jpg" ,Newtopia S01E08
+http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1039485.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Acaramelados S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/moSHYdtQL1yVmIfJ2ZwBenXzxsb.jpg",Acaramelados S01E01
 http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1327688.mkv
