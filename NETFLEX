@@ -1,46 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpnprsZyBY8sn7yll5KORG3avj.jpg" group-title="NETFLIX",Ratonera S01 E01
-http://cineplay.vip:2086/series/Guillermomonares2/gYbwCef55NJj/565059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wupPoMhcJnqPpA02uTHf845QEjF.jpg" group-title="NETFLIX",Ratonera S01 E02
-http://cineplay.vip:2086/series/Guillermomonares2/gYbwCef55NJj/565060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g30bLftVJiLTIcB68aPj7v35NHL.jpg" group-title="NETFLIX",Ratonera S01 E03
-http://cineplay.vip:2086/series/Guillermomonares2/gYbwCef55NJj/565061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgLixVRVnH8eXRCfBNxg2FOyllR.jpg" group-title="NETFLIX",Ratonera S01 E04
-http://cineplay.vip:2086/series/Guillermomonares2/gYbwCef55NJj/565062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwfzPP9B8IdYTnwqsSgrIAVWE5R.jpg" group-title="NETFLIX",Ratonera S01 E05
-http://cineplay.vip:2086/series/Guillermomonares2/gYbwCef55NJj/565063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pW5D3BTgrd50T9I4PRLeQbpBB9O.jpg" group-title="NETFLIX",Ratonera S01 E06
-http://cineplay.vip:2086/series/Guillermomonares2/gYbwCef55NJj/565064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWqzN79H2OSbA39Ws0bHM2YtrTr.jpg" group-title="NETFLIX",Ratonera S01 E07
-http://cineplay.vip:2086/series/Guillermomonares2/gYbwCef55NJj/565065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWdfceX1s2MBPMn6DFSVyqML7ZX.jpg" group-title="NETFLIX",Ratonera S01 E08
-http://cineplay.vip:2086/series/Guillermomonares2/gYbwCef55NJj/565066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEXkfzeunEhY8athkrM29mD0zN.jpg" group-title="NETFLIX",Ratonera S01 E09
-http://cineplay.vip:2086/series/Guillermomonares2/gYbwCef55NJj/565067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLfjel4aVNBNbChbzBn4zyhI8x7.jpg" group-title="NETFLIX",Ratonera S01 E10
-http://cineplay.vip:2086/series/Guillermomonares2/gYbwCef55NJj/565068.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/826eb341ea4dc1254438dd24d60e8836.jpg" ,Ratonera S01 E01
+http://redworld.pro:8880/series/abelardi90351/aDPtM5BcCNUN/560122.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/7aafba45168b7790585528a2aee73f17.jpg" ,Ratonera S01 E02
+http://redworld.pro:8880/series/abelardi90351/aDPtM5BcCNUN/560123.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/323d1822c2ff2d0b1d60a87b1d358485.jpg" ,Ratonera S01 E03
+http://redworld.pro:8880/series/abelardi90351/aDPtM5BcCNUN/560124.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/548d0e647b4d4eda64610d183cb0fed8.jpg",Ratonera S01 E04
+http://redworld.pro:8880/series/abelardi90351/aDPtM5BcCNUN/560125.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/7298f228dc3d068fba7fe2daeb07db99.jpg",Ratonera S01 E05
+http://redworld.pro:8880/series/abelardi90351/aDPtM5BcCNUN/560126.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/daa2efe7cefb7a9ba742993191a2c127.jpg",Ratonera S01 E06
+http://redworld.pro:8880/series/abelardi90351/aDPtM5BcCNUN/560127.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/b665e9faf93726b3c3d3b85ec10ae94e.jpg",Ratonera S01 E07
+http://redworld.pro:8880/series/abelardi90351/aDPtM5BcCNUN/560128.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/e5750b4088bd08050b9ad92809fb3ba1.jpg",Ratonera S01 E08
+http://redworld.pro:8880/series/abelardi90351/aDPtM5BcCNUN/560129.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c480833833a442cd23520e75768bc3cc.jpg",Ratonera S01 E09
+http://redworld.pro:8880/series/abelardi90351/aDPtM5BcCNUN/560130.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c480833833a442cd23520e75768bc3cc.jpg",Ratonera S01 E10
+http://redworld.pro:8880/series/abelardi90351/aDPtM5BcCNUN/560131.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E01" tvg-logo="http://redworld.pro:8880/images/826eb341ea4dc1254438dd24d60e8836.jpg" group-title="⭐️ Series Netflix ",Ratonera S01 E01
-http://redworld.pro:8880/series/MichellMestre/zrgw23N7pgr6/560122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E02" tvg-logo="http://redworld.pro:8880/images/7aafba45168b7790585528a2aee73f17.jpg" group-title="⭐️ Series Netflix ",Ratonera S01 E02
-http://redworld.pro:8880/series/MichellMestre/zrgw23N7pgr6/560123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E03" tvg-logo="http://redworld.pro:8880/images/323d1822c2ff2d0b1d60a87b1d358485.jpg" group-title="⭐️ Series Netflix ",Ratonera S01 E03
-http://redworld.pro:8880/series/MichellMestre/zrgw23N7pgr6/560124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E04" tvg-logo="http://redworld.pro:8880/images/548d0e647b4d4eda64610d183cb0fed8.jpg" group-title="⭐️ Series Netflix ",Ratonera S01 E04
-http://redworld.pro:8880/series/MichellMestre/zrgw23N7pgr6/560125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E05" tvg-logo="http://redworld.pro:8880/images/7298f228dc3d068fba7fe2daeb07db99.jpg" group-title="⭐️ Series Netflix ",Ratonera S01 E05
-http://redworld.pro:8880/series/MichellMestre/zrgw23N7pgr6/560126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E06" tvg-logo="http://redworld.pro:8880/images/daa2efe7cefb7a9ba742993191a2c127.jpg" group-title="⭐️ Series Netflix ",Ratonera S01 E06
-http://redworld.pro:8880/series/MichellMestre/zrgw23N7pgr6/560127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E07" tvg-logo="http://redworld.pro:8880/images/b665e9faf93726b3c3d3b85ec10ae94e.jpg" group-title="⭐️ Series Netflix ",Ratonera S01 E07
-http://redworld.pro:8880/series/MichellMestre/zrgw23N7pgr6/560128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E08" tvg-logo="http://redworld.pro:8880/images/e5750b4088bd08050b9ad92809fb3ba1.jpg" group-title="⭐️ Series Netflix ",Ratonera S01 E08
-http://redworld.pro:8880/series/MichellMestre/zrgw23N7pgr6/560129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E09" tvg-logo="http://redworld.pro:8880/images/54fb6df3576fc5a66565307965db3554.jpg" group-title="⭐️ Series Netflix ",Ratonera S01 E09
-http://redworld.pro:8880/series/MichellMestre/zrgw23N7pgr6/560130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ratonera S01 E10" tvg-logo="http://redworld.pro:8880/images/c480833833a442cd23520e75768bc3cc.jpg" group-title="⭐️ Series Netflix ",Ratonera S01 E10
-http://redworld.pro:8880/series/MichellMestre/zrgw23N7pgr6/560131.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Newtopia S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/7902tvNhWHaweGsZd3eZbFUgtVp.jpg",Newtopia S01E04
 http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1039480.mkv
