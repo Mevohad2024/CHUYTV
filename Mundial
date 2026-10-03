@@ -2,6 +2,8 @@
 
 #EXTINF:-1,Foxsportspremium
 http://195.178.110.110/foxsportspremium/index.m3u8
+#EXTINF:-1,Foxsportspremium
+http://195.178.110.110:80/foxsportspremium/index.m3u8
 #EXTINF:-1,Foxdeportes
 http://195.178.110.110/foxdeportes/index.m3u8
 #EXTINF:-1,Espnpremium HD
@@ -82,10 +84,30 @@ http://195.178.110.110/movistar/index.m3u8
 http://190.197.41.183/Unimas/index.m3u8
 #EXTINF:-1,Univision
 http://195.178.110.110/univision/index.m3u8
+#EXTINF:-1,Univision
+http://195.178.110.110:80/univision/index.m3u8
 #EXTINF:-1,Universo
 http://195.178.110.110/universo/index.m3u8
 #EXTINF:-1,Disney 3
 http://195.178.110.110/disney3/index.m3u8
+
+
+#EXTINF:-1,movistar
+http://195.178.110.110:80/movistar/index.m3u8
+#EXTINF:-1,foxsports3
+http://195.178.110.110:80/foxsports3/index.m3u8
+#EXTINF:-1,foxsports
+http://195.178.110.110:80/foxsports/index.m3u8
+#EXTINF:-1,foxsports2
+http://195.178.110.110:80/foxsports2/index.m3u8
+#EXTINF:-1,telemundo
+http://195.178.110.110:80/telemundo/index.m3u8
+#EXTINF:-1,espn
+http://195.178.110.110:80/espn/index.m3u8
+#EXTINF:-1,espn2
+http://195.178.110.110:80/espn2/index.m3u8
+#EXTINF:-1,espn3
+http://195.178.110.110:80/espn3/index.m3u8
 
 #EXTINF:-1 group-title="-",TIGO SPORTS
 http://38.252.215.33:8000/play/a02p/index.m3u8
