@@ -87,6 +87,11 @@ http://195.178.110.110/universo/index.m3u8
 #EXTINF:-1,Disney 3
 http://195.178.110.110/disney3/index.m3u8
 
+#EXTINF:-1 tvg-id="Fox ONE HD (Gua3)" tvg-logo="https://i.imgur.com/7fgevcn.png" ,Fox HD (Gua3)
+http://45.228.233.222:8000/play/a02v
+#EXTINF:-1 tvg-id="Fox ONE HD (Gua0)" tvg-logo="https://i.imgur.com/7fgevcn.png" ,Fox GUA HD (Gua0)
+http://187.245.231.226:8000/play/a0og/index.m3u8
+
 #EXTINF:-1 group-title="-",UNIMAS HD
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaVYWyLQ1vvTmRN4nE7QCkmg
 http://190.197.41.183/Unimas/mono.m3u8
