@@ -1,5 +1,30 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea S01 E01" tvg-logo="http://redworld.pro:8880/images/8878245b278336bb4798e1e544bdefb8.jpg",Made in Korea S01 E01
+http://redworld.pro:8880/series/@Cristian776/38VvG4US6Z8f/561501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea S01 E02" tvg-logo="http://redworld.pro:8880/images/798c91aa1304bc91f864382afa32fdeb.jpg",Made in Korea S01 E02
+http://redworld.pro:8880/series/@Cristian776/38VvG4US6Z8f/561502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea S01 E03" tvg-logo="http://redworld.pro:8880/images/2b0a4696c968c6e7340dcf2ff730413d.jpg",Made in Korea S01 E03
+http://redworld.pro:8880/series/@Cristian776/38VvG4US6Z8f/561503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea S01 E04" tvg-logo="http://redworld.pro:8880/images/b19cc559fabdb0bcfb2708ebca967d90.jpg",Made in Korea S01 E04
+http://redworld.pro:8880/series/@Cristian776/38VvG4US6Z8f/561504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea S01 E05" tvg-logo="http://redworld.pro:8880/images/4a8526494581bfb806914c9232bd56eb.jpg",Made in Korea S01 E05
+http://redworld.pro:8880/series/@Cristian776/38VvG4US6Z8f/561505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea S01 E06" tvg-logo="http://redworld.pro:8880/images/d920e705a089ff7591a58e09be82643a.jpg",Made in Korea S01 E06
+http://redworld.pro:8880/series/@Cristian776/38VvG4US6Z8f/561506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea S02 E01" tvg-logo="http://redworld.pro:8880/images/2640dea7d100a8b450f7d24d2cc17e91.jpg",Made in Korea S02 E01
+http://redworld.pro:8880/series/@Cristian776/38VvG4US6Z8f/561507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea S02 E02" tvg-logo="http://redworld.pro:8880/images/52756812858f412372371fd473d17e91.jpg",Made in Korea S02 E02
+http://redworld.pro:8880/series/@Cristian776/38VvG4US6Z8f/561508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea S02 E03" tvg-logo="http://redworld.pro:8880/images/4d039667a1a8a1ebf52ef4a0ff795d90.jpg",Made in Korea S02 E03
+http://redworld.pro:8880/series/@Cristian776/38VvG4US6Z8f/562435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea S02 E04" tvg-logo="http://redworld.pro:8880/images/5dbe0042e1f8ff9cf160046fe9a93641.jpg",Made in Korea S02 E04
+http://redworld.pro:8880/series/@Cristian776/38VvG4US6Z8f/562436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea S02 E05" tvg-logo="http://redworld.pro:8880/images/98b836724133caab8801f8b5e553568c.jpg",Made in Korea S02 E05
+http://redworld.pro:8880/series/@Cristian776/38VvG4US6Z8f/562931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Made in Korea S02 E06" tvg-logo="http://redworld.pro:8880/images/fbcec120cc9e4c008c6cab54265dd4f4.jpg",Made in Korea S02 E06
+http://redworld.pro:8880/series/@Cristian776/38VvG4US6Z8f/562932.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Newtopia S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/7902tvNhWHaweGsZd3eZbFUgtVp.jpg",Newtopia S01E04
 http://alltvmx.com/series/ElmerVillalobos06/c1a718bf6e76ace6/1039480.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Newtopia S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/3TEc3IZatG2QkDLfWNxG0QWzLqa.jpg" ,Newtopia S01E05
