@@ -37,8 +37,7 @@ http://190.61.101.11:7050/play/a098/index.m3u8
 http://51.222.31.20:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="-",TUDN (MX)
 http://181.78.106.127:5000/play/ca025/index.m3u8
-#EXTINF:-1 group-title="-",0IS34 2.11 TUDN CA HD
-http://181.119.108.43:9001/play/a06z/index.m3u8
+
 #EXTINF:-1 group-title="-",TUDN USA
 http://181.78.106.127:5000/play/ca036/index.m3u8
 #EXTINF:-1 group-title="-",TUDN H
@@ -46,18 +45,17 @@ http://168.228.44.241:9997/play/a061/index.m3u8
 #EXTINF:-1 group-title="-",TUDN USA
 http://168.228.44.241:9997/play/a09f/index.m3u8
 
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
+#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 1
 http://45.186.106.207:8000/play/a099/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
+#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 2
 http://200.229.147.142:8000/play/a09n/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
+#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 3
 http://24.152.53.3:8090/play/a012/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
+#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 4
 http://190.83.9.222:8000/play/ca099/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUD SD
+#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUD 5 SD
 http://45.171.64.30:8800/play/a07e
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUD SD
-http://200.229.147.210:9999/play/a01v/index.m3u8
+
 #EXTINF:-1 group-title="-" tvg-logo="http://181.119.111.25:4000/playlist/tvg-logo/a04f.png",37) TUDN
 http://181.119.111.25:4000/play/a04f/index.m3u8
 
@@ -67,10 +65,8 @@ http://181.78.106.127:5000/play/a00d/index.m3u8
 http://181.78.106.127:5000/play/a009/index.m3u8
 #EXTINF:-1 group-title="-",Tigo Sports HD - CR
 http://181.78.106.127:5000/play/a0qn/index.m3u8
-#EXTINF:-1 group-title="-",0 GTM Fox MX HD
-http://181.119.108.43:9001/play/a075/index.m3u8
-#EXTINF:-1 group-title="-",1.103 FOX ESA HD
-http://181.119.108.43:9001/play/a0ng/index.m3u8
+
+
 #EXTINF:-1 group-title="-",7 FOX + PREMIER LIGA
 http://190.61.101.11:7050/play/a08w/index.m3u8
 #EXTINF:-1 group-title="-",Tigo Sports HD
@@ -84,8 +80,7 @@ http://168.228.44.241:9997/play/a052/index.m3u8
 #EXTINF:-1 group-title="-",FOX HD GUA
 http://168.228.44.241:9997/play/a053/index.m3u8
 
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 
-http://45.5.119.43:4000/play/a05q/index.m3u8
+
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
 http://45.228.234.62:8000/play/a00a/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
@@ -94,95 +89,27 @@ http://200.229.147.142:8000/play/a096/index.m3u8
 http://177.10.184.60:8002/play/a013/index.m3u8
 #EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN
 http://190.61.114.186:8000/play/a01o/index.m3u8
-#EXTINF:0 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q40cMipBasbpTdCGTMVRmKZJyoK7qdCKw&usqp=CAU",TUDN 4K
-http://190.83.9.222:8000/play/ca040/index.m3u8
-#EXTINF:-1 group-title="-",16 TUDN HD MX
-http://45.173.231.22:8000/play/a0dl/index.m3u8
-#EXTINF:-1 group-title="-",17 MLS 08: TUDN  ●
-http://45.173.231.22:8000/play/a0dx/index.m3u8
-#EXTINF:-1,TUDN HD
-http://45.190.13.8/TUDNHD/index.m3u8
 
-#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lELlpTI7znCbrKeHtAlbLrvwNX0Wiw8iVJSy_BU_WA&s",FOX DEPORTES
-http://tv.zeuspro.xyz:8080/hsarria/fccb81ea5c2f/9571
-
-#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4V2tKgK2p0zUQIP4fhH1bBObdmQ9Lrsur2t3Ki2-qjw&s=10",DAZN
-http://somoseluno.blog:80/live/usuario23CD/578f3wuew/541547.m3u8
-
-#EXTINF:-1 group-title="-" channelId="1967" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg", 1.127 TELEMUNDO MIAMI
-http://181.119.108.43:9001/play/a0qa/index.m3u8
-#EXTINF:0 group-title="-" type="stream" channelId="1967" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg",2 TELEMUNDO
-http://cord-cutter.net:8080/cummings77@gmail.com/dwayne@2023/56410
 #EXTINF:0 group-title="-" type="stream" channelId="1967" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg",3 TELEMUNDO
 http://cord-cutter.net:8080/wY96uK/850378/120691
-#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO HOUSTON" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="-",(OFFLINE) TELEMUNDO HOUSTON
-http://redworld.pro:8880/Melany2025/62upBbekb4Ku/490425
-#EXTINF:-1 xm-ott="{ID}" tvg-id="universo.co" tvg-name="EN | NBC UNIVERSO HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/UNVSO.png" group-title="-",EN | NBC UNIVERSO HD
-http://livetv-plus.com:8880/live/Ramon52/UVRTY/199524.ts
 
-
-#EXTINF:-1 group-title="-",0.180 FOX + CR HD
-http://45.5.118.136:8888/play/a016/index.m3u8
-#EXTINF:-1 group-title="-",117w 1.26 FOX+ HD
-http://45.5.118.136:8888/play/a00s/index.m3u8
-
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 13 FOXONE 
-http://181.119.108.27:7292/play/a02v/index.m3u8
-#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE 
-http://38.252.238.18:8000/play/a077/index.m3u8
-#EXTINF:-1 group-title="-",04 Costa Rica:  FOX  ●
-http://45.173.231.22:8000/play/a0dy/index.m3u8
-#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10", FOX ESA
-http://200.115.120.1:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", FOX ESA
-http://186.33.25.234:8125/play/a0e5/index.m3u8
-#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dfnqJ0_v08rIdqVVNfdlOse3be8X10J9wfZncvMh6A&s=10",FOX GUA HD
-http://181.119.108.43:9001/play/a0n8/index.m3u8
-#EXTINF:-1 group-title="-",1.103 FOX + CR HD
-http://181.119.108.43:9001/play/a0nd/index.m3u8
-
-#EXTINF:-1 group-title="-",1.180 FOX CR HD
-http://181.119.108.43:9001/play/a0nc/index.m3u8
-#EXTINF:-1 group-title="-" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",1 FOXONE 
-http://38.252.238.18:8000/play/a077/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",2 FOXONE 
-http://38.52.182.224:8000/play/a0ay/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 3 FOXONE 
 http://38.159.227.214:8000/play/a038
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",4 FOXONE 
-http://38.252.238.18:8000/play/a02p/index.m3u8
+
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 5 FOX HD GUA
 http://45.5.118.152:8000/play/a0dh/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 6 FOXONE
-http://45.5.119.43:4000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 7 FOXONE 
-http://8.243.126.131:8000/play/a0oq/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 8 FOXONE 
-http://8.243.126.131:8000/play/a0ih/index.m3u8
+
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",9 FOXONE 
 http://45.228.234.62:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",10 FOXONE 
-http://200.229.147.210:9999/play/a0as/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",12 FOXONE 
-http://187.245.231.226:8000/play/a0og/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 14 FOXONE
-http://186.33.25.234:8125/play/a04p/index.m3u8
+
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 15 FOXONE 
 http://45.5.118.152:8000/play/a0ds/index.m3u8
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 16 FOXONE 
 http://45.5.118.152:8000/play/a0df/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",18 FOX HD GUA
-http://38.52.182.224:8000/play/a0j9/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",19 FOX HD GUA
-http://38.252.238.18:8000/play/a078/index.m3u8
+
 #EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10", 20 FOX HD GUA
 http://190.14.10.19:16000/play/a0a2/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",21 FOX HD ESA
-http://186.33.25.234:8125/play/a0e6/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",22 FOX SD ESA
-http://38.52.182.224:8000/play/a0ja/index.m3u8
-#EXTINF:-1 group-title="-" logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdXFN7TO9cfhjwXQ7NHTVQOA2c67iLhqB3LKlN4_Ngw&s=10",23 FOX SD ESA
-http://38.252.238.18:8000/play/a079/index.m3u8
+
 #EXTINF:-1 group-title="-",FOX CR
 http://201.207.54.159:8000/play/a0as/index.m3u8
 #EXTINF:-1 group-title="-",FOX ESA
