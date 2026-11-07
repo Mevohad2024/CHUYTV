@@ -66,6 +66,10 @@ http://181.78.106.127:5000/play/a009/index.m3u8
 #EXTINF:-1 group-title="-",Tigo Sports HD - CR
 http://181.78.106.127:5000/play/a0qn/index.m3u8
 
+#EXTINF:-1 group-title="-" tvg-logo="http://181.119.215.61:8000/playlist/tvg-logo/a08a.png",FOX
+http://181.119.215.61:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="http://181.119.215.61:8000/playlist/tvg-logo/a088.png",FOX CR
+http://181.119.215.61:8000/play/a088/index.m3u8
 
 #EXTINF:-1 group-title="-",7 FOX + PREMIER LIGA
 http://190.61.101.11:7050/play/a08w/index.m3u8
