@@ -22,6 +22,9 @@ http://38.252.215.33:8000/play/a00r/index.m3u
 http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/178/566/original/hd-icon-logo-on-transparent-background-free-png.png",IMAGEN HD
 http://miotv.cc:8080/TDRJdFE5Sit2VkI2aC9Da3VMdWFFT001M3YyMDI0aWRxZVdieDcydVRFVT0
+#EXTINF:11,Azteca 7
+#EXTVLCOPT:network-caching=1000
+http://45.238.141.222:8000/play/a0od/index.m3u8?filter=all
 #EXTINF:-1 group-title="-",AZTECA 7
 http://181.78.106.127:5000/play/ca023/index.m3u8
 #EXTINF:-1,AXTECA 7
