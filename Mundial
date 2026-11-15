@@ -21,6 +21,13 @@ http://45.228.233.222:8000/play/a02v
 http://38.252.215.33:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="-",DSPORTS 2
 http://38.252.215.33:8000/play/a00r/index.m3u
+#EXTINF:-1 group-title="-",Dspots
+http://38.190.100.202:8000/play/a05n
+#EXTINF:-1 group-title="-",Dsports_2
+http://38.190.100.202:8000/play/a05m
+#EXTINF:-1 group-title="-",Dsports+
+http://38.190.100.202:8000/play/a09q
+
 
 #EXTINF:-1 group-title="-",UNIVISION MIAMI
 http://168.228.44.241:9997/play/a09d/index.m3u8
