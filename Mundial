@@ -57,6 +57,8 @@ http://190.61.101.11:7050/play/a098/index.m3u8
 #EXTINF:0,canal 5 mx
 http://51.222.31.20:8000/play/a01l/index.m3u8
 
+#EXTINF:-1,TUDN HD
+https://streaming.onnethn.com/TUDN_HD/playlist.m3u8
 #EXTINF:-1 group-title="-",TUDN (MX)
 http://181.78.106.127:5000/play/ca025/index.m3u8
 #EXTINF:-1,TUDN - CH59
@@ -86,6 +88,8 @@ http://181.119.215.61:8000/play/a07v/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="http://181.119.215.61:8000/playlist/tvg-logo/a07q.png",sky la liga
 http://181.119.215.61:8000/play/a07q/index.m3u8
 
+#EXTINF:-1,FOX HD
+https://streaming.onnethn.com/FOX/playlist.m3u8
 #EXTINF:-1 group-title="-",FOX + MUNDIAL
 http://181.78.106.127:5000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="-",FOX CR
@@ -174,6 +178,13 @@ http://190.115.3.141:9000/play/a0yd/index.m3u8
 http://181.66.249.246:8000/play/a0ki/index.m3u8
 #EXTINF:-1 group-title="-",Tigo Sports HD
 http://181.66.249.246:8000/play/a0dp/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD
+https://streaming.onnethn.com/ESPN2_HD/playlist.m3u8
+#EXTINF:-1,ESPN 3 HD
+https://streaming.onnethn.com/ESPN3_HD/playlist.m3u8
+#EXTINF:-1,ESPN 4
+https://streaming.onnethn.com/ESPN_4/playlist.m3u8
 
 #EXTINF:-1 group-title="-" tvg-logo="http://51.222.27.42/iconox/directtvsports.png",Directv sport
 http://190.234.82.52:8000/play/c4pn/index.m3u8
