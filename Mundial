@@ -12,6 +12,8 @@ http://190.197.41.183/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 group-title="-",TIGO SPORTS
 http://38.252.215.33:8000/play/a02p/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.116.228:8000/playlist/tvg-logo/a05z.png",Tigo Sports HD
+http://45.5.116.228:8000/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox ONE HD (Gua3)" tvg-logo="https://i.imgur.com/7fgevcn.png" ,Fox HD (Gua3)
 http://45.228.233.222:8000/play/a02v
@@ -50,7 +52,8 @@ http://51.222.31.20:8000/play/a01l/index.m3u8
 
 #EXTINF:-1 group-title="-",TUDN (MX)
 http://181.78.106.127:5000/play/ca025/index.m3u8
-
+#EXTINF:-1,TUDN - CH59
+http://181.119.109.105:3340/play/ch59/index.m3u8
 #EXTINF:-1 group-title="-",TUDN USA
 http://181.78.106.127:5000/play/ca036/index.m3u8
 #EXTINF:-1 group-title="-",TUDN H
@@ -82,7 +85,12 @@ http://181.78.106.127:5000/play/a00d/index.m3u8
 http://181.78.106.127:5000/play/a009/index.m3u8
 #EXTINF:-1 group-title="-",Tigo Sports HD - CR
 http://181.78.106.127:5000/play/a0qn/index.m3u8
-
+#EXTINF:-1 tvg-logo="http://45.5.116.228:8000/playlist/tvg-logo/a07n.png",FOX GUA HD
+http://45.5.116.228:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.116.228:8000/playlist/tvg-logo/a07g.png",FOX NIC
+http://45.5.116.228:8000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.116.228:8000/playlist/tvg-logo/a07h.png",FOX NIC HD
+http://45.5.116.228:8000/play/a07h/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="http://181.119.215.61:8000/playlist/tvg-logo/a08a.png",FOX
 http://181.119.215.61:8000/play/a08a/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="http://181.119.215.61:8000/playlist/tvg-logo/a088.png",FOX CR
