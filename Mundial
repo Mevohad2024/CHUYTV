@@ -4,11 +4,11 @@
 http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1,telemundo
 http://190.197.41.183/TELEMUNDO/index.m3u8
-EXTINF:-1,telemundo
+#EXTINF:-1,telemundo
 https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
-EXTINF:-1,telemundo
+#EXTINF:-1,telemundo
 http://45.68.35.219:7002/play/a00p/index.m3u8
-EXTINF:-1,telemundo
+#EXTINF:-1,telemundo
 http://168.228.44.241:9997/play/a07c/index.m3u8
 
 
