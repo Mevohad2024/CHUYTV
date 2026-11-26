@@ -2,10 +2,6 @@
 
 #EXTINF:-1 group-title="-" tvg-logo="http://45.228.234.9:8000/playlist/tvg-logo/a06b.png",SKY SPORTS
 http://45.228.234.9:8000/play/a06b/index.m3u8
-#EXTINF:-1,Unimas
-http://190.197.41.183/Unimas/index.m3u8
-#EXTINF:-1,Univision
-http://190.197.41.183/Univision/index.m3u8
 #EXTINF:-1,telemundo
 http://190.197.41.183/TELEMUNDO/index.m3u8
 EXTINF:-1,telemundo
